@@ -4834,6 +4834,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/",
+                           "title": "Programmation du système Unix en Objective Caml",
+                           "author": "Xavier Leroy, Didier Rémy"
                         }
                      ],
                      "subsections": []
@@ -19185,6 +19190,14 @@
                            "url": "https://gustavus.edu/+max/concrete-abstractions.html",
                            "title": "Concrete Abstractions: An Introduction to Computer Science Using Scheme",
                            "author": "M. Hailperin, B. Kaiser, K. Knight"
+                        },
+                        {
+                           "url": "https://unglue.it/work/506723/",
+                           "title": "Scheme 9 from Empty Space - First edition (2007)",
+                           "author": "Nils M. Holm",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/",
