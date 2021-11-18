@@ -19427,6 +19427,10 @@
                            "author": "Nick Harrison"
                         },
                         {
+                           "url": "https://www.tutorialspoint.com/sqlite",
+                           "title": "SQLite Tutorial"
+                        },
+                        {
                            "url": "http://use-the-index-luke.com",
                            "title": "Use The Index, Luke!: A Guide To SQL Database Performance"
                         }
