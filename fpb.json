@@ -1722,7 +1722,6 @@
                            "url": "https://github.com/Aaronmacaron/the-little-go-book-de",
                            "title": "The Little Go Book",
                            "author": "Karl Seguin, Aaron Ebnöther",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -2054,7 +2053,6 @@
                            "url": "https://github.com/pbouda/pyqt-und-pyside-buch",
                            "title": "PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt",
                            "author": "Peter Bouda, Michael Palmer, Dr. Markus Wirz",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -2394,7 +2392,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(EPUB)",
+                                 "title": "EPUB",
                                  "url": "https://repository.kallipos.gr/bitstream/11419/6217/5/DataStructures-%ce%9a%ce%9f%ce%a5.epub"
                               }
                            ]
@@ -2745,7 +2743,7 @@
                                  ],
                                  "otherLinks": [
                                     {
-                                       "title": "(EPUB)",
+                                       "title": "EPUB",
                                        "url": "https://scrumlevel.com/files/scrumlevel.epub"
                                     }
                                  ]
@@ -2759,7 +2757,7 @@
                                  ],
                                  "otherLinks": [
                                     {
-                                       "title": "(EPUB)",
+                                       "title": "EPUB",
                                        "url": "https://scrummanager.net/files/scrum_master.epub"
                                     }
                                  ]
@@ -2798,7 +2796,7 @@
                                  ],
                                  "otherLinks": [
                                     {
-                                       "title": "(PDF, ePub)",
+                                       "title": "PDF, ePub",
                                        "url": "http://emanchado.github.io/camino-mejor-programador/"
                                     }
                                  ]
@@ -3006,7 +3004,6 @@
                            "url": "https://raulexposito.com/the-little-go-book-en-castellano.html",
                            "title": "El pequeño libro Go",
                            "author": "Karl Seguin, Raúl Expósito",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -3068,7 +3065,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://openlibra.com/es/book/download/css-avanzado"
                               }
                            ]
@@ -3127,7 +3124,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://openlibra.com/es/book/download/introduccion-a-css"
                               }
                            ]
@@ -3190,7 +3187,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(ePub, Mobi, HTML)",
+                                 "title": "ePub, Mobi, HTML",
                                  "url": "https://picodotdev.github.io/blog-bitix/2014/02/libro-sobre-desarrollo-de-aplicaciones-con-apache-tapestry/"
                               }
                            ]
@@ -3211,7 +3208,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf"
                               }
                            ]
@@ -3266,7 +3263,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://openlibra.com/es/book/download/introduccion-ajax"
                               }
                            ]
@@ -3279,7 +3276,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://openlibra.com/es/book/download/introduccion-a-javascript"
                               }
                            ]
@@ -3373,7 +3370,7 @@
                                  ],
                                  "otherLinks": [
                                     {
-                                       "title": "(PDF)",
+                                       "title": "PDF",
                                        "url": "https://openlibra.com/es/book/download/fundamentos-de-jquery"
                                     }
                                  ]
@@ -3477,7 +3474,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF, ePub, Mobi)",
+                                 "title": "PDF, ePub, Mobi",
                                  "url": "https://debian-handbook.info/get/now/"
                               }
                            ]
@@ -3607,7 +3604,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://openlibra.com/es/book/download/symfony-la-guia-definitiva"
                               }
                            ]
@@ -3620,7 +3617,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12"
                               }
                            ]
@@ -3738,7 +3735,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf"
                               }
                            ]
@@ -4054,14 +4051,14 @@
                                  "url": "https://jorgeucano.gitbook.io/entendiendo-angular/",
                                  "title": "Entendiendo Angular",
                                  "author": "Jorge Cano",
-                                 "notes": [
-                                    "Gitbook"
-                                 ],
                                  "otherLinks": [
                                     {
                                        "title": ":package: ejemplos",
                                        "url": "https://github.com/jorgeucano/entendiendo-angular"
                                     }
+                                 ],
+                                 "notes": [
+                                    "Gitbook"
                                  ]
                               }
                            ]
@@ -4567,8 +4564,7 @@
                         {
                            "url": "https://fi.wikibooks.org/wiki/OpenGL",
                            "title": "OpenGL",
-                           "author": "Wikikirjasto",
-                           "notes": []
+                           "author": "Wikikirjasto"
                         }
                      ],
                      "subsections": []
@@ -5433,8 +5429,7 @@
                         {
                            "url": "https://vimebook.com/fr",
                            "title": "Vim pour les humains",
-                           "author": "Vincent Jousse",
-                           "notes": []
+                           "author": "Vincent Jousse"
                         }
                      ],
                      "subsections": []
@@ -6004,8 +5999,7 @@
                         {
                            "url": "https://www.petanikode.com/tutorial/c/",
                            "title": "Belajar Pemrograman C untuk Pemula",
-                           "author": "Ahmad Muhardian",
-                           "notes": []
+                           "author": "Ahmad Muhardian"
                         }
                      ],
                      "subsections": []
@@ -6886,7 +6880,6 @@
                            "url": "https://github.com/francescomalatesta/the-little-go-book-ita",
                            "title": "The Little Go Book",
                            "author": "Karl Seguin, Francesco Malatesta",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -7267,7 +7260,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip"
                               }
                            ]
@@ -7289,7 +7282,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(EPUB)",
+                                 "title": "EPUB",
                                  "url": "http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub"
                               }
                            ]
@@ -7577,7 +7570,6 @@
                                  "url": "https://www.ipa.go.jp/security/awareness/vendor/programming",
                                  "title": "セキュア・プログラミング講座",
                                  "author": "塩田英二",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -7610,7 +7602,6 @@
                                  "url": "https://fussy.web.fc2.com/algo/algo9-1.htm",
                                  "title": "暗号化アルゴリズム ([1])",
                                  "author": "Fussy",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "2",
@@ -7624,7 +7615,8 @@
                                        "title": "4",
                                        "url": "https://fussy.web.fc2.com/algo/cipher4_elgamal.htm"
                                     }
-                                 ]
+                                 ],
+                                 "notes": []
                               }
                            ]
                         },
@@ -7925,9 +7917,6 @@
                                  "url": "https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf",
                                  "title": "これからの並列計算のためのGPGPU連載講座 [I]",
                                  "author": "大島聡史",
-                                 "notes": [
-                                    "PDF"
-                                 ],
                                  "otherLinks": [
                                     {
                                        "title": "II",
@@ -7949,15 +7938,15 @@
                                        "title": "VI",
                                        "url": "https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf"
                                     }
+                                 ],
+                                 "notes": [
+                                    "PDF"
                                  ]
                               },
                               {
                                  "url": "https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf",
                                  "title": "連載講座: 高生産並列言語を使いこなす [1]",
                                  "author": "田浦健次朗",
-                                 "notes": [
-                                    "PDF"
-                                 ],
                                  "otherLinks": [
                                     {
                                        "title": "2",
@@ -7975,6 +7964,9 @@
                                        "title": "5",
                                        "url": "https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf"
                                     }
+                                 ],
+                                 "notes": [
+                                    "PDF"
                                  ]
                               }
                            ]
@@ -8520,7 +8512,6 @@
                                  "url": "http://gradle.monochromeroad.com/docs",
                                  "title": "Gradle 日本語ドキュメント",
                                  "author": "Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -9764,7 +9755,6 @@
                            "url": "https://future-architect.github.io/typescript-guide",
                            "title": "仕事ですぐに使えるTypeScript",
                            "author": "フューチャー株式会社（Future Corporation）",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -9967,7 +9957,6 @@
                            "url": "https://github.com/byounghoonkim/the-little-go-book/",
                            "title": "The Little Go Book. 리틀 고 책입니다",
                            "author": "Karl Seguin, Byounghoon Kim",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -10278,8 +10267,7 @@
                         },
                         {
                            "url": "https://hanbum.gitbooks.io/rustbyexample/content/",
-                           "title": "Rust by Example",
-                           "notes": []
+                           "title": "Rust by Example"
                         }
                      ],
                      "subsections": []
@@ -10446,7 +10434,6 @@
                         {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/android",
                            "title": "Android Programming Succinctly, Syncfusion",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -10456,6 +10443,9 @@
                                  "title": "Kindle",
                                  "url": "https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid"
                               }
+                           ],
+                           "notes": [
+                              "email address *requested*, not required"
                            ]
                         },
                         {
@@ -10584,8 +10574,7 @@
                         {
                            "url": "https://www.arduino.cc/en/Guide",
                            "title": "Getting Started with Arduino products",
-                           "author": "Official Arduino Documentation",
-                           "notes": []
+                           "author": "Official Arduino Documentation"
                         },
                         {
                            "url": "http://playground.arduino.cc/Main/ManualsAndCurriculum",
@@ -10778,7 +10767,6 @@
                            "url": "https://github.com/3dgen/cppwasm-book/tree/master/en",
                            "title": "WebAssembly friendly programming with C/C++",
                            "author": "Ending, Chai Shushan, Yushih",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": ":package: examples",
@@ -10863,7 +10851,6 @@
                         {
                            "url": "https://autohotkey.com/docs/AutoHotkey.htm",
                            "title": "AutoHotkey Official Documentation",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "CHM",
@@ -10990,7 +10977,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "http://s.ntnu.no/bashguide.pdf"
                               }
                            ]
@@ -11207,7 +11194,7 @@
                            "author": "Daniels Umanovskis",
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "http://umanovskis.se/files/arm-baremetal-ebook.pdf"
                               }
                            ]
@@ -11424,7 +11411,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf"
                               }
                            ]
@@ -11483,7 +11470,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF, EPUB, MOBI)",
+                                 "title": "PDF, EPUB, MOBI",
                                  "url": "https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/"
                               }
                            ]
@@ -11521,7 +11508,6 @@
                            "url": "http://www.introprogramming.info/english-intro-csharp-book/read-online/",
                            "title": "Fundamentals of Computer Programming with C# (the Bulgarian Book)",
                            "author": "Svetlin Nakov, Veselin Kolev et al.",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF, EPUB",
@@ -11545,8 +11531,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511",
                            "title": "Mastering Xamarin UI Development, Second Edition",
-                           "author": "Steven F. Daniel",
-                           "notes": []
+                           "author": "Steven F. Daniel"
                         },
                         {
                            "url": "http://www.charlespetzold.com/dotnet",
@@ -11667,8 +11652,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880",
                            "title": "Hands-On System Programming with C++",
-                           "author": "Dr. Rian Quinn",
-                           "notes": []
+                           "author": "Dr. Rian Quinn"
                         },
                         {
                            "url": "https://samypesse.gitbook.io/how-to-create-an-operating-system/",
@@ -11781,7 +11765,7 @@
                            "author": "Bruce Eckel",
                            "otherLinks": [
                               {
-                                 "title": "(Vol. 2)",
+                                 "title": "Vol. 2",
                                  "url": "https://archive.org/details/TICPP2ndEdVolTwo"
                               }
                            ]
@@ -12188,14 +12172,12 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/expert-delphi",
                            "title": "Expert Delphi",
-                           "author": "Paweł Głowacki",
-                           "notes": []
+                           "author": "Paweł Głowacki"
                         },
                         {
                            "url": "https://github.com/michaliskambi/modern-pascal-introduction",
                            "title": "Modern Object Pascal Introduction for Programmers",
                            "author": "Michalis Kamburelis",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "AsciiDoc",
@@ -12271,7 +12253,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF, MOBI, EPUB)",
+                                 "title": "PDF, MOBI, EPUB",
                                  "url": "https://github.com/potatogopher/elixir-getting-started"
                               }
                            ]
@@ -12427,7 +12409,6 @@
                            "url": "https://freertos.org/Documentation/RTOS_book.html",
                            "title": "Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide",
                            "author": "freertos.org",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -12778,7 +12759,6 @@
                            "url": "https://modern-fortran-in-science-and-technology.readthedocs.io/en/latest",
                            "title": "Modern Fortran in Science and Technology",
                            "author": "Jonas Lindemann and Ola Dahlblom",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -13105,7 +13085,6 @@
                            "url": "https://github.com/karlseguin/the-little-go-book",
                            "title": "The Little Go Book",
                            "author": "Karl Seguin",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -13161,7 +13140,6 @@
                                  "url": "https://docs.gradle.org/current/userguide/userguide.html",
                                  "title": "Gradle User Guide",
                                  "author": "Hans Dockter, Adam Murdoch",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -13188,7 +13166,6 @@
                                  "url": "http://grails.github.io/grails-doc/latest/",
                                  "title": "The Grails Framework - Reference Documentation",
                                  "author": "Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -13226,8 +13203,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3",
                            "title": "Big Data Analytics with Hadoop 3",
-                           "author": "Sridhar Alla",
-                           "notes": []
+                           "author": "Sridhar Alla"
                         },
                         {
                            "url": "https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf",
@@ -13482,7 +13458,6 @@
                            "url": "http://diveinto.html5doctor.com",
                            "title": "Dive Into HTML5",
                            "author": "Mark Pilgrim",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -13776,8 +13751,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/mastering-internet-things",
                            "title": "Mastering Internet of Things",
-                           "author": "Peter Waher",
-                           "notes": []
+                           "author": "Peter Waher"
                         }
                      ],
                      "subsections": []
@@ -14015,8 +13989,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/java-projects-second-edition",
                            "title": "Java Projects, Second Edition",
-                           "author": "Peter Verhas",
-                           "notes": []
+                           "author": "Peter Verhas"
                         },
                         {
                            "url": "https://riptutorial.com/Download/java-language.pdf",
@@ -14112,7 +14085,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(Interactive version by Trinket)",
+                                 "title": "Interactive version by Trinket",
                                  "url": "https://books.trinket.io/thinkjava2/"
                               }
                            ]
@@ -14207,14 +14180,12 @@
                               {
                                  "url": "https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2",
                                  "title": "Building Applications with Spring 5 and Vue.js 2",
-                                 "author": "James J. Ye",
-                                 "notes": []
+                                 "author": "James J. Ye"
                               },
                               {
                                  "url": "https://www.packtpub.com/free-ebooks/software-architecture-spring-50",
                                  "title": "Software Architecture with Spring 5.0",
-                                 "author": "René Enríquez, Alberto Salazar",
-                                 "notes": []
+                                 "author": "René Enríquez, Alberto Salazar"
                               },
                               {
                                  "url": "https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf",
@@ -14253,7 +14224,6 @@
                                  "url": "https://docs.spring.io/spring-boot/docs/current/reference/html/",
                                  "title": "Spring Boot Reference Guide",
                                  "author": "Phillip Webb et al.",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -14484,8 +14454,7 @@
                         {
                            "url": "https://gumroad.com/l/javascript-interview-35",
                            "title": "JavaScript Interview #35",
-                           "author": "Coderslang Master",
-                           "notes": []
+                           "author": "Coderslang Master"
                         },
                         {
                            "url": "https://goalkicker.com/JavaScriptBook/",
@@ -14514,8 +14483,7 @@
                         {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/javascript",
                            "title": "JavaScript Succinctly",
-                           "author": "Cody Lindley",
-                           "notes": []
+                           "author": "Cody Lindley"
                         },
                         {
                            "url": "https://github.com/braziljs/js-the-right-way",
@@ -14684,8 +14652,7 @@
                         {
                            "url": "https://www.oreilly.com/programming/free/native-javascript-apis.csp",
                            "title": "The Problem with Native JavaScript APIs",
-                           "author": "Nicholas C. Zakas",
-                           "notes": []
+                           "author": "Nicholas C. Zakas"
                         },
                         {
                            "url": "https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ",
@@ -14774,7 +14741,6 @@
                                  "url": "https://goalkicker.com/AngularJSBook",
                                  "title": "AngularJS Notes for Professionals",
                                  "author": "Compiled from StackOverflow Documentation",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -14809,19 +14775,20 @@
                                  "url": "https://angularjs-emberjs-compare.bguiz.com",
                                  "title": "AngularJS vs EmberJs",
                                  "author": "Brendan Graetz",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF, EBOOK, Kindle",
                                        "url": "https://leanpub.com/angularjs-emberjs-compare"
                                     }
+                                 ],
+                                 "notes": [
+                                    "Leanpub account / email address *not required*"
                                  ]
                               },
                               {
                                  "url": "http://ngokevin.com/blog/angular-1/",
                                  "title": "Seven-Part Introduction to AngularJS",
                                  "author": "Keving Ngo",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": ":package: demos, open-sourced examples",
@@ -14869,8 +14836,7 @@
                               },
                               {
                                  "url": "https://singlepagebook.supportbee.com",
-                                 "title": "Building Single Page Web Apps with Backbone.js",
-                                 "notes": []
+                                 "title": "Building Single Page Web Apps with Backbone.js"
                               },
                               {
                                  "url": "http://addyosmani.github.io/backbone-fundamentals/",
@@ -14993,12 +14959,14 @@
                                  "url": "https://angularjs-emberjs-compare.bguiz.com",
                                  "title": "AngularJs vs EmberJs",
                                  "author": "Brendan Graetz",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF, EPUB, Kindle",
                                        "url": "https://leanpub.com/angularjs-emberjs-compare"
                                     }
+                                 ],
+                                 "notes": [
+                                    "Leanpub account / email address *not required*"
                                  ]
                               },
                               {
@@ -15137,7 +15105,6 @@
                                  "url": "https://nikhilm.github.io/uvbook/",
                                  "title": "An Introduction to libuv",
                                  "author": "",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -15181,7 +15148,6 @@
                                  "url": "https://github.com/visionmedia/masteringnode",
                                  "title": "Mastering Node",
                                  "author": "visionmedia",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -15266,8 +15232,7 @@
                               {
                                  "url": "https://www.packtpub.com/free-ebooks/full-stack-react-projects",
                                  "title": "Full-Stack React Projects",
-                                 "author": "Shama Hoque",
-                                 "notes": []
+                                 "author": "Shama Hoque"
                               },
                               {
                                  "url": "http://www.hackingwithreact.com",
@@ -15405,8 +15370,7 @@
                               {
                                  "url": "https://www.newline.co/30-days-of-vue",
                                  "title": "30 Days Of Vue",
-                                 "author": "Hassan Djirdeh",
-                                 "notes": []
+                                 "author": "Hassan Djirdeh"
                               },
                               {
                                  "url": "https://riptutorial.com/Download/vue-js.pdf",
@@ -15485,7 +15449,6 @@
                            "url": "https://julia.quantecon.org",
                            "title": "Quantitative Economics with Julia",
                            "author": "Jesse Perla, Thomas J. Sargent and John Stachurski",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -15661,8 +15624,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition",
                            "title": "Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition",
-                           "author": "Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali",
-                           "notes": []
+                           "author": "Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali"
                         },
                         {
                            "url": "http://docs.kali.org",
@@ -16248,7 +16210,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf"
                               }
                            ]
@@ -17112,8 +17074,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/learn-powershell-core-60",
                            "title": "Learn PowerShell Core 6.0",
-                           "author": "David das Neves, Jan-Hendrik Peters",
-                           "notes": []
+                           "author": "David das Neves, Jan-Hendrik Peters"
                         },
                         {
                            "url": "https://learnxinyminutes.com/docs/powershell/",
@@ -17155,8 +17116,7 @@
                            "url": "https://leanpub.com/powershelltips",
                            "title": "PowerShell Tips to Write By",
                            "author": "Adam Bertram",
-                           "accessNotes": "Leanpub account or valid email requested",
-                           "notes": []
+                           "accessNotes": "Leanpub account or valid email requested"
                         },
                         {
                            "url": "https://leanpub.com/secretsofpowershellremoting",
@@ -17403,7 +17363,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(EPUB, MOBI)",
+                                 "title": "EPUB, MOBI",
                                  "url": "http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp?download=yes"
                               }
                            ]
@@ -17563,8 +17523,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495",
                            "title": "Hands-On Natural Language Processing with Python",
-                           "author": "Rajesh Arumugam, Rajalingappaa Shanmugamani",
-                           "notes": []
+                           "author": "Rajesh Arumugam, Rajalingappaa Shanmugamani"
                         },
                         {
                            "url": "http://docs.python-guide.org/en/latest/",
@@ -17652,8 +17611,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition",
                            "title": "Learn Python Programming, Second Edition",
-                           "author": "Fabrizio Romano",
-                           "notes": []
+                           "author": "Fabrizio Romano"
                         },
                         {
                            "url": "https://learnpythontherightway.com",
@@ -18027,7 +17985,6 @@
                         {
                            "url": "http://docs.quantifiedcode.com/python-anti-patterns/",
                            "title": "The Little Book of Python Anti-Patterns",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "Source",
@@ -18161,8 +18118,7 @@
                               {
                                  "url": "https://www.packtpub.com/free-ebooks/django-restful-web-services",
                                  "title": "Django RESTful Web Services",
-                                 "author": "Gaston C. Hillar",
-                                 "notes": []
+                                 "author": "Gaston C. Hillar"
                               },
                               {
                                  "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django",
@@ -18503,7 +18459,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://github.com/hankache/rakuguide"
                               }
                            ]
@@ -18534,8 +18490,7 @@
                         },
                         {
                            "url": "https://github.com/perl6/book/",
-                           "title": "Using Perl 6",
-                           "notes": []
+                           "title": "Using Perl 6"
                         },
                         {
                            "url": "https://learnxinyminutes.com/docs/raku/",
@@ -19139,7 +19094,6 @@
                               {
                                  "url": "http://exploring.liftweb.net",
                                  "title": "Exploring Lift",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -19395,8 +19349,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide",
                            "title": "Splunk 7.x Quick Start Guide",
-                           "author": "James H. Baxter",
-                           "notes": []
+                           "author": "James H. Baxter"
                         }
                      ],
                      "subsections": []
@@ -19549,8 +19502,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide",
                            "title": "SQL Server 2017 Administrator's Guide",
-                           "author": "Marek Chmel, Vladimír Mužný",
-                           "notes": []
+                           "author": "Marek Chmel, Vladimír Mužný"
                         },
                         {
                            "url": "http://www.red-gate.com/community/books/sql-server-backup-and-restore",
@@ -19768,7 +19720,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(iBook)",
+                                 "title": "iBook",
                                  "url": "https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11"
                               }
                            ]
@@ -19781,7 +19733,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(iBook)",
+                                 "title": "iBook",
                                  "url": "https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11"
                               }
                            ]
@@ -19913,7 +19865,6 @@
                                  "url": "https://goalkicker.com/Angular2Book/",
                                  "title": "Angular 2+ Notes for Professionals",
                                  "author": "Compiled from StackOverflow documentation",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -19946,7 +19897,6 @@
                                  "url": "https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase",
                                  "title": "Build a Full-Stack Web Application Using Angular & Firebase",
                                  "author": "Ankit Sharma",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": ":package: code samples",
@@ -20311,7 +20261,6 @@
                            "url": "https://github.com/nainglinaung/the-little-go-book",
                            "title": "The Little Go Book",
                            "author": "Karl Seguin, Naing Lin Aung",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -21220,7 +21169,6 @@
                            "url": "https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/",
                            "title": "Linguagem C - Notas de Aula",
                            "author": "Carmem Hara, Wagner Zola",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -21404,8 +21352,7 @@
                         {
                            "url": "https://www.tsouanas.org/fmcbook/",
                            "title": "Matemática Fundacional para Computação - Em progresso",
-                           "author": "Thanos Tsouanas",
-                           "notes": []
+                           "author": "Thanos Tsouanas"
                         }
                      ],
                      "subsections": []
@@ -21973,8 +21920,7 @@
                               {
                                  "url": "https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django",
                                  "title": "Desenvolvimento Web com Python e Django",
-                                 "author": "Vinícius Ramos",
-                                 "notes": []
+                                 "author": "Vinícius Ramos"
                               },
                               {
                                  "url": "https://docs.djangoproject.com/pt-br",
@@ -22002,8 +21948,7 @@
                         {
                            "url": "https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/",
                            "title": "Ciência de Dados com R",
-                           "author": "Paulo Oliveira, Saulo Guerra, and Robert McDonnell",
-                           "notes": []
+                           "author": "Paulo Oliveira, Saulo Guerra, and Robert McDonnell"
                         },
                         {
                            "url": "https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf",
@@ -22235,7 +22180,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(EPUB)",
+                                 "title": "EPUB",
                                  "url": "http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.epub"
                               }
                            ]
@@ -22764,7 +22709,6 @@
                            "url": "https://sefus.ru/little-go-book",
                            "title": "The Little Go Book (перевод)",
                            "author": "Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -23809,7 +23753,6 @@
                                  "url": "https://github.com/sim1984/udr-book",
                                  "title": "Руководство по написанию UDR на Pascal",
                                  "author": "Denis Simonov",
-                                 "notes": [],
                                  "otherLinks": [
                                     {
                                        "title": "PDF",
@@ -24552,8 +24495,7 @@
                         {
                            "url": "https://cloud4scieng.org/chapters/",
                            "title": "Cloud Computing for Science and Engineering",
-                           "author": "Ian Foster, Dennis B. Gannon",
-                           "notes": []
+                           "author": "Ian Foster, Dennis B. Gannon"
                         },
                         {
                            "url": "https://docs.microsoft.com/en-us/azure/architecture/patterns/",
@@ -24635,7 +24577,7 @@
                            "author": "Steven Halim",
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf"
                               }
                            ]
@@ -24646,7 +24588,7 @@
                            "author": "Steven Halim",
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf"
                               }
                            ]
@@ -24968,8 +24910,7 @@
                         },
                         {
                            "url": "http://www.oreilly.com/data/free/data-jujitsu.csp",
-                           "title": "Data Jujitsu: The Art of Turning Data into Product",
-                           "notes": []
+                           "title": "Data Jujitsu: The Art of Turning Data into Product"
                         },
                         {
                            "url": "https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R",
@@ -25035,12 +24976,14 @@
                            "url": "https://github.com/Penaz91/2DGD_F0TH",
                            "title": "2D Game Development: From Zero To Hero",
                            "author": "Daniele Penazzo",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF, EBPUB, Kindle...",
                                  "url": "https://therealpenaz91.itch.io/2dgd-f0th#download"
                               }
+                           ],
+                           "notes": [
+                              ":construction: *in process*"
                            ]
                         },
                         {
@@ -25091,7 +25034,7 @@
                            ],
                            "otherLinks": [
                               {
-                                 "title": "(HTML)",
+                                 "title": "HTML",
                                  "url": "https://lettier.github.io/3d-game-shaders-for-beginners"
                               }
                            ]
@@ -25108,8 +25051,7 @@
                         {
                            "url": "http://gabrielgambetta.com/computer-graphics-from-scratch",
                            "title": "Computer Graphics from scratch",
-                           "author": "Gabriel Gambetta",
-                           "notes": []
+                           "author": "Gabriel Gambetta"
                         },
                         {
                            "url": "http://user.xmission.com/~legalize/book/download/index.html",
@@ -25143,8 +25085,7 @@
                         {
                            "url": "https://www.scratchapixel.com",
                            "title": "Learn Computer Graphics From Scratch!",
-                           "author": "Scratchapixel",
-                           "notes": []
+                           "author": "Scratchapixel"
                         },
                         {
                            "url": "http://learnopengl.com",
@@ -25469,7 +25410,6 @@
                            "url": "https://www.tutorialspoint.com/machine_learning_with_python",
                            "title": "Machine Learning with Python",
                            "author": "Tutorials Point",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -25723,7 +25663,7 @@
                            "author": "Richard Hammack",
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf"
                               }
                            ]
@@ -26151,7 +26091,7 @@
                            "author": "Carl Stitz and Jeff Zeager",
                            "otherLinks": [
                               {
-                                 "title": "(PDF)",
+                                 "title": "PDF",
                                  "url": "https://stitz-zeager.com/szprecalculus07042013.pdf"
                               }
                            ]
@@ -26413,7 +26353,6 @@
                            "url": "https://basecamp.com/books/getting-real",
                            "title": "Getting Real",
                            "author": "Basecamp, 37signals",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -26788,8 +26727,7 @@
                         },
                         {
                            "url": "http://www.oreilly.com/programming/free/getting-started-with-innersource.csp",
-                           "title": "Getting Started with InnerSource",
-                           "notes": []
+                           "title": "Getting Started with InnerSource"
                         },
                         {
                            "url": "http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf",
@@ -26887,8 +26825,7 @@
                         },
                         {
                            "url": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
-                           "title": "How to Make a Computer Operating System",
-                           "notes": []
+                           "title": "How to Make a Computer Operating System"
                         },
                         {
                            "url": "http://mikeos.sourceforge.net/write-your-own-os.html",
@@ -26902,7 +26839,6 @@
                            "url": "https://www.linuxfromscratch.org/lfs/view/stable/",
                            "title": "Linux From Scratch",
                            "author": "Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie et al.",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF, downloads...",
@@ -27073,8 +27009,7 @@
                      "entries": [
                         {
                            "url": "https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details",
-                           "title": "Clean Code Developer: An initiative for more professionalism in software development",
-                           "notes": []
+                           "title": "Clean Code Developer: An initiative for more professionalism in software development"
                         },
                         {
                            "url": "https://www.red-gate.com/library/confessions-of-an-it-manager",
@@ -27110,8 +27045,7 @@
                         {
                            "url": "https://softwareconcepts.vercel.app",
                            "title": "Software Environment Concepts",
-                           "author": "Amr Elmohamady",
-                           "notes": []
+                           "author": "Amr Elmohamady"
                         },
                         {
                            "url": "https://leanpub.com/shippingsoftware/read",
@@ -27232,7 +27166,6 @@
                         {
                            "url": "https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html",
                            "title": "Elasticsearch: The Definitive Guide",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "fork it on GH",
@@ -27252,7 +27185,6 @@
                            "url": "https://github.com/hectorcorrea/solr-for-newbies",
                            "title": "Solr for newbies workshop (2019)",
                            "author": "Hector Correa",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "PDF",
@@ -27381,8 +27313,7 @@
                         },
                         {
                            "url": "https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html",
-                           "title": "Developing Reactive Microservices",
-                           "notes": []
+                           "title": "Developing Reactive Microservices"
                         },
                         {
                            "url": "http://www.infoq.com/minibooks/domain-driven-design-quickly",
@@ -27392,7 +27323,6 @@
                            "url": "https://dddeurope.com/15years/",
                            "title": "Domain-Driven Design: The First 15 Years. Essays from the DDD community",
                            "author": "Domain-Driven Design Europe",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML, PDF, ePub",
@@ -27410,7 +27340,6 @@
                            "url": "https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)",
                            "title": "Exploring CQRS and Event Sourcing",
                            "author": "",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "EPUB, PDF",
@@ -27424,8 +27353,7 @@
                         },
                         {
                            "url": "https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3",
-                           "title": "Guide to the Software Engineering Body of Knowledge",
-                           "notes": []
+                           "title": "Guide to the Software Engineering Body of Knowledge"
                         },
                         {
                            "url": "http://www.htdp.org",
@@ -27479,8 +27407,7 @@
                         },
                         {
                            "url": "https://pages.apigee.com/oauth-big-picture-ebook.html",
-                           "title": "OAuth - The Big Picture",
-                           "notes": []
+                           "title": "OAuth - The Big Picture"
                         },
                         {
                            "url": "http://scg.unibe.ch/download/oorp/",
@@ -27495,13 +27422,11 @@
                         },
                         {
                            "url": "https://www.lightbend.com/ebooks/reactive-microservices-architecture-design-principles-for-distributed-systems-oreilly",
-                           "title": "Reactive Microservices Architecture",
-                           "notes": []
+                           "title": "Reactive Microservices Architecture"
                         },
                         {
                            "url": "https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly",
-                           "title": "Reactive Microsystems: The Evolution of Microservices at Scale",
-                           "notes": []
+                           "title": "Reactive Microsystems: The Evolution of Microservices at Scale"
                         },
                         {
                            "url": "http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2",
@@ -27514,8 +27439,7 @@
                         {
                            "url": "https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices",
                            "title": "Serverless Design Patterns and Best Practices",
-                           "author": "Brian Zambrano",
-                           "notes": []
+                           "author": "Brian Zambrano"
                         },
                         {
                            "url": "https://basecamp.com/shapeup",
@@ -27531,8 +27455,7 @@
                         },
                         {
                            "url": "http://www.oreilly.com/programming/free/software-architecture-patterns.csp",
-                           "title": "Software Architecture Patterns",
-                           "notes": []
+                           "title": "Software Architecture Patterns"
                         },
                         {
                            "url": "http://philip.greenspun.com/seia/",
@@ -28184,7 +28107,6 @@
                            "url": "https://www.github.com/umutphp/the-little-go-book",
                            "title": "Go El Kitabı",
                            "author": "Karl Seguin, Umut Işık tarafından çevirildi",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -28617,7 +28539,6 @@
                            "url": "https://github.com/nainglinaung/the-little-go-book",
                            "title": "The Little Go Book",
                            "author": "Karl Seguin, Naing Lin Aung",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -29451,7 +29372,6 @@
                            "url": "https://github.com/songleo/the-little-go-book_ZH_CN",
                            "title": "Go 简易教程",
                            "author": "Karl Seguin》中文版)",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "The Little Go Book",
@@ -29526,7 +29446,6 @@
                            "url": "https://github.com/kevingo/the-little-go-book",
                            "title": "The Little Go Book 繁體中文翻譯版",
                            "author": "Karl Seguin, KevinGo, Jie Peng",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "HTML",
@@ -29726,8 +29645,7 @@
                         },
                         {
                            "url": "https://github.com/qibaoguang/Spring-Boot-Reference-Guide",
-                           "title": "Spring Boot参考指南",
-                           "notes": []
+                           "title": "Spring Boot参考指南"
                         },
                         {
                            "url": "https://github.com/waylau/spring-framework-4-reference",
@@ -29803,7 +29721,6 @@
                         {
                            "url": "http://pij.robinqu.me",
                            "title": "Javascript编程指南",
-                           "notes": [],
                            "otherLinks": [
                               {
                                  "title": "源码",
