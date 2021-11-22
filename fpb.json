@@ -612,7 +612,13 @@
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD",
                            "title": "Pattern Printing in C",
                            "author": "Anisul Islam"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL",
                            "title": "C++ Bangla Tutorial Course",
