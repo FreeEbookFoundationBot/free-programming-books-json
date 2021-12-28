@@ -545,48 +545,14 @@
                "index": {},
                "sections": [
                   {
-                     "section": "Android",
+                     "section": "Algorithms",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5",
-                           "title": "Android Bangla Tutorials",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-",
-                           "title": "Android Firebase Bangla Tutorials",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p",
-                           "title": "Android SQLite Database Bangla Tutorials",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn",
-                           "title": "Android Tutorials Material Design",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH",
-                           "title": "Java, OOP & Android tutorials for beginners in Bengali",
-                           "author": "Zulkarnine Mahmud"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Bootstrap",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBr2NqbL3q71nk5FX8zB0nK",
-                           "title": "Bootstrap 4 Bangla Tutorial",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG",
-                           "title": "Bootstrap 5 and 4 Bangla Tutorials",
-                           "author": "Anisul Islam"
+                           "url": "https://dp-bn.github.io",
+                           "title": "Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»",
+                           "author": "Tasmeem Reza, Mamnoon Siam",
+                           "notes": [],
+                           "manualReviewRequired": true
                         }
                      ],
                      "subsections": []
@@ -595,153 +561,12 @@
                      "section": "C",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy",
-                           "title": "C - All you need to know",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz",
-                           "title": "C Programming Bangla Tutorial Course",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "http://cpbook.subeen.com/p/blog-page.html",
-                           "title": "Computer Programming",
-                           "author": "Tamim Shahriar Subeen"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD",
-                           "title": "Pattern Printing in C",
-                           "author": "Anisul Islam"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "<a name=\"cpp\">",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL",
-                           "title": "C++ Bangla Tutorial Course",
-                           "author": "Anisul Islam"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "C Sharp",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_g-DE60bXDBpjMPUWGbmCLHnQDIIcw-6",
-                           "title": "C# and ASP.NET MVC Full Bangla Tutorial BITM",
-                           "author": "Learn With Nirash"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqQakB2xlZPoaV6uau4wTIt",
-                           "title": "C# bangla tutorial | Basic to advance in depth bangla course",
-                           "author": "Learn Hunter"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p",
-                           "title": "C# OOP (object oriented programming) BanglaTutorials",
-                           "author": "Asp Dot Net Explorer"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Competitive Programming",
-                     "entries": [
-                        {
-                           "url": "https://dp-bn.github.io",
-                           "title": "Dynamic Programming Book",
-                           "author": "Tasmeem Reza and Mamnoon Siam"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "CSS",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO",
-                           "title": "CSS Complete Course in Bangla 2021",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2",
-                           "title": "CSS3 and CSS4 Weird Parts Bangla Tutorial",
-                           "author": "Stack Learner"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Dart",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT",
-                           "title": "Dart All You Need To Know",
-                           "author": "Stack Learner"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Flutter",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy",
-                           "title": "Flutter Bangla Tutorial",
-                           "author": "Techno BD XYZ"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p",
-                           "title": "Flutter Tutorial Bangla",
-                           "author": "Soykot Hosen"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Git",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s",
-                           "title": "Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial",
-                           "author": "Learn with Sumit"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=4KdGgGsIDeA&t=787s",
-                           "title": "Git and Github in One Video (Theory + Practical) | A 2 Z in Bangla",
-                           "author": "SHAJ.T3CH"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF",
-                           "title": "Git Bangla Tutorial Complete",
-                           "author": "Stack Learner"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Go",
-                     "entries": [
-                        {
-                           "url": "https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl",
-                           "title": "Golang কোডিং বুট ক্যাম্প ক্লাস",
-                           "author": "MASTER-ACADEMY"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "HTML",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3",
-                           "title": "HTML Complete Course in Bangla 2021(Beginner to Advanced)",
-                           "author": "Anisul Islam"
+                           "url": "https://cpbook.subeen.com",
+                           "title": "Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»",
+                           "author": "Tamim Shahriar Subeen",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -750,22 +575,11 @@
                      "section": "Java",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa",
-                           "title": "Java Bangla Tutorials | CORE Java | Complete OOP",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l",
-                           "title": "Java Swing Bangla Tutorials",
-                           "author": "Anisul Islam"
-                        },
-                        {
                            "url": "http://java.howtocode.dev",
-                           "title": "জাভা প্রোগ্রামিং",
+                           "title": "বাংলায় জাভা প্রোগ্রামিং শেখার কোর্স",
                            "author": "Bazlur Rahman, et al.",
                            "notes": [
-                              "howtocode.dev",
-                              "gitbook"
+                              "howtocode.dev"
                            ]
                         }
                      ],
@@ -775,81 +589,12 @@
                      "section": "JavaScript",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDm9HkiP4h_76qNBZix6XME",
-                           "title": "Express JS Crash Course in Bangla",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPR9fASxugXgQAWkZLcmt1",
-                           "title": "Functional JavaScript Bangla Tutorial",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1",
-                           "title": "JavaScript All You Need to Know | JS Bangla Tutorial | Stack Learner",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX",
-                           "title": "JavaScript Bangla Tutorial Course 2021",
-                           "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDPaOrWvTIuhb5GRoJVWiE2",
-                           "title": "JavaScript Behind The Scene Bangla Tutorial",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA",
-                           "title": "JavaScript Full Playlist With Order",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS",
-                           "title": "Make Fun of JavaScript Array",
-                           "author": "Stack Learner"
-                        },
-                        {
                            "url": "https://zonayed.js.org",
-                           "title": "হাতেকলমে জাভাস্ক্রিপ্ট",
-                           "author": "Zonayed Ahmed"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy",
-                           "title": "JS Bangla Tutorial Series for Beginners",
-                           "author": "Learn with Sumit"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG",
-                           "title": "Modern JavaScript ES6 Bangla Tutorial",
-                           "author": "Learn with Sumit"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_",
-                           "title": "Play with DOM - Bangla",
-                           "author": "Learn with Sumit"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "jQuery",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB",
-                           "title": "jQuery Bangla Series for Beginners",
-                           "author": "Anisul Islam"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Kotlin",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5",
-                           "title": "Chapter 1 : Kotlin Basic Concepts Bangla",
-                           "author": "Stack Learner"
+                           "title": "হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন",
+                           "author": "Zonayed Ahmed",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -859,50 +604,17 @@
                      "entries": [
                         {
                            "url": "https://raqueeb.gitbook.io/scikit-learn/",
-                           "title": "শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন",
-                           "author": "Rakibul Hassan"
+                           "title": "শূন্য থেকে পাইথন মেশিন লার্নিং: হাতেকলমে সাইকিট-লার্ন",
+                           "author": "Rakibul Hassan",
+                           "notes": [],
+                           "manualReviewRequired": true
                         },
                         {
                            "url": "https://rakibul-hassan.gitbook.io/mlbook-titanic/",
-                           "title": "হাতে কলমে মেশিন লার্নিং ১",
-                           "author": "Rakibul Hassan"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "NodeJS",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9",
-                           "title": "Dive Into NodeJS",
-                           "author": "Stack Learner"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "OOP",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM",
-                           "title": "Java and OOO. Learn Object Oriented with Real Example",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB5kP3uxERI1rdrdrNifNwJ",
-                           "title": "Java and OOP Basics",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBNvGFN6eIre7xjfnb6aVfB",
-                           "title": "Java and OOP: Java Built in Classes and Features",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVCqNHQtxzS9LbeNRMG4AJmG",
-                           "title": "Object Oriented Programming Main Theory in Bangla",
-                           "author": "Stack Learner"
+                           "title": "হাতেকলমে মেশিন লার্নিং: পরিচিতি, প্রজেক্ট টাইটানিক, আর এবং পাইথনসহ",
+                           "author": "Rakibul Hassan",
+                           "notes": [],
+                           "manualReviewRequired": true
                         }
                      ],
                      "subsections": []
@@ -924,67 +636,8 @@
                      "subsections": []
                   },
                   {
-                     "section": "MySQL",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLTydW-y9HsbQ2ztoaLBJTd4wwjc_oqWx4",
-                           "title": "Bangla MySQL Database Tutorials",
-                           "author": "Delowar Jahan Imran, Training with Live Project",
-                           "notes": [
-                              "YouTube"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99",
-                           "title": "mysql bangla tutorial | Mysql Database | HSC,CSE, Anyone",
-                           "author": "Sohidul Islam, Learn Hunter",
-                           "notes": [
-                              "YouTube"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi",
-                           "title": "MySql Database Bangla Tutorial Beginner to Advanced",
-                           "author": "Shoaib Hossain, Soft-All",
-                           "notes": [
-                              "YouTube"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD",
-                           "title": "MySQL Database Bangla Tutorials (HSC student / Anyone)",
-                           "author": "Anisul Islam",
-                           "notes": [
-                              "YouTube"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "PHP",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV",
-                           "title": "PHP All You Need To Know",
-                           "author": "Stack Learner"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Python",
                      "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ",
-                           "title": "Python All You Need To Know",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN",
-                           "title": "Python Bangla Tutorials for Beginners",
-                           "author": "Anisul Islam"
-                        },
                         {
                            "url": "http://pybook.subeen.com",
                            "title": "পাইথন প্রোগ্রামিং বই",
@@ -999,65 +652,6 @@
                            "url": "https://python.maateen.me",
                            "title": "সহজ ভাষায় পাইথন ৩",
                            "author": "Maksudur Rahman Maateen"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "ReactJS",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB",
-                           "title": "React - Redux Complete Course",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx",
-                           "title": "Understand ReactJS Advanced Features",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs",
-                           "title": "Understand ReactJS Core Features",
-                           "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
-                           "title": "React JS Tutorial Bangla Series for Beginners",
-                           "author": "Learn with Sumit"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Svelte",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H",
-                           "title": "Svelte 3: The Game Changer (Bangla Crash Course)",
-                           "author": "Stack Learner"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "TypeScript",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVCzmP8m2l_h8PnVTSvcnJWO",
-                           "title": "TypeScript: All You Need To Know",
-                           "author": "Stack Learner"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Visual Studio Code",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE",
-                           "title": "VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ",
-                           "author": "Stack Learner"
                         }
                      ],
                      "subsections": []
