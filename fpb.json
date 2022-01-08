@@ -26899,6 +26899,11 @@
                            "title": "Domain Driven Design Quickly"
                         },
                         {
+                           "url": "https://www.domainlanguage.com/ddd/reference",
+                           "title": "Domain-Driven Design Reference",
+                           "author": "Eric Evans"
+                        },
+                        {
                            "url": "https://dddeurope.com/15years/",
                            "title": "Domain-Driven Design: The First 15 Years. Essays from the DDD community",
                            "author": "Domain-Driven Design Europe",
