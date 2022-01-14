@@ -19249,6 +19249,14 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "http://mlton.org/References.attachments/Shipman02.pdf",
+                           "title": "Unix System Programming with Standard ML",
+                           "author": "Anthony L. Shipman",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
