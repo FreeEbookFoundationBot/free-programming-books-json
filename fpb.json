@@ -15309,6 +15309,13 @@
                      "section": "Lisp",
                      "entries": [
                         {
+                           "url": "https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf",
+                           "title": "ANSI Common Lisp Standard (draft version 15.17R, X3J13/94-101R)",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://franz.com/resources/educational_resources/cooper.book.pdf",
                            "title": "Basic Lisp Techniques",
                            "author": "David J. Cooper, Jr.",
