@@ -7402,6 +7402,14 @@
                                  "author": "中谷秀洋，恩田伊織"
                               },
                               {
+                                 "url": "https://chokkan.github.io/mlnote",
+                                 "title": "機械学習帳",
+                                 "author": "岡崎直観",
+                                 "notes": [
+                                    "Naoaki Okazaki"
+                                 ]
+                              },
+                              {
                                  "url": "https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf",
                                  "title": "強化学習入門",
                                  "author": "小南佑介",
