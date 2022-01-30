@@ -24582,6 +24582,14 @@
                            "manualReviewRequired": true
                         },
                         {
+                           "url": "https://gamemath.com/book/intro.html",
+                           "title": "3D Math Primer for Graphics and Game Development",
+                           "author": "Fletcher Dunn",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://turtleappstore.com/book/",
                            "title": "Coding With Minecraft",
                            "author": "Al Sweigart"
@@ -25823,6 +25831,14 @@
                            "url": "https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/",
                            "title": "Exploring Math for Programmers and Data Scientists",
                            "author": "Paul Orland"
+                        },
+                        {
+                           "url": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
+                           "title": "Mathematics for Computer Science",
+                           "author": "Eric Lehman, F. Thomson Leighton, Albert R. Meyer",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
