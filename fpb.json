@@ -57,7 +57,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://www.mobarmijoun.com/2014/04/c_19.html",
@@ -443,7 +443,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://csharp-book.softuni.bg",
@@ -459,7 +459,13 @@
                            "url": "https://www.devbg.org/dotnetbook",
                            "title": "Програмиране за .NET Framework",
                            "author": "Светлин Наков и колектив"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://cpp-book.softuni.bg",
                            "title": "Основи на програмирането със C++",
@@ -679,7 +685,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf",
@@ -695,7 +701,13 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://akela.mendelu.cz/~xvencal2/CPP/opora.pdf",
                            "title": "Moderní programování objektových aplikací v C++",
@@ -1221,7 +1233,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://www.highscore.de/csharp/einfuehrung",
@@ -1234,7 +1246,13 @@
                            "notes": [
                               "Online"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "http://dieboostcppbibliotheken.de",
                            "title": "Die Boost C++ Bibliotheken",
@@ -1895,7 +1913,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf",
@@ -1904,7 +1922,13 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "http://people.cs.aau.dk/~normark/ap/index.html",
                            "title": "Notes about C++",
@@ -1960,7 +1984,13 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf",
                            "title": "Εισαγωγή στη C++",
@@ -3681,7 +3711,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf",
@@ -4075,7 +4105,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf",
@@ -4084,7 +4114,13 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://fi.wikibooks.org/wiki/C%2B%2B",
                            "title": "C++",
@@ -5083,7 +5119,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"c-sharp\">",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://meyda.education.gov.il/files/free%20books/%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%AA%20%D7%91%D7%A1%D7%91%D7%99%D7%91%D7%AA%20%D7%94%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98%20090216.pdf",
@@ -5241,7 +5277,13 @@
                            "notes": [
                               "PDF - regisztráció szükséges"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf",
                            "title": "Fejlett programozási technikák",
@@ -5606,12 +5648,18 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/",
                            "title": "Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://github.com/kelasterbuka/CPP_dasar-dasar-programming",
                            "title": "Belajar C++ Dasar Bahasa Indonesia",
@@ -6314,7 +6362,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf",
@@ -6323,7 +6371,13 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf",
                            "title": "Corso C++ standard",
@@ -7718,7 +7772,13 @@
                            "url": "http://kumei.ne.jp/c_lang",
                            "title": "猫でもわかるプログラミング",
                            "author": "粂井康孝"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml",
                            "title": "C++11の文法と機能(C++11: Syntax and Feature)",
@@ -9439,7 +9499,13 @@
                         {
                            "url": "https://blogofscience.com/Socket_Programming-KLDP.html",
                            "title": "BeeJ's Guide to Network Programming - 인터넷 소켓 활용"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf",
                            "title": "씹어먹는 C++",
@@ -11007,7 +11073,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://goalkicker.com/CSharpBook/",
@@ -11132,7 +11198,13 @@
                            "url": "https://www.syncfusion.com/ebooks/xamarin-forms-succinctly",
                            "title": "Xamarin.Forms Succinctly",
                            "author": "Alessandro Del Sole"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://fbb-git.gitlab.io/cppannotations/",
                            "title": "C++ Annotations",
@@ -19940,7 +20012,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://nl.wikibooks.org/wiki/Programmeren_in_C_Sharp",
@@ -20209,7 +20281,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://kurs.aspnetmvc.pl/Csharp",
@@ -20236,7 +20308,13 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://pl.wikibooks.org/wiki/C++",
                            "title": "C++",
@@ -20783,13 +20861,19 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://www.caelum.com.br/apostila-csharp-orientacao-objetos/",
                            "title": "C# e Orientação a Objetos",
                            "author": "Caelum"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "http://www.ime.usp.br/~slago/slago-C++.pdf",
                            "title": "Apostila Linguagem C++",
@@ -22133,7 +22217,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://metanit.com/sharp/patterns",
@@ -22158,7 +22242,13 @@
                               "PDF"
                            ],
                            "accessNotes": "Требуется аккаунт"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html",
                            "title": "Введение в язык программирования С++",
@@ -27366,7 +27456,13 @@
                            "url": "https://sv.wikibooks.org/wiki/C-programmering",
                            "title": "C-programmering",
                            "author": "Wikibooks"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://sv.wikibooks.org/wiki/Programmera_spel_i_C%2B%2B_f%C3%B6r_nyb%C3%B6rjare",
                            "title": "Programmera spel i C++ för nybörjare",
@@ -27671,7 +27767,13 @@
                         {
                            "url": "http://www.belgeler.org/glibc/glibc.html",
                            "title": "GNU C Kütüphanesi Basvuru Klavuzu"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://www.yusufsezer.com.tr/cpp-dersleri/",
                            "title": "C++ Dersleri",
@@ -28796,12 +28898,18 @@
                      "subsections": []
                   },
                   {
-                     "section": "C Sharp",
+                     "section": "<a name=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://book.douban.com/subject/24827879/",
                            "title": "精通C#(第6版)"
-                        },
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a name=\"cpp\">",
+                     "entries": [
                         {
                            "url": "https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md",
                            "title": "100个gcc小技巧"
