@@ -61,7 +61,7 @@
                      "entries": [
                         {
                            "url": "https://www.mobarmijoun.com/2014/04/c_19.html",
-                           "title": "سبيلك المختصر لتعلم لغة c# - برمجة الواجهات",
+                           "title": "سبيلك المختصر لتعلم لغة c#‎ - برمجة الواجهات",
                            "author": "Khaled Al-Saadani",
                            "notes": [
                               "Arab Coders Academy",
@@ -76,7 +76,7 @@
                      "entries": [
                         {
                            "url": "https://academy.hsoub.com/files/14-التحريك-عبر-css/",
-                           "title": "التحريك عبر CSS",
+                           "title": "التحريك عبر CSS‏",
                            "author": "Donovan Hutchinson, Mohamed Beghat",
                            "notes": [
                               "PDF"
@@ -84,7 +84,7 @@
                         },
                         {
                            "url": "https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/",
-                           "title": "نحو فهم أعمق لتقنيات HTML5",
+                           "title": "نحو فهم أعمق لتقنيات HTML5‏",
                            "author": "Mark Pilgrim, Abdullatif Eymash",
                            "notes": [
                               "PDF"
@@ -112,7 +112,7 @@
                      "entries": [
                         {
                            "url": "https://itwadi.com/node/3002",
-                           "title": "تعلم JavaScript",
+                           "title": "تعلم JavaScript‏",
                            "author": "Cody Lindley, عبداللطيف ايمش",
                            "notes": [
                               "PDF"
@@ -120,7 +120,7 @@
                         },
                         {
                            "url": "https://rabahboudia.gitbooks.io/arabic-eloquent-js/",
-                           "title": "Eloquent Javascript (Second Edition)",
+                           "title": "Eloquent Javascript (Second Edition)‏",
                            "author": "Marijn Haverbeke, Rabah Boudia",
                            "notes": [
                               "gitbook"
@@ -572,6 +572,20 @@
                            "author": "Tamim Shahriar Subeen",
                            "notes": [
                               "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Go",
+                     "entries": [
+                        {
+                           "url": "https://golang.howtocode.dev",
+                           "title": "বাংলায় গোল্যাং (golang) টিউটোরিয়াল",
+                           "author": "Shafquat Mahbub",
+                           "notes": [
+                              "howtocode.dev"
                            ]
                         }
                      ],
