@@ -7448,6 +7448,14 @@
                                  "url": "http://x68000.q-e-d.net/~68user/net",
                                  "title": "ネットワークプログラミングの基礎知識",
                                  "author": "68user"
+                              },
+                              {
+                                 "url": "https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf",
+                                 "title": "プロフェッショナルIPv6 第2版",
+                                 "author": "小川晃通",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         },
@@ -9381,6 +9389,11 @@
                            "notes": [
                               "翻訳"
                            ]
+                        },
+                        {
+                           "url": "https://typescriptbook.jp",
+                           "title": "サバイバルTypeScript",
+                           "author": "YYTypeScript"
                         },
                         {
                            "url": "https://future-architect.github.io/typescript-guide",
@@ -18499,6 +18512,14 @@
                         {
                            "url": "https://rust-lang.github.io/async-book",
                            "title": "Asynchronous Programming in Rust"
+                        },
+                        {
+                           "url": "https://dhghomon.github.io/easy_rust/",
+                           "title": "Easy Rust",
+                           "author": "David McLeod",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "https://rustc-dev-guide.rust-lang.org",
