@@ -57,7 +57,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://www.mobarmijoun.com/2014/04/c_19.html",
@@ -443,7 +443,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://csharp-book.softuni.bg",
@@ -464,7 +464,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://cpp-book.softuni.bg",
@@ -699,7 +699,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf",
@@ -720,7 +720,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://akela.mendelu.cz/~xvencal2/CPP/opora.pdf",
@@ -1247,7 +1247,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://www.highscore.de/csharp/einfuehrung",
@@ -1265,7 +1265,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "http://dieboostcppbibliotheken.de",
@@ -1927,7 +1927,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf",
@@ -1941,7 +1941,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "http://people.cs.aau.dk/~normark/ap/index.html",
@@ -2003,7 +2003,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf",
@@ -2534,7 +2534,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf",
@@ -3725,7 +3725,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf",
@@ -4119,7 +4119,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf",
@@ -4133,7 +4133,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://fi.wikibooks.org/wiki/C%2B%2B",
@@ -5133,7 +5133,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://meyda.education.gov.il/files/free%20books/%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%AA%D7%9B%D7%A0%D7%95%D7%AA%20%D7%91%D7%A1%D7%91%D7%99%D7%91%D7%AA%20%D7%94%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98%20090216.pdf",
@@ -5178,7 +5178,7 @@
                "index": {},
                "sections": [
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/",
@@ -5296,7 +5296,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf",
@@ -5662,7 +5662,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/",
@@ -5672,7 +5672,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://github.com/kelasterbuka/CPP_dasar-dasar-programming",
@@ -6376,7 +6376,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf",
@@ -6390,7 +6390,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf",
@@ -7799,7 +7799,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml",
@@ -9531,7 +9531,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf",
@@ -11100,7 +11100,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://goalkicker.com/CSharpBook/",
@@ -11230,7 +11230,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://fbb-git.gitlab.io/cppannotations/",
@@ -19965,7 +19965,7 @@
                "index": {},
                "sections": [
                   {
-                     "section": "<a name=\"golang\">",
+                     "section": "<a id=\"golang\">",
                      "entries": [
                         {
                            "url": "https://github.com/nainglinaung/the-little-go-book",
@@ -20047,7 +20047,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://nl.wikibooks.org/wiki/Programmeren_in_C_Sharp",
@@ -20316,7 +20316,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://kurs.aspnetmvc.pl/Csharp",
@@ -20348,7 +20348,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://pl.wikibooks.org/wiki/C++",
@@ -20896,7 +20896,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://www.caelum.com.br/apostila-csharp-orientacao-objetos/",
@@ -20907,7 +20907,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "http://www.ime.usp.br/~slago/slago-C++.pdf",
@@ -22252,7 +22252,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "https://metanit.com/sharp/patterns",
@@ -22282,7 +22282,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html",
@@ -25770,9 +25770,12 @@
                            "author": "Holden Lee MIT"
                         },
                         {
-                           "url": "https://web.archive.org/web/20210711231452/https://math.gordon.edu/ntic/",
+                           "url": "https://math.gordon.edu/ntic/",
                            "title": "Number Theory: In Context and Interactive",
-                           "author": "Karl-Dieter Crisman"
+                           "author": "Karl-Dieter Crisman",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "https://jonathanweisberg.org/vip/",
@@ -27496,7 +27499,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://sv.wikibooks.org/wiki/Programmera_spel_i_C%2B%2B_f%C3%B6r_nyb%C3%B6rjare",
@@ -27807,7 +27810,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://www.yusufsezer.com.tr/cpp-dersleri/",
@@ -28292,7 +28295,7 @@
                "index": {},
                "sections": [
                   {
-                     "section": "<a name=\"golang\">",
+                     "section": "<a id=\"golang\">",
                      "entries": [
                         {
                            "url": "https://github.com/nainglinaung/the-little-go-book",
@@ -28937,7 +28940,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"csharp\">",
+                     "section": "<a id=\"csharp\">",
                      "entries": [
                         {
                            "url": "http://book.douban.com/subject/24827879/",
@@ -28947,7 +28950,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a name=\"cpp\">",
+                     "section": "<a id=\"cpp\">",
                      "entries": [
                         {
                            "url": "https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md",
