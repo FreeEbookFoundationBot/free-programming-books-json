@@ -24151,8 +24151,19 @@
                         },
                         {
                            "url": "https://github.com/bitcoinbook/bitcoinbook",
-                           "title": "Mastering Bitcoin - Unlocking digital currencies",
-                           "author": "Andreas M. Antonopoulos"
+                           "title": "Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition",
+                           "author": "Andreas M. Antonopoulos",
+                           "notes": [
+                              "AsciiDoc"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/ethereumbook/ethereumbook",
+                           "title": "Mastering Ethereum (2018), 1st Edition",
+                           "author": "Andreas M. Antonopoulos, Gavin Wood",
+                           "notes": [
+                              "AsciiDoc"
+                           ]
                         },
                         {
                            "url": "https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/",
