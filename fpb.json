@@ -12503,6 +12503,14 @@
                            "title": "git - the simple guide"
                         },
                         {
+                           "url": "https://git.seveas.net/about.html",
+                           "title": "Git cookbook",
+                           "author": "Dennis Kaarsemaker",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://eagain.net/articles/git-for-computer-scientists/",
                            "title": "Git for Computer Scientists"
                         },
