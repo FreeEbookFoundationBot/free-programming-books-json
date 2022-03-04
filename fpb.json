@@ -13222,6 +13222,14 @@
                            "author": "Shay Howe"
                         },
                         {
+                           "url": "https://riptutorial.com/Download/sass.pdf",
+                           "title": "Learning sass",
+                           "author": "Compiled from Stack Overflow documentation",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://adamschwartz.co/magic-of-css/",
                            "title": "Magic of CSS",
                            "author": "Adam Schwartz",
@@ -14956,6 +14964,14 @@
                               {
                                  "url": "https://www.gitbook.com/book/unbug/react-native-training/details",
                                  "title": "React Native Training"
+                              },
+                              {
+                                 "url": "https://www.callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook",
+                                 "title": "The Ultimate Guide to React Native Optimization",
+                                 "notes": [
+                                    "PDF"
+                                 ],
+                                 "accessNotes": "email requested, not required"
                               }
                            ]
                         },
