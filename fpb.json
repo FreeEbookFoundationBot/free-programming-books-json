@@ -2175,7 +2175,7 @@
                            "title": "Desarrollo de Aplicaciones Web - Temario Completo",
                            "author": "José Luis Comesaña",
                            "notes": [
-                              "Github"
+                              "GitHub"
                            ]
                         },
                         {
@@ -2187,7 +2187,7 @@
                            "url": "https://github.com/DpdC/gitbook-biblioteca-impresionante-en-espanol#gitbook---biblioteca-de-libros-en-español--",
                            "title": "Gitbook - Libros útiles en español",
                            "notes": [
-                              "Github"
+                              "GitHub"
                            ]
                         },
                         {
@@ -2428,7 +2428,7 @@
                                  "url": "https://github.com/brunocascio/docker-espanol#docker",
                                  "title": "Docker",
                                  "notes": [
-                                    "Github"
+                                    "GitHub"
                                  ]
                               },
                               {
@@ -2841,7 +2841,7 @@
                            "title": "Preparando JavaSun 6 - OCPJP6",
                            "author": "Pablo Reyes Almagro",
                            "notes": [
-                              "Github"
+                              "GitHub"
                            ],
                            "otherLinks": [
                               {
@@ -3196,7 +3196,7 @@
                            "title": "Domain Driven Design with PHP (Diseño guiado por Dominio con PHP)",
                            "author": "Carlos Buenosvinos Zamora",
                            "notes": [
-                              "Youtube playlist"
+                              "YouTube playlist"
                            ]
                         },
                         {
@@ -3364,7 +3364,7 @@
                            "url": "https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías",
                            "title": "Python para ciencia e ingeniería",
                            "notes": [
-                              "Github"
+                              "GitHub"
                            ]
                         },
                         {
@@ -3438,7 +3438,7 @@
                            "url": "https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio",
                            "title": "La Guía de Estilos de Ruby",
                            "notes": [
-                              "Github"
+                              "GitHub"
                            ]
                         },
                         {
@@ -12590,7 +12590,7 @@
                         },
                         {
                            "url": "https://github.com/eonist/How-to-collaborate-on-github",
-                           "title": "How to Collaborate on Github",
+                           "title": "How to Collaborate on GitHub: A mini book about collaborating on GitHub",
                            "author": "André J"
                         },
                         {
@@ -13819,19 +13819,6 @@
                                  "notes": [
                                     "PDF"
                                  ]
-                              }
-                           ]
-                        },
-                        {
-                           "section": "Solidity",
-                           "entries": [
-                              {
-                                 "url": "https://www.tutorialspoint.com/solidity/index.htm",
-                                 "title": "Introductory guide for Solidity"
-                              },
-                              {
-                                 "url": "https://docs.soliditylang.org",
-                                 "title": "The Solidity Reference Guide"
                               }
                            ]
                         },
@@ -16229,12 +16216,9 @@
                         {
                            "url": "http://ocaml.github.io/ocamlunix/",
                            "title": "Unix System Programming in OCaml",
-                           "otherLinks": [
-                              {
-                                 "title": "Github Repo",
-                                 "url": "https://github.com/ocaml/ocamlunix/"
-                              }
-                           ]
+                           "author": "Xavier Leroy, Didier Rémy",
+                           "notes": [],
+                           "manualReviewRequired": true
                         },
                         {
                            "url": "http://pauillac.inria.fr/~remy/cours/appsem/",
@@ -19043,6 +19027,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Solidity",
+                     "entries": [
+                        {
+                           "url": "https://www.tutorialspoint.com/solidity/index.htm",
+                           "title": "Introductory guide for Solidity"
+                        },
+                        {
+                           "url": "https://docs.soliditylang.org",
+                           "title": "The Solidity Reference Guide"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Spark",
                      "entries": [
                         {
@@ -19989,7 +19987,21 @@
                "index": {},
                "sections": [
                   {
-                     "section": "<a id=\"golang\">",
+                     "section": "Blockchain",
+                     "entries": [
+                        {
+                           "url": "https://eimaung.com/bitcoin/",
+                           "title": "Bitcoin - On Point",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Go",
                      "entries": [
                         {
                            "url": "https://github.com/nainglinaung/the-little-go-book",
@@ -20002,12 +20014,50 @@
                      "subsections": []
                   },
                   {
-                     "section": "HTML",
+                     "section": "HTML and CSS",
                      "entries": [
+                        {
+                           "url": "https://eimaung.com/bootstrap/",
+                           "title": "Bootstrap - On Point",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://books.saturngod.net/HTML5/",
                            "title": "HTML",
                            "author": "Saturngod"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "JavaScript",
+                     "entries": [
+                        {
+                           "url": "https://eimaung.com/api/",
+                           "title": "API - On Point",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://eimaung.com/jsbook/",
+                           "title": "JavaScript - On Point",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://eimaung.com/react/",
+                           "title": "React - On Point",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -20018,7 +20068,32 @@
                         {
                            "url": "http://eimaung.com/ubuntu-for-you",
                            "title": "Ubuntu Linux for You",
-                           "author": "Ei Maung"
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "PHP",
+                     "entries": [
+                        {
+                           "url": "https://eimaung.com/laravel/",
+                           "title": "Laravel - On Point",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://eimaung.com/php/",
+                           "title": "PHP - On Point",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -20040,12 +20115,26 @@
                         {
                            "url": "http://eimaung.com/professional-web-developer",
                            "title": "Professional Web Developer",
-                           "author": "Ei Maung"
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://eimaung.com/pwd2022/",
+                           "title": "Professional Web Developer 2022",
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://eimaung.com/rockstar-developer",
                            "title": "Rockstar Developer",
-                           "author": "Ei Maung"
+                           "author": "Ei Maung",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
