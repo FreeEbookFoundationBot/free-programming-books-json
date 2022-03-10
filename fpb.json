@@ -20930,6 +20930,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Arduino",
+                     "entries": [
+                        {
+                           "url": "https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf",
+                           "title": "Arduino Guia Iniciante",
+                           "author": "Multilógica Shop",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Assembly",
                      "entries": [
                         {
