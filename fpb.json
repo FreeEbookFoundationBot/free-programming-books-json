@@ -119,6 +119,11 @@
                            ]
                         },
                         {
+                           "url": "https://blog.abdelhadi.org/learn-nextjs-in-arabic/",
+                           "title": "سلسلة تعلم Next.js بالعربية",
+                           "author": "Flavio Copes, عبدالهادي الأندلسي"
+                        },
+                        {
                            "url": "https://rabahboudia.gitbooks.io/arabic-eloquent-js/",
                            "title": "Eloquent Javascript (Second Edition)‏",
                            "author": "Marijn Haverbeke, Rabah Boudia",
@@ -3322,6 +3327,14 @@
                            "title": "Aprenda a pensar como un programador (con Python)",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://aprendepython.es",
+                           "title": "Aprende Python",
+                           "author": "Sergio Delgado Quintero",
+                           "notes": [
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -20896,6 +20909,14 @@
                            "section": "Sistemas Operacionais",
                            "entries": [
                               {
+                                 "url": "https://www.gnulinuxbrasil.com.br/2017/05/24/guia-com-mais-de-500-comandos-do-linux-explicados/",
+                                 "title": "Guia com mais de 500 comandos do Linux explicados",
+                                 "author": "Bruno Andrade",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.guiafoca.org/#download",
                                  "title": "Guia Foca Linux",
                                  "author": "Gleydson Maziolli",
@@ -26220,6 +26241,10 @@
                            "url": "http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html",
                            "title": "\"DYNAMIC LINKED LIBRARIES\": Paradigms of the GPL license in contemporary software",
                            "author": "Luis A. Enríquez"
+                        },
+                        {
+                           "url": "https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed",
+                           "title": "Encyclopedia of Human Computer Interaction 2nd Edition"
                         },
                         {
                            "url": "https://images.guide",
