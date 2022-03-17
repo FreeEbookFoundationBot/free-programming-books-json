@@ -27007,6 +27007,36 @@
                      "subsections": []
                   },
                   {
+                     "section": "Quantum Computing",
+                     "entries": [
+                        {
+                           "url": "http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e2p.pdf",
+                           "title": "Introduction to Classical and Quantum Computing",
+                           "author": "Thomas G. Wong",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://qiskit.org/textbook/preface.html",
+                           "title": "Learn Quantum Computation using Qiskit",
+                           "author": "Frank Harkins et al.",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://link.springer.com/book/10.1007/978-3-030-61601-4",
+                           "title": "Quantum Computing for the Quantum Curious",
+                           "author": "Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner",
+                           "notes": [
+                              "HTML, PDF, EPUB"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Regular Expressions",
                      "entries": [
                         {
