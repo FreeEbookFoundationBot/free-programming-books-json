@@ -1235,7 +1235,7 @@
                         {
                            "url": "http://www.tobscore.com/socket-programmierung-in-c",
                            "title": "Socket Programmierung in C",
-                           "author": "B. Hall, Übersetzt von Tobias Kerst",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Übersetzt von Tobias Kerst",
                            "notes": [
                               "HTML"
                            ]
@@ -1920,6 +1920,15 @@
                   {
                      "section": "C",
                      "entries": [
+                        {
+                           "url": "https://web.archive.org/web/20190701062226/http://artcreationforever.com/bgnet.html",
+                           "title": "Beej's Guide til Netvarksprogrammierung",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Art of Science",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": ":card_file_box: archived"
+                        },
                         {
                            "url": "http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf",
                            "title": "Programmering i C",
@@ -4524,7 +4533,7 @@
                         {
                            "url": "http://vidalc.chez.com/lf/socket.html",
                            "title": "Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet",
-                           "author": "",
+                           "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
                               "HTML"
                            ]
@@ -5304,6 +5313,21 @@
                            "notes": [
                               "PDF - regisztráció szükséges"
                            ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "C",
+                     "entries": [
+                        {
+                           "url": "https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html",
+                           "title": "Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Hajdu Gábor",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -6349,7 +6373,7 @@
                         {
                            "url": "http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf",
                            "title": "Guida di Beej alla Programmazione di Rete - Usando Socket Internet",
-                           "author": "B. Hall, Tradotto da Fabrizio Pani",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Fabrizio Pani",
                            "notes": [
                               "PDF"
                            ]
@@ -10871,20 +10895,15 @@
                         {
                            "url": "http://beej.us/guide/bgc/",
                            "title": "Beej's Guide to C Programming",
-                           "author": "B. Hall",
+                           "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
                               "HTML, PDF"
                            ]
                         },
                         {
-                           "url": "http://beej.us/guide/bgnet/",
-                           "title": "Beej's Guide to Network Programming - Using Internet Sockets",
-                           "author": "B. Hall"
-                        },
-                        {
                            "url": "http://beej.us/guide/bggdb/",
                            "title": "Beej's Guide to the GNU Debugger (GDB)",
-                           "author": "B. Hall",
+                           "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
                               "HTML"
                            ]
@@ -17061,7 +17080,7 @@
                         {
                            "url": "http://beej.us/guide/bgpython/",
                            "title": "Beej's Guide to Python Programming - For Beginners",
-                           "author": "B. Hall",
+                           "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
                               "HTML,PDF"
                            ]
@@ -19673,7 +19692,7 @@
                         {
                            "url": "http://beej.us/guide/bgipc/",
                            "title": "Beej's Guide to Unix Interprocess Communication",
-                           "author": "B. Hall",
+                           "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
                               "HTML,PDF"
                            ]
@@ -20394,7 +20413,7 @@
                         {
                            "url": "http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf",
                            "title": "Beej's Guide to Network Programming - Używanie gniazd internetowych",
-                           "author": "B. Hall, Przełożył Bartosz Zapałowski",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Przełożył Bartosz Zapałowski",
                            "notes": [
                               "PDF"
                            ]
@@ -21009,7 +21028,7 @@
                         {
                            "url": "http://beej.us/guide/bgnet/translations/bgnet_ptbr.html",
                            "title": "Guia Beej's Para Programação em Rede - Usando Internet Sockets",
-                           "author": "B. Hall, Traduzido por cv8minix3",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Traduzido por cv8minix3",
                            "notes": [
                               "HTML"
                            ]
@@ -22077,6 +22096,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "C",
+                     "entries": [
+                        {
+                           "url": "https://web.archive.org/web/20180710112954/http://weknowyourdreams.com/beej.html",
+                           "title": "Ghidul Beej pentru Programarea in Retea - Folosind socket de internet",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": ":card_file_box: archived"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "HTML",
                      "entries": [
                         {
@@ -22354,7 +22387,7 @@
                         {
                            "url": "https://paintingvalley.com/ru-bggdb",
                            "title": "Краткое руководство Beej к GDB",
-                           "author": "",
+                           "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
                               "HTML"
                            ]
@@ -22382,7 +22415,7 @@
                         {
                            "url": "http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf",
                            "title": "Сетевое программирование от Биджа - Использование Интернет Сокетов",
-                           "author": "B. Hall, Перевод Андрея Косенко",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Перевод Андрея Косенко",
                            "notes": [
                               "PDF"
                            ]
@@ -23801,6 +23834,30 @@
                            ]
                         }
                      ]
+                  }
+               ]
+            },
+            {
+               "language": {
+                  "code": "sr",
+                  "name": "Serbian"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "C",
+                     "entries": [
+                        {
+                           "url": "https://web.archive.org/web/20181008134854/http://users.teol.net:80/~mvlado/sockets/",
+                           "title": "Beej-ov vodič za mrežno programiranje - Korištenje Internet soket-a",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Maksimović Darko",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": ":card_file_box: archived"
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -26495,6 +26552,14 @@
                            ]
                         },
                         {
+                           "url": "https://beej.us/guide/bgnet/",
+                           "title": "Beej's Guide to Network Programming - Using Internet Sockets",
+                           "author": "Brian \"Beej Jorgensen\" Hall",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/",
                            "title": "Bits, Signals, and Packets: An Introduction to Digital Communications and Networks"
                         },
@@ -27991,7 +28056,7 @@
                         {
                            "url": "http://www.belgeler.org/bgnet/bgnet.html",
                            "title": "Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak",
-                           "author": "B. Hall, Çeviren Emre \"FZ\" Sevinç",
+                           "author": "Brian \"Beej Jorgensen\" Hall, Çeviren Emre \"FZ\" Sevinç",
                            "notes": [
                               "HTML"
                            ]
@@ -29117,7 +29182,7 @@
                         {
                            "url": "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-ME5zR-03ZEHgp2kv7bW%2F-MF9EIY-s19_w19_Unae%2F-MF9F-HCs1nLOkY1mLVi%2FBeej-cn-20140429.zip?alt=media&token=de27f96b-2aed-4c97-8879-649638c7559f",
                            "title": "Beej's Guide to Network Programming 簡體中文版",
-                           "author": "B. Hall, 廖亚伦译",
+                           "author": "Brian \"Beej Jorgensen\" Hall, 廖亚伦译",
                            "notes": [
                               "PDF"
                            ]
