@@ -8060,6 +8060,14 @@
                      "section": "Erlang",
                      "entries": [
                         {
+                           "url": "https://www.ymotongpoo.com/works/lyse-ja/",
+                           "title": "Learn you some Erlang for great good!",
+                           "author": "Fred Hebert, Yoshifumi Yamaguchi",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://www.nct9.ne.jp/m_hiroi/func/erlang.html",
                            "title": "お気楽 Erlang プログラミング入門",
                            "author": "広井誠"
@@ -12176,7 +12184,10 @@
                         {
                            "url": "http://learnyousomeerlang.com",
                            "title": "Learn You Some Erlang For Great Good",
-                           "author": "Frederic Trottier-Hebert"
+                           "author": "Fred Hebert",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://www.erlang.org/download/armstrong_thesis_2003.pdf",
