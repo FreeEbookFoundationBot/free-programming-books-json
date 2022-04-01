@@ -1926,9 +1926,7 @@
                ]
             },
             {
-               "language": {
-                  "code": ""
-               },
+               "language": {},
                "index": {},
                "sections": [
                   {
@@ -2151,7 +2149,8 @@
             {
                "language": {
                   "code": "en",
-                  "name": "English"
+                  "name": "English",
+                  "isSubject": false
                },
                "index": {},
                "sections": [
@@ -10055,8 +10054,9 @@
             },
             {
                "language": {
-                  "code": "en-US",
-                  "name": "English"
+                  "code": "en",
+                  "name": "English",
+                  "isSubject": false
                },
                "index": {},
                "sections": [
@@ -23920,8 +23920,9 @@
             },
             {
                "language": {
-                  "code": "en-US",
-                  "name": "English"
+                  "code": "en",
+                  "name": "English",
+                  "isSubject": true
                },
                "index": {},
                "sections": [
