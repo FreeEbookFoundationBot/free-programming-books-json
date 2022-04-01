@@ -57,6 +57,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "AWS",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf",
+                           "title": "كورس كامل بالعربى مع المهندس عيسى أبوشريف",
+                           "author": "Eissa AbuSherif",
+                           "notes": [
+                              "AWS Riyadh User Group"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"csharp\">",
                      "entries": [
                         {
@@ -12292,8 +12306,13 @@
                            "title": "Cookbook"
                         },
                         {
-                           "url": "https://livebook.manning.com/book/flutter-in-action/welcome/v-9/",
-                           "title": "Flutter in Action"
+                           "url": "https://livebook.manning.com/book/flutter-in-action/",
+                           "title": "Flutter in Action",
+                           "author": "Eric Windmill",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": "email address requested, not required"
                         },
                         {
                            "url": "https://www.syncfusion.com/ebooks/flutter-succinctly",
@@ -21364,6 +21383,14 @@
                   {
                      "section": "Java",
                      "entries": [
+                        {
+                           "url": "https://github.com/davidbuzatto/Livro-Desenvolvimento-de-Aplica-es-Web-em-Java/releases",
+                           "title": "Desenvolvimento de Aplicações Web em Java e Outras Tecnologias",
+                           "author": "David Buzatto",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido",
                            "title": "Desenvolvimento Distribuído com JavaEE",
