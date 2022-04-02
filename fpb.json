@@ -14729,9 +14729,9 @@
                                  "title": "The Express.js Handbook",
                                  "author": "Flavio Copes",
                                  "notes": [
-                                    "HTML, PDF"
+                                    "PDF, EPUB, Kindle"
                                  ],
-                                 "accessNotes": "email required for PDF"
+                                 "accessNotes": "email address requested"
                               }
                            ]
                         },
@@ -14818,9 +14818,9 @@
                                  "title": "The Next.js Handbook",
                                  "author": "Flavio Copes",
                                  "notes": [
-                                    "HTML, PDF"
+                                    "PDF, EPUB, Kindle"
                                  ],
-                                 "accessNotes": "email required for PDF"
+                                 "accessNotes": "email address requested"
                               }
                            ]
                         },
@@ -14921,9 +14921,9 @@
                                  "title": "The Node.js Handbook",
                                  "author": "Flavio Copes",
                                  "notes": [
-                                    "HTML, PDF"
+                                    "PDF, EPUB, Kindle"
                                  ],
-                                 "accessNotes": "email required for PDF"
+                                 "accessNotes": "email address requested"
                               }
                            ]
                         },
@@ -15101,12 +15101,13 @@
                                  ]
                               },
                               {
-                                 "url": "https://flaviocopes.nyc3.digitaloceanspaces.com/vue-handbook/vue-handbook.pdf",
+                                 "url": "https://flaviocopes.com/page/vue-handbook/",
                                  "title": "The Vue.js Handbook",
                                  "author": "Flavio Copes",
                                  "notes": [
-                                    "PDF"
-                                 ]
+                                    "PDF, EPUB, Kindle"
+                                 ],
+                                 "accessNotes": "email address requested"
                               }
                            ]
                         }
@@ -19723,9 +19724,13 @@
                                  "title": "Deno Manual"
                               },
                               {
-                                 "url": "https://flaviocopes.com/deno",
-                                 "title": "FlavioCopes Deno Handbook",
-                                 "author": ""
+                                 "url": "https://flaviocopes.com/page/deno-handbook/",
+                                 "title": "The Deno Handbook",
+                                 "author": "Flavio Copes",
+                                 "notes": [
+                                    "PDF, EPUB, Kindle"
+                                 ],
+                                 "accessNotes": "email address requested"
                               }
                            ]
                         }
