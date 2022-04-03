@@ -10165,9 +10165,12 @@
                            "manualReviewRequired": true
                         },
                         {
-                           "url": "http://www.tutorialspoint.com/android",
+                           "url": "http://www.tutorialspoint.com/android/",
                            "title": "Android Tutorial",
-                           "author": "Tutorials Point"
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "https://developer.android.com/courses/advanced-training/toc",
@@ -10992,9 +10995,9 @@
                         {
                            "url": "https://www.tutorialspoint.com/cprogramming/",
                            "title": "C Programming Tutorial",
-                           "author": "Tutorialspoint",
+                           "author": "Tutorials Point",
                            "notes": [
-                              "HTML"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -12323,9 +12326,12 @@
                            ]
                         },
                         {
-                           "url": "https://www.tutorialspoint.com/flutter",
+                           "url": "https://www.tutorialspoint.com/flutter/",
                            "title": "Flutter Tutorial",
-                           "author": "Tutorials Point"
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "https://kodestat.gitbook.io/flutter",
@@ -12649,9 +12655,9 @@
                         {
                            "url": "https://www.tutorialspoint.com/git/",
                            "title": "Git Tutorial",
-                           "author": "Tutorials Point Ltd.",
+                           "author": "Tutorials Point",
                            "notes": [
-                              "HTML"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -12785,6 +12791,14 @@
                            "author": "Mark Lewin",
                            "notes": [
                               "PDF, EPUB, Kindle"
+                           ]
+                        },
+                        {
+                           "url": "http://www.tutorialspoint.com/go/",
+                           "title": "Go Tutorial",
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -15663,6 +15677,14 @@
                            "author": "Wikibooks"
                         },
                         {
+                           "url": "http://www.tutorialspoint.com/lua/",
+                           "title": "Lua Tutorial",
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.lua.org/pil/contents.html",
                            "title": "Programming in Lua (first edition)"
                         }
@@ -15894,9 +15916,12 @@
                      "section": "MongoDB",
                      "entries": [
                         {
-                           "url": "https://www.tutorialspoint.com/mongodb",
+                           "url": "https://www.tutorialspoint.com/mongodb/",
                            "title": "Introduction to MongoDB",
-                           "author": "Tutorials Point"
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "https://riptutorial.com/Download/mongodb.pdf",
@@ -16745,9 +16770,12 @@
                            ]
                         },
                         {
-                           "url": "https://www.tutorialspoint.com/postgresql",
+                           "url": "https://www.tutorialspoint.com/postgresql/",
                            "title": "PostgreSQL Tutorial",
-                           "author": "Tutorials Point"
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "http://www.faqs.org/docs/ppbook/book1.htm",
@@ -17675,9 +17703,12 @@
                            ]
                         },
                         {
-                           "url": "https://www.tutorialspoint.com/python",
+                           "url": "https://www.tutorialspoint.com/python/",
                            "title": "Python Tutorial",
-                           "author": "Tutorials Point"
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "http://scipy-lectures.github.io",
@@ -17934,6 +17965,14 @@
                                  "url": "https://flask.palletsprojects.com",
                                  "title": "Flask Documentation",
                                  "author": "Pallets"
+                              },
+                              {
+                                 "url": "https://www.tutorialspoint.com/flask/",
+                                 "title": "Python Flask Tutorial",
+                                 "author": "Tutorials Point",
+                                 "notes": [
+                                    "HTML, PDF"
+                                 ]
                               },
                               {
                                  "url": "http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world",
@@ -18847,9 +18886,12 @@
                            "author": "Chris Rose"
                         },
                         {
-                           "url": "https://www.tutorialspoint.com/scala",
+                           "url": "https://www.tutorialspoint.com/scala/",
                            "title": "Scala Tutorial",
-                           "author": "Tutorials Point"
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "http://eed3si9n.com/tetrix-in-scala-html5-book",
@@ -19113,8 +19155,12 @@
                      "section": "Solidity",
                      "entries": [
                         {
-                           "url": "https://www.tutorialspoint.com/solidity/index.htm",
-                           "title": "Introductory guide for Solidity"
+                           "url": "https://www.tutorialspoint.com/solidity/",
+                           "title": "Introductory guide for Solidity",
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://docs.soliditylang.org",
@@ -19192,7 +19238,7 @@
                            "author": "Nick Harrison"
                         },
                         {
-                           "url": "https://www.tutorialspoint.com/sqlite",
+                           "url": "https://www.tutorialspoint.com/sqlite/",
                            "title": "SQLite Tutorial"
                         },
                         {
@@ -24053,7 +24099,7 @@
                         },
                         {
                            "url": "http://www.tutorialspoint.com",
-                           "title": "tutorialspoint"
+                           "title": "Tutorials Point"
                         }
                      ],
                      "subsections": []
@@ -24170,6 +24216,14 @@
                            "url": "https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx",
                            "title": "Data Structures and Algorithms: Annotated Reference with Examples",
                            "author": "G. Barnett and L. Del Tongo"
+                        },
+                        {
+                           "url": "https://www.tutorialspoint.com/data_structures_algorithms/",
+                           "title": "Data Structures and Algorithms Tutorial",
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1",
@@ -24826,6 +24880,14 @@
                            "author": "Andrew Odewahn"
                         },
                         {
+                           "url": "https://www.tutorialspoint.com/docker/",
+                           "title": "Docker Tutorial",
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf",
                            "title": "Kubernetes Deployment & Security Patterns",
                            "author": "Alex Williams",
@@ -25423,7 +25485,7 @@
                            "title": "Machine Learning, Neural and Statistical Classification"
                         },
                         {
-                           "url": "https://www.tutorialspoint.com/machine_learning_with_python",
+                           "url": "https://www.tutorialspoint.com/machine_learning_with_python/",
                            "title": "Machine Learning with Python",
                            "author": "Tutorials Point",
                            "notes": [],
