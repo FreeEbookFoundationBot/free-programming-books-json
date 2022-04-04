@@ -16348,6 +16348,16 @@
                      "subsections": []
                   },
                   {
+                     "section": "Odin",
+                     "entries": [
+                        {
+                           "url": "https://odin-lang.org/docs/overview/",
+                           "title": "Overview | Odin Programming Language"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "OpenMP",
                      "entries": [
                         {
