@@ -2228,7 +2228,7 @@
                         },
                         {
                            "url": "http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php",
-                           "title": "Universidad Autónoma de México - Plan (2016)"
+                           "title": "Universidad Nacional Autónoma de México - Plan (2016)"
                         }
                      ],
                      "subsections": []
@@ -2250,7 +2250,7 @@
                               {
                                  "url": "http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf",
                                  "title": "Análisis, Diseño e Implantación de Algoritmos",
-                                 "author": "Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, et al.",
+                                 "author": "Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al.",
                                  "notes": [
                                     "PDF"
                                  ]
@@ -2290,6 +2290,7 @@
                               {
                                  "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf",
                                  "title": "Temas selectos de estructuras de datos",
+                                 "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
                                  ]
@@ -2352,6 +2353,7 @@
                               {
                                  "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf",
                                  "title": "Breves Notas sobre Autómatas y Lenguajes",
+                                 "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
                                  ]
@@ -2359,6 +2361,7 @@
                               {
                                  "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf",
                                  "title": "Breves Notas sobre Complejidad",
+                                 "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
                                  ]
@@ -2366,6 +2369,7 @@
                               {
                                  "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf",
                                  "title": "Breves Notas sobre Teoría de la Computación",
+                                 "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
                                  ]
@@ -2831,7 +2835,7 @@
                         {
                            "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf",
                            "title": "Notas de Introducción al Lenguaje de Programación Java (2004)",
-                           "author": "Jorge L. Ortega Arjona",
+                           "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                            "notes": [
                               "PDF"
                            ]
