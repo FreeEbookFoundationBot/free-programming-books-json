@@ -6370,6 +6370,14 @@
                      "section": "Assembly Language",
                      "entries": [
                         {
+                           "url": "http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf",
+                           "title": "La CPU Intel 8086: Architettura e Programmazione Assembly",
+                           "author": "Alberto Broggi",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://drpaulcarter.com/pcasm/",
                            "title": "PC Assembly Language",
                            "author": "Paul A. Carter"
@@ -6391,6 +6399,22 @@
                         {
                            "url": "http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf",
                            "title": "Guida avanzata per la bash",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "http://codex.altervista.org/guidabash/guidabash_1_11.pdf",
+                           "title": "La guida di Bash per principianti",
+                           "author": "Machtelt Garrels",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.aquilante.net/doc/bash_programming.pdf",
+                           "title": "Programmazione della shell Bash",
+                           "author": "Marco Liverani",
                            "notes": [
                               "PDF"
                            ]
@@ -6418,12 +6442,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf",
+                           "url": "https://web.archive.org/web/20180920221053/http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf",
                            "title": "Linguaggio C - ANSI C",
-                           "author": "B.W. Kernighan e D.M. Ritchie",
+                           "author": "Brian W. Kernighan, Dennis M. Ritchie",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf",
