@@ -46584,7 +46584,28 @@
                            "title": "Python 입문자용 초급"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Django",
+                           "entries": [
+                              {
+                                 "url": "https://youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG",
+                                 "title": "Python Django Web Framework",
+                                 "author": "생활코딩"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Flask",
+                           "entries": [
+                              {
+                                 "url": "https://youtube.com/playlist?list=PLuHgQVnccGMClNOIuT3b3M4YZjxmult2y",
+                                 "title": "Python Flask Web Framework",
+                                 "author": "생활코딩"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Raspberry Pi",
@@ -49445,6 +49466,144 @@
                            ]
                         }
                      ]
+                  }
+               ]
+            },
+            {
+               "language": {
+                  "code": "ta",
+                  "name": "Tamil"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Android",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PL4unWLKFsZfcGBja19mrwodNm6AyzZk2B",
+                           "title": "Android In Tamil 2019",
+                           "author": "Tutor Joe's Stanley"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Bash and Shell",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLgWpUXNR_WCeWiXmsYf5HUe7E4I29zTJr",
+                           "title": "Bash scripting in Tamil",
+                           "author": "Payilagam"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "C",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLBQXOA5OR76rq-sU8mNsUmj2Z9kQXz7oD",
+                           "title": "C Tutorial in Tamil",
+                           "author": "Tamil Pro Techniques"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLmjuBlzAWCzxTdRxTtMSj1NFe_GvFlvFw",
+                           "title": "Fundamentals of C programming in Tamil",
+                           "author": "Collectiva Knowledge Academy"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"cpp\">",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0",
+                           "title": "C++ Programming in Tamil",
+                           "author": "CS in Tamil"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "HTML and CSS",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PL73Obo20O_7gGv4cLEOoqTF8_m8rPKyQh",
+                           "title": "CSS in Tamil",
+                           "author": "CyberDude Networks Pvt. Ltd."
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL73Obo20O_7gcXt0cfQA14jey8zavtKAq",
+                           "title": "HTML Course in Tamil",
+                           "author": "CyberDude Networks Pvt. Ltd."
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLpYn3LR7eQI2trAr1z1lmvYGAQfsbllY5",
+                           "title": "Learn HTML in Tamil | HTML Tutorials in Tamil | Beginner to Advanced",
+                           "author": "Tamil Developer"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Java",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa",
+                           "title": "Learn Java in Tamil",
+                           "author": "Logic First Tamil"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "JavaScript",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK",
+                           "title": "Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil",
+                           "author": "Tamil Developer"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa",
+                           "title": "JavaScript in Tamil",
+                           "author": "CyberDude Networks Pvt. Ltd."
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "PHP",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt",
+                           "title": "PHP for beginners In Tamil",
+                           "author": "Tutor Joe's Stanley"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL4unWLKFsZfdrMitLmm8N-idlYQkSCvT9",
+                           "title": "PHP Tutorial In Tamil",
+                           "author": "Tutor Joe's Stanley"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb",
+                           "title": "Python in Tamil for Beginners",
+                           "author": "GURUKULA"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp",
+                           "title": "Python Tutorial in Tamil",
+                           "author": "SANTRA TECHSPOT"
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
