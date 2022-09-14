@@ -2656,19 +2656,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Emacs",
-                     "entries": [
-                        {
-                           "url": "http://savannah.nongnu.org/git/?group=elisp-es",
-                           "title": "Una Introducción a Emacs Lisp en Español",
-                           "notes": [
-                              "HTML"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Git",
                      "entries": [
                         {
@@ -3158,6 +3145,19 @@
                                  "title": "PDF, ePub, Mobi",
                                  "url": "https://debian-handbook.info/get/now/"
                               }
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Lisp",
+                     "entries": [
+                        {
+                           "url": "http://savannah.nongnu.org/git/?group=elisp-es",
+                           "title": "Una Introducción a Emacs Lisp en Español",
+                           "notes": [
+                              "HTML"
                            ]
                         }
                      ],
@@ -4436,6 +4436,16 @@
                            ]
                         },
                         {
+                           "section": "IDE and editors",
+                           "entries": [
+                              {
+                                 "url": "http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/",
+                                 "title": "Learn Vim Progressively",
+                                 "author": "Yann Esposito"
+                              }
+                           ]
+                        },
+                        {
                            "section": "Logiciels libres",
                            "entries": [
                               {
@@ -5165,16 +5175,6 @@
                         }
                      ],
                      "subsections": []
-                  },
-                  {
-                     "section": "Vim",
-                     "entries": [
-                        {
-                           "url": "http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/",
-                           "title": "Learn Vim Progressively"
-                        }
-                     ],
-                     "subsections": []
                   }
                ]
             },
@@ -5543,7 +5543,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "LISP",
+                     "section": "Lisp",
                      "entries": [
                         {
                            "url": "http://mek.oszk.hu/07200/07258/index.phtml",
@@ -5839,16 +5839,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Emacs",
-                     "entries": [
-                        {
-                           "url": "https://github.com/kholidfu/emacs_doc",
-                           "title": "Dokumentasi Emacs Bahasa Indonesia"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Flutter",
                      "entries": [
                         {
@@ -5930,6 +5920,17 @@
                            "notes": [
                               "Petani Kode"
                            ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "IDE and editors",
+                     "entries": [
+                        {
+                           "url": "https://github.com/kholidfu/emacs_doc",
+                           "title": "Dokumentasi Emacs Bahasa Indonesia",
+                           "author": "Kholid Fuadi"
                         }
                      ],
                      "subsections": []
@@ -7218,6 +7219,29 @@
                      "entries": [],
                      "subsections": [
                         {
+                           "section": "IDE and editors",
+                           "entries": [
+                              {
+                                 "url": "https://nanasi.jp/code.html",
+                                 "title": "Vim スクリプトリファレンス",
+                                 "author": "小見拓"
+                              },
+                              {
+                                 "url": "https://thinca.hatenablog.com/entry/20100201/1265009821",
+                                 "title": "Vim スクリプト基礎文法最速マスター",
+                                 "author": "id:thinca"
+                              },
+                              {
+                                 "url": "https://vim-jp.org/vimdoc-ja/usr_41.html",
+                                 "title": "Vim スクリプト書法",
+                                 "author": "Bram Moolenaar, vimdoc-ja プロジェクト",
+                                 "notes": [
+                                    "翻訳"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
                            "section": "アクセシビリティ",
                            "entries": [
                               {
@@ -8037,43 +8061,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Common Lisp",
-                     "entries": [
-                        {
-                           "url": "http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp",
-                           "title": "Common Lisp 入門",
-                           "author": "広井誠"
-                        },
-                        {
-                           "url": "https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml",
-                           "title": "Google Common Lisp スタイルガイド 日本語訳",
-                           "author": "Robert Brown, François-René Rideau, TOYOZUMIKouichi 他",
-                           "notes": [
-                              "翻訳"
-                           ]
-                        },
-                        {
-                           "url": "https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog",
-                           "title": "LISP and PROLOG",
-                           "author": "畝見達夫"
-                        },
-                        {
-                           "url": "http://www.asahi-net.or.jp/~kc7k-nd",
-                           "title": "On Lisp (草稿)",
-                           "author": "Paul Graham, 野田開",
-                           "notes": [
-                              "翻訳"
-                           ]
-                        },
-                        {
-                           "url": "http://lambda.bugyo.tk/cdr/mwl",
-                           "title": "マンガで分かるLisp(Manga Guide to Lisp)",
-                           "author": "λ組"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Coq",
                      "entries": [
                         {
@@ -8110,21 +8097,6 @@
                            "url": "https://qiita.com/niku/items/729ece76d78057b58271",
                            "title": "Elixir 基礎文法最速マスター",
                            "author": "niku"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Emacs Lisp",
-                     "entries": [
-                        {
-                           "url": "https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax",
-                           "title": "Emacs Lisp基礎文法最速マスター",
-                           "author": "るびきち"
-                        },
-                        {
-                           "url": "http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html",
-                           "title": "GNU Emacs Lispリファレンスマニュアル"
                         }
                      ],
                      "subsections": []
@@ -8662,6 +8634,52 @@
                            "notes": [
                               "翻訳"
                            ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Lisp",
+                     "entries": [
+                        {
+                           "url": "http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp",
+                           "title": "Common Lisp 入門",
+                           "author": "広井誠"
+                        },
+                        {
+                           "url": "https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax",
+                           "title": "Emacs Lisp基礎文法最速マスター",
+                           "author": "るびきち"
+                        },
+                        {
+                           "url": "http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html",
+                           "title": "GNU Emacs Lispリファレンスマニュアル"
+                        },
+                        {
+                           "url": "https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml",
+                           "title": "Google Common Lisp スタイルガイド 日本語訳",
+                           "author": "Robert Brown, François-René Rideau, TOYOZUMIKouichi 他",
+                           "notes": [
+                              "翻訳"
+                           ]
+                        },
+                        {
+                           "url": "https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog",
+                           "title": "LISP and PROLOG",
+                           "author": "畝見達夫"
+                        },
+                        {
+                           "url": "http://www.asahi-net.or.jp/~kc7k-nd",
+                           "title": "On Lisp (草稿)",
+                           "author": "Paul Graham, 野田開",
+                           "notes": [
+                              "翻訳"
+                           ]
+                        },
+                        {
+                           "url": "http://lambda.bugyo.tk/cdr/mwl",
+                           "title": "マンガで分かるLisp(Manga Guide to Lisp)",
+                           "author": "λ組"
                         }
                      ],
                      "subsections": []
@@ -9575,30 +9593,6 @@
                            "url": "https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference",
                            "title": "Visual Basic for Applications (VBA) の言語リファレンス",
                            "author": "Microsoft Docs"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Vim",
-                     "entries": [
-                        {
-                           "url": "https://nanasi.jp/code.html",
-                           "title": "Vim スクリプトリファレンス",
-                           "author": "小見拓"
-                        },
-                        {
-                           "url": "https://thinca.hatenablog.com/entry/20100201/1265009821",
-                           "title": "Vim スクリプト基礎文法最速マスター",
-                           "author": "id:thinca"
-                        },
-                        {
-                           "url": "https://vim-jp.org/vimdoc-ja/usr_41.html",
-                           "title": "Vim スクリプト書法",
-                           "author": "Bram Moolenaar, vimdoc-ja プロジェクト",
-                           "notes": [
-                              "翻訳"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -11198,11 +11192,6 @@
                            "accessNotes": "email address requested"
                         },
                         {
-                           "url": "http://www.finseth.com/craft/",
-                           "title": "The Craft of Text Editing or A Cookbook for an Emacs",
-                           "author": "Craig A. Finseth"
-                        },
-                        {
                            "url": "https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf",
                            "title": "The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft",
                            "author": "Open Standards Org - www.open-std.org",
@@ -12187,31 +12176,6 @@
                            ]
                         }
                      ]
-                  },
-                  {
-                     "section": "Emacs",
-                     "entries": [
-                        {
-                           "url": "https://www.gnu.org/software/emacs/manual/eintr.html",
-                           "title": "An Introduction to Programming in Emacs Lisp"
-                        },
-                        {
-                           "url": "https://www.finseth.com/craft/",
-                           "title": "Emacs for the Modern World",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "http://www.gnu.org/software/emacs/manual/elisp.html",
-                           "title": "GNU Emacs Lisp Reference Manual"
-                        },
-                        {
-                           "url": "https://www.gnu.org/software/emacs/manual/emacs.html",
-                           "title": "GNU Emacs Manual"
-                        }
-                     ],
-                     "subsections": []
                   },
                   {
                      "section": "Embedded Systems",
@@ -15547,7 +15511,34 @@
                            ]
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Emacs Lisp",
+                           "entries": [
+                              {
+                                 "url": "https://www.gnu.org/software/emacs/manual/eintr.html",
+                                 "title": "An Introduction to Programming in Emacs Lisp"
+                              },
+                              {
+                                 "url": "http://www.gnu.org/software/emacs/manual/elisp.html",
+                                 "title": "GNU Emacs Lisp Reference Manual"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "PicoLisp",
+                           "entries": [
+                              {
+                                 "url": "https://github.com/tj64/picolisp-by-example",
+                                 "title": "PicoLisp by Example"
+                              },
+                              {
+                                 "url": "https://github.com/tj64/picolisp-works",
+                                 "title": "PicoLisp Works"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Livecode",
@@ -16014,18 +16005,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "http://www.infoq.com/minibooks/vsnettt",
-                           "title": "Visual Studio .NET Tips and Tricks",
-                           "notes": [
-                              "VS 2003-2005 only"
-                           ]
-                        },
-                        {
-                           "url": "https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly",
-                           "title": "Visual Studio 2019 Succinctly",
-                           "author": "Alessandro Del Sole"
                         }
                      ],
                      "subsections": []
@@ -16708,20 +16687,6 @@
                            ]
                         }
                      ]
-                  },
-                  {
-                     "section": "PicoLisp",
-                     "entries": [
-                        {
-                           "url": "https://github.com/tj64/picolisp-by-example",
-                           "title": "PicoLisp by Example"
-                        },
-                        {
-                           "url": "https://github.com/tj64/picolisp-works",
-                           "title": "PicoLisp Works"
-                        }
-                     ],
-                     "subsections": []
                   },
                   {
                      "section": "PostgreSQL",
@@ -19849,64 +19814,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Vim",
-                     "entries": [
-                        {
-                           "url": "http://www.swaroopch.com/notes/vim/",
-                           "title": "A Byte of Vim"
-                        },
-                        {
-                           "url": "https://github.com/iggredible/Learn-Vim",
-                           "title": "Learn Vim (the Smart Way)",
-                           "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
-                        },
-                        {
-                           "url": "https://danielmiessler.com/study/vim/",
-                           "title": "Learn Vim For the Last Time",
-                           "author": "Daniel Miessler"
-                        },
-                        {
-                           "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
-                           "title": "Learn Vim Progressively"
-                        },
-                        {
-                           "url": "http://learnvimscriptthehardway.stevelosh.com",
-                           "title": "Learn Vimscript the Hard Way",
-                           "author": "Steve Losh"
-                        },
-                        {
-                           "url": "http://www.truth.sk/vim/vimbook-OPL.pdf",
-                           "title": "Vi Improved -- Vim",
-                           "author": "Steve Oualline",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://github.com/mhinz/vim-galore#readme",
-                           "title": "VIM-GALORE - All things Vim!",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf",
-                           "title": "Vim Recipes",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "http://vimregex.com",
-                           "title": "Vim Regular Expressions 101"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Visual Basic",
                      "entries": [
                         {
@@ -20622,17 +20529,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Common Lisp",
-                     "entries": [
-                        {
-                           "url": "http://jcubic.pl/lisp_tutorial.php",
-                           "title": "Kurs programowania w języku Common Lisp",
-                           "author": "Jakub Jankiewicz"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Haskell",
                      "entries": [
                         {
@@ -20753,6 +20649,17 @@
                            "url": "http://www.ctan.org/tex-archive/info/lshort/polish",
                            "title": "Nie za krótkie wprowadzeniedo systemu LATEX 2ε",
                            "author": "Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Lisp",
+                     "entries": [
+                        {
+                           "url": "http://jcubic.pl/lisp_tutorial.php",
+                           "title": "Kurs programowania w języku Common Lisp",
+                           "author": "Jakub Jankiewicz"
                         }
                      ],
                      "subsections": []
@@ -20942,17 +20849,7 @@
                      "entries": [],
                      "subsections": [
                         {
-                           "section": "IDE / Editores",
-                           "entries": [
-                              {
-                                 "url": "https://github.com/bylearn/VS-Code-Produtividade-Infinita",
-                                 "title": "Visual Studio Code: Produtividade infinita",
-                                 "author": "Felipe Cabrera Ribeiro dos Santos"
-                              }
-                           ]
-                        },
-                        {
-                           "section": "Vim",
+                           "section": "IDE and editors",
                            "entries": [
                               {
                                  "url": "https://code.google.com/p/vimbook",
@@ -20975,6 +20872,11 @@
                                  "notes": [
                                     "HTML"
                                  ]
+                              },
+                              {
+                                 "url": "https://github.com/bylearn/VS-Code-Produtividade-Infinita",
+                                 "title": "Visual Studio Code: Produtividade infinita",
+                                 "author": "Felipe Cabrera Ribeiro dos Santos"
                               }
                            ]
                         },
@@ -21711,7 +21613,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "LISP",
+                     "section": "Lisp",
                      "entries": [
                         {
                            "url": "http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html",
@@ -22397,6 +22299,24 @@
                               {
                                  "url": "http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html",
                                  "title": "Архитектура приложений с открытым исходным кодом"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "IDE and editors",
+                           "entries": [
+                              {
+                                 "url": "http://www.opennet.ru/docs/RUS/vim_cookbook",
+                                 "title": "Поваренная Книга Vim",
+                                 "author": "Steve Oualline"
+                              },
+                              {
+                                 "url": "http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf",
+                                 "title": "Просто о Vim",
+                                 "author": "Swaroop",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         }
@@ -23842,24 +23762,6 @@
                      "section": "Unix",
                      "entries": [],
                      "subsections": []
-                  },
-                  {
-                     "section": "Vim",
-                     "entries": [
-                        {
-                           "url": "http://www.opennet.ru/docs/RUS/vim_cookbook",
-                           "title": "Поваренная Книга Vim",
-                           "author": "Steve Oualline"
-                        },
-                        {
-                           "url": "http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf",
-                           "title": "Просто о Vim",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
                   }
                ]
             },
@@ -25252,6 +25154,105 @@
                            "url": "https://www.webstyleguide.com/wsg3/index.html",
                            "title": "Web Style Guide Online",
                            "author": "Patrick J. Lynch, Sarah Horton"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "IDE and editors",
+                     "entries": [
+                        {
+                           "url": "http://www.swaroopch.com/notes/vim/",
+                           "title": "A Byte of Vim",
+                           "author": "Swaroop",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.gnu.org/software/emacs/manual/emacs.html",
+                           "title": "GNU Emacs Manual",
+                           "author": "Free Software Foundation Inc.",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/iggredible/Learn-Vim",
+                           "title": "Learn Vim (the Smart Way)",
+                           "author": "Igor Irianto",
+                           "notes": [
+                              "HTML",
+                              ":construction: *in process*"
+                           ]
+                        },
+                        {
+                           "url": "https://danielmiessler.com/study/vim/",
+                           "title": "Learn Vim For the Last Time",
+                           "author": "Daniel Miessler"
+                        },
+                        {
+                           "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
+                           "title": "Learn Vim Progressively",
+                           "author": "Yann Esposito"
+                        },
+                        {
+                           "url": "http://learnvimscriptthehardway.stevelosh.com",
+                           "title": "Learn Vimscript the Hard Way",
+                           "author": "Steve Losh"
+                        },
+                        {
+                           "url": "http://www.finseth.com/craft/",
+                           "title": "The Craft of Text Editing or A Cookbook for an Emacs",
+                           "author": "Craig A. Finseth",
+                           "notes": [
+                              "HTML, PDF, ePUB, Kindle, PostScript, LaTeX"
+                           ]
+                        },
+                        {
+                           "url": "http://www.truth.sk/vim/vimbook-OPL.pdf",
+                           "title": "Vi Improved -- Vim",
+                           "author": "Steve Oualline",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/mhinz/vim-galore#readme",
+                           "title": "VIM-GALORE - All things Vim!",
+                           "author": "Marco Hinz",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf",
+                           "title": "Vim Recipes",
+                           "author": "Run Paint Run Run, Run Paint Press",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "http://vimregex.com",
+                           "title": "Vim Regular Expressions 101",
+                           "author": "Oleg Raisky"
+                        },
+                        {
+                           "url": "http://www.infoq.com/minibooks/vsnettt",
+                           "title": "Visual Studio .NET Tips and Tricks",
+                           "author": "Minh T. Nguyen",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly",
+                           "title": "Visual Studio 2019 Succinctly",
+                           "author": "Alessandro Del Sole",
+                           "notes": [
+                              "online, PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -28922,24 +28923,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "编辑器",
-                     "entries": [
-                        {
-                           "url": "https://github.com/yangyangwithgnu/use_vim_as_ide",
-                           "title": "所需即所获：像 IDE 一样使用 vim"
-                        },
-                        {
-                           "url": "http://exvim.github.io/docs-zh/intro/",
-                           "title": "exvim--vim 改良成IDE项目"
-                        },
-                        {
-                           "url": "https://github.com/vimcn/vimcdoc",
-                           "title": "Vim中文文档"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "编译原理",
                      "entries": [
                         {
@@ -29323,11 +29306,31 @@
                      "subsections": []
                   },
                   {
-                     "section": "IDE",
+                     "section": "IDE and editors",
                      "entries": [
                         {
+                           "url": "http://www.study-area.org/tips/vim/index.html",
+                           "title": "大家來學 VIM",
+                           "author": "Edward Lee"
+                        },
+                        {
+                           "url": "https://github.com/yangyangwithgnu/use_vim_as_ide",
+                           "title": "所需即所获：像 IDE 一样使用 vim",
+                           "author": "yangyangwithgnu"
+                        },
+                        {
+                           "url": "http://exvim.github.io/docs-zh/intro/",
+                           "title": "exvim--vim 改良成IDE项目"
+                        },
+                        {
                            "url": "https://github.com/judasn/IntelliJ-IDEA-Tutorial",
-                           "title": "IntelliJ IDEA 简体中文专题教程"
+                           "title": "IntelliJ IDEA 简体中文专题教程",
+                           "author": "Judas.n"
+                        },
+                        {
+                           "url": "https://github.com/vimcn/vimcdoc",
+                           "title": "Vim中文文档",
+                           "author": "Vim 中文计划, Yian Willis"
                         }
                      ],
                      "subsections": []
@@ -30339,7 +30342,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "LISP",
+                     "section": "Lisp",
                      "entries": [
                         {
                            "url": "http://acl.readthedocs.org/en/latest/",
@@ -30961,16 +30964,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Vim",
-                     "entries": [
-                        {
-                           "url": "http://www.study-area.org/tips/vim/index.html",
-                           "title": "大家來學 VIM"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Visual Prolog",
                      "entries": [
                         {
@@ -31176,28 +31169,6 @@
                            "url": "http://www.parens-of-the-dead.com",
                            "title": "Parens of the Dead",
                            "author": "Magnar Sveen, Elisabeth Irgens",
-                           "notes": [
-                              "screencast"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Common Lisp",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK",
-                           "title": "Common Lisp for Beginners",
-                           "author": "Neil Munro",
-                           "notes": [
-                              "screencast"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_",
-                           "title": "Little Bits of Lisp",
-                           "author": "Cecilie Baggers",
                            "notes": [
                               "screencast"
                            ]
@@ -31533,7 +31504,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "IDE and Editors",
+                     "section": "IDE and editors",
                      "entries": [
                         {
                            "url": "https://emacscast.org",
@@ -32439,6 +32410,28 @@
                            "author": "Ariana The Techie",
                            "notes": [
                               "podcast"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Lisp",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK",
+                           "title": "Common Lisp for Beginners",
+                           "author": "Neil Munro",
+                           "notes": [
+                              "screencast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_",
+                           "title": "Little Bits of Lisp",
+                           "author": "Cecilie Baggers",
+                           "notes": [
+                              "screencast"
                            ]
                         }
                      ],
@@ -36164,7 +36157,7 @@
                      ]
                   },
                   {
-                     "section": "IDE and Editors",
+                     "section": "IDE and editors",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE",
@@ -47509,7 +47502,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "IDE",
+                     "section": "IDE and editors",
                      "entries": [
                         {
                            "url": "https://www.udemy.com/course/domine-o-sublime-text/",
@@ -49654,7 +49647,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "IDE / Editors",
+                     "section": "IDE and editors",
                      "entries": [
                         {
                            "url": "https://youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE",
@@ -51073,7 +51066,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"ide--editores\">",
+                     "section": "IDE and editors",
                      "entries": [
                         {
                            "url": "https://aurelio.net/curso/material/vim-ref.html",
@@ -52100,6 +52093,17 @@
                            "author": "freeCodeCamp"
                         }
                      ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "IDE and editors",
+                     "entries": [
+                        {
+                           "url": "http://www.openvim.com/tutorial.html",
+                           "title": "Interactive Vim Tutorial",
+                           "author": "Henrik Huttunen"
+                        }
+                     ],
                      "subsections": [
                         {
                            "section": "Bootstrap",
@@ -52706,16 +52710,6 @@
                         {
                            "url": "http://sqlbolt.com",
                            "title": "SQLBolt"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Vim",
-                     "entries": [
-                        {
-                           "url": "http://www.openvim.com/tutorial.html",
-                           "title": "Interactive Vim Tutorial"
                         }
                      ],
                      "subsections": []
