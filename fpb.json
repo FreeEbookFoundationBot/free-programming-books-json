@@ -32815,7 +32815,7 @@
                         },
                         {
                            "url": "https://podcastinit.com",
-                           "title": "Podcast.",
+                           "title": "Podcast.__init__",
                            "author": "Tobias Macey",
                            "notes": [
                               "podcast"
@@ -48266,6 +48266,14 @@
                   {
                      "section": "Lua",
                      "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt",
+                           "title": "Curso de Programação Lua",
+                           "author": "Techiesse",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA",
                            "title": "Introdução a Programação com Lua",
