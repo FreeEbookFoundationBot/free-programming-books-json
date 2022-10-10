@@ -10467,6 +10467,10 @@
                      "section": "ABAP",
                      "entries": [
                         {
+                           "url": "https://aws.amazon.com/sap/docs/",
+                           "title": "SAP AWS Technical Documentation"
+                        },
+                        {
                            "url": "https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md",
                            "title": "SAP Code Style Guides - Clean ABAP"
                         }
@@ -13975,6 +13979,14 @@
                            "url": "http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf",
                            "title": "3D Programming in Java",
                            "author": "Daniel Selman",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf",
+                           "title": "A Practical Introduction to Data Structures and Algorithm Analysis Third Edition (Java Version)",
+                           "author": "Clifford A. Shaffer",
                            "notes": [
                               "PDF"
                            ]
@@ -18663,6 +18675,11 @@
                            "author": "Danielle Navarro"
                         },
                         {
+                           "url": "https://bookdown.org/rdpeng/RProgDA/",
+                           "title": "Mastering Software Development in R",
+                           "author": "Roger D. Peng, Sean Kross, and Brooke Anderson"
+                        },
+                        {
                            "url": "https://ismayc.github.io/moderndiver-book/",
                            "title": "ModernDive",
                            "author": "Chester Ismay, Albert Y. Kim"
@@ -18716,6 +18733,11 @@
                            "url": "https://en.wikibooks.org/wiki/R_Programming",
                            "title": "R Programming",
                            "author": "Wikibooks"
+                        },
+                        {
+                           "url": "https://bookdown.org/rdpeng/rprogdatascience/",
+                           "title": "R Programming for Data Science",
+                           "author": "Roger D. Peng"
                         },
                         {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly",
@@ -19110,6 +19132,11 @@
                                  "url": "https://leanpub.com/combinators/read",
                                  "title": "Kestrels, Quirky Birds, and Hopeless Egocentricity",
                                  "author": "Reg Braithwaite"
+                              },
+                              {
+                                 "url": "https://learn-rails.com/content/learnrails1",
+                                 "title": "Learn Ruby on Rails: Book One",
+                                 "author": "Daniel Kehoe"
                               },
                               {
                                  "url": "https://web.archive.org/web/20190319201525/http://objectsonrails.com/",
@@ -25932,7 +25959,7 @@
                            "author": "Marti A. Hearst"
                         },
                         {
-                           "url": "https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf",
+                           "url": "https://informatique-libre.be/swilmet/glib-gtk-book/glib-gtk-dev-platform.pdf",
                            "title": "The GLib/GTK+ Development Platform",
                            "author": "Sébastien Wilmet",
                            "notes": [
@@ -26778,6 +26805,15 @@
                            "url": "https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/",
                            "title": "How We Got from There to Here: A Story of Real Analysis",
                            "author": "Robert Rogers, Eugene Boman"
+                        },
+                        {
+                           "url": "https://openintro-ims.netlify.app",
+                           "title": "Introduction to Modern Statistics",
+                           "author": "Mine Çetinkaya-Rundel, Johanna Hardin",
+                           "notes": [
+                              "HTML, PDF",
+                              "email address required for PDF"
+                           ]
                         },
                         {
                            "url": "https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html",
@@ -27953,7 +27989,7 @@
                            "author": "Victor Eijkhout"
                         },
                         {
-                           "url": "https://computing.llnl.gov/tutorials/parallel_comp/",
+                           "url": "https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial",
                            "title": "Introduction to Parallel Computing",
                            "author": "Blaise Barney"
                         },
@@ -33087,6 +33123,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu",
+                           "title": "Clean Code Lessons by Robert C. Martin",
+                           "author": "Robert C. Martin"
+                        },
+                        {
                            "url": "https://www.codenewbie.org/podcast",
                            "title": "CodeNewbie",
                            "author": "CodeNewbie Team",
@@ -34238,6 +34279,14 @@
                            "url": "https://compilando.audio",
                            "title": "Compilando Podcast",
                            "author": "Paco Estrada",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.mangocast.net",
+                           "title": "Mangocast",
+                           "author": "Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia",
                            "notes": [
                               "podcast"
                            ]
@@ -38302,6 +38351,11 @@
                            "author": "Erik Demaine"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT",
+                           "title": "Advanced Data Structures",
+                           "author": "Uzair Javed Akhtar"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5",
                            "title": "Algorithm Design and Implementation"
                         },
@@ -39597,6 +39651,15 @@
                            "section": "SQL",
                            "entries": [
                               {
+                                 "url": "https://university.cockroachlabs.com/courses/course-v1:crl+getting-started-with-sql-for-app-devs+self-paced/about",
+                                 "title": "Getting Started with SQL for Application Developers",
+                                 "author": "Wade Waldron",
+                                 "notes": [
+                                    "Cockroach Labs Inc."
+                                 ],
+                                 "accessNotes": "email address required"
+                              },
+                              {
                                  "url": "https://www.edx.org/course/introduction-to-database-queries",
                                  "title": "Introduction to Database Queries",
                                  "author": "Aspen Olmsted",
@@ -39611,6 +39674,15 @@
                                  "notes": [
                                     "Udemy"
                                  ]
+                              },
+                              {
+                                 "url": "https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about",
+                                 "title": "Introduction to Distributed SQL and CockroachDB",
+                                 "author": "Lauren Hirata Singh and Will Cross",
+                                 "notes": [
+                                    "Cockroach Labs Inc."
+                                 ],
+                                 "accessNotes": "email address required"
                               },
                               {
                                  "url": "https://popsql.com/learn-sql",
@@ -39789,6 +39861,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
                            "title": "Digital Electronics",
                            "author": "Neso Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-",
+                           "title": "Digital Electronics for GATE",
+                           "author": "Tutorials Point India Ltd."
                         }
                      ],
                      "subsections": []
@@ -41260,6 +41337,14 @@
                                  ]
                               },
                               {
+                                 "url": "https://scrimba.com/learn/learnreact",
+                                 "title": "Learn React for Free",
+                                 "author": "Bob Ziroll",
+                                 "notes": [
+                                    "scrimba"
+                                 ]
+                              },
+                              {
                                  "url": "https://progate.com/languages/react",
                                  "title": "React",
                                  "notes": [
@@ -41501,6 +41586,14 @@
                   {
                      "section": "Julia",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsH4hc788Z1f1e61DN3EV9AhDlpbhhanw",
+                           "title": "GeoStats.jl Tutorials",
+                           "author": "Julio Hoffimann",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE",
                            "title": "Julia Tutorials (Basic)",
@@ -42026,6 +42119,14 @@
                            "author": "Coder's Tape",
                            "notes": [
                               "2019"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=MYyJ4PuL4pY",
+                           "title": "Laravel From Scratch 2022 | 4+ Hour Course",
+                           "author": "Traversy Media",
+                           "notes": [
+                              "YouTube"
                            ]
                         },
                         {
@@ -46885,6 +46986,11 @@
                            "author": "Sandhika Galih, Web Programming UNPAS"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h",
+                           "title": "Belajar TAILWINDCSS",
+                           "author": "Web Programming UNPAS"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p",
                            "title": "CSS Dasar",
                            "author": "Web Programming UNPAS"
@@ -47412,6 +47518,14 @@
                            "url": "https://www.dicoding.com/academies/177",
                            "title": "Belajar Dasar Visualisasi Data",
                            "author": "Dicoding, membutuhkan registrasi"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=WH1SduDRL_Y&t=2s",
+                           "title": "Belajar Machine Learning Dari Awal Buat Yang Ga Jago Matematika",
+                           "author": "array id",
+                           "notes": [
+                              "Youtube"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx",
@@ -51298,6 +51412,14 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO",
+                           "title": "Curso Shell GNU",
+                           "author": "debxp",
+                           "notes": [
+                              "YouTube"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -51334,6 +51456,11 @@
                            "notes": [
                               "YouTube"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/glaucia86/curso-typescript-zero-to-hero",
+                           "title": "Typescript - Zero to Hero",
+                           "author": "Glaucia Lemos"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=0mYq5LrQN1s",
@@ -52340,6 +52467,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD",
                            "title": "Machine Learning in Tamil",
                            "author": "Majaa Matrix"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM",
+                           "title": "Machine Learning in Tamil",
+                           "author": "Nithya Duraisamy"
                         }
                      ],
                      "subsections": []
@@ -54178,6 +54310,14 @@
                            ]
                         },
                         {
+                           "url": "https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e",
+                           "title": "Git Cheat Sheet (id)",
+                           "author": "Reyhan Alhafizal",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://training.github.com/downloads/pl/github-git-cheat-sheet/",
                            "title": "Git ściąga (pl)",
                            "author": "GitHub",
@@ -55407,6 +55547,11 @@
                            "title": "Learn Git Branching"
                         },
                         {
+                           "url": "https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc",
+                           "title": "Learn git concepts, not commands",
+                           "author": "Nico Riedmann, Dev.to"
+                        },
+                        {
                            "url": "https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud",
                            "title": "Learn Git with Bitbucket Cloud"
                         },
@@ -55914,6 +56059,11 @@
                         {
                            "url": "https://github.com/chicagoruby/MongoDB_Koans",
                            "title": "MongoDB Koans"
+                        },
+                        {
+                           "url": "https://www.w3schools.com/mongodb",
+                           "title": "MongoDB Tutorial",
+                           "author": "W3Schools"
                         },
                         {
                            "url": "http://try.redis.io",
@@ -57326,6 +57476,10 @@
                            "title": "Microcorruption"
                         },
                         {
+                           "url": "https://my.newtonschool.co/contest/all",
+                           "title": "Newton School"
+                        },
+                        {
                            "url": "https://oj.uz",
                            "title": "oj.uz"
                         },
@@ -57532,6 +57686,10 @@
                         {
                            "url": "https://cses.fi/problemset/",
                            "title": "CSES Problem Set"
+                        },
+                        {
+                           "url": "https://a2oj.herokuapp.com",
+                           "title": "Dynamic A2OJ Ladder"
                         },
                         {
                            "url": "https://edabit.com",
