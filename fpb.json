@@ -2741,15 +2741,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf",
-                           "title": "Introducción a la programación con C",
-                           "author": "Andrés Marzal, Isabel Gracia",
-                           "notes": [
-                              "PDF",
-                              "descarga directa"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -6838,14 +6829,6 @@
                               "PDF"
                            ],
                            "accessNotes": ":card_file_box: archived"
-                        },
-                        {
-                           "url": "http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf",
-                           "title": "Linguaggio C - Guida alla programmazione (1999)",
-                           "author": "A. Bellini, A. Guidi",
-                           "notes": [
-                              "PDF"
-                           ]
                         },
                         {
                            "url": "http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf",
@@ -11804,7 +11787,7 @@
                            ]
                         },
                         {
-                           "url": "https://fbb-git.gitlab.io/cppannotations/",
+                           "url": "https://fbb-git.gitlab.io/cppannotations",
                            "title": "C++ Annotations",
                            "author": "Frank B. Brokken",
                            "notes": [
@@ -11815,6 +11798,14 @@
                            "url": "https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md",
                            "title": "C++ Core Guidelines",
                            "author": ""
+                        },
+                        {
+                           "url": "https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf",
+                           "title": "C++ For Programmers",
+                           "author": "JT Kalnay",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf",
@@ -12405,6 +12396,11 @@
                   {
                      "section": "DBMS",
                      "entries": [
+                        {
+                           "url": "https://bookdown.org/kokkodis/book/",
+                           "title": "Data Management for Analytics and Applications (2021)",
+                           "author": "Marios Kokkodis"
+                        },
                         {
                            "url": "http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf",
                            "title": "Database Management Systems eBooks For All Edition",
@@ -15726,6 +15722,10 @@
                         {
                            "url": "http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/",
                            "title": "Inferno Programming With Limbo"
+                        },
+                        {
+                           "url": "http://resibots.eu/limbo/#limbo-s-documentation",
+                           "title": "Limbo’s documentation"
                         }
                      ],
                      "subsections": []
@@ -18662,6 +18662,11 @@
                            "author": "Sara Altman, Bill Behrman, Hadley Wickham"
                         },
                         {
+                           "url": "https://geocompr.robinlovelace.net",
+                           "title": "Geocomputation with R",
+                           "author": "RobinLovelace, Jakub Nowosad, Jannes Muenchow"
+                        },
+                        {
                            "url": "https://github.com/gjkerns/IPSUR",
                            "title": "Introduction to Probability and Statistics Using R",
                            "author": "G. Jay Kerns",
@@ -18909,6 +18914,13 @@
                         {
                            "url": "https://magpi.raspberrypi.com/books/projects-1",
                            "title": "The Official Raspberry Pi Project Book 1 (2015)",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://magpi.raspberrypi.com/books/projects-2",
+                           "title": "The Official Raspberry Pi Project Book 2 (2016)",
                            "notes": [
                               "PDF"
                            ]
@@ -21599,14 +21611,6 @@
                         {
                            "section": "Sistemas Operacionais",
                            "entries": [
-                              {
-                                 "url": "https://www.gnulinuxbrasil.com.br/2017/05/24/guia-com-mais-de-500-comandos-do-linux-explicados/",
-                                 "title": "Guia com mais de 500 comandos do Linux explicados",
-                                 "author": "Bruno Andrade",
-                                 "notes": [
-                                    "PDF"
-                                 ]
-                              },
                               {
                                  "url": "https://www.guiafoca.org/#download",
                                  "title": "Guia Foca Linux",
@@ -26816,9 +26820,12 @@
                            ]
                         },
                         {
-                           "url": "https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html",
+                           "url": "https://math.dartmouth.edu/~prob/prob/prob.pdf",
                            "title": "Introduction to Probability",
-                           "author": "Charles M. Grinstead, J. Laurie Snell"
+                           "author": "Charles M. Grinstead, J. Laurie Snell",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/",
@@ -28318,12 +28325,11 @@
                            "title": "Security Engineering"
                         },
                         {
-                           "url": "https://web.engr.oregonstate.edu/~rosulekm/crypto/",
+                           "url": "https://joyofcryptography.com/pdf/book.pdf",
                            "title": "The Joy of Cryptography (2021)",
                            "author": "Mike Rosulek",
                            "notes": [
-                              "PDF",
-                              ":construction: *in process*"
+                              "PDF"
                            ]
                         }
                      ],
@@ -37910,6 +37916,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt",
                            "title": "Mastering MongoDB",
                            "author": "Foyzul Karim"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9",
+                           "title": "MongoDB Bangla tutorial series",
+                           "author": "Anisul Islam"
                         }
                      ],
                      "subsections": []
@@ -39161,6 +39172,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+                           "title": "C++ Programming Course - Beginner to Advanced",
+                           "author": "FreeCodeCamp"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK",
                            "title": "C++ Programming Tutorial for Beginners (For Absolute Beginners)",
                            "author": "ProgrammingKnowledge"
@@ -39444,6 +39460,14 @@
                            "title": "Advanced Data Mining with Weka MOOC"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2",
+                           "title": "Apache Airflow Tutorials",
+                           "author": "Tuan Vu",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
+                        {
                            "url": "https://cognitiveclass.ai/learn/data-science-with-python",
                            "title": "Applied Data Science with Python",
                            "author": "CognitiveClass.ai"
@@ -39477,11 +39501,27 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT",
+                           "title": "Data Build Tool (dbt)",
+                           "author": "Kahan Data Solutions",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
+                        {
                            "url": "https://www.kaggle.com/learn/data-cleaning",
                            "title": "Data Cleaning",
                            "author": "Rachael Tatman",
                            "notes": [
                               "Kaggle"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO",
+                           "title": "Data Engineering",
+                           "author": "Kahan Data Solutions",
+                           "notes": [
+                              "YouTube"
                            ]
                         },
                         {
@@ -40005,9 +40045,28 @@
                            "author": "The Net Ninja"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1",
+                           "title": "Free Flutter Animations Course",
+                           "author": "The Net Ninja"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
                            "title": "Free Flutter Course",
                            "author": "Vandad Nahavandipoor",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Fortran",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=__2UgFNYgf8",
+                           "title": "Fortran Tutorial",
+                           "author": "Derek Banas",
                            "notes": [
                               "YouTube"
                            ]
@@ -41921,6 +41980,11 @@
                         {
                            "url": "https://www.coursera.org/learn/machine-learning",
                            "title": "Stanford University Machine Learning"
+                        },
+                        {
+                           "url": "https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp",
+                           "title": "Understand Machine Learning Engineering by Building Projects",
+                           "author": "Alexey Grigorev"
                         }
                      ],
                      "subsections": []
@@ -43082,11 +43146,27 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+                           "title": "TypeScript Course for Beginners- Learn TypeScript from Scratch!",
+                           "author": "Academind",
+                           "notes": [
+                              "Youtube"
+                           ]
+                        },
+                        {
                            "url": "https://www.udemy.com/typescript-fast-crash-course/",
                            "title": "TypeScript Fast Crash Course",
                            "author": "Edwin Diaz, Coding Faculty Solutions",
                            "notes": [
                               "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=d56mG7DezGs",
+                           "title": "TypeScript Tutorial for Beginners - 2022",
+                           "author": "Programming with Mosh",
+                           "notes": [
+                              "Youtube"
                            ]
                         }
                      ],
@@ -44388,6 +44468,17 @@
                         {
                            "url": "https://www.coursera.org/learn/a-programar",
                            "title": "Scratch. Una introducción a la programación"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "VS Code",
+                     "entries": [
+                        {
+                           "url": "https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/",
+                           "title": "Visual Studio Code: Mejora tu velocidad para codificar",
+                           "author": "Fernando Herrera"
                         }
                      ],
                      "subsections": []
@@ -46223,6 +46314,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
                            "title": "Statistics And Probability",
                            "author": "Gajendra Purohit"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Mongo DB",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa",
+                           "title": "Mongo DB full course for beginners"
                         }
                      ],
                      "subsections": []
@@ -50981,6 +51082,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=XN705pQeoyU&list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE",
+                           "title": "Curso de Node",
+                           "author": "Bruno CFBCursos",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B",
                            "title": "Curso de Node.js",
                            "author": "Victor Lima Guia do Programador",
@@ -52504,6 +52613,17 @@
                            "url": "https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp",
                            "title": "Python Tutorial in Tamil",
                            "author": "SANTRA TECHSPOT"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "R",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC",
+                           "title": "R Tutorial in Tamil",
+                           "author": "Tutor Joe's Stanley"
                         }
                      ],
                      "subsections": []
@@ -54374,6 +54494,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "GraphQL",
+                     "entries": [
+                        {
+                           "url": "[https://devhints.io/go](https://devhints.io/graphql)",
+                           "title": "GraphQL Cheatsheet",
+                           "author": "devhints, Rico Santa Cruz",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "HTML and CSS",
                      "entries": [
                         {
@@ -54397,6 +54531,14 @@
                            "author": "CodeWithHarry",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf",
+                           "title": "CSS Cheatsheet",
+                           "author": "Stanford",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -55071,6 +55213,19 @@
                                  ]
                               }
                            ]
+                        },
+                        {
+                           "section": "Flask",
+                           "entries": [
+                              {
+                                 "url": "https://www.codewithharry.com/blogpost/flask-cheatsheet/",
+                                 "title": "Flask Cheatsheet",
+                                 "author": "Code with Harry",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              }
+                           ]
                         }
                      ]
                   },
@@ -55281,6 +55436,20 @@
                               "PDF"
                            ],
                            "accessNotes": ":card_file_box: archived"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Webpack",
+                     "entries": [
+                        {
+                           "url": "https://devhints.io/webpack",
+                           "title": "Webpack cheatsheet",
+                           "author": "devhints, Rico Santa Cruz",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -57416,6 +57585,10 @@
                            "title": "Codingame"
                         },
                         {
+                           "url": "https://cp-algorithms.com",
+                           "title": "CP Algorithms"
+                        },
+                        {
                            "url": "https://cses.fi/problemset",
                            "title": "CSES Problem Set"
                         },
@@ -57742,6 +57915,10 @@
                         {
                            "url": "http://wcipeg.com",
                            "title": "PEG Judge"
+                        },
+                        {
+                           "url": "https://www.pepcoding.com/resources",
+                           "title": "Pep Coding"
                         },
                         {
                            "url": "http://poj.org",
