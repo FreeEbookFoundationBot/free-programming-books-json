@@ -845,14 +845,6 @@
                      "section": "<a id=\"csharp\">",
                      "entries": [
                         {
-                           "url": "http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf",
-                           "title": "Programovací jazyk C#",
-                           "author": "Marek Běhálek",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf",
                            "title": "Systémové programování v jazyce C#",
                            "notes": [
@@ -6003,6 +5995,11 @@
                            "notes": [
                               ":construction: *in process*"
                            ]
+                        },
+                        {
+                           "url": "https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/",
+                           "title": "Tutorial Belajar Bahasa Pemrograman C Untuk Pemula",
+                           "author": "Duniailkom"
                         }
                      ],
                      "subsections": []
@@ -6105,6 +6102,11 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=fQbTeNX1mvM",
+                           "title": "Tutorial Git Dasar",
+                           "author": "Programmer Zaman Now"
                         }
                      ],
                      "subsections": []
@@ -6139,10 +6141,6 @@
                   {
                      "section": "HTML and CSS",
                      "entries": [
-                        {
-                           "url": "http://www.ariona.net/ebook-belajar-html-dan-css/",
-                           "title": "Belajar HTML dan CSS"
-                        },
                         {
                            "url": "https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/",
                            "title": "Ebook Belajar HTML Dan CSS Dasar"
@@ -9193,7 +9191,7 @@
                            "author": "新原雅司"
                         },
                         {
-                           "url": "https://prev.net-newbie.com/support/pdf2/",
+                           "url": "https://net-newbie.com/prev/support/pdf2/",
                            "title": "PHP4徹底攻略改訂版"
                         },
                         {
@@ -11491,13 +11489,13 @@
                            ]
                         },
                         {
-                           "url": "https://web.archive.org/web/20211006163041/http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf",
+                           "url": "https://archive.org/download/let-us-c/LET%20US%20C.pdf",
                            "title": "Let us C",
                            "author": "Yashavant Kanetkar",
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": ":card_file_box: latest 14th edition"
                         },
                         {
                            "url": "https://ben.klemens.org/pdfs/gsl_stats.pdf",
@@ -22579,6 +22577,31 @@
                            ]
                         },
                         {
+                           "url": "https://blauaraujo.com/downloads/shell-pattern-matching.pdf",
+                           "title": "Casamento de Padrões no Shell do GNU/Linux",
+                           "author": "Blau Araújo",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://blauaraujo.com/downloads/cipb-guia.pdf",
+                           "title": "Curso Intensivo de Programação do Bash - Guia de Estudos",
+                           "author": "Blau Araújo",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://blauaraujo.com/downloads/curso-shell-gnu.pdf",
+                           "title": "Curso Shell GNU",
+                           "author": "Blau Araújo",
+                           "notes": [
+                              "PDF",
+                              ":construction: *in process*"
+                           ]
+                        },
+                        {
                            "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
                            "title": "Introdução ao Shell Script",
                            "author": "Aurelio Marinho Jargas",
@@ -22589,6 +22612,14 @@
                         {
                            "url": "https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf",
                            "title": "Pequena introdução ao linux e ao Shell Script",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://blauaraujo.com/downloads/pmpgb.pdf",
+                           "title": "Pequeno Manual do Programador GNU/Bash",
+                           "author": "Blau Araújo",
                            "notes": [
                               "PDF"
                            ]
@@ -25118,7 +25149,7 @@
                            ]
                         },
                         {
-                           "url": "https://chain.courses",
+                           "url": "https://web.archive.org/web/20220127020549/https://chain.courses/",
                            "title": "chain.courses",
                            "author": "James Gan, Rishub Kumar"
                         },
@@ -25365,9 +25396,12 @@
                            "author": "Torben Mogensen"
                         },
                         {
-                           "url": "http://www.holub.com/software/compiler.design.in.c.html",
+                           "url": "https://holub.com/goodies/compiler/compilerDesignInC.pdf",
                            "title": "Compiler Design in C (1990)",
-                           "author": "Allen Holub, Prentice Hall"
+                           "author": "Allen Holub, Prentice Hall",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf",
@@ -25399,7 +25433,7 @@
                            "author": "F.R.A. Hopgood, Macdonald"
                         },
                         {
-                           "url": "http://www.craftinginterpreters.com",
+                           "url": "http://www.craftinginterpreters.com/contents.html",
                            "title": "Crafting Interpreters",
                            "author": "Bob Nystrom",
                            "notes": [
@@ -26209,14 +26243,6 @@
                            ]
                         },
                         {
-                           "url": "https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf",
-                           "title": "Deep Learning with PyTorch",
-                           "author": "Eli Stevens, Luca Antiga, Thomas Viehmann",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "http://d2l.ai",
                            "title": "Dive into Deep Learning"
                         },
@@ -26226,7 +26252,7 @@
                            "author": "James L. McClelland"
                         },
                         {
-                           "url": "https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover",
+                           "url": "https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover",
                            "title": "Foundations of Machine Learning, Second Edition",
                            "author": "Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar"
                         },
@@ -26624,9 +26650,12 @@
                            ]
                         },
                         {
-                           "url": "https://mitpress.ublish.com/ereader/77/?preview#page/Cover",
+                           "url": "https://math.mit.edu/~dspivak/CT4S.pdf",
                            "title": "Category Theory for the Sciences",
-                           "author": "David I. Spivak"
+                           "author": "David I. Spivak",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/",
@@ -27977,7 +28006,7 @@
                            ]
                         },
                         {
-                           "url": "https://web.archive.org/web/20170702124132/https://hpc.llnl.gov/training/tutorials",
+                           "url": "https://hpc.llnl.gov/documentation/tutorials",
                            "title": "High Performance Computing Training",
                            "notes": [
                               "LLNL materials"
@@ -29618,11 +29647,6 @@
                   {
                      "section": "Python",
                      "entries": [
-                        {
-                           "url": "https://www.ofenerci.github.io/thinkcspy-tr",
-                           "title": "Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme",
-                           "author": "Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers"
-                        },
                         {
                            "url": "https://python-istihza.yazbel.com",
                            "title": "Python Programlama Dili",
@@ -34638,6 +34662,14 @@
             },
             {
                "language": {
+                  "code": "nl",
+                  "name": "Dutch, Flemish"
+               },
+               "index": {},
+               "sections": []
+            },
+            {
+               "language": {
                   "code": "pl",
                   "name": "Polish"
                },
@@ -39030,6 +39062,11 @@
                            ]
                         },
                         {
+                           "url": "https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network",
+                           "title": "Build an IoT Blockchain Network for a Supply Chain",
+                           "author": "CognitiveClass.ai"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/your-first-decentralized-app/",
                            "title": "Build and Deploy Your First Decentralized App with Etherem",
                            "author": "Gary Simon",
@@ -43361,10 +43398,6 @@
                            "notes": [
                               "Udemy"
                            ]
-                        },
-                        {
-                           "url": "https://www.freecodecamp.org",
-                           "title": "Free Code Camp"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb",
@@ -54739,6 +54772,14 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://introcs.cs.princeton.edu/java/11cheatsheet/",
+                           "title": "Java Programming Cheatsheet",
+                           "author": "Robert Sedgewick and Kevin Wayne",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -54914,6 +54955,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.mirantis.com/blog/kubernetes-cheat-sheet/",
+                           "title": "Kubernetes Cheat Sheet",
+                           "author": "Nick Chase",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://spacelift.io/blog/kubernetes-cheat-sheet",
                            "title": "Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects",
                            "author": "Spacelift",
@@ -54967,6 +55016,14 @@
                            "url": "https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf",
                            "title": "MATLAB Basic Functions Reference Sheet",
                            "author": "MathWorks",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://sites.nd.edu/gfu/files/2019/07/cheatsheet.pdf",
+                           "title": "Matlab Cheat Sheet",
+                           "author": "Thor Nielsen",
                            "notes": [
                               "PDF"
                            ]
@@ -55239,6 +55296,14 @@
                            "notes": [
                               "HTML site with PDF links"
                            ]
+                        },
+                        {
+                           "url": "https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf",
+                           "title": "Base R Cheatsheet",
+                           "author": "Mhairi McNeill",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -55296,6 +55361,14 @@
                            "url": "https://www.codeconquest.com/wp-content/uploads/Ruby-Cheat-Sheet-by-CodeConquestDOTcom.pdf",
                            "title": "Ruby Cheat Sheet",
                            "author": "CodeConquest.com",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://rubymonstas.ch/materials/canonical/session05/session5-ruby-cheat-sheet.pdf",
+                           "title": "Ruby monstas Ruby cheat sheet",
+                           "author": "rubymonstas.ch",
                            "notes": [
                               "PDF"
                            ]
@@ -55401,6 +55474,14 @@
                            "url": "https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf",
                            "title": "SQL Cheat Sheet",
                            "author": "Dataquest.io",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf",
+                           "title": "SQL Cheat Sheet by Tomi Mester",
+                           "author": "Tomi Mester",
                            "notes": [
                               "PDF"
                            ]
@@ -57857,8 +57938,16 @@
                            "author": "CodingNinjas"
                         },
                         {
+                           "url": "https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms",
+                           "title": "Coding Ninjas Guided Paths"
+                        },
+                        {
                            "url": "https://cses.fi/problemset/",
                            "title": "CSES Problem Set"
+                        },
+                        {
+                           "url": "https://www.codechef.com/LEARNDSA",
+                           "title": "DSA Learning Series"
                         },
                         {
                            "url": "https://a2oj.herokuapp.com",
