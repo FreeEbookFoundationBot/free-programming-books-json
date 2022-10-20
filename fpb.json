@@ -9535,14 +9535,6 @@
                            ]
                         },
                         {
-                           "url": "https://nuss.nagoya-u.ac.jp/index.php/s/kN6ZxsyReNzRPlM",
-                           "title": "統計解析ソフトRのスクリプト集",
-                           "author": "石井秀宗",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html",
                            "title": "無料統計ソフトRで心理学",
                            "author": "奥村泰之"
@@ -27416,6 +27408,11 @@
                            "url": "https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/",
                            "title": "Exploring Math for Programmers and Data Scientists",
                            "author": "Paul Orland"
+                        },
+                        {
+                           "url": "https://github.com/liuxinyu95/unplugged",
+                           "title": "Isomorphism -- Mathematics of Programming",
+                           "author": "Larry LIU Xinyu"
                         },
                         {
                            "url": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
@@ -49708,6 +49705,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9",
                            "title": "Corso rapido Python per principianti e per esempi",
                            "author": "Fabrizio Camuso"
+                        },
+                        {
+                           "url": "https://www.programmareinpython.it/video-corso-python-base/",
+                           "title": "Le Basi di Python - Corso Completo",
+                           "author": "Michele Saba"
                         }
                      ],
                      "subsections": []
