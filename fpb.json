@@ -7535,8 +7535,8 @@
                      "section": "Visual Basic",
                      "entries": [
                         {
-                           "url": "http://www.webalice.it/kindofapple/corsovb.pdf",
-                           "title": "Corso Visual Basic",
+                           "url": "https://vbscuola.it/VB2010/A_Scuola_con_VB2010.pdf",
+                           "title": "A Scuola con VB2010",
                            "notes": [
                               "PDF"
                            ]
@@ -50564,14 +50564,6 @@
                            "notes": [
                               "금오공대 최태영"
                            ]
-                        },
-                        {
-                           "url": "https://jihooyim1.gitbooks.io/linuxbasic/content",
-                           "title": "Linux Kernel Basic",
-                           "author": "Jihoo Yim",
-                           "notes": [
-                              "gitbook"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -54161,6 +54153,36 @@
                      "subsections": []
                   },
                   {
+                     "section": "Flutter",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv_sM9ZH4RUXoDYMCpMwHNHz875lzTRcH",
+                           "title": "Dart & Flutter Tutorials in Telugu",
+                           "author": "Kotha Abhishek",
+                           "notes": [
+                              "Chintu Tutorials"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=TvSK-451TcA",
+                           "title": "Dart Tutorial for Flutter in Telugu",
+                           "author": "Sai Gopi",
+                           "notes": [
+                              "Sai Gopi"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLbVPygGblyBwT55MkWTpFeBJdyymx1MIV",
+                           "title": "Flutter Andorid App Beginner Tutorials Telugu",
+                           "author": "Vamshee",
+                           "notes": [
+                              "codewithvamshee"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -54968,6 +54990,11 @@
                   {
                      "section": "Go",
                      "entries": [
+                        {
+                           "url": "https://github.com/zalopay-oss/go-advanced",
+                           "title": "Go Language Advanced Programming",
+                           "author": "Zalopay"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k",
                            "title": "Lập trình Golang",
