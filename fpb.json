@@ -39888,6 +39888,14 @@
                            "author": "Neso Academy"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLXj4XH7LcRfC9pGMWuM6UWE3V4YZ9TZzM",
+                           "title": "Compiler Design",
+                           "author": "Sudhakar Atchala",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i",
                            "title": "Compilers",
                            "author": "Ghassan Shobaki",
@@ -47229,6 +47237,22 @@
                      ]
                   },
                   {
+                     "section": "iOS",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=n7qOGHWunUY",
+                           "title": "iOS App Development Crash Course in Hindi",
+                           "author": "Akash Padhiyar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo",
+                           "title": "IOS Mobile App Development Tutorial for beginners",
+                           "author": "Fahad Hussain"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -47894,6 +47918,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2",
                            "title": "Software Engineering",
                            "author": "Gate Smashers"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Swift",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO",
+                           "title": "Swift Tutorials For Beginners(Full) in Hindi.",
+                           "author": "Yogesh Patel"
                         }
                      ],
                      "subsections": []
@@ -54153,6 +54188,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "<a id=\"ds\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLXj4XH7LcRfBJVCGguyIFbyj__hDSSBm9",
+                           "title": "Stacks and Queues in Telugu || Data Structures in Telugu",
+                           "author": "Sudhakar Atchala",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Flutter",
                      "entries": [
                         {
@@ -54655,7 +54704,7 @@
                "index": {},
                "sections": [
                   {
-                     "section": "Уровни",
+                     "section": "Рівні",
                      "entries": [],
                      "subsections": []
                   },
@@ -54712,6 +54761,11 @@
                         {
                            "url": "https://sites.google.com/site/pythonukr/vstup",
                            "title": "Програмування на мові Python (3.x). Початковий курс"
+                        },
+                        {
+                           "url": "https://ela.kpi.ua/handle/123456789/25111",
+                           "title": "Основи програмування. Python. Частина 1 - КПІ",
+                           "author": "А.В. Яковенко"
                         }
                      ],
                      "subsections": []
