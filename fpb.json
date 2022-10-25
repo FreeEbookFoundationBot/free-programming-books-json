@@ -12040,6 +12040,16 @@
                      "subsections": []
                   },
                   {
+                     "section": "Carbon",
+                     "entries": [
+                        {
+                           "url": "https://documentation-service.arm.com/static/5ed10fa8ca06a95ce53f8dc5",
+                           "title": "Carbon Compiler User Manual"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Chapel",
                      "entries": [
                         {
@@ -23177,6 +23187,11 @@
                                  "url": "https://www.fprog.ru",
                                  "title": "Практика функционального программирования",
                                  "author": "журнал"
+                              },
+                              {
+                                 "url": "https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-ru/README.md",
+                                 "title": "Рефакторинг на максималках",
+                                 "author": "Александр Беспоясов"
                               }
                            ]
                         },
@@ -28806,6 +28821,11 @@
                            "notes": [
                               "email address *requested*"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md",
+                           "title": "Refactor Like a Superhero",
+                           "author": "Alex Bespoyasov"
                         },
                         {
                            "url": "http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2",
@@ -35153,7 +35173,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.cocoaheads.com.br/podcasts",
+                           "url": "https://podcasts-brasileiros.com/podcast/cocoaheads-brasil",
                            "title": "CocoaHeads",
                            "notes": [
                               "podcast"
@@ -38532,6 +38552,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf",
                            "title": "Wordpress Bangla Tutorial Course for beginner to advanced level",
                            "author": "Freelancer Mannan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l",
+                           "title": "WordPress Theme Development Tutorial Bangla ",
+                           "author": "Procoder BD"
                         }
                      ],
                      "subsections": []
@@ -39790,6 +39815,11 @@
                         {
                            "url": "http://mooc.fi/courses/2014/clojure/",
                            "title": "Functional Programming with Clojure"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq",
+                           "title": "Poetry of Programming - Clojure for Beginners",
+                           "author": "Attila EGRI-NAGY"
                         }
                      ],
                      "subsections": []
@@ -41768,6 +41798,11 @@
                            ]
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK",
+                           "title": "Creative Coding for Complete Beginners",
+                           "author": "Algorithmic Art"
+                        },
+                        {
                            "url": "https://egghead.io/courses/cycle-js-fundamentals",
                            "title": "Cycle.js Fundamentals",
                            "author": "André Staltz"
@@ -43224,6 +43259,11 @@
                            "notes": [
                               "Coursera"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=PXMJ6FS7llk",
+                           "title": "Automate with Python - Full course for Beginners",
+                           "author": "FreeCodeCamp"
                         },
                         {
                            "url": "https://bento.io/topic/python",
@@ -46676,6 +46716,11 @@
                            "author": "Innovate India"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=RkYVVC2vXho",
+                           "title": "Complete Blockchain Development Course for Beginners in Hindi",
+                           "author": "web3Mantra"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh",
                            "title": "Solidity ^0.8 | Blockchain | In Hindi",
                            "author": "Pepcoding",
@@ -47072,6 +47117,22 @@
                            "url": "https://www.youtube.com/playlist?list=PLz7ymP4HzwSH3vAnhDWLkO2TLbwGeigl7",
                            "title": "Flutter Widgets in Hindi",
                            "author": "Ahirlog"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Game Development",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=Wg9J5kiX0wY",
+                           "title": "Complete Course on Python Game Development",
+                           "author": "Techonical Infotech Pvt. Ltd."
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc",
+                           "title": "Game Development Course",
+                           "author": "Farhan Aqeel"
                         }
                      ],
                      "subsections": []
@@ -47622,6 +47683,22 @@
                            "url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
                            "title": "Statistics And Probability",
                            "author": "Gajendra Purohit"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Matlab",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=iS5J4TlLSEM",
+                           "title": "Matlab Complete Course",
+                           "author": "Armughan Ali"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfdIlwG649bdzVHM4iLbD_H",
+                           "title": "MATLAB Complete Tutorial in Hindi",
+                           "author": "WsCube Tech"
                         }
                      ],
                      "subsections": []
@@ -54527,6 +54604,11 @@
                            "notes": [
                               "Çev. Ali Yazıcı - Haluk Ar"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ",
+                           "title": "Algoritmaları Anlamak",
+                           "author": "Fatih Özkaynak"
                         }
                      ],
                      "subsections": []
