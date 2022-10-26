@@ -6660,7 +6660,8 @@
                               },
                               {
                                  "url": "http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html",
-                                 "title": "Programmazione Funzionale"
+                                 "title": "Programmazione Funzionale",
+                                 "author": "Massimo Maria Ghisalberti"
                               }
                            ]
                         },
@@ -9110,22 +9111,6 @@
                            "url": "https://marycore.jp/prog/objective-c/basic-syntax",
                            "title": "Objective-C 2.0 基礎文法最速マスター",
                            "author": "@_marycore"
-                        },
-                        {
-                           "url": "https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf",
-                           "title": "Objective-C によるプログラミング",
-                           "author": "Apple Developer",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf",
-                           "title": "Objective-C プログラミングの概念",
-                           "author": "Apple Developer",
-                           "notes": [
-                              "PDF"
-                           ]
                         },
                         {
                            "url": "https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf",
@@ -22662,6 +22647,14 @@
                            "title": "O tutorial de Python"
                         },
                         {
+                           "url": "https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf",
+                           "title": "Pensando Tkinter",
+                           "author": "Steven Ferg",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://penseallen.github.io/PensePython2e",
                            "title": "Pense em Python"
                         },
@@ -29504,7 +29497,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-selenium-in-tamil/",
                            "title": "எளிய தமிழில் Selenium",
-                           "author": "Nithya Durai",
+                           "author": "து.நித்யா",
                            "notes": [
                               "PDF"
                            ]
@@ -29627,6 +29620,17 @@
                            "url": "http://it.e-tech.ac.th/poohdevil/JavaConcepts/",
                            "title": "Java Programming Concept",
                            "author": "Rungrote Phonkam"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "PHP",
+                     "entries": [
+                        {
+                           "url": "http://marcuscode.com/lang/php",
+                           "title": "พื้นฐานภาษา PHP",
+                           "author": "MarcusCode"
                         }
                      ],
                      "subsections": []
@@ -34568,6 +34572,14 @@
                            ]
                         },
                         {
+                           "url": "https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5",
+                           "title": "DevTalles",
+                           "author": "Fernando Herrera",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLZVwXPbHD1KMsiA7ahRSbIwS3QMsQ0SbL",
                            "title": "Domain-Driven Design",
                            "author": "Codely.TV",
@@ -38225,6 +38237,26 @@
                      ],
                      "subsections": [
                         {
+                           "section": "Angular",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG",
+                                 "title": "Angularjs bangla tutorial basic",
+                                 "author": "Learn Hunter"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst",
+                                 "title": "AngularJS bangla tutorial",
+                                 "author": "tutplus24"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR",
+                                 "title": "Angular 12 Easy Tutorial in Bangla",
+                                 "author": "web-man"
+                              }
+                           ]
+                        },
+                        {
                            "section": "jQuery",
                            "entries": [
                               {
@@ -38236,6 +38268,16 @@
                                  "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxtpvq--EAMfAHcn8h8_t3iw",
                                  "title": "jQuery Bangla Tutorial",
                                  "author": "Moshiur"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Next.js",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLQvUYGXiwrskS_C3MOeW0rOVB5Ny2MCR2",
+                                 "title": "next js bangla(বাংলা) tutorial",
+                                 "author": "Faazle Rabbi"
                               }
                            ]
                         },
@@ -38479,8 +38521,29 @@
                                  "author": "Learn Hunter"
                               }
                            ]
+                        },
+                        {
+                           "section": "Flask",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK",
+                                 "title": "Flask Web Development with python (Bangla)",
+                                 "author": "Naimul Hawk"
+                              }
+                           ]
                         }
                      ]
+                  },
+                  {
+                     "section": "Linux",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw",
+                           "title": "Ubuntu Linux Bangla Tutorial 2021",
+                           "author": "STUDY MART"
+                        }
+                     ],
+                     "subsections": []
                   },
                   {
                      "section": "Scratch",
@@ -38510,6 +38573,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p",
                            "title": "Linux Shell Scripting Tutorial",
                            "author": "Atiq Hasan Zubu"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Swift",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLO3_9DDlL5oQtl1_DmfAC6lAC2IoHx31K",
+                           "title": "Swift Programming Tutorial",
+                           "author": "FHT Bangla"
                         }
                      ],
                      "subsections": []
@@ -38584,6 +38658,11 @@
                   {
                      "section": "C",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=BSaF8KxnoLY",
+                           "title": "C Tutorial Deutsch | Lerne C in 90 Minuten",
+                           "author": "Programmieren lernen"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ",
                            "title": "C Tutorials Deutsch",
@@ -39624,6 +39703,14 @@
                            "author": "Sujeet Singh",
                            "notes": [
                               "Neso Academy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/c-programming-2019-master-the-basics/",
+                           "title": "C Programming 2021: Master The Basics!",
+                           "author": "Ali Badran",
+                           "notes": [
+                              "Udemy"
                            ]
                         },
                         {
@@ -53092,6 +53179,11 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-",
+                           "title": "Curso de Swift - Programação",
+                           "author": "Tiago Aguiar"
                         }
                      ],
                      "subsections": []
@@ -53168,6 +53260,11 @@
                            "notes": [
                               "Curso em Vídeo"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa",
+                           "title": "Curso de WordPress 2022 Grátis e Completo",
+                           "author": "CursoB Cursos Online"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2",
