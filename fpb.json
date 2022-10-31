@@ -1739,6 +1739,14 @@
                            "author": "Björn und Britta Petri"
                         },
                         {
+                           "url": "https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf",
+                           "title": "Nebenläufige Programmierung mit Java",
+                           "author": "Jörg Hettel und Manh Tien Tran",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://www.highscore.de/java/aufbau",
                            "title": "Programmieren Java: Aufbau"
                         },
@@ -1820,6 +1828,20 @@
                         {
                            "url": "http://www.lehmanns.de/page/latexreferenz",
                            "title": "LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Linux",
+                     "entries": [
+                        {
+                           "url": "https://openbook.rheinwerk-verlag.de/linux/",
+                           "title": "Linux - Das umfassende Handbuch",
+                           "author": "Johannes Plötner, Steffen Wendzel",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -1980,6 +2002,19 @@
                                     "1.11",
                                     "HTML",
                                     ":construction: *in process*"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "R",
+                           "entries": [
+                              {
+                                 "url": "https://methodenlehre.github.io/einfuehrung-in-R/",
+                                 "title": "Einführung in R",
+                                 "author": "Andrew Ellis, Boris Mayer",
+                                 "notes": [
+                                    "HTML"
                                  ]
                               }
                            ]
@@ -2594,6 +2629,14 @@
                         {
                            "section": "Inteligencia Artificial",
                            "entries": [
+                              {
+                                 "url": "http://www.uhu.es/publicaciones/?q=libros&code=1252",
+                                 "title": "Deep Learning",
+                                 "author": "Isaac Pérez Borrero, Manuel E. Gegúndez Arias",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
                               {
                                  "url": "https://iaarbook.github.io",
                                  "title": "Libro online de IAAR",
@@ -10448,6 +10491,23 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "Unity3d",
+                     "entries": [
+                        {
+                           "url": "https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries",
+                           "title": "번역 Unity Graphics Programming Series",
+                           "author": "",
+                           "otherLinks": [
+                              {
+                                 "title": "Indie Visual Lab",
+                                 "url": "https://github.com/IndieVisualLab"
+                              }
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -11635,6 +11695,14 @@
                            "author": "Steve \"ardalis\" Smith"
                         },
                         {
+                           "url": "https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly",
+                           "title": "C# Features Succinctly",
+                           "author": "Dirk Strauss",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://goalkicker.com/CSharpBook/",
                            "title": "C# Notes for Professionals",
                            "author": "Compiled from StackOverflow documentation",
@@ -12744,7 +12812,8 @@
                         },
                         {
                            "url": "https://blog.stenmans.org/theBeamBook",
-                           "title": "The BEAM Book",
+                           "title": "The Erlang Runtime System",
+                           "author": "Erik Stenman",
                            "notes": [
                               "HTML"
                            ]
@@ -14536,6 +14605,14 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/getify/Functional-Light-JS",
+                           "title": "Functional-Light JavaScript",
+                           "author": "Kyle Simpson",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://google.github.io/styleguide/javascriptguide.xml",
                            "title": "Google JavaScript Style Guide",
                            "author": "Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker",
@@ -14940,6 +15017,14 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly",
+                                 "title": "Angular Testing Succinctly",
+                                 "author": "Joseph D. Booth",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
                                  "url": "http://nicholasjohnson.com/angular-book/",
                                  "title": "AngularJS - Step by Logical Step",
                                  "author": "Nicholas Johnson",
@@ -15160,10 +15245,6 @@
                                  "notes": [
                                     "HTML"
                                  ]
-                              },
-                              {
-                                 "url": "https://github.com/DockYard/styleguides/blob/master/engineering/ember.md",
-                                 "title": "DockYard Ember.js Style Guide"
                               },
                               {
                                  "url": "https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1",
@@ -18861,6 +18942,14 @@
                            "author": "Wikibooks"
                         },
                         {
+                           "url": "https://ladal.edu.au/dviz.html",
+                           "title": "Data Visualization with R",
+                           "author": "Martin Schweinberger",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://csgillespie.github.io/efficientR/",
                            "title": "Efficient R programming",
                            "author": "Colin Gillespie, Robin Lovelace"
@@ -19486,6 +19575,14 @@
                            "author": "Alexis Beingessner"
                         },
                         {
+                           "url": "https://riptutorial.com/Download/rust.pdf",
+                           "title": "Learning Rust Ebook",
+                           "author": "StackOverflow Contributors",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://doc.rust-lang.org/stable/rust-by-example",
                            "title": "Rust by Example"
                         },
@@ -19874,11 +19971,26 @@
                      "entries": [
                         {
                            "url": "http://scratched.gse.harvard.edu/guide/download.html",
-                           "title": "An Introductory Computing Curriculum Using Scratch"
+                           "title": "An Introductory Computing Curriculum Using Scratch",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://magpi.raspberrypi.com/books/book-of-scratch",
+                           "title": "Code Club Book of Scratch",
+                           "author": "Rik Cross, Tracy Gardner",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://stwww1.weizmann.ac.il/scratch/scratch_en/",
-                           "title": "Computer Science Concepts in Scratch"
+                           "title": "Computer Science Concepts in Scratch",
+                           "author": "Michal Armoni, Moti Ben-Ari",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://magpi.raspberrypi.com/books/essentials-scratch-v1",
@@ -19891,7 +20003,10 @@
                         {
                            "url": "https://inventwithscratch.com/book/",
                            "title": "Scratch Programming Playground",
-                           "author": "Al Sweigart"
+                           "author": "Al Sweigart",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -20550,6 +20665,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf",
+                           "title": "TypeScript in 50 Lessons",
+                           "author": "Stefan Baumgartner",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://goalkicker.com/TypeScriptBook2/",
                            "title": "TypeScript Notes for Professionals",
                            "author": "Compiled from StackOverflow documentation",
@@ -20870,10 +20993,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners",
-                           "title": "Windows Phone 8.1 Development for Absolute Beginners"
                         },
                         {
                            "url": "http://www.robmiles.com/c-yellow-book/",
@@ -22102,6 +22221,20 @@
                            "url": "https://livro.descomplicandodocker.com.br",
                            "title": "Descomplicando o Docker",
                            "author": "Jeferson Fernando"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Elixir",
+                     "entries": [
+                        {
+                           "url": "http://victorolinasc.github.io/elixir_dojo/dojo.html",
+                           "title": "Elixir DOJO",
+                           "author": "Victor Oliveira Nascimento",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -25402,6 +25535,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.ibm.com/downloads/cas/GB8ZMQZ3",
+                           "title": "Machine Learning For Dummies®, IBM Limited Edition",
+                           "author": "Daniel Kirsch, Judith Hurwitz",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://link.springer.com/book/10.1007/978-3-030-43582-0",
                            "title": "On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age",
                            "author": "Thomas D. Grant, Damon J. Wischik",
@@ -26000,6 +26141,14 @@
                            "author": "Jack Dougherty, Ilya Ilyankou",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://book-wright-ma.github.io/Book-WM-20210422.pdf",
+                           "title": "High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications",
+                           "author": "John Wright, Yi Ma",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -28558,11 +28707,27 @@
                            ]
                         },
                         {
+                           "url": "https://arxiv.org/pdf/0808.0369v1",
+                           "title": "Quantum Algorithms",
+                           "author": "Michele Mosca",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://link.springer.com/book/10.1007/978-3-030-61601-4",
                            "title": "Quantum Computing for the Quantum Curious",
                            "author": "Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner",
                            "notes": [
                               "HTML, PDF, EPUB"
+                           ]
+                        },
+                        {
+                           "url": "https://arxiv.org/abs/1410.7188",
+                           "title": "The Functional Analysis of Quantum Information Theory",
+                           "author": "Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder",
+                           "notes": [
+                              "PDF"
                            ]
                         }
                      ],
@@ -30315,6 +30480,20 @@
                            "author": "Karl Seguin,",
                            "notes": [],
                            "manualReviewRequired": true
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"machine-learning\">",
+                     "entries": [
+                        {
+                           "url": "https://d2l.aivivn.com",
+                           "title": "Đắm chìm vào Học sâu",
+                           "author": "",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -35878,7 +36057,7 @@
                         },
                         {
                            "url": "https://soundcloud.com/javaswag",
-                           "title": "Javaswag"
+                           "title": "javaswag"
                         }
                      ],
                      "subsections": [
@@ -39025,6 +39204,10 @@
                            "title": "Datacamp"
                         },
                         {
+                           "url": "https://devdocs.io",
+                           "title": "DevDocs"
+                        },
+                        {
                            "url": "https://www.edx.org",
                            "title": "edX"
                         },
@@ -40836,6 +41019,11 @@
                            "author": "Kunal Kushwaha"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=lpk7VpGqkKw",
+                           "title": "DevOps Full Course ",
+                           "author": "Simplilearn"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE",
                            "title": "DevOps Tutorial for Beginners",
                            "author": "Intellipaat"
@@ -41085,6 +41273,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
                            "title": "Flutter Tutorial for Beginners",
                            "author": "The Net Ninja"
+                        },
+                        {
+                           "url": "https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide",
+                           "title": "Flutter Tutorial for Beginners",
+                           "author": "Solute Labs"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1",
@@ -41886,6 +42079,11 @@
                         {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/",
                            "title": "Introduction to Java"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+                           "title": "Introduction to Java + DSA",
+                           "author": "Kunal Kushwaha"
                         },
                         {
                            "url": "https://www.udemy.com/course/java-design-patterns-tutorial",
@@ -42971,6 +43169,11 @@
                      "section": "Linux",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLAi9X1uG6jZ2b1mUmrUcc_aEoc8tfss8e",
+                           "title": "IIEC RISE 1.0 RHCSA8 and Python3",
+                           "author": "Vimal Daga"
+                        },
+                        {
                            "url": "https://www.edx.org/course/introduction-to-linux/",
                            "title": "Introduction To Linux",
                            "author": "The Linux Foundation",
@@ -43319,6 +43522,19 @@
                   {
                      "section": "Networking",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+                           "title": "Computer Networking Course",
+                           "author": "Brian Farrell",
+                           "notes": [
+                              "FreeCodeCamp.org"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=IPvYjXCsTg8",
+                           "title": "Computer Networking Full Course",
+                           "author": "Kunal Kushwaha"
+                        },
                         {
                            "url": "https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html",
                            "title": "Computer Networks 5e",
@@ -44273,6 +44489,70 @@
                            "author": "Hacker101"
                         },
                         {
+                           "url": "https://www.udemy.com/course/ethical-hacking-basics-kali-20211",
+                           "title": "Ethical Hacking - Basics (Kali 2021)",
+                           "author": "Arthur Salmon",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/sql-injection-ethical-hacking",
+                           "title": "Ethical Hacking - SQL Injection Attack",
+                           "author": "Sunil K. Gupta, Knowledge Aacademy",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance",
+                           "title": "Ethical Hacking for beginners: Beginner to Advance",
+                           "author": "PaceIT Academy",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/ethical-hacking-by-digiflax",
+                           "title": "Ethical Hacking from Scratch - The Complete Course",
+                           "author": "DIGIFLAX E-LEARNING",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/kali-linux-command-line-cli-hands-on",
+                           "title": "Ethical Hacking Kali Linux Command Line (CLI) Hands-On",
+                           "author": "Musab Zayadneh",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/ethical-hacking-with-hak5-devices",
+                           "title": "Ethical hacking with Hak5 devices",
+                           "author": "David Bombal",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps",
+                           "title": "Foundations of Hacking and Pentesting Android Apps",
+                           "author": "Scott Cosentino",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency",
+                           "title": "Introduction to Dark Web, Anonymity and Cryptocurrency",
+                           "author": "Rajneesh Gupta",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
                            "url": "https://www.udacity.com/course/intro-to-information-security--ud459",
                            "title": "Introduction to Information Security",
                            "author": "Wenke Lee, Mustaque Ahamad, Catherine Gamboa",
@@ -44281,9 +44561,43 @@
                            ]
                         },
                         {
+                           "url": "https://www.udemy.com/course/learn-ethical-haacking-from-scratch",
+                           "title": "Learn Ethical Haacking From Scratch",
+                           "author": "Uzma Aslam",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/linux-for-hackers-and-pentesters",
+                           "title": "Linux for Hackers and Pentesters",
+                           "author": "Rajneesh Gupta",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
                            "url": "https://github.com/RPISEC/MBE",
                            "title": "Modern Binary Exploitation",
                            "author": "RPISEC"
+                        },
+                        {
+                           "url": "https://www.coursera.org/course/crypto",
+                           "title": "Stanford Cryptography I",
+                           "author": "Dan Boneh"
+                        },
+                        {
+                           "url": "https://www.coursera.org/course/crypto2",
+                           "title": "Stanford Cryptography II",
+                           "author": "Dan Boneh"
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/ethical-hacking-with-parrot-security-os",
+                           "title": "Start Ethical Hacking with Parrot Security OS (Alt. to Kali)",
+                           "author": "Seyed Farshid Miri",
+                           "notes": [
+                              "Udemy"
+                           ]
                         },
                         {
                            "url": "https://academy.ehacking.net/p/cyber-security-training-hacking-course",
@@ -44291,6 +44605,14 @@
                            "author": "INSEC-TECHS",
                            "notes": [
                               "EH Academy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/wireshark-for-ethical-hacking-new",
+                           "title": "WireShark for Ethical Hacking",
+                           "author": "Musab Zayadneh",
+                           "notes": [
+                              "Udemy"
                            ]
                         },
                         {
@@ -44498,6 +44820,11 @@
                         {
                            "url": "https://online.stanford.edu/courses/soe-ycsautomata-automata-theory",
                            "title": "Automata Theory"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U",
+                           "title": "Formal Languages & Automata Theory",
+                           "author": "Lalit Vashistha"
                         },
                         {
                            "url": "https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313",
@@ -44864,6 +45191,18 @@
                            "notes": [
                               "University of Waterloo"
                            ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Windows Phone",
+                     "entries": [
+                        {
+                           "url": "https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners",
+                           "title": "Windows Phone 8.1 Development for Absolute Beginners",
+                           "author": "Bob Tabor, Matthias Shapiro, Larry Lieberman",
+                           "accessNotes": ":card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -45593,6 +45932,14 @@
                   {
                      "section": "Programación Web & Móvil",
                      "entries": [
+                        {
+                           "url": "https://www.udemy.com/course/html-hacia-angular/",
+                           "title": "Angular: Convierte cualquier template HTML en una WebAPP - Gratis",
+                           "author": "Fernando Herrera",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
                         {
                            "url": "http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing",
                            "title": "Aplicaciones Web Avanzadas (2014)"
@@ -47669,6 +48016,14 @@
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk",
                            "title": "Java Foundation Course | Hindi",
                            "author": "Pepcoding"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsyeobzWxl7pyuXTES7ZqncOI_X0mgKgK",
+                           "title": "Java Live Community Class",
+                           "author": "Navin Reddy",
+                           "notes": [
+                              "Telusko"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR",
@@ -51441,6 +51796,14 @@
                            "url": "https://youtube.com/playlist?list=PLBKJGko2JEdEVpp5vyyfKYdv3r2GC777i",
                            "title": "C programming for beginners in malayalam quarantine learning programming malayalam",
                            "author": "Tintu Vlogger"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwe8bwPXjlLtUxDFwafx_XvheCUmrP2cM",
+                           "title": "C Programming",
+                           "author": "Learn CSE Malayalam",
+                           "notes": [
+                              "YouTube"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -51452,6 +51815,20 @@
                            "url": "https://youtube.com/playlist?list=PL1JrLEBAapUXVcHV3rO-g-N4gBHcBe2c-",
                            "title": "C++ Malayalam Tutorial Full",
                            "author": "Yes Tech Media"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Compiler Design",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ",
+                           "title": "Compiler Design",
+                           "author": "Learn CSE Malayalam",
+                           "notes": [
+                              "YouTube"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -51598,6 +51975,28 @@
                            ]
                         }
                      ]
+                  },
+                  {
+                     "section": "Kotlin",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs",
+                           "title": "Kotlin Malayalam | Kotlin programming Tutorials for android malayalam",
+                           "author": "CODEAVIAL",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLefF9wgiOa4WFRP4IvRCZre7xLjRkJdlQ",
+                           "title": "Kotlin / Android App Development",
+                           "author": "Nikin Sk",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   },
                   {
                      "section": "PHP",
@@ -52095,6 +52494,14 @@
                            "author": "Gilseone Moraes, Training4All Cursos",
                            "notes": [
                               "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://balta.io/cursos/fundamentos-csharp",
+                           "title": "Fundamentos do C#",
+                           "author": "André Baltieri",
+                           "notes": [
+                              "Balta.io"
                            ]
                         },
                         {
@@ -52678,6 +53085,11 @@
                            "notes": [
                               "YouTube"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw",
+                           "title": "Curso de Javascript Completo",
+                           "author": "Programação Web"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1",
@@ -53328,6 +53740,22 @@
                      "subsections": []
                   },
                   {
+                     "section": "R",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzWDDw1w8cTS4i_B49WOWtjngjcMqTruG",
+                           "title": "Curso de R com R Studio",
+                           "author": "Escola de Inteligência Artificial"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf",
+                           "title": "Curso R para Iniciantes",
+                           "author": "Didática Tech"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Raspberry Pi",
                      "entries": [
                         {
@@ -53564,11 +53992,41 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE",
+                           "title": "Curso de Segurança da Informação",
+                           "author": "Gustavo Guanabara,",
+                           "notes": [
+                              "Curso em Video"
+                           ]
+                        },
+                        {
                            "url": "https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/",
                            "title": "Segurança da Informação: Por onde iniciar sua carreira",
                            "author": "Alexandro Silva",
                            "notes": [
                               "Udemy"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "SEO",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLVPIs-7SxXA_O-fUH5PbKhEHdTPnYKMiE",
+                           "title": "Curso de SEO - Mão na massa",
+                           "author": "Flavio Klens",
+                           "notes": [
+                              "Agência Klens"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90",
+                           "title": "Curso prático de SEO",
+                           "author": "Gustavo Guanabara",
+                           "notes": [
+                              "Curso em Video"
                            ]
                         }
                      ],
@@ -57047,6 +57505,14 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://www.joshwcomeau.com/operator-lookup/",
+                           "title": "Operator Lookup",
+                           "author": "Josh W. Comeau",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": [
@@ -57591,6 +58057,19 @@
                                  "url": "https://www.codewithharry.com/blogpost/flask-cheatsheet/",
                                  "title": "Flask Cheatsheet",
                                  "author": "Code with Harry",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Numpy Pandas",
+                           "entries": [
+                              {
+                                 "url": "https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet",
+                                 "title": "Pandas, Numpy, Python Cheatsheet",
+                                 "author": "Kaggle",
                                  "notes": [
                                     "HTML"
                                  ]
