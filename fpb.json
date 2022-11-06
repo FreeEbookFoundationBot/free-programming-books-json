@@ -5658,6 +5658,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "C",
+                     "entries": [
+                        {
+                           "url": "https://onlineaavedan.com/study_material/1543909480.pdf",
+                           "title": "C in Hindi | Hindi",
+                           "author": "Kuldeep Chand",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"cpp\">",
                      "entries": [
                         {
@@ -26109,7 +26123,7 @@
                            ]
                         },
                         {
-                           "url": "https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf",
+                           "url": "https://clouddamcdnprodep.azureedge.net/gdc/2014519/original",
                            "title": "Learn Azure in a Month of Lunches",
                            "author": "Iain Foulds",
                            "notes": [
@@ -38900,6 +38914,11 @@
                            "author": "Anisul Islam"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy",
+                           "title": "Java Course! Full Course Bangla",
+                           "author": "Online Course"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l",
                            "title": "Java Swing Bangla Tutorials",
                            "author": "Anisul Islam"
@@ -41006,6 +41025,10 @@
                            "title": "Advanced Data Mining with Weka MOOC"
                         },
                         {
+                           "url": "https://www.udemy.com/course/an-introduction-to-data-science/",
+                           "title": "An Introduction to Data Science"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2",
                            "title": "Apache Airflow Tutorials",
                            "author": "Tuan Vu",
@@ -41120,11 +41143,34 @@
                            "author": "Udacity"
                         },
                         {
+                           "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
+                           "title": "Intro to Data Science",
+                           "author": "Udacity"
+                        },
+                        {
+                           "url": "https://alison.com/course/introduction-to-data-science-revised",
+                           "title": "Introduction to Data Science",
+                           "author": "Alison"
+                        },
+                        {
+                           "url": "https://www.simplilearn.com/data-science-free-course-for-beginners-skillup",
+                           "title": "Introduction to Data Science",
+                           "author": "SkillUp by Simplilearn"
+                        },
+                        {
                            "url": "https://www.coursera.org/learn/python-data-analysis",
                            "title": "Introduction to Data Science in Python",
                            "author": "Christopher Brooks",
                            "notes": [
                               "Coursera"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+                           "title": "Learn Data Science Tutorial - Full Course for Beginners",
+                           "author": "Barton Poulson",
+                           "notes": [
+                              "FreeCodeCamp.org"
                            ]
                         },
                         {
@@ -42809,6 +42855,14 @@
                            "url": "https://www.udemy.com/javascript-essentials/",
                            "title": "Javascript Essentials",
                            "author": "Lawrence Turton",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/javascriptfundamentals",
+                           "title": "Javascript Fundamentals",
+                           "author": "Bharath Thippireddy",
                            "notes": [
                               "Udemy"
                            ]
@@ -48532,6 +48586,11 @@
                                  "author": "WsCube Tech"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG",
+                                 "title": "Bootstrap Tutorial for beginners in Hindi / Urdu",
+                                 "author": "Yahoo Baba"
+                              },
+                              {
                                  "url": "https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH",
                                  "title": "Bootstrap Tutorial for Beginners(Hindi)",
                                  "author": "CS Geeks"
@@ -48741,6 +48800,11 @@
                                  "notes": [
                                     "Thapa Technical"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q",
+                                 "title": "jQuery Video Course",
+                                 "author": "w3webschool.net"
                               }
                            ]
                         },
@@ -61620,6 +61684,10 @@
                         {
                            "url": "https://www.e-olymp.com/en/",
                            "title": "E-olymp"
+                        },
+                        {
+                           "url": "https://exercism.org",
+                           "title": "Exercism"
                         },
                         {
                            "url": "https://www.facebook.com/hackercup",
