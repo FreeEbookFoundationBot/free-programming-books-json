@@ -47849,6 +47849,11 @@
                            "author": "Pepcoding"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe",
+                           "title": "Bit Manipulation - Level 2",
+                           "author": "Pepecoding"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1",
                            "title": "Data Structures and Algorithms in Python",
                            "author": "Jovian"
@@ -56309,6 +56314,11 @@
                            "author": "Enes Bayram"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K",
+                           "title": "C# Dersleri",
+                           "author": "Murat Yücedağ"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4",
                            "title": "C# Dersleri | Visual Studio 2022 ile C# Programlama | C# Giriş",
                            "author": "Yazılım Teknolojileri Akademisi"
@@ -58046,11 +58056,27 @@
                            ]
                         },
                         {
+                           "url": "https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo",
+                           "title": "Go Dojo Cheatsheet",
+                           "author": "Golang CheatSheet by golang-dojo",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://thevalleyofcode.pages.dev/go-handbook.pdf",
                            "title": "Go Handbook",
                            "author": "Flavio Copes, The Valley of Code",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://devsonket.com/go",
+                           "title": "গো | ডেভ সংকেত<",
+                           "author": "devsonket",
+                           "notes": [
+                              "HTML"
                            ]
                         }
                      ],
