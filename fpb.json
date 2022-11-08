@@ -5699,7 +5699,21 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"java\">",
+                     "section": "Data Structure and Algorithms",
+                     "entries": [
+                        {
+                           "url": "http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf",
+                           "title": "Data Structure with C | Hindi",
+                           "author": "Kuldeep Chand",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Java",
                      "entries": [
                         {
                            "url": "https://www.learnhindituts.com/java",
@@ -5710,7 +5724,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"linux\">",
+                     "section": "Linux",
                      "entries": [
                         {
                            "url": "https://ehindistudy.com/2022/06/24/linux-commands-hindi/",
@@ -5758,7 +5772,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"php\">",
+                     "section": "Php",
                      "entries": [
                         {
                            "url": "https://www.learnhindituts.com/php",
@@ -5774,7 +5788,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"python\">",
+                     "section": "Python",
                      "entries": [
                         {
                            "url": "https://drive.google.com/file/d/1cnJ6Uksso2UXwC5OHBAGk3miMzSveBvr/view",
@@ -38912,6 +38926,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa",
                            "title": "Java Bangla Tutorials | CORE Java | Complete OOP",
                            "author": "Anisul Islam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I",
+                           "title": "Java Basic Syntax Bangla Tutorial",
+                           "author": "Bangla Coding Tutor"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy",
