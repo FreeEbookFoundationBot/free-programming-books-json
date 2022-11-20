@@ -21171,7 +21171,7 @@
                                  ]
                               },
                               {
-                                 "url": "https://material.angular.io/guide",
+                                 "url": "https://material.angular.io/guides",
                                  "title": "Angular Material",
                                  "notes": [
                                     "HTML"
@@ -62706,10 +62706,6 @@
                         {
                            "url": "https://binarysearch.com",
                            "title": "Binary Search"
-                        },
-                        {
-                           "url": "http://coj.uci.cu",
-                           "title": "Caribbean Online Judge"
                         },
                         {
                            "url": "https://hsin.hr/coci/",
