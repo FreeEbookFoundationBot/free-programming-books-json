@@ -41487,6 +41487,11 @@
                            "author": "Neso Academy"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC",
+                           "title": "C++ Programming",
+                           "author": "Kody Simpson"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
                            "title": "C++ Programming Course - Beginner to Advanced",
                            "author": "Daniel Gakwaya",
@@ -43536,6 +43541,11 @@
                            "url": "https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
                            "title": "Java Programming",
                            "author": "Neso Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLfu_Bpi_zcDPNy6qznvbkGZi7eP_0EL77",
+                           "title": "Java Programming",
+                           "author": "Kody Simpson"
                         },
                         {
                            "url": "https://www.udacity.com/course/java-programming-basics--ud282",
@@ -63182,18 +63192,6 @@
                            "title": "Exercism"
                         },
                         {
-                           "url": "https://www.facebook.com/hackercup",
-                           "title": "Facebook Hackercup"
-                        },
-                        {
-                           "url": "https://codingcompetitions.withgoogle.com/codejam",
-                           "title": "Google Code Jam"
-                        },
-                        {
-                           "url": "https://codingcompetitions.withgoogle.com/kickstart",
-                           "title": "Google Kickstart"
-                        },
-                        {
                            "url": "https://www.hackerearth.com",
                            "title": "HackerEarth"
                         },
@@ -63220,6 +63218,10 @@
                         {
                            "url": "https://lightoj.com",
                            "title": "LightOJ"
+                        },
+                        {
+                           "url": "https://www.facebook.com/codingcompetitions/hacker-cup/",
+                           "title": "Meta Hackercup"
                         },
                         {
                            "url": "https://microcorruption.com/login",
@@ -63276,7 +63278,7 @@
                         },
                         {
                            "url": "https://capturetheflag.withgoogle.com",
-                           "title": "Google Ctf",
+                           "title": "Google CTF",
                            "notes": [
                               "email address *requested*"
                            ]
@@ -63472,10 +63474,6 @@
                         {
                            "url": "https://practice.geeksforgeeks.org",
                            "title": "Geeks For Geeks"
-                        },
-                        {
-                           "url": "https://codingcompetitions.withgoogle.com/codejam/archive",
-                           "title": "Google Code Jam - Practise"
                         },
                         {
                            "url": "http://www.hacker.org",
