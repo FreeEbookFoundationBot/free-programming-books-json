@@ -20023,7 +20023,7 @@
                            "title": "Ruby Koans"
                         },
                         {
-                           "url": "http://rubylearning.com",
+                           "url": "http://rubylearning.github.io",
                            "title": "Ruby Learning"
                         },
                         {
@@ -23744,6 +23744,14 @@
                         {
                            "url": "https://www.caelum.com.br/apostila-python-orientacao-a-objetos/",
                            "title": "Python e Orientação a Objetos"
+                        },
+                        {
+                           "url": "https://pythonfluente.com",
+                           "title": "Python Fluente, Segunda Edição (2023)",
+                           "author": "Luciano Ramalho",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://dunossauro.github.io/python-funcional/",
@@ -41316,6 +41324,52 @@
                            "url": "https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6",
                            "title": "AutoIt Tutorials",
                            "author": "403forbidden403"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Ballerina",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN",
+                           "title": "[Introductory]Integration with Ballerina",
+                           "author": "Shafreen Anfer"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0I1YcKwNEyMewhiSvwhM4in",
+                           "title": "Ballerina Code to Cloud",
+                           "author": "Anjana Supun"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0Lld0QfwGW4EKZEoeduyHKD",
+                           "title": "Ballerina Integrated Query Basics",
+                           "author": "Sasindu Alahakoon"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0L4CCqT3awXQUgf6Djl-Oxg",
+                           "title": "Ballerina Programming Language Basics",
+                           "author": "Sasindu Alahakoon"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0K--nPJCEQILMt4ZlpkfvHU",
+                           "title": "Ballerina Tables Basics",
+                           "author": "Sasindu Alahakoon"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0LjuZZ8OXzN5apFqlCb6tnY",
+                           "title": "Package Management in Ballerina",
+                           "author": "Asma Jabir"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0ISsKnSaDjv0IIID-ztuu43",
+                           "title": "Testing in Ballerina",
+                           "author": "Fathima Dilhasha"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7JOecNWBb0JxniVXOwROaeFRlDvGd6nj",
+                           "title": "XML Manipulation in Ballerina",
+                           "author": "Gimantha Bandara"
                         }
                      ],
                      "subsections": []
