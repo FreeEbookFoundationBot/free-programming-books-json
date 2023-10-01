@@ -6414,6 +6414,14 @@
                            ]
                         },
                         {
+                           "url": "https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf",
+                           "title": "Framework Codeigniter - Sebuah Panduan dan Best Practice",
+                           "author": "Gila Coding",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://codeigniter-id.github.io/user-guide/",
                            "title": "Panduan Pengguna CodeIgniter Indonesia",
                            "author": "CodeIgniter Indonesia"
@@ -6607,6 +6615,14 @@
                      "section": "JavaScript",
                      "entries": [
                         {
+                           "url": "https://gilacoding.com/upload/file/Javascript%20Guide.pdf",
+                           "title": "Javascript Guide",
+                           "author": "Desrizal",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://masputih.com/2013/01/ebook-gratis-mengenal-javascript",
                            "title": "Mengenal JavaScript"
                         },
@@ -6779,6 +6795,14 @@
                            "url": "https://gilacoding.com/upload/file/menjelajahyiiframework.pdf",
                            "title": "Menjelajahi Yii Framework",
                            "author": "Sabit Huraira",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf",
+                           "title": "Panduan Lengkap PHP AJAX jQuery",
+                           "author": "Desrizal",
                            "notes": [
                               "PDF"
                            ]
@@ -43956,6 +43980,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLRKOqqzwh75hcG_D4xjUgbg_BAF3MLtoh",
+                           "title": "JavaScript Leetcode",
+                           "author": "Endeavour Monk"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/javascript-essentials-mini-course/",
                            "title": "JavaScript Mini Course 2020",
                            "author": "Kalob Taulien",
@@ -46051,14 +46080,6 @@
                      "section": "Ruby",
                      "entries": [
                         {
-                           "url": "https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!",
-                           "title": "Agile Development Using Ruby on Rails - Advanced"
-                        },
-                        {
-                           "url": "https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!",
-                           "title": "Agile Development Using Ruby on Rails - Basics"
-                        },
-                        {
                            "url": "https://www.researchgate.net/publication/322222154_An_Introduction_to_Ruby_Programming_Language",
                            "title": "An Introduction to Ruby Programming Language",
                            "author": "Ali Tourani",
@@ -46070,11 +46091,6 @@
                            "url": "https://www.theodinproject.com/paths/full-stack-ruby-on-rails",
                            "title": "Full Stack Ruby on Rails",
                            "author": "The Odin Project"
-                        },
-                        {
-                           "url": "https://www.learnhowtoprogram.com/ruby",
-                           "title": "Learn how to program: Ruby",
-                           "author": "Epicodus Inc."
                         },
                         {
                            "url": "https://www.udemy.com/course/learn-rails",
@@ -51822,6 +51838,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5",
                            "title": "Tutorial Belajar Python Pandas",
                            "author": "Indonesia Belajar"
+                        },
+                        {
+                           "url": "https://www.petanikode.com/tutorial/python/",
+                           "title": "Tutorial Dasar Pemrograman Python",
+                           "author": "PetaniKode"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=rWC2iFlN3TM",
