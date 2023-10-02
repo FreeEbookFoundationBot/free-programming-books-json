@@ -833,6 +833,11 @@
                            "url": "https://www.sattacademy.com/sql/sql-intro.php",
                            "title": "এসকিউএল পরিচিতি(SQL Introduction in Bangla)",
                            "author": "Satt Academy"
+                        },
+                        {
+                           "url": "https://sql.howtocode.dev",
+                           "title": "বাংলায় SQL টিউটোরিয়াল",
+                           "author": "Saiful, et al."
                         }
                      ],
                      "subsections": []
@@ -2093,21 +2098,22 @@
                                  ]
                               }
                            ]
-                        },
-                        {
-                           "section": "R",
-                           "entries": [
-                              {
-                                 "url": "https://methodenlehre.github.io/einfuehrung-in-R/",
-                                 "title": "Einführung in R",
-                                 "author": "Andrew Ellis, Boris Mayer",
-                                 "notes": [
-                                    "HTML"
-                                 ]
-                              }
-                           ]
                         }
                      ]
+                  },
+                  {
+                     "section": "R",
+                     "entries": [
+                        {
+                           "url": "https://methodenlehre.github.io/einfuehrung-in-R/",
+                           "title": "Einführung in R",
+                           "author": "Andrew Ellis, Boris Mayer",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   },
                   {
                      "section": "Ruby on Rails",
@@ -2233,7 +2239,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "Unabhängig von der Programmiersprache",
+                     "section": "Unabhängig der Programmiersprache",
                      "entries": [
                         {
                            "url": "http://clean-code-developer.de",
@@ -2653,13 +2659,6 @@
                                  "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
-                                 ]
-                              },
-                              {
-                                 "url": "https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos",
-                                 "title": "Teoría sintáctico-gramatical de objetos",
-                                 "notes": [
-                                    "Bubok"
                                  ]
                               }
                            ]
@@ -3330,14 +3329,6 @@
                                  "title": "PDF",
                                  "url": "https://openlibra.com/es/book/download/introduccion-a-javascript"
                               }
-                           ]
-                        },
-                        {
-                           "url": "http://bonsaiden.github.io/JavaScript-Garden/es",
-                           "title": "Jardín de JavaScript",
-                           "author": "Ivo Wetzel,",
-                           "notes": [
-                              "HTML"
                            ]
                         },
                         {
@@ -6643,12 +6634,83 @@
                      ],
                      "subsections": [
                         {
+                           "section": "Angular",
+                           "entries": [
+                              {
+                                 "url": "https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/",
+                                 "title": "Tutorial Angular Indonesia",
+                                 "author": "Degananda Ferdian Priyambada",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html",
+                                 "title": "Tutorial Series Belajar Angular 2019",
+                                 "author": "Bewok Satu Kosong",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Deno",
+                           "entries": [
+                              {
+                                 "url": "https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf",
+                                 "title": "Belajar Dengan Jenius Deno",
+                                 "author": "Gun Gun Febrianza",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
                            "section": "Next.js",
                            "entries": [
                               {
                                  "url": "https://santrikoding.com/kategori/next-js",
                                  "title": "Tutorial Next Js",
                                  "author": "SantriKoding.com"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "React.js",
+                           "entries": [
+                              {
+                                 "url": "https://id.reactjs.org",
+                                 "title": "Dokumentasi React Bahasa Indonesia"
+                              },
+                              {
+                                 "url": "https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula",
+                                 "title": "React JS Untuk Pemula",
+                                 "accessNotes": "Membutuhkan akun Leanpub atau email yang valid"
+                              },
+                              {
+                                 "url": "https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f",
+                                 "title": "React Redux Tutorial Untuk Pemula",
+                                 "author": "Yudi Krisnandi"
+                              },
+                              {
+                                 "url": "https://mfikri.com/artikel/reactjs-pemula",
+                                 "title": "Tutorial React JS Untuk Pemula (React Hooks)",
+                                 "author": "Mfikri"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "TypeScript",
+                           "entries": [
+                              {
+                                 "url": "https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329",
+                                 "title": "TypeScript untuk Pemula, Bagian 1: Memulai",
+                                 "author": "Tutsplus",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               }
                            ]
                         },
@@ -6663,16 +6725,6 @@
                               {
                                  "url": "https://github.com/vuejs-id/docs",
                                  "title": "Dokumentasi Vue Bahasa Indonesia"
-                              }
-                           ]
-                        },
-                        {
-                           "section": "React.js",
-                           "entries": [
-                              {
-                                 "url": "https://mfikri.com/artikel/reactjs-pemula",
-                                 "title": "Tutorial React JS Untuk Pemula (React Hooks)",
-                                 "author": "Mfikri"
                               }
                            ]
                         }
@@ -6760,6 +6812,14 @@
                            "url": "https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf",
                            "title": "Pemrograman Kompetitif Dasar",
                            "author": "William Gozali, Alham Fikri Aji",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://toki.id/download/referensi-pemrograman-bahasa-pascal/",
+                           "title": "Referensi Pemrograman Bahasa Pascal",
+                           "author": "Tim Pembina Toki",
                            "notes": [
                               "PDF"
                            ]
@@ -6911,26 +6971,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "React",
-                     "entries": [
-                        {
-                           "url": "https://id.reactjs.org",
-                           "title": "Dokumentasi React Bahasa Indonesia"
-                        },
-                        {
-                           "url": "https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula",
-                           "title": "React JS Untuk Pemula",
-                           "accessNotes": "Membutuhkan akun Leanpub atau email yang valid"
-                        },
-                        {
-                           "url": "https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f",
-                           "title": "React Redux Tutorial Untuk Pemula",
-                           "author": "Yudi Krisnandi"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Solidity",
                      "entries": [
                         {
@@ -6943,55 +6983,6 @@
                         }
                      ],
                      "subsections": []
-                  },
-                  {
-                     "section": "TypeScript",
-                     "entries": [
-                        {
-                           "url": "https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329",
-                           "title": "TypeScript untuk Pemula, Bagian 1: Memulai",
-                           "author": "Tutsplus",
-                           "notes": [
-                              "HTML"
-                           ]
-                        }
-                     ],
-                     "subsections": [
-                        {
-                           "section": "Angular",
-                           "entries": [
-                              {
-                                 "url": "https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/",
-                                 "title": "Tutorial Angular Indonesia",
-                                 "author": "Degananda Ferdian Priyambada",
-                                 "notes": [
-                                    "HTML"
-                                 ]
-                              },
-                              {
-                                 "url": "https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html",
-                                 "title": "Tutorial Series Belajar Angular 2019",
-                                 "author": "Bewok Satu Kosong",
-                                 "notes": [
-                                    "HTML"
-                                 ]
-                              }
-                           ]
-                        },
-                        {
-                           "section": "Deno",
-                           "entries": [
-                              {
-                                 "url": "https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf",
-                                 "title": "Belajar Dengan Jenius Deno",
-                                 "author": "Gun Gun Febrianza",
-                                 "notes": [
-                                    "PDF"
-                                 ]
-                              }
-                           ]
-                        }
-                     ]
                   }
                ]
             },
@@ -15359,6 +15350,14 @@
                            ]
                         },
                         {
+                           "url": "https://mythbusters.js.org",
+                           "title": "MythBusters JS",
+                           "author": "Kiko Beats",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly",
                            "title": "Neural Networks with JavaScript Succinctly",
                            "author": "James McCaffrey",
@@ -19180,6 +19179,14 @@
                            "url": "http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/",
                            "title": "The Programming Historian",
                            "author": "William J. Turkel, Adam Crymble and Alan MacEachern"
+                        },
+                        {
+                           "url": "https://thepythoncodingbook.com",
+                           "title": "The Python Coding Book",
+                           "author": "Stephen Gruppetta",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://python-gtk-3-tutorial.readthedocs.org/en/latest/",
@@ -31327,33 +31334,33 @@
                            "author": "YazBel Yazılım Belgelendirme Projesi - Python 3"
                         }
                      ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Django",
-                     "entries": [
+                     "subsections": [
                         {
-                           "url": "https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html",
-                           "title": "Django",
-                           "author": "Python Dersleri",
-                           "accessNotes": ":card_file_box: archived"
-                        },
-                        {
-                           "url": "https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/",
-                           "title": "Django Egitimi",
-                           "accessNotes": ":card_file_box: archived"
-                        },
-                        {
-                           "url": "https://tutorial.djangogirls.org/tr",
-                           "title": "Django Girls Eğitimi",
-                           "notes": [
-                              "1.11",
-                              "HTML",
-                              ":construction: *in process*"
+                           "section": "Django",
+                           "entries": [
+                              {
+                                 "url": "https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html",
+                                 "title": "Django",
+                                 "author": "Python Dersleri",
+                                 "accessNotes": ":card_file_box: archived"
+                              },
+                              {
+                                 "url": "https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/",
+                                 "title": "Django Egitimi",
+                                 "accessNotes": ":card_file_box: archived"
+                              },
+                              {
+                                 "url": "https://tutorial.djangogirls.org/tr",
+                                 "title": "Django Girls Eğitimi",
+                                 "notes": [
+                                    "1.11",
+                                    "HTML",
+                                    ":construction: *in process*"
+                                 ]
+                              }
                            ]
                         }
-                     ],
-                     "subsections": []
+                     ]
                   },
                   {
                      "section": "R",
@@ -36354,10 +36361,26 @@
                            ]
                         },
                         {
+                           "url": "https://castbox.fm/channel/id5066732",
+                           "title": "CodeNaline | کدنالین",
+                           "author": "Torham",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://castbox.fm/channel/id4407294",
                            "title": "Radio Developer - رادیو دولوپر",
                            "notes": [
                               "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRmRAhVbjeHqrc6Gf5DKu2eRJGkfo9A-Z",
+                           "title": "Radio Mi | رادیو میــ",
+                           "author": "Milad Nouri",
+                           "notes": [
+                              "videocast"
                            ]
                         }
                      ],
@@ -38318,6 +38341,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLTRDUPO2OmInz2Fo41zwnoR1IArx70Hig",
                            "title": "GitOps and K8s بالعربي",
                            "author": "Ahmed Elemam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl",
+                           "title": "Kubernetes بالعربي",
+                           "author": "Codographia"
                         }
                      ],
                      "subsections": []
@@ -41597,6 +41625,11 @@
                      "section": "<a id=\"csharp\">",
                      "entries": [
                         {
+                           "url": "https://youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU&si=3XHU6BnqwxePAt54",
+                           "title": "ASP.NET Core 2.2 & 3 REST API Tutorial",
+                           "author": "Nick Chapsas"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=SR53SKIUYPA",
                            "title": "Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022",
                            "author": "Gill Cleeren"
@@ -41947,6 +41980,14 @@
                            "author": "David J. Malan",
                            "notes": [
                               "Harvard OpenCourseWare and edX"
+                           ]
+                        },
+                        {
+                           "url": "https://www.udacity.com/course/design-of-computer-programs--cs212",
+                           "title": "Design of Computer Programs",
+                           "author": "Peter Norvig",
+                           "notes": [
+                              "Udacity"
                            ]
                         },
                         {
@@ -43834,6 +43875,11 @@
                            "url": "https://www.programiz.com/java-programming",
                            "title": "Learn Java Programming",
                            "author": "Programiz"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1",
+                           "title": "Most Asked Core Java Frequently Asked Questions",
+                           "author": "Code Decode"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk",
@@ -48361,6 +48407,11 @@
                      "section": "Django",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL7MXODW7Gj1eGnm4dXnydgqSDb3pLpg9v",
+                           "title": "آموزش مقدماتی Django Rest Framework (DRF)",
+                           "author": "TorhamDev : Tech With Tori"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh",
                            "title": "دوره اموزش جنگو مقدماتی تا پیشرفته",
                            "author": "Mehran Tarif",
@@ -48377,6 +48428,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr",
                            "title": "Django2 All In One Course - دوره کامل جنگو و مهندسی بک اند",
                            "author": "Boby Cloud"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "FastAPI",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7MXODW7Gj1c1jviyYkRHKNeU_9BK0Ud7",
+                           "title": "آموزش FastAPI",
+                           "author": "TorhamDev : Tech With Tori"
                         }
                      ],
                      "subsections": []
@@ -49265,6 +49327,11 @@
                      "section": "<a id=\"cpp\">",
                      "entries": [
                         {
+                           "url": "https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&si=frggLn7z_DWtYv6I",
+                           "title": "C++ and DSA Foundation Course",
+                           "author": "College Wallah"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
                            "title": "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
                            "author": "Apna College"
@@ -49838,6 +49905,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
                            "title": "Java + DSA",
                            "author": "Apna College"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr&si=ctLRknqelKTSI5Lh",
+                           "title": "Java and DSA Foundation Course",
+                           "author": "College Wallah"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk",
@@ -51772,6 +51844,11 @@
                                  "url": "https://id-laravel.com",
                                  "title": "Tutorial Laravel Bahasa Indonesia",
                                  "author": "ID Laravel"
+                              },
+                              {
+                                 "url": "https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-10",
+                                 "title": "Tutorial Restful API Laravel 10",
+                                 "author": "Santrikoding"
                               }
                            ]
                         }
@@ -56674,6 +56751,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Bootstrap",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLXNgqM9ig24c7IdumyymD9q3e2hsz9U1m&feature=shared",
+                           "title": "Bootstap",
+                           "author": "Udith Sanjaya"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"csharp\">",
                      "entries": [
                         {
@@ -56687,6 +56775,16 @@
                   {
                      "section": "HTML and CSS",
                      "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLXNgqM9ig24fvVI7DQZdJCR8Z8NqyvecA&feature=shared",
+                           "title": "CSS - Sinhala",
+                           "author": "Uditha Sanjaya"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLXNgqM9ig24fJcb80ksUvFzaK6TYxMOir&feature=shared",
+                           "title": "HTML - Sinhala",
+                           "author": "Udith Sanjaya"
+                        },
                         {
                            "url": "https://youtube.com/playlist?list=PLWAgeLqk4SjDlN6nHs91rECgx4PbzfoZh",
                            "title": "HTML සිංහලෙන්",
@@ -56720,6 +56818,11 @@
                      "section": "JavaScript",
                      "entries": [
                         {
+                           "url": "https://youtube.com/playlist?list=PLXNgqM9ig24cM_oJq3xT4_paCMDKh4w2j&feature=shared",
+                           "title": "Java Script - Sinhala",
+                           "author": "Udith Sanjaya"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt",
                            "title": "JavaScript Tutorial in Sinhala",
                            "author": "BestJobsLK"
@@ -56736,32 +56839,49 @@
                            "author": "AUK Learning Center"
                         }
                      ],
-                     "subsections": [
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
                         {
-                           "section": "React",
-                           "entries": [
-                              {
-                                 "url": "https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB",
-                                 "title": "Fundamentals | React JS in Sinhala",
-                                 "author": "Fiqri Ismail"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLvfC6i-hEZBnqqF7giszuYI0iqenU5NY0",
-                                 "title": "MERN Stack Developer - Beginners",
-                                 "author": "TechWithGeorge"
-                              },
-                              {
-                                 "url": "https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y",
-                                 "title": "REACT | MERN CRUD App in Sinhala",
-                                 "author": "Haritha Weerathunga"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/watch?v=tM02uzhHDPI&t=759s",
-                                 "title": "React JS Full Course in Sinhala | 2023",
-                                 "author": "AUK Learning Center"
-                              }
-                           ]
+                           "url": "https://youtube.com/playlist?list=PLXNgqM9ig24fNnzfhOUXduubQW-zfb9eV&feature=shared",
+                           "title": "Python Sinhala",
+                           "author": "Udith Sanjaya"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "React",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB",
+                           "title": "Fundamentals | React JS in Sinhala",
+                           "author": "Fiqri Ismail"
                         },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLvfC6i-hEZBnqqF7giszuYI0iqenU5NY0",
+                           "title": "MERN Stack Developer - Beginners",
+                           "author": "TechWithGeorge"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y",
+                           "title": "REACT | MERN CRUD App in Sinhala",
+                           "author": "Haritha Weerathunga"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=tM02uzhHDPI&t=759s",
+                           "title": "React JS Full Course in Sinhala | 2023",
+                           "author": "AUK Learning Center"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL68g11dFe-_VDZNEjp3E4lD_OWaEEj0PY&feature=shared",
+                           "title": "React Js Tutorial - Sinhala",
+                           "author": "Code With Banchi"
+                        }
+                     ],
+                     "subsections": [
                         {
                            "section": "Spring Boot",
                            "entries": [
@@ -58914,6 +59034,11 @@
                            "author": "TEDU"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLiyVagO7GfBEOReFCMbcffzkgfWaGl-AN",
+                           "title": "SQL",
+                           "author": "J2Team"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw",
                            "title": "SQL Cơ Bản",
                            "author": "Kteam"
@@ -59061,6 +59186,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8",
                            "title": "Lập Trình Game 2D Trên Unity3D",
                            "author": "U DEV"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Web Development",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM",
+                           "title": "Lập Trình Web Cơ Bản",
+                           "author": "J2Team"
                         }
                      ],
                      "subsections": []
@@ -60468,6 +60604,14 @@
                            "author": "Matplotlib.org",
                            "notes": [
                               "LaTeX, PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf",
+                           "title": "Python 3 Cheat Sheet",
+                           "author": "Laurent Pointal",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -62976,10 +63120,6 @@
                         {
                            "url": "https://extendsclass.com/php.html",
                            "title": "ExtendsClass"
-                        },
-                        {
-                           "url": "https://phpfiddle.org",
-                           "title": "PHPFiddle"
                         },
                         {
                            "url": "http://phptester.net",
