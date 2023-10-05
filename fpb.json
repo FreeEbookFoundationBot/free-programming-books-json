@@ -57,20 +57,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"csharp\">",
-                     "entries": [
-                        {
-                           "url": "https://www.mobarmijoun.com/2014/04/c_19.html",
-                           "title": "سبيلك المختصر لتعلم لغة c#‎ - برمجة الواجهات",
-                           "author": "Khaled Al-Saadani‏",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "DB & DBMS",
                      "entries": [
                         {
@@ -121,28 +107,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Java",
-                     "entries": [
-                        {
-                           "url": "https://librebooks.org/tafheem-alkhawazimyat/",
-                           "title": "تفهيم الخوارزميات – الجزء الأول",
-                           "author": "جمال بن نوار",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://librebooks.org/tafheem-alkhawazimyat-p2/",
-                           "title": "تفهيم الخوارزميات – الجزء الثاني",
-                           "author": "جمال بن نوار",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "JavaScript",
                      "entries": [
                         {
@@ -157,14 +121,6 @@
                            "url": "https://blog.abdelhadi.org/learn-nextjs-in-arabic/",
                            "title": "سلسلة تعلم Next.js بالعربية",
                            "author": "Flavio Copes, عبدالهادي الأندلسي"
-                        },
-                        {
-                           "url": "https://rabahboudia.gitbooks.io/arabic-eloquent-js/",
-                           "title": "Eloquent Javascript (Second Edition)‏",
-                           "author": "Marijn Haverbeke, Rabah Boudia‏",
-                           "notes": [
-                              "gitbook"
-                           ]
                         }
                      ],
                      "subsections": [
@@ -186,14 +142,6 @@
                   {
                      "section": "Linux",
                      "entries": [
-                        {
-                           "url": "https://librebooks.org/gnu-linux-advanced-administration/",
-                           "title": "الإدارة المتقدمة لجنو/لينكس",
-                           "author": "Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb‏",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
                         {
                            "url": "https://www.simplyubuntu.com",
                            "title": "أوبنتو ببساطة",
@@ -233,49 +181,9 @@
                      "section": "Open Source Software",
                      "entries": [
                         {
-                           "url": "https://librebooks.org/strategic-dimensions-of-free-and-open-source-software/",
-                           "title": "الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر",
-                           "author": "فيجن للأنظمة المتقدمة",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://librebooks.org/digital-freedoms-main-concepts/",
-                           "title": "الحريات الرقمية - المفاهيم الرئيسية",
-                           "author": "محمد الطاهر",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://librebooks.org/opensource-ultimate-options/",
-                           "title": "المصادر المفتوحة خيارات بلا حدود",
-                           "author": "محمد أنس طويلة",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://librebooks.org/know-free-software/",
-                           "title": "تعرف على البرمجيات الحرة",
-                           "author": "فهد السعيدي",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://www.freeopensourceguide.com",
                            "title": "دليل البرمجيات الحرة مفتوحة",
                            "author": "أحمد م. أبوزيد",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://librebooks.org/bref-about-foss-licenses/",
-                           "title": "نبذة عن رخص البرمجيات الحرة",
-                           "author": "جلال شفرور",
                            "notes": [
                               "PDF"
                            ]
@@ -287,28 +195,12 @@
                      "section": "Operating Systems",
                      "entries": [
                         {
-                           "url": "https://librebooks.org/intro-to-os-analysis-and-design/",
-                           "title": "المقدمة في تحليل وتصميم أنظمة",
-                           "author": "Ahmed Lexis"
-                        },
-                        {
                            "url": "https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/",
                            "title": "أنظمة التشغيل للمبرمجين",
                            "author": "Allen B. Downey ,ترجمة علا عباس",
                            "notes": [
                               "PDF"
                            ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "PHP",
-                     "entries": [
-                        {
-                           "url": "https://librebooks.org/learn-programming-with-php/",
-                           "title": "تعلم البرمجة بلغة PHP",
-                           "author": "Ahmed Abu Al-Saud , Abdul Latif Amish"
                         }
                      ],
                      "subsections": []
@@ -332,28 +224,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "https://librebooks.org/simply-raspberry-pi/",
-                           "title": "راسبيري باي السهل",
-                           "author": "Abdullah Ali Abdullah",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Ruby",
-                     "entries": [
-                        {
-                           "url": "https://librebooks.org/intro-to-ruby/",
-                           "title": "مقدمة في روبي",
-                           "author": "Ahmed Youssef",
-                           "notes": [
-                              "PDF"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -361,14 +231,6 @@
                   {
                      "section": "Scratch",
                      "entries": [
-                        {
-                           "url": "https://librebooks.org/learn-programming-with-scratch-cat/",
-                           "title": "تعلم البرمجة مع القط سكراتش",
-                           "author": "نورا حاتم",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
                         {
                            "url": "https://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf",
                            "title": "كتاب احترف سكراتش",
@@ -401,22 +263,6 @@
                         {
                            "url": "https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/",
                            "title": "دليل الأمان الرقمي"
-                        },
-                        {
-                           "url": "https://librebooks.org/security-in-a-box/",
-                           "title": "عُدَّة الأمان الرقمي",
-                           "author": "working group"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "SEO",
-                     "entries": [
-                        {
-                           "url": "https://librebooks.org/search-engine-optimization-seo-starter-guide-ar/",
-                           "title": "تحسين محركات البحث SEO - دليل المبتدئين",
-                           "author": "The Google"
                         }
                      ],
                      "subsections": []
@@ -6569,6 +6415,11 @@
                      "section": "Java",
                      "entries": [
                         {
+                           "url": "https://polinema.gitbook.io/jti-modul-praktikum-algoritma-dan-struktur-data/",
+                           "title": "Algoritma dan Struktur Data dengan Java oleh Polinema SIB",
+                           "author": "Politeknik Negeri Malang"
+                        },
+                        {
                            "url": "https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf",
                            "title": "Java Desktop",
                            "author": "Ifnu Bima",
@@ -6956,6 +6807,27 @@
                         {
                            "url": "http://sakti.github.io/python101/",
                            "title": "Workshop Python 101"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Rust",
+                     "entries": [
+                        {
+                           "url": "https://belajar-rust.vercel.app",
+                           "title": "Belajar Rust",
+                           "author": "evilfactorylabs"
+                        },
+                        {
+                           "url": "https://dasarpemrogramanrust.novalagung.com",
+                           "title": "Dasar Pemrograman Rust",
+                           "author": "Noval Agung Prayogo"
+                        },
+                        {
+                           "url": "https://github.com/ariandy/easy-rust-indonesia",
+                           "title": "Easy Rust Indonesia",
+                           "author": "ariandy"
                         }
                      ],
                      "subsections": []
@@ -15303,7 +15175,7 @@
                            ]
                         },
                         {
-                           "url": "https://bubblin.io/cover/let-s-learn-es6-by-ryan-christiani#frontmatter",
+                           "url": "https://bubblin.io/book/let-s-learn-es6-by-ryan-christiani#frontmatter",
                            "title": "Let's Learn ES6",
                            "author": "Ryan Christiani",
                            "notes": [
@@ -15397,7 +15269,7 @@
                            ]
                         },
                         {
-                           "url": "http://speakingjs.com/es5/",
+                           "url": "https://exploringjs.com/es5/",
                            "title": "Speaking JavaScript",
                            "author": "Dr. Axel Rauschmayer"
                         },
@@ -15919,7 +15791,7 @@
                                  ]
                               },
                               {
-                                 "url": "https://nodejs.dev/learn",
+                                 "url": "https://nodejs.dev/en/learn/",
                                  "title": "Introduction to Node.js",
                                  "notes": [
                                     "HTML"
@@ -19686,6 +19558,11 @@
                            "url": "https://bookdown.org/rdpeng/RProgDA/",
                            "title": "Mastering Software Development in R",
                            "author": "Roger D. Peng, Sean Kross, and Brooke Anderson"
+                        },
+                        {
+                           "url": "https://m-clark.github.io/models-by-example",
+                           "title": "Model Estimation by Example, Demonstrations with R",
+                           "author": "Michael Clark"
                         },
                         {
                            "url": "https://ismayc.github.io/moderndiver-book/",
@@ -39966,14 +39843,14 @@
                            "author": "Anisul Islam"
                         },
                         {
-                           "url": "https://dimikcomputing.com/course/javaee-online-course/",
-                           "title": "জাভা এন্টারপ্রাইজ এডিশন",
-                           "author": "দ্বিমিক কম্পিউটিং"
-                        },
-                        {
                            "url": "https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP",
                            "title": "Java Bangla (বাংলা) tutorial for beginners",
                            "author": "Time & Training"
+                        },
+                        {
+                           "url": "https://dimikcomputing.com/course/javaee-online-course/",
+                           "title": "জাভা এন্টারপ্রাইজ এডিশন",
+                           "author": "দ্বিমিক কম্পিউটিং"
                         }
                      ],
                      "subsections": []
@@ -40017,17 +39894,22 @@
                            "author": "Stack Learner"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS",
-                           "title": "Make Fun of JavaScript Array",
-                           "author": "Stack Learner"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy",
                            "title": "JS Bangla Tutorial Series for Beginners",
                            "author": "Sumit Saha",
                            "notes": [
                               "Learn with Sumit"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+                           "title": "JavaScript Tutorial For Beginners",
+                           "author": "Hablu Programmer"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS",
+                           "title": "Make Fun of JavaScript Array",
+                           "author": "Stack Learner"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG",
@@ -40131,6 +40013,14 @@
                                  "author": "Stack Learner"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+                                 "title": "React JS Tutorial Bangla Series for Beginners",
+                                 "author": "Sumit Saha",
+                                 "notes": [
+                                    "Learn with Sumit"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx",
                                  "title": "Understand ReactJS Advanced Features",
                                  "author": "Stack Learner"
@@ -40139,14 +40029,6 @@
                                  "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs",
                                  "title": "Understand ReactJS Core Features",
                                  "author": "Stack Learner"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
-                                 "title": "React JS Tutorial Bangla Series for Beginners",
-                                 "author": "Sumit Saha",
-                                 "notes": [
-                                    "Learn with Sumit"
-                                 ]
                               }
                            ]
                         },
@@ -40559,7 +40441,23 @@
                            "author": "The Morpheus Tutorials"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "TypeScript",
+                           "entries": [
+                              {
+                                 "url": "https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/",
+                                 "title": "Erstellen von JavaScript-Anwendungen mithilfe von TypeScript",
+                                 "author": "Microsoft"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=_CaGUZNEobk",
+                                 "title": "TypeScript lernen: Eine Einführung in 80 Minuten",
+                                 "author": "Golo Roden"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Künstliche Intelligenz",
@@ -40626,22 +40524,6 @@
                            "url": "https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen",
                            "title": "SQL-Grundlagen",
                            "author": "SelfHTML"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "TypeScript",
-                     "entries": [
-                        {
-                           "url": "https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/",
-                           "title": "Erstellen von JavaScript-Anwendungen mithilfe von TypeScript",
-                           "author": "Microsoft"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=_CaGUZNEobk",
-                           "title": "TypeScript lernen: Eine Einführung in 80 Minuten",
-                           "author": "Golo Roden"
                         }
                      ],
                      "subsections": []
@@ -41739,6 +41621,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN",
+                           "title": "C++ Object-Oriented Programming",
+                           "author": "Saldina Nurak",
+                           "notes": [
+                              "CodeBeauty"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS",
                            "title": "C++ Programming",
                            "author": "Neso Academy"
@@ -41860,6 +41750,11 @@
                            "url": "https://cognitiveclass.ai/courses/introduction-to-cloud",
                            "title": "Introduction to Cloud",
                            "author": "CognitiveClass.ai"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J",
+                           "title": "NPTEL-CloudComputing",
+                           "author": "Manish Narula"
                         }
                      ],
                      "subsections": [
@@ -42080,6 +41975,21 @@
                   {
                      "section": "Cryptography",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII",
+                           "title": "Cryptography & Network Security",
+                           "author": "Neso Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX",
+                           "title": "Cryptography Lecture Series",
+                           "author": "Christof Paar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2",
+                           "title": "Foundations of Cryptography",
+                           "author": "NPTEL  Indian Institute of Science, Bengaluru"
+                        },
                         {
                            "url": "https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography",
                            "title": "Introduction to Cryptography",
@@ -42505,6 +42415,10 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR",
+                                 "title": "SQL NPTEL"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy",
                                  "title": "SQL Tutorial"
                               },
@@ -42577,6 +42491,10 @@
                            "url": "http://rail.eecs.berkeley.edu/deeprlcourse/",
                            "title": "Deep Reinforcement Learning",
                            "author": "Sergey Levine"
+                        },
+                        {
+                           "url": "https://huggingface.co/learn/deep-rl-course/unit0/introduction",
+                           "title": "Deep Reinforcement Learning Course - Hugging Face"
                         },
                         {
                            "url": "https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020",
@@ -43796,6 +43714,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r",
+                           "title": "Hibernate Tutorial for Beginners",
+                           "author": "Telusko",
+                           "notes": [
+                              "Navin Reddy"
+                           ]
+                        },
+                        {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/",
                            "title": "Introduction to Java"
                         },
@@ -43974,6 +43900,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=OuBUUkQfBYM",
+                           "title": "Servlet & JSP Tutorial Full Course",
+                           "author": "Telusko",
+                           "notes": [
+                              "Navin Reddy"
+                           ]
+                        },
+                        {
                            "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about",
                            "title": "Software Construction in Java",
                            "author": "MIT Open Learning Library"
@@ -44052,6 +43986,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84",
                            "title": "Functional Programming in JavaScript",
                            "author": "Mattias Petter Johansson «Fun Fun Function»"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A",
+                           "title": "Gentle Introduction to JavaScript",
+                           "author": "Deborah Kurata"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI",
@@ -44249,8 +44188,75 @@
                      ],
                      "subsections": [
                         {
-                           "section": "AngularJS",
+                           "section": "Angular",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v",
+                                 "title": "Angular 12 / 13 tutorial",
+                                 "author": "Code Step By Step"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV",
+                                 "title": "Angular 12 Course",
+                                 "author": "Slobodan Gajic"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe",
+                                 "title": "Angular 6 Tutorials",
+                                 "author": "codedamn"
+                              },
+                              {
+                                 "url": "https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs",
+                                 "title": "Angular Complete Course Guide",
+                                 "author": "Leela Web Dev"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT",
+                                 "title": "Angular Courses",
+                                 "author": "Moshfegh Hamedani",
+                                 "notes": [
+                                    "Programming with Mosh"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=3dHNOWTI7H8",
+                                 "title": "Angular Crash Course 2021",
+                                 "author": "Brad Traversy, Traversy Media"
+                              },
+                              {
+                                 "url": "https://www.udemy.com/angular-fast-crash-course/",
+                                 "title": "Angular Fast Crash Course",
+                                 "author": "Edwin Diaz, Coding Faculty Solutions",
+                                 "notes": [
+                                    "Udemy"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.udemy.com/course/angular-for-beginners-course/",
+                                 "title": "Angular for Beginners",
+                                 "author": "Angular University",
+                                 "notes": [
+                                    "Udemy"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ",
+                                 "title": "Angular Tutorial For Beginners",
+                                 "author": "Codevolution"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=AAu8bjj6-UI",
+                                 "title": "Angular Tutorial for Beginners - Web Framework with Typescript Course",
+                                 "author": "Slobodan Gajic, freeCodeCamp"
+                              },
+                              {
+                                 "url": "https://www.udemy.com/course/angular-5/",
+                                 "title": "Learn Angular 5 from Scratch",
+                                 "author": "Gary Simon",
+                                 "notes": [
+                                    "Udemy"
+                                 ]
+                              },
                               {
                                  "url": "https://www.youtube.com/watch?v=9b9pLgaSQuI",
                                  "title": "AngularJS Tutorial for Beginners",
@@ -44304,6 +44310,24 @@
                            ]
                         },
                         {
+                           "section": "Deno",
+                           "entries": [
+                              {
+                                 "url": "https://denobeginner.com",
+                                 "title": "Deno Beginner",
+                                 "author": "Ahmad Awais",
+                                 "notes": [
+                                    "email address *required*"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=TQUy8ENesGY",
+                                 "title": "Deno Course - Better than Node.js?",
+                                 "author": "The Codeholic, freeCodeCamp"
+                              }
+                           ]
+                        },
+                        {
                            "section": "Electron",
                            "entries": [
                               {
@@ -44340,6 +44364,11 @@
                         {
                            "section": "Next.js",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLynWqC6VC9KOvExUuzhTFsWaxnpP_97BD",
+                                 "title": "Complete Next.js Course For Beginners",
+                                 "author": "Daily Tuition"
+                              },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3",
                                  "title": "Master Next JS by Building Real Projects",
@@ -44688,7 +44717,58 @@
                                  "author": "Chris Courses"
                               }
                            ]
+                        }
+                     ]
+                  },
+                  {
+                     "section": "TypeScript",
+                     "entries": [
+                        {
+                           "url": "https://www.totaltypescript.com/tutorials/beginners-typescript",
+                           "title": "Beginner's Typescript",
+                           "author": "Matt Pocock"
                         },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV",
+                           "title": "ES6 and Typescript Tutorial",
+                           "author": "Codevolution, Vishwas Gopinath"
+                        },
+                        {
+                           "url": "https://www.udemy.com/typescript/",
+                           "title": "Introduction to TypeScript",
+                           "author": "Daniel Stern",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.codecademy.com/learn/learn-typescript",
+                           "title": "Learn TypeScript",
+                           "author": "",
+                           "notes": [
+                              "CodeAcademy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+                           "title": "TypeScript Course for Beginners- Learn TypeScript from Scratch!",
+                           "author": "Academind"
+                        },
+                        {
+                           "url": "https://www.udemy.com/typescript-fast-crash-course/",
+                           "title": "TypeScript Fast Crash Course",
+                           "author": "Edwin Diaz, Coding Faculty Solutions",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=d56mG7DezGs",
+                           "title": "TypeScript Tutorial for Beginners - 2022",
+                           "author": "Programming with Mosh"
+                        }
+                     ],
+                     "subsections": [
                         {
                            "section": "Vue.js",
                            "entries": [
@@ -45104,6 +45184,11 @@
                            "url": "https://youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh",
                            "title": "Machine Learning",
                            "author": "Nerd's Lesson"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+                           "title": "Machine Learning",
+                           "author": "StatQuest with Josh Starmer"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN",
@@ -46725,147 +46810,6 @@
                         }
                      ],
                      "subsections": []
-                  },
-                  {
-                     "section": "TypeScript",
-                     "entries": [
-                        {
-                           "url": "https://www.totaltypescript.com/tutorials/beginners-typescript",
-                           "title": "Beginner's Typescript",
-                           "author": "Matt Pocock"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV",
-                           "title": "ES6 and Typescript Tutorial",
-                           "author": "Codevolution, Vishwas Gopinath"
-                        },
-                        {
-                           "url": "https://www.udemy.com/typescript/",
-                           "title": "Introduction to TypeScript",
-                           "author": "Daniel Stern",
-                           "notes": [
-                              "Udemy"
-                           ]
-                        },
-                        {
-                           "url": "https://www.codecademy.com/learn/learn-typescript",
-                           "title": "Learn TypeScript",
-                           "author": "",
-                           "notes": [
-                              "CodeAcademy"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
-                           "title": "TypeScript Course for Beginners- Learn TypeScript from Scratch!",
-                           "author": "Academind"
-                        },
-                        {
-                           "url": "https://www.udemy.com/typescript-fast-crash-course/",
-                           "title": "TypeScript Fast Crash Course",
-                           "author": "Edwin Diaz, Coding Faculty Solutions",
-                           "notes": [
-                              "Udemy"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=d56mG7DezGs",
-                           "title": "TypeScript Tutorial for Beginners - 2022",
-                           "author": "Programming with Mosh"
-                        }
-                     ],
-                     "subsections": [
-                        {
-                           "section": "Angular",
-                           "entries": [
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v",
-                                 "title": "Angular 12 / 13 tutorial",
-                                 "author": "Code Step By Step"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV",
-                                 "title": "Angular 12 Course",
-                                 "author": "Slobodan Gajic"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe",
-                                 "title": "Angular 6 Tutorials",
-                                 "author": "codedamn"
-                              },
-                              {
-                                 "url": "https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs",
-                                 "title": "Angular Complete Course Guide",
-                                 "author": "Leela Web Dev"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT",
-                                 "title": "Angular Courses",
-                                 "author": "Moshfegh Hamedani",
-                                 "notes": [
-                                    "Programming with Mosh"
-                                 ]
-                              },
-                              {
-                                 "url": "https://www.youtube.com/watch?v=3dHNOWTI7H8",
-                                 "title": "Angular Crash Course 2021",
-                                 "author": "Brad Traversy, Traversy Media"
-                              },
-                              {
-                                 "url": "https://www.udemy.com/angular-fast-crash-course/",
-                                 "title": "Angular Fast Crash Course",
-                                 "author": "Edwin Diaz, Coding Faculty Solutions",
-                                 "notes": [
-                                    "Udemy"
-                                 ]
-                              },
-                              {
-                                 "url": "https://www.udemy.com/course/angular-for-beginners-course/",
-                                 "title": "Angular for Beginners",
-                                 "author": "Angular University",
-                                 "notes": [
-                                    "Udemy"
-                                 ]
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ",
-                                 "title": "Angular Tutorial For Beginners",
-                                 "author": "Codevolution"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/watch?v=AAu8bjj6-UI",
-                                 "title": "Angular Tutorial for Beginners - Web Framework with Typescript Course",
-                                 "author": "Slobodan Gajic, freeCodeCamp"
-                              },
-                              {
-                                 "url": "https://www.udemy.com/course/angular-5/",
-                                 "title": "Learn Angular 5 from Scratch",
-                                 "author": "Gary Simon",
-                                 "notes": [
-                                    "Udemy"
-                                 ]
-                              }
-                           ]
-                        },
-                        {
-                           "section": "Deno",
-                           "entries": [
-                              {
-                                 "url": "https://denobeginner.com",
-                                 "title": "Deno Beginner",
-                                 "author": "Ahmad Awais",
-                                 "notes": [
-                                    "email address *required*"
-                                 ]
-                              },
-                              {
-                                 "url": "https://www.youtube.com/watch?v=TQUy8ENesGY",
-                                 "title": "Deno Course - Better than Node.js?",
-                                 "author": "The Codeholic, freeCodeCamp"
-                              }
-                           ]
-                        }
-                     ]
                   },
                   {
                      "section": "Verilog / VHDL / SystemVerilog",
@@ -52149,6 +52093,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Rust",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn",
+                           "title": "Belajar Rust",
+                           "author": "Dev Activity"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "SASS / SCSS",
                      "entries": [
                         {
@@ -52766,6 +52721,11 @@
                            "author": "Edoardo Midali"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL6PilnEO6HWbTXL8nLSkp-875H-x-vhEo",
+                           "title": "Corso HTML 5 Italiano 2023",
+                           "author": "Manuel Ricci"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7",
                            "title": "Corso SEO Italiano 2023",
                            "author": "Edoardo Midali"
@@ -52969,18 +52929,39 @@
                            "author": "រៀនIT"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnVmKfCI1gC6xHqJ_T9F85DW&si=cbbCi2zp_GoLcneK",
+                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnVmKfCI1gC6xHqJ_T9F85DW",
                            "title": "អនុវត្ត​កូដ Javascript",
                            "author": "Khode Academy"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnUoeb8D2itGMIZayTi9ViOv&si=wxALcNb-i_4189KK",
+                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnVOKm51qK8Gmx0tT-KbJoNd",
+                           "title": "ES6 - ជំនាន់​ថ្មី​របស់ Javascript",
+                           "author": "Khode Academy"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnUoeb8D2itGMIZayTi9ViOv",
                            "title": "Javascript - បង្កើត​អន្តរកម្ម​គេហទំព័រ",
                            "author": "Khode Academy"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnVOKm51qK8Gmx0tT-KbJoNd&si=-QXNo_NVAykbjPIt",
-                           "title": "ES6 - ជំនាន់​ថ្មី​របស់ Javascript",
+                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnW-wD7kT3rqZWrI_PlR3nsk",
+                           "title": "Node.js - Server-Side Javascript",
+                           "author": "Khode Academy"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnVLr4irXpTsUiWtAq3PJHLy",
+                           "title": "React.js - Web UI ជំនាន់​ថ្មី",
+                           "author": "Khode Academy"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "PHP",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLuEdNLfGOtnVsMxiXgZUuvqFKIavgZ-Bv",
+                           "title": "PHP - កម្មវិធី​គេហទំព័រ",
                            "author": "Khode Academy"
                         }
                      ],
@@ -54395,8 +54376,8 @@
                      "section": "Bash",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLh6V3IQZSBSbls0j9DdkCpbbqQsBUzh4-",
-                           "title": "Bash - Skrypty powłoki",
+                           "url": "https://www.youtube.com/playlist?list=PLb5zx7G9W1ZHB8GykWfqKAwXdKRSYWKW5",
+                           "title": "Bash",
                            "author": "Piotr Kośka"
                         }
                      ],
@@ -54407,7 +54388,8 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/watch?v=dzFgY4JsZe8",
-                           "title": "Programowanie w Brainfucku"
+                           "title": "Programowanie w Brainfucku",
+                           "author": "Mirosław Zelent, Damian Stelmach"
                         }
                      ],
                      "subsections": []
@@ -54417,7 +54399,8 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLgeFsJ0yZyikV_e8YDl5rixXu-H6wFIIZ",
-                           "title": "Kurs Programowania w C"
+                           "title": "Kurs Programowania w C",
+                           "author": "Mateusz Leśko"
                         }
                      ],
                      "subsections": []
@@ -54476,7 +54459,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLpwxuvBp359NntV2cLO5LaH6tmd6efmHH",
-                           "title": "Kurs HTML"
+                           "title": "Kurs HTML",
+                           "author": "Marcin Filczyński"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL0zYPqHK5yJWsIn3PIproSyxO3nchPd99",
@@ -54498,8 +54482,9 @@
                      "section": "Java",
                      "entries": [
                         {
-                           "url": "http://programowaniejava.pl/edukacja/darmowe-szkolenia.html",
-                           "title": "Darmowe kursy z Javy dla początkujących"
+                           "url": "https://web.archive.org/web/20220326010054/http://programowaniejava.pl/edukacja/darmowe-szkolenia.html",
+                           "title": "Darmowe kursy z Javy dla początkujących",
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw",
@@ -54535,11 +54520,6 @@
                   {
                      "section": "JavaScript",
                      "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLGjoxB-1BV8IKoG_fb934nZXSVi_v-4yg",
-                           "title": "Kurs JavaScript",
-                           "author": "Jakub Jurkian"
-                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC",
                            "title": "Kurs JavaScript. Programowanie frontendowe (VIDEO)",
@@ -54581,12 +54561,12 @@
                      "section": "PHP",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLE974A9BEF34A967A",
+                           "url": "https://www.youtube.com/playlist?list=PLD54FE15FA250C6C0",
                            "title": "Kurs PHP"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLD54FE15FA250C6C0",
-                           "title": "Kurs PHP"
+                           "url": "https://www.youtube.com/playlist?list=PLE974A9BEF34A967A",
+                           "title": "Kurs PHP od UW-TEAM.org"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh",
@@ -54639,7 +54619,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH",
-                           "title": "Kurs Python 3"
+                           "title": "Kurs Python 3",
+                           "author": "Piotr Baja"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr",
@@ -54766,6 +54747,11 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLkhtU8XJLj-5q4fcgUkjmrICOqWsgWNJr",
+                           "title": "Curso de C# / .NET Para Iniciantes",
+                           "author": "Fredi"
                         },
                         {
                            "url": "https://balta.io/cursos/fundamentos-csharp",
@@ -62224,6 +62210,11 @@
                                  "notes": [
                                     ":construction: *in process*"
                                  ]
+                              },
+                              {
+                                 "url": "https://linuxjourney.com",
+                                 "title": "Linux Journey - Fun and Easy",
+                                 "author": "Cindy Quach"
                               },
                               {
                                  "url": "https://www.scaler.com/topics/operating-system/",
