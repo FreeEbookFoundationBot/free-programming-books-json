@@ -16068,6 +16068,11 @@
                            "section": "Svelte",
                            "entries": [
                               {
+                                 "url": "https://vercel.com/docs/beginner-sveltekit",
+                                 "title": "Beginner SvelteKit",
+                                 "author": "Steph Dietz"
+                              },
+                              {
                                  "url": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started",
                                  "title": "Getting started with Svelte",
                                  "author": "MDN Web Docs"
@@ -27647,6 +27652,14 @@
                            "url": "https://mml-book.github.io",
                            "title": "Mathematics for Machine Learning",
                            "author": "Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong"
+                        },
+                        {
+                           "url": "https://hagan.okstate.edu/NNDesign.pdf",
+                           "title": "Neural Network Design (2nd Edition)",
+                           "author": "Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://neuralnetworksanddeeplearning.com",
@@ -40891,6 +40904,11 @@
                            "author": "mycodeschool"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLzgPDYo_3xunyLTJlmoH8IAUvet4-Ka0y",
+                           "title": "Sorting Algorithms",
+                           "author": "Amulya's Academy"
+                        },
+                        {
                            "url": "https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1",
                            "title": "Stanford University Algorithms: Design and Analysis, Part 1"
                         },
@@ -41618,6 +41636,14 @@
                            "author": "Catherine Gamboa",
                            "notes": [
                               "Udacity"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_",
+                           "title": "C++ GUI applications (beginner to advanced)",
+                           "author": "Saldina Nurak",
+                           "notes": [
+                              "CodeBeauty"
                            ]
                         },
                         {
@@ -44697,14 +44723,64 @@
                            "section": "Svelte",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4",
+                                 "title": "Beginner SvelteKit",
+                                 "author": "Steph Dietz"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=MoGkX4RvZ38",
+                                 "title": "Learn How To Build Modern Web Apps With SvelteKit",
+                                 "author": "Joy of Code"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLA9WiRZ-IS_ylnMYxIFCsZN6xVVSvLuHk",
+                                 "title": "Learn Svelte",
+                                 "author": "Joy of Code"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=UGBJHYpHPvA",
+                                 "title": "Learn Svelte Full Course",
+                                 "author": "Lihau Tan, freeCodeCamp"
+                              },
+                              {
                                  "url": "https://www.youtube.com/watch?v=ujbE0mzX-CU",
                                  "title": "Learn the Svelte JavaScript Framework",
                                  "author": "Noah Glaser, freeCodeCamp"
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=3TVy6GdtNuQ",
+                                 "title": "Svelte Crash Course",
+                                 "author": "Traversy Media"
+                              },
+                              {
                                  "url": "https://www.youtube.com/watch?v=vhGiGqZ78Rs",
                                  "title": "Svelte Tutorial",
                                  "author": "Beau Carnes, freeCodeCamp"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx",
+                                 "title": "Svelte Tutorial for Beginners",
+                                 "author": "Codevolution"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+                                 "title": "Svelte Tutorial for Beginners",
+                                 "author": "The Net Ninja"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS",
+                                 "title": "SvelteKit For Beginners",
+                                 "author": "Joy of Code"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjifDNQYYWI6i06D7PjF0Ua",
+                                 "title": "SvelteKit Tutorial",
+                                 "author": "Codevolution"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP",
+                                 "title": "SvelteKit Tutorial (Crash Course)",
+                                 "author": "The Net Ninja"
                               }
                            ]
                         },
@@ -49148,11 +49224,6 @@
                            "author": "WsCube Tech"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLRu7mEBdW7fAUNtaiPoTCCgWXSlqwqdSP",
-                           "title": "Android App Development Full Course in Hindi",
-                           "author": "Geeky Hub"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb",
                            "title": "Android Development Tutorial for Beginners",
                            "author": "Anuj Bhaiya"
@@ -50719,6 +50790,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg",
                            "title": "System Analysis and Design",
                            "author": "Gursimran Singh Dhillon"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "TypeScript",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_",
+                           "title": "Typescript Tutorial for Beginners in Hindi",
+                           "author": "Thapa Technical"
                         }
                      ],
                      "subsections": []
@@ -55019,6 +55101,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF",
                            "title": "Go 101 (Curso)",
                            "author": "Tiago Temporin"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg",
+                           "title": "Golang do Zero",
+                           "author": "Full Cycle"
                         }
                      ],
                      "subsections": []
@@ -55303,11 +55390,6 @@
                      "section": "JavaScript",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1",
-                           "title": "Bootcamp da Brainn de React",
-                           "author": "Canal Brainn Co."
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw",
                            "title": "Curso de Javascript Completo",
                            "author": "Programação Web"
@@ -55321,20 +55403,55 @@
                            ]
                         },
                         {
-                           "url": "https://www.cod3r.com.br/courses/curso-intensivo-next-react",
-                           "title": "Curso Intensivo de Next.js & React",
-                           "author": "Leonardo Leitão",
-                           "notes": [
-                              "Cod3r"
-                           ]
+                           "url": "https://www.youtube.com/watch?v=i6Oi-YtXnAU",
+                           "title": "Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos",
+                           "author": "Jhonatan de Souza"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe",
                            "title": "Fast & Furious",
                            "author": "Codecasts"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw",
+                           "title": "Kubernetes para Devs Javascript",
+                           "author": "Erick Wendel, Lucas Santos"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=2G_mWfG0DZE",
+                           "title": "Testes no NodeJS aplicando TDD com Jest",
+                           "author": "Diego Fernandes"
                         }
                      ],
                      "subsections": [
+                        {
+                           "section": "React",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V",
+                                 "title": "Aprenda Next.js,GraphQL e Leaflet na prática!",
+                                 "author": "Willian Justen"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1",
+                                 "title": "Bootcamp da Brainn de React",
+                                 "author": "Canal Brainn Co."
+                              },
+                              {
+                                 "url": "https://www.cod3r.com.br/courses/curso-intensivo-next-react",
+                                 "title": "Curso Intensivo de Next.js & React",
+                                 "author": "Leonardo Leitão",
+                                 "notes": [
+                                    "Cod3r"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V",
+                                 "title": "Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui",
+                                 "author": "DeveloperDeck101"
+                              }
+                           ]
+                        },
                         {
                            "section": "Vue.js",
                            "entries": [
@@ -55697,6 +55814,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL",
                            "title": "Algoritmos de Ordenação",
                            "author": "Bruno Ribas"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=iF2MdbrTiBM",
+                           "title": "Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática",
+                           "author": "Jonathan de Souza"
                         }
                      ],
                      "subsections": []
@@ -57197,6 +57319,16 @@
                            "url": "https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa",
                            "title": "Learn Java in Tamil",
                            "author": "Logic First Tamil"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLhbl8CrGKCBNVzNXhoWdmni_sEAqZdLt9",
+                           "title": "Spring Boot Beginners Tutorial in Tamil",
+                           "author": "Code Simple"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c",
+                           "title": "Spring Boot Complete/Full Course in Tamil for Beginners from Basics",
+                           "author": "Payilagam"
                         }
                      ],
                      "subsections": []
@@ -62138,6 +62270,16 @@
                                  "author": "freeCodeCamp"
                               }
                            ]
+                        },
+                        {
+                           "section": "Svelte",
+                           "entries": [
+                              {
+                                 "url": "https://learn.svelte.dev/tutorial/welcome-to-svelte",
+                                 "title": "Interactive Svelte Tutorial",
+                                 "author": "svelte.dev"
+                              }
+                           ]
                         }
                      ]
                   },
@@ -63738,6 +63880,14 @@
                            "title": "4Clojure"
                         },
                         {
+                           "url": "https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf",
+                           "title": "A Way to Practice Competitive Programming",
+                           "author": "Masataka Yoneda",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://a2oj.netlify.app",
                            "title": "A2 Online Judge"
                         },
@@ -64112,6 +64262,10 @@
                         {
                            "url": "https://practice.geeksforgeeks.org",
                            "title": "Geeks For Geeks"
+                        },
+                        {
+                           "url": "https://www.techinterviewhandbook.org/grind75",
+                           "title": "Grind 75"
                         },
                         {
                            "url": "http://www.hacker.org",
