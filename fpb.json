@@ -25992,6 +25992,11 @@
                            ]
                         },
                         {
+                           "url": "https://labuladong.gitbook.io/algo-en",
+                           "title": "Algorithmic Thinking",
+                           "author": "Donglai Fu"
+                        },
+                        {
                            "url": "https://en.wikibooks.org/wiki/Algorithms",
                            "title": "Algorithms",
                            "author": "Wikibooks"
@@ -29119,6 +29124,11 @@
                      "section": "Open Source Ecosystem",
                      "entries": [
                         {
+                           "url": "https://github.com/aosabook/500lines",
+                           "title": "500 lines or less",
+                           "author": "Build from Source Code"
+                        },
+                        {
                            "url": "https://github.com/Mte90/Contribute-to-opensource-the-right-way",
                            "title": "Contributing to opensource: the right way",
                            "author": "Daniele Scasciafratte"
@@ -29682,6 +29692,14 @@
                            "url": "http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf",
                            "title": "Introduction to Classical and Quantum Computing",
                            "author": "Thomas G. Wong",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.gla.ac.uk/media/Media_344957_smxx.pdf",
+                           "title": "Introduction to Quantum Information",
+                           "author": "Stephen M. Barnett",
                            "notes": [
                               "PDF"
                            ]
@@ -30597,6 +30615,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Fortran",
+                     "entries": [
+                        {
+                           "url": "http://www.boein.se/f95.pdf",
+                           "title": "Lärobok i Fortran 95",
+                           "author": "Linköpings Universitet, Bo Einarsson",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "MATLAB",
                      "entries": [
                         {
@@ -30616,6 +30648,17 @@
                         {
                            "url": "https://sv.wikibooks.org/wiki/Programmera_i_PHP",
                            "title": "Programmera i PHP",
+                           "author": "Wikibooks"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://sv.wikibooks.org/wiki/Programmera_i_Python",
+                           "title": "Programmera i Python",
                            "author": "Wikibooks"
                         }
                      ],
@@ -30766,6 +30809,17 @@
                            "url": "https://www.computerintelugu.com/2012/11/cmenu.html",
                            "title": "Introduction to C | Telugu",
                            "author": "Sivanaadh Baazi Karampudi"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"python\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw",
+                           "title": "Python Course in Telugu: 30 days challenge",
+                           "author": "Vamsi Bhavani"
                         }
                      ],
                      "subsections": []
@@ -31007,6 +31061,19 @@
                         {
                            "url": "https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar",
                            "title": "Dart - Merhaba Dünya"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Fortran",
+                     "entries": [
+                        {
+                           "url": "http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf",
+                           "title": "Fortran Programlama Diline Giriş",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -35458,6 +35525,14 @@
                            ]
                         },
                         {
+                           "url": "https://postgres.fm",
+                           "title": "Postgres FM",
+                           "author": "Michael Christofides, Nikolay Samokhvalov",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://player.fm/series/scaling-postgres",
                            "title": "Scaling Postgres",
                            "author": "Ruby Tree Software Inc, Creston Jamison",
@@ -35641,6 +35716,14 @@
                            "url": "https://remoteruby.com",
                            "title": "Remote Ruby",
                            "author": "Chris Oliver, Jason Charnes, Andrew Mason",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://rubyforall.com",
+                           "title": "Ruby for All",
+                           "author": "Andrew Mason, Julie J",
                            "notes": [
                               "podcast"
                            ]
@@ -41566,6 +41649,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=wxznTygnRfQ",
+                           "title": "C# Full Course for free",
+                           "author": "Bro Code"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=qOruiBrXlAw",
                            "title": "C# Programming All-in-One Tutorial Series (6 HOURS!)",
                            "author": "Caleb Curry"
@@ -41637,6 +41725,11 @@
                            "notes": [
                               "Udacity"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=-TkoO8Z07hI",
+                           "title": "C++ Full Course for free",
+                           "author": "Bro Code"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_",
@@ -42572,6 +42665,20 @@
                            "title": "Self-Paced Courses for Deep Learning"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+                           "title": "Stanford CS 224N: Natural Language Processing with Deep Learning",
+                           "notes": [
+                              "Stanford Online"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb",
+                           "title": "Stanford CS230: Deep Learning",
+                           "notes": [
+                              "Stanford Online"
+                           ]
+                        },
+                        {
                            "url": "http://deeplearning.stanford.edu/tutorial",
                            "title": "Unsupervised Feature Learning and Deep Learning"
                         },
@@ -43460,6 +43567,11 @@
                            "author": "Samantha Ming"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLErOmyzRKOCpmPEZIkblP-0sNufXbvXJL",
+                           "title": "Gentle Introduction to HTML for Beginners",
+                           "author": "Deborah Kurata"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/html-online-course/",
                            "title": "Get to know HTML Learn HTML Basics",
                            "author": "Laurence Svekis",
@@ -43609,6 +43721,11 @@
                                  "url": "https://www.youtube.com/watch?v=ZfRn9VJzdGA",
                                  "title": "Complete Bootstrap Crash Course | Bootstrap 4 Tutorial",
                                  "author": "Julio Codes"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLErOmyzRKOCr47pRGOswKcgzGyetNRdHZ",
+                                 "title": "Gentle Introduction to Bootstrap 5 for Beginners",
+                                 "author": "Deborah Kurata"
                               },
                               {
                                  "url": "https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338",
@@ -46604,6 +46721,11 @@
                            "url": "https://github.com/RPISEC/MBE",
                            "title": "Modern Binary Exploitation",
                            "author": "RPISEC"
+                        },
+                        {
+                           "url": "https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/",
+                           "title": "Professor Messer’s SY0-601 CompTIA Security+ Course",
+                           "author": "Professor Messer"
                         },
                         {
                            "url": "https://www.coursera.org/course/crypto",
@@ -49809,6 +49931,11 @@
                      "section": "Git and GitHub",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/watch?v=Ez8F0nW6S-w",
+                           "title": "Complete Git and Github Tutorials for Beginners",
+                           "author": "Apna College"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi",
                            "title": "Complete Git Tutorials For Beginners In Hindi",
                            "author": "CodeWithHarry"
@@ -50439,6 +50566,11 @@
                         {
                            "url": "https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa",
                            "title": "Mongo DB full course for beginners"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1&si=4Je3O9WkMYMu9cWO",
+                           "title": "MongoDB playlist in Hindi",
+                           "author": "Engineering Digest"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92xUxpTFgAOSBHdBwIdxav39",
@@ -52521,6 +52653,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3",
                            "title": "Corso di JPA Java Persistence API",
                            "author": "Mauro Cicolella"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLUnSLr48xh3CAuL_Q0VAjthv0WbPuQQRR",
+                           "title": "Corso Java in Italiano COMPLETO 2023/2024",
+                           "author": "Code Brothers"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCbSCJEIR6Cq-ac90TGvJ8Wo8TtyZ4nhu",
@@ -57329,6 +57466,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c",
                            "title": "Spring Boot Complete/Full Course in Tamil for Beginners from Basics",
                            "author": "Payilagam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL5wfQQ0ZyOimwU4V9g7OWTehyBoeDJGRG",
+                           "title": "Spring Boot Tutorial For Beginners In Tamil",
+                           "author": "Frontend Forever"
                         }
                      ],
                      "subsections": []
@@ -57430,6 +57572,11 @@
                   {
                      "section": "Python",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO",
+                           "title": "Python DJango in Tamil - Full Course",
+                           "author": "Payilagam"
+                        },
                         {
                            "url": "https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb",
                            "title": "Python in Tamil for Beginners",
@@ -59915,6 +60062,10 @@
                         {
                            "url": "https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet",
                            "title": "An Executable Data Structures Cheat Sheet for Interviews"
+                        },
+                        {
+                           "url": "http://bigocheatsheet.com",
+                           "title": "Big-O Cheat Sheet"
                         },
                         {
                            "url": "https://algodaily.com/lessons/big-o-notation-cheat-sheet",
@@ -62772,6 +62923,10 @@
                         {
                            "url": "http://sqlbolt.com",
                            "title": "SQLBolt"
+                        },
+                        {
+                           "url": "https://sqlzoo.net/wiki/SQL_Tutorial",
+                           "title": "SQLZoo"
                         }
                      ],
                      "subsections": []
@@ -63299,6 +63454,11 @@
                         {
                            "url": "https://dabblet.com",
                            "title": "Dabblet"
+                        },
+                        {
+                           "url": "https://flexboxfroggy.com",
+                           "title": "Flexbox Froggy",
+                           "author": "Codepip"
                         },
                         {
                            "url": "https://the-echoplex.net/flexyboxes/",
@@ -63875,10 +64035,6 @@
                   {
                      "section": "Competitive Programming",
                      "entries": [
-                        {
-                           "url": "http://www.4clojure.com",
-                           "title": "4Clojure"
-                        },
                         {
                            "url": "https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf",
                            "title": "A Way to Practice Competitive Programming",
