@@ -11256,6 +11256,14 @@
                            "section": "Non-X86",
                            "entries": [
                               {
+                                 "url": "http://www.avr-asm-download.de/beginner_en.pdf",
+                                 "title": "Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors",
+                                 "author": "Gerhard Schmidt",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
                                  "url": "http://skilldrick.github.io/easy6502/",
                                  "title": "Easy 6502",
                                  "author": "Nick Morgan"
@@ -11273,6 +11281,14 @@
                                  "url": "https://archive.org/details/ataribooks-machine-language-for-beginners",
                                  "title": "Machine Language for Beginners",
                                  "author": "Richard Mansfield"
+                              },
+                              {
+                                 "url": "http://www.egr.unlv.edu/~ed/MIPStextSMv11.pdf",
+                                 "title": "MIPS Assembly Language Programming Using QtSpim",
+                                 "author": "Ed Jorgensen",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               },
                               {
                                  "url": "http://chortle.ccsu.edu/AssemblyTutorial/index.html",
@@ -14502,6 +14518,15 @@
                            "accessNotes": ":card_file_box: archived"
                         },
                         {
+                           "url": "https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf",
+                           "title": "Effective Java, Third Edition",
+                           "author": "Joshua Bloch",
+                           "notes": [
+                              "PDF"
+                           ],
+                           "accessNotes": ":card_file_box: archived"
+                        },
+                        {
                            "url": "https://www.programming-books.io/essential/java/",
                            "title": "Essential Java",
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
@@ -16232,6 +16257,11 @@
                            "notes": [
                               "gitbook"
                            ]
+                        },
+                        {
+                           "url": "https://www.programiz.com/kotlin-programming",
+                           "title": "Learn Kotlin Programming",
+                           "author": "Programiz"
                         },
                         {
                            "url": "https://riptutorial.com/Download/kotlin.pdf",
@@ -22968,6 +22998,13 @@
                                  ]
                               },
                               {
+                                 "url": "https://leanpub.com/manual-arquitetura-software",
+                                 "title": "Melhores Práticas de Arquitetura de Software na era da Nuvem",
+                                 "notes": [
+                                    "Necessário criar uma conta (gratuita"
+                                 ]
+                              },
+                              {
                                  "url": "https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/",
                                  "title": "Microservices architecture",
                                  "notes": [
@@ -26067,6 +26104,14 @@
                            ]
                         },
                         {
+                           "url": "https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf",
+                           "title": "Data Structures and Algorithm Analysis in C++",
+                           "author": "Clifford A. Shaffer",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx",
                            "title": "Data Structures and Algorithms: Annotated Reference with Examples",
                            "author": "G. Barnett, L. Del Tongo",
@@ -26815,6 +26860,14 @@
                            "author": "Tutorials Point",
                            "notes": [
                               "HTML, PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://aka.ms/microservicesebook",
+                           "title": "Dotnet Microservices Architecture for Containerized NET Applications",
+                           "author": "Cesar de la Torre, Bill Wagner, Mike Rousos",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -30674,6 +30727,48 @@
                "index": {},
                "sections": [
                   {
+                     "section": "C Programming Language",
+                     "entries": [
+                        {
+                           "url": "https://www.tamilpdfbooks.com/download.php?id=19978#pdf",
+                           "title": "C Programming Language Tamil",
+                           "author": "Sivalingam M",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Computer Vision",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/computer_vision/",
+                           "title": "எளிய தமிழில் Computer Vision",
+                           "author": "இரா.அசோகன்",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Hadoop",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil",
+                           "title": "எளிய தமிழில் Big Data",
+                           "author": "து. நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "HTML and CSS",
                      "entries": [
                         {
@@ -30686,7 +30781,24 @@
                         },
                         {
                            "url": "https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html",
-                           "title": "எளிய தமிழில் HTML"
+                           "title": "எளிய தமிழில் HTML",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "IOT",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/iot/",
+                           "title": "எளிய தமிழில் IOT",
+                           "author": "இரா.அசோகன்",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -30696,17 +30808,25 @@
                      "entries": [
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/",
-                           "title": "எளிய தமிழில் JavaScript"
+                           "title": "எளிய தமிழில் JavaScript",
+                           "author": "து.நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
                   },
                   {
-                     "section": "MachineLearning",
+                     "section": "Machine Learning",
                      "entries": [
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/",
-                           "title": "எளிய தமிழில் ML"
+                           "title": "எளிய தமிழில் ML",
+                           "author": "து. நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -30716,11 +30836,33 @@
                      "entries": [
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-mysql-in-tamil",
-                           "title": "எளிய தமிழில் MySQL "
+                           "title": "எளிய தமிழில் MySQL ",
+                           "author": "து.நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-mysql-in-tamil-part-2",
-                           "title": "எளிய தமிழில் MySQL – பாகம் 2 "
+                           "title": "எளிய தமிழில் MySQL – பாகம் 2 ",
+                           "author": "து.நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Pandas Python",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/",
+                           "title": "எளிய தமிழில் Pandas",
+                           "author": "து. நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -30730,7 +30872,11 @@
                      "entries": [
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-php-in-tamil/",
-                           "title": "எளிய தமிழில் PHP"
+                           "title": "எளிய தமிழில் PHP",
+                           "author": "த.சீனிவாசன்",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -30768,7 +30914,11 @@
                      "entries": [
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil",
-                           "title": "எளிய தமிழில் Agile/Scrum"
+                           "title": "எளிய தமிழில் Agile/Scrum",
+                           "author": "த.சீனிவாசன்",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -30778,7 +30928,11 @@
                      "entries": [
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-wordpress-in-tamil/",
-                           "title": "எளிய தமிழில் WordPress"
+                           "title": "எளிய தமிழில் WordPress",
+                           "author": "த.சீனிவாசன்",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -31392,7 +31546,16 @@
                "sections": [
                   {
                      "section": "<a id=\"c-and-cpp\">",
-                     "entries": [],
+                     "entries": [
+                        {
+                           "url": "https://shron1.chtyvo.org.ua/Voitenko_Volodymyr/C_Cpp_Teoriia_ta_praktyka.pdf",
+                           "title": "С/C++ Теорія та практика",
+                           "author": "Володимир Войтенко",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
                      "subsections": []
                   },
                   {
@@ -33764,6 +33927,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX",
                            "title": "Beginning C# with Unity",
                            "author": "Brian Douglas Moakley, VegetarianZombie",
+                           "notes": [
+                              "screencast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL",
+                           "title": "General .NET videos",
+                           "author": "Nick Chapsas",
                            "notes": [
                               "screencast"
                            ]
@@ -43224,6 +43395,11 @@
                            "accessNotes": "account or email address required"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq",
+                           "title": "Gentle Introduction to Git and GitHub",
+                           "author": "Deborah Kurata"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR",
                            "title": "Git",
                            "author": "Gwendolyn Faraday"
@@ -43565,6 +43741,11 @@
                            "url": "https://github.com/samanthaming/Flexbox30",
                            "title": "Flexbox in 30 Days",
                            "author": "Samantha Ming"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLErOmyzRKOCptjkM-mOfveYlgKQEx1AAf",
+                           "title": "Gentle Introduction to CSS for Beginners",
+                           "author": "Deborah Kurata"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLErOmyzRKOCpmPEZIkblP-0sNufXbvXJL",
@@ -49840,6 +50021,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU",
                            "title": "DBMS Placements Series 2022",
                            "author": "CodeHelp - by Babbar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw",
+                           "title": "SQL Tutorial in Hindi",
+                           "author": "Rishabh Mishra"
                         }
                      ],
                      "subsections": []
@@ -49847,6 +50033,11 @@
                   {
                      "section": "DevOps",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa",
+                           "title": "Complete DevOps Zero to Hero Course",
+                           "author": "Abhishek.Veeramalla"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x",
                            "title": "DevOps Training Tutorials For Beginners in Hindi",
@@ -50233,6 +50424,11 @@
                            "notes": [
                               "Thapa Technical"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_",
+                           "title": "JavaScript Tutorial for beginners in Hindi / Urdu",
+                           "author": "Husain Sir"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR",
@@ -52933,6 +53129,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP-a0MG-MFHKCISmj2Wg4vT6",
                            "title": "Corso CSS 3 Completo 2023",
                            "author": "Edoardo Midali"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFD-5ZFcEgYX5q5pobSkQGfC6rMYy_puq",
+                           "title": "Corso Flutter 2020",
+                           "author": "Angelo Cassano"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP8U-yYn6J4hGfcee4Tirieg",
@@ -55736,6 +55937,11 @@
                   {
                      "section": "Machine Learning",
                      "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLFE-LjWAAP9R4G0WOXWuha4P5cCvw7hGB",
+                           "title": "Curso Data Science e Machine Learning",
+                           "author": "Data ICMC"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB",
                            "title": "Curso Deep Learning",
@@ -60473,6 +60679,14 @@
                            "author": "Emmet Documentation",
                            "notes": [],
                            "manualReviewRequired": true
+                        },
+                        {
+                           "url": "https://makeawebsitehub.com/wp-content/uploads/2015/06/HTML5-Mega-Cheat-Sheet-A4-Print-ready.pdf",
+                           "title": "HTML 5 - The Mega CheatSheet",
+                           "author": "Jamie Spencer",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://htmlcheatsheet.com",
