@@ -581,6 +581,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "JavaScript",
+                     "entries": [
+                        {
+                           "url": "https://js.howtocode.dev",
+                           "title": "জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স",
+                           "author": "Nuhil Mehdi",
+                           "notes": [
+                              "howtocode.dev"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Machine Learning",
                      "entries": [
                         {
@@ -4348,12 +4362,20 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/ftg-iran/aip-persian",
+                           "title": "ترجمه آزاد کتاب Asyncio in Python"
                         }
                      ],
                      "subsections": [
                         {
                            "section": "Django",
                            "entries": [
+                              {
+                                 "url": "https://github.com/ftg-iran/ddpabp-persian",
+                                 "title": "ترجمه آزاد کتاب Django Design Patterns and Best Practices"
+                              },
                               {
                                  "url": "https://github.com/mthri/dfp-persian",
                                  "title": "کتاب جنگو برای حرفه‌ای‌ها"
@@ -29782,6 +29804,14 @@
                            ]
                         },
                         {
+                           "url": "https://markwilde.com/qit-notes.pdf",
+                           "title": "Quantum Information Theory",
+                           "author": "Mark M. Wilde",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://arxiv.org/abs/1410.7188",
                            "title": "The Functional Analysis of Quantum Information Theory",
                            "author": "Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder",
@@ -45876,6 +45906,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O",
                            "title": "Operating System",
                            "author": "Neso Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa",
+                           "title": "Operating Systems",
+                           "author": "Jenny's Lectures CS IT"
                         }
                      ],
                      "subsections": []
@@ -49999,8 +50034,13 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn",
-                           "title": "Database Management System ( DBMS )",
+                           "title": "Database Management System (DBMS)",
                            "author": "Education 4u"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs",
+                           "title": "Database Management System (DBMS) in Hindi",
+                           "author": "Jitendra Ajmedha"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc",
@@ -50114,6 +50154,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc",
                            "title": "Game Development Course",
                            "author": "Farhan Aqeel"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdOT12odxrUrUExBUuM5KoN0fAnOdzH1L",
+                           "title": "Game development in Hindi From Beginning to Advance",
+                           "author": "Suryadev Chaturvedi"
                         }
                      ],
                      "subsections": []
@@ -63434,12 +63479,22 @@
                      "section": "Assembly",
                      "entries": [
                         {
+                           "url": "https://cmdchallenge.com",
+                           "title": "Command Challenge",
+                           "author": "Command Challenge"
+                        },
+                        {
                            "url": "https://github.com/Belotti01/CPU-Visual-Simulator",
                            "title": "Educational Visual CPU Simulator",
                            "author": "Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva",
                            "notes": [
                               "JAVA, JAR"
                            ]
+                        },
+                        {
+                           "url": "https://overthewire.org",
+                           "title": "OverTheWire",
+                           "author": "OverTheWire"
                         }
                      ],
                      "subsections": []
@@ -63566,6 +63621,11 @@
                      "section": "DevOps",
                      "entries": [
                         {
+                           "url": "https://devops.games",
+                           "title": "DevOps Dream",
+                           "author": "DevOps Dream"
+                        },
+                        {
                            "url": "https://kodekloud.com/kodekloud-engineer/",
                            "title": "KodeKloud"
                         }
@@ -63677,6 +63737,16 @@
                         {
                            "url": "https://the-echoplex.net/flexyboxes/",
                            "title": "Flexy Boxes"
+                        },
+                        {
+                           "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css",
+                           "title": "Learn advanced html and css",
+                           "author": "The Odin Project"
+                        },
+                        {
+                           "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css",
+                           "title": "Learn Intermediate html and css",
+                           "author": "The Odin Project"
                         },
                         {
                            "url": "https://code.sololearn.com/web#css",
