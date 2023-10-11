@@ -610,6 +610,14 @@
                            "author": "Rakibul Hassan",
                            "notes": [],
                            "manualReviewRequired": true
+                        },
+                        {
+                           "url": "https://ml.howtocode.dev",
+                           "title": "বাংলায় মেশিন লার্নিং",
+                           "author": "Manos Kumar Mondol",
+                           "notes": [
+                              "howtocode.dev"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -23635,6 +23643,14 @@
                      "section": "Python",
                      "entries": [
                         {
+                           "url": "https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf",
+                           "title": "Apostila de Python",
+                           "author": "Alberson Wander Sá dos Santos",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html",
                            "title": "Aprenda computação com Python"
                         },
@@ -29562,6 +29578,14 @@
                            "author": "Quincy Larson"
                         },
                         {
+                           "url": "https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf",
+                           "title": "How to Stand Out as a Software Engineer",
+                           "author": "Landry Monga",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html",
                            "title": "Professional Software Development For Students",
                            "author": "Mike G. Miller"
@@ -33972,14 +33996,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr",
                            "title": "C++ Programming Video Lectures",
                            "author": "Saurabh School of Computing",
-                           "notes": [
-                              "screencast"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
-                           "title": "C++ Series",
-                           "author": "The Cherno",
                            "notes": [
                               "screencast"
                            ]
@@ -39900,6 +39916,10 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc",
                            "title": "C++ Bangla Tutorial for Beginners - 2022"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y",
+                           "title": "Object Oriented C++ | Bangla Tutorial"
                         }
                      ],
                      "subsections": []
@@ -42017,6 +42037,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J",
+                           "title": "C++ Programming Language - C++ Tutorial",
+                           "author": "Naresh i Technologies"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK",
                            "title": "C++ Programming Tutorial for Beginners (For Absolute Beginners)",
                            "author": "ProgrammingKnowledge"
@@ -42652,6 +42677,14 @@
                            "author": "CMU Database Group"
                         },
                         {
+                           "url": "https://www.udemy.com/course/database-design-and-management",
+                           "title": "Database Design and Management",
+                           "author": "Visual Paradigm",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/",
                            "title": "Database Systems",
                            "notes": [
@@ -42699,6 +42732,12 @@
                                  "title": "Datastax Academy (Apache Cassandra)",
                                  "author": "Datastax Inc.",
                                  "accessNotes": "email address required"
+                              },
+                              {
+                                 "url": "https://learn.mongodb.com/learn/learning-path/introduction-to-mongodb",
+                                 "title": "Introduction to MongoDB",
+                                 "author": "MongoDB University",
+                                 "accessNotes": "registration required"
                               },
                               {
                                  "url": "https://university.mongodb.com",
@@ -44738,6 +44777,11 @@
                                  "url": "https://www.youtube.com/watch?v=TQUy8ENesGY",
                                  "title": "Deno Course - Better than Node.js?",
                                  "author": "The Codeholic, freeCodeCamp"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gnaJdxuGvEGYQ9iHb8mxsh",
+                                 "title": "Deno Jump-start Tutorial",
+                                 "author": "Net Ninja"
                               }
                            ]
                         },
@@ -44901,6 +44945,11 @@
                            "section": "React",
                            "entries": [
                               {
+                                 "url": "https://youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq",
+                                 "title": "Complete React course for beginner",
+                                 "author": "Hitesh Choudhary"
+                              },
+                              {
                                  "url": "https://frontarm.com/courses/react-fundamentals/",
                                  "title": "Frontend Armory: React Fundamentals",
                                  "author": "James K. Nelson"
@@ -44919,6 +44968,14 @@
                                  "author": "Jogesh K. Muppala",
                                  "notes": [
                                     "Coursera"
+                                 ]
+                              },
+                              {
+                                 "url": "https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61",
+                                 "title": "Full Stack with React and Appwrite",
+                                 "author": "Colby Fayock",
+                                 "notes": [
+                                    "Egghead.io"
                                  ]
                               },
                               {
@@ -46107,6 +46164,11 @@
                            "author": "TutorialRepublic"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLZPZq0r_RZOO6bGTY9jbLOyF_x6tgwcuB",
+                           "title": "PHP tutorial for beginners",
+                           "author": "Bro Code"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-",
                            "title": "PHP Tutorials",
                            "author": "Dani Krossing"
@@ -46850,6 +46912,11 @@
                            "url": "https://www.youtube.com/watch?v=zF34dRivLOw",
                            "title": "Rust Crash Course",
                            "author": "Traversy Media"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x",
+                           "title": "Rust for Beginners",
+                           "author": "Microsoft Developer"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ",
@@ -49610,6 +49677,11 @@
                            "author": "Pepecoding"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
+                           "title": "Data Structures and Algorithms Course in Hindi",
+                           "author": "CodeWithHarry"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1",
                            "title": "Data Structures and Algorithms in Python",
                            "author": "Jovian"
@@ -50258,6 +50330,27 @@
                      "subsections": []
                   },
                   {
+                     "section": "Figma",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq",
+                           "title": "Figma Tutorial",
+                           "author": "Pelfizz Studio"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl",
+                           "title": "Figma Tutorial In Hindi 2022",
+                           "author": "Thapa Technical"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLt7HkDVHvsa4Nf5qrXG6ozK3ZPTvNe__v",
+                           "title": "Figma UI design tutorials in Hindi",
+                           "author": "Graphics Guruji"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Flutter",
                      "entries": [
                         {
@@ -50822,6 +50915,11 @@
                                  "author": "WsCubeTech"
                               },
                               {
+                                 "url": "https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige",
+                                 "title": "React JS Tutorials for Begineers in Hindi",
+                                 "author": "Chai aur Code"
+                              },
+                              {
                                  "url": "https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt",
                                  "title": "React Js Tutorials in Hindi",
                                  "author": "Haris Ali Khan, CodeWithHarry"
@@ -51020,6 +51118,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3",
                            "title": "Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi",
                            "author": "Deepak Garg"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro",
+                           "title": "Maths for CP",
+                           "author": "Pepcoding"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
@@ -51464,6 +51567,11 @@
                            "author": "Gate Smashers"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr",
+                           "title": "Software Engineering",
+                           "author": "Knowledge Gate"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm",
                            "title": "Software Engineering Lectures",
                            "author": "Easy Engineering Classes"
@@ -51505,6 +51613,37 @@
                            "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_",
                            "title": "Typescript Tutorial for Beginners in Hindi",
                            "author": "Thapa Technical"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Wordpress",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL6Kd_lvAfBuZzR48t6mEWclYMN0C85aNE",
+                           "title": "Advanced Ecommerce Website - Elementor - Urdu & Hindi",
+                           "author": "WP Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL6Kd_lvAfBuYzxHmbOdoXjBuW6pFs_xja",
+                           "title": "WordPress Plugin Development Tutorials in Urdu-Hindi",
+                           "author": "WP Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGc_A9H4NSLEHaD8kSz9Q38g",
+                           "title": "WordPress Theme Development Complete Course Tutorial in Hindi",
+                           "author": "WsCube Tech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb",
+                           "title": "Wordpress Tutorial for Beginners | Wordpress Tutorials in Hindi - The Complete Guide For Beginners",
+                           "author": "WsCube Tech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLlUrVpujUh3_PnBb1B-YOSP_oUqBL4gsh",
+                           "title": "Wordpress tutorials in hindi",
+                           "author": "hindidevtuts"
                         }
                      ],
                      "subsections": []
@@ -58254,6 +58393,11 @@
                      "section": "Python",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLBngtsPyn30GbfwGhOD_cPoQtkoIQQnHg",
+                           "title": "Flask in Python",
+                           "author": "Learn All In Tamil"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO",
                            "title": "Python DJango in Tamil - Full Course",
                            "author": "Payilagam"
@@ -64820,10 +64964,6 @@
                            "title": "beecrowd"
                         },
                         {
-                           "url": "https://binarysearch.com",
-                           "title": "Binary Search"
-                        },
-                        {
                            "url": "https://hsin.hr/coci/",
                            "title": "COCI"
                         },
@@ -65261,6 +65401,10 @@
                         {
                            "url": "http://www.spoj.com/problems/classical",
                            "title": "Sphere Online Judge"
+                        },
+                        {
+                           "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2",
+                           "title": "Striver's A2Z DSA Course/sheet"
                         },
                         {
                            "url": "http://www.talentbuddy.co/blog/",
