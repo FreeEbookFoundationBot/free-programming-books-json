@@ -11709,14 +11709,6 @@
                            ]
                         },
                         {
-                           "url": "https://magpi.raspberrypi.com/books/c-gui-programming",
-                           "title": "An Introduction to C & GUI Programming",
-                           "author": "Simon Long",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://github.com/umanovskis/baremetal-arm",
                            "title": "Bare-metal programming for ARM",
                            "author": "Daniels Umanovskis",
@@ -13517,6 +13509,10 @@
                            "url": "https://www.programming-books.io/essential/go/",
                            "title": "Essential Go",
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                        },
+                        {
+                           "url": "https://chenyitian.gitbooks.io/gin-web-framework/content/",
+                           "title": "Gin Web Framework"
                         },
                         {
                            "url": "https://go101.org/article/101.html",
@@ -23438,6 +23434,16 @@
                               {
                                  "url": "https://udgwebdev.github.io/meteor/",
                                  "title": "Tudo sobre Meteor"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Next.js",
+                           "entries": [
+                              {
+                                 "url": "https://www.freecodecamp.org/portuguese/news/o-manual-do-next-js-para-iniciantes/",
+                                 "title": "O manual do Next.js para iniciantes",
+                                 "author": "freeCodeCamp"
                               }
                            ]
                         },
@@ -43023,6 +43029,11 @@
                            "author": "Nicholas Renotte"
                         },
                         {
+                           "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+                           "title": "Hugging Face NLP Course",
+                           "author": "Hugging Face"
+                        },
+                        {
                            "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
                            "title": "Intro to Deep Learning",
                            "author": "Ryan Holbrook"
@@ -47748,9 +47759,24 @@
                            "author": "Nayyar Shaikh"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLTbrc9HXDstrLg449hcWQvx8kOXhjyovV",
+                           "title": "Crocoblock Jet Engine Tutorial - Beginners Guide",
+                           "author": "WPTuts"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgJeRQxEOJmrvEmHDn_B92u82IczqLCqE",
+                           "title": "CrocoBlock Tutorials",
+                           "author": "Ferdy Korpershoek"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgJeRQxEOJmq5hR8yETsu3zPFmpoxCeMq",
                            "title": "Elementor Pro Tutorials",
                            "author": "Ferdy Korpershoek"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzKN_iozW-I6PkSx8AVOE9wBaoVpJxLeS",
+                           "title": "Gutenberg FSE - Full Site Editing using Gutenberg Block Editor Complete Project in 2022",
+                           "author": "Riad Mahmud"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLTDZrIwt-NI1rCkHfazfvzR_DETu0SezK",
@@ -47761,6 +47787,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLTbrc9HXDstpihLrQIWtmExd9f1tiAYET",
                            "title": "How To Customize WooCommerce",
                            "author": "WPTuts"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLHiQK7LHpKqThfbmEj3pf4YFmHv81GUwS",
+                           "title": "Jet Engine",
+                           "author": "Moxet Khan"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLQOGKy2nPhxlEVP4RBVrBoXPL6mZNZv5L",
