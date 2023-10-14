@@ -253,14 +253,6 @@
                            ]
                         },
                         {
-                           "url": "https://librebooks.org/physical-hacking-techniques/",
-                           "title": "تقنيات الاختراق المادي",
-                           "author": "Abdullah Ali Abdullah",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/",
                            "title": "دليل الأمان الرقمي"
                         }
@@ -4326,6 +4318,13 @@
                   {
                      "section": "Linux",
                      "entries": [
+                        {
+                           "url": "https://aidinhut.com/fa/books/the_tao_of_programming.pdf",
+                           "title": "تائوی برنامه نویسان",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://linuxstory.ir",
                            "title": "فقط برای تفریح؛ داستان یک انقلابی اتفاقی"
@@ -12086,6 +12085,14 @@
                         {
                            "url": "https://learnxinyminutes.com/docs/csharp/",
                            "title": "Learn C# in Y Minutes"
+                        },
+                        {
+                           "url": "https://riptutorial.com/Download/csharp-language.pdf",
+                           "title": "Learning C# Language",
+                           "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511",
@@ -39926,17 +39933,17 @@
                            "author": "Hablu Programmer"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD",
-                           "title": "Pattern Printing in C",
-                           "author": "Anisul Islam"
-                        },
-                        {
                            "url": "https://www.udemy.com/course/c-programming-in-bangla/",
                            "title": "C Programming in Bangla - from Zero to Hero",
                            "author": "Ministry of Codes",
                            "notes": [
                               "MoC"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD",
+                           "title": "Pattern Printing in C",
+                           "author": "Anisul Islam"
                         }
                      ],
                      "subsections": []
@@ -40114,6 +40121,11 @@
                      "section": "HTML and CSS",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxvj4aifOC8P8U8inUqWzdSH",
+                           "title": "CSS Bangla Tutorial",
+                           "author": "Moshiur"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO",
                            "title": "CSS Complete Course in Bangla 2021",
                            "author": "Anisul Islam"
@@ -40124,8 +40136,13 @@
                            "author": "Stack Learner"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxvj4aifOC8P8U8inUqWzdSH",
-                           "title": "CSS Bangla Tutorial",
+                           "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV",
+                           "title": "CSS3 Essential Training (Bangla)",
+                           "author": "Procoder BD"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64",
+                           "title": "HTML Bangla Tutorial",
                            "author": "Moshiur"
                         },
                         {
@@ -40137,11 +40154,6 @@
                            "url": "https://w3programmers.com/bangla/html-basics/",
                            "title": "HTML Tutorial in Bangla",
                            "author": "w3programmers"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64",
-                           "title": "HTML Bangla Tutorial",
-                           "author": "Moshiur"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp",
@@ -40184,14 +40196,14 @@
                                  "author": "Procoder BD"
                               },
                               {
-                                 "url": "https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2",
-                                 "title": "Tailwind CSS Bangla Tutorial Series",
-                                 "author": "Learn with Sumit"
-                              },
-                              {
                                  "url": "https://www.youtube.com/playlist?list=PL2ozzDVxiDachzWAOiMRrjgrqe7EO-XOv",
                                  "title": "Tailwind CSS Bangla Tutorial Basic to Project Series",
                                  "author": "CODE ABC"
+                              },
+                              {
+                                 "url": "https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2",
+                                 "title": "Tailwind CSS Bangla Tutorial Series",
+                                 "author": "Learn with Sumit"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLerpoOYRrjUxnfWO73zj2R_y-e_Dw1ine",
@@ -40222,6 +40234,11 @@
                      "section": "Java",
                      "entries": [
                         {
+                           "url": "https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP",
+                           "title": "Java Bangla (বাংলা) tutorial for beginners",
+                           "author": "Time & Training"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa",
                            "title": "Java Bangla Tutorials | CORE Java | Complete OOP",
                            "author": "Anisul Islam"
@@ -40240,11 +40257,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l",
                            "title": "Java Swing Bangla Tutorials",
                            "author": "Anisul Islam"
-                        },
-                        {
-                           "url": "https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP",
-                           "title": "Java Bangla (বাংলা) tutorial for beginners",
-                           "author": "Time & Training"
                         },
                         {
                            "url": "https://dimikcomputing.com/course/javaee-online-course/",
@@ -40293,17 +40305,17 @@
                            "author": "Stack Learner"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+                           "title": "JavaScript Tutorial For Beginners",
+                           "author": "Hablu Programmer"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy",
                            "title": "JS Bangla Tutorial Series for Beginners",
                            "author": "Sumit Saha",
                            "notes": [
                               "Learn with Sumit"
                            ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
-                           "title": "JavaScript Tutorial For Beginners",
-                           "author": "Hablu Programmer"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDr08QgQHljCecWtA4jBLnS",
@@ -40337,6 +40349,11 @@
                            "section": "Angular",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR",
+                                 "title": "Angular 12 Easy Tutorial in Bangla",
+                                 "author": "web-man"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG",
                                  "title": "Angularjs bangla tutorial basic",
                                  "author": "Learn Hunter"
@@ -40345,11 +40362,6 @@
                                  "url": "https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst",
                                  "title": "AngularJS bangla tutorial",
                                  "author": "tutplus24"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR",
-                                 "title": "Angular 12 Easy Tutorial in Bangla",
-                                 "author": "web-man"
                               }
                            ]
                         },
@@ -40417,17 +40429,17 @@
                                  "author": "Stack Learner"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL",
+                                 "title": "React JS Bangla Tutorial | React Tutorial For Beginners",
+                                 "author": "Hablu Programmer"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
                                  "title": "React JS Tutorial Bangla Series for Beginners",
                                  "author": "Sumit Saha",
                                  "notes": [
                                     "Learn with Sumit"
                                  ]
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL",
-                                 "title": "React JS Bangla Tutorial | React Tutorial For Beginners",
-                                 "author": "Hablu Programmer"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx",
@@ -40535,6 +40547,11 @@
                            "author": "Stack Learner"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9",
+                           "title": "PHP Bangla Tutorial - Basic To Advanced",
+                           "author": "JS Bangladesh"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp",
                            "title": "php bangla tutorial for beginners | php8 bangla tutorial",
                            "author": "Learn Hunter"
@@ -40601,6 +40618,11 @@
                            "author": "Stack Learner"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v",
+                           "title": "Python Bangla Tutorial 2023",
+                           "author": "Hablu Programmer"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN",
                            "title": "Python Bangla Tutorials for Beginners",
                            "author": "Anisul Islam"
@@ -40609,11 +40631,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8",
                            "title": "Python tutorials by Zulkarnine",
                            "author": "Zulkarnine Mahmud"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v",
-                           "title": "Python Bangla Tutorial 2023",
-                           "author": "Hablu Programmer"
                         }
                      ],
                      "subsections": [
@@ -40718,6 +40735,11 @@
                      "section": "WordPress",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf",
+                           "title": "Wordpress Bangla Tutorial Course for beginner to advanced level",
+                           "author": "Freelancer Mannan"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxti7DiUkX3UX3P2tuiEw30E",
                            "title": "WordPress Bangla Tutorial",
                            "author": "Moshiur"
@@ -40728,18 +40750,13 @@
                            "author": "Learn Hunter"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf",
-                           "title": "Wordpress Bangla Tutorial Course for beginner to advanced level",
-                           "author": "Freelancer Mannan"
+                           "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz",
+                           "title": "WordPress Plugin Development",
+                           "author": "Procoder BD"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l",
                            "title": "WordPress Theme Development Tutorial Bangla ",
-                           "author": "Procoder BD"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz",
-                           "title": "WordPress Plugin Development",
                            "author": "Procoder BD"
                         }
                      ],
@@ -42869,6 +42886,14 @@
                            "section": "SQL",
                            "entries": [
                               {
+                                 "url": "https://cs50.harvard.edu/sql/2023/",
+                                 "title": "CS50’s Introduction to Databases with SQL",
+                                 "author": "Carter Zenke, David J. Malan",
+                                 "notes": [
+                                    "Harvard OpenCourseWare and edX"
+                                 ]
+                              },
+                              {
                                  "url": "https://university.cockroachlabs.com/courses/course-v1:crl+getting-started-with-sql-for-app-devs+self-paced/about",
                                  "title": "Getting Started with SQL for Application Developers",
                                  "author": "Wade Waldron",
@@ -44715,6 +44740,11 @@
                            "title": "learn:query"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=BI1o2H9z9fo",
+                           "title": "Modern JavaScript From The Beginning",
+                           "author": "Traversy Media"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
                            "title": "Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course",
                            "author": "Akshay Saini"
@@ -44976,6 +45006,11 @@
                                  "url": "https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH",
                                  "title": "Next.js Tutorial for Beginners",
                                  "author": "Codevolution"
+                              },
+                              {
+                                 "url": "https://youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj",
+                                 "title": "Next.js Tutorials for Beginners",
+                                 "author": "Dave Gray"
                               }
                            ]
                         },
@@ -49875,7 +49910,7 @@
                         {
                            "url": "https://youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe",
                            "title": "Bit Manipulation - Level 2",
-                           "author": "Pepecoding"
+                           "author": "Pepcoding"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
@@ -51822,6 +51857,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg",
                            "title": "System Analysis and Design",
                            "author": "Gursimran Singh Dhillon"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM",
+                           "title": "System Design Playlist in Hindi",
+                           "author": "Engineering Digest"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLrk5tgtnMN6RvXrfflstJWgcPFQ_vTOV9",
+                           "title": "System Design Series By Coding Ninjas",
+                           "author": "Coding Ninjas"
                         }
                      ],
                      "subsections": []
@@ -51829,6 +51874,16 @@
                   {
                      "section": "TypeScript",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx",
+                           "title": "Typescript in Hindi",
+                           "author": "Code Step By Step"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=F5pjG-sP0c8",
+                           "title": "Typescript in Hindi | Crash Course | Coders Gyan",
+                           "author": "Coder's Gyan"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_",
                            "title": "Typescript Tutorial for Beginners in Hindi",
@@ -53506,6 +53561,11 @@
                      "section": "DevOps",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E",
+                           "title": "Corso DevOps",
+                           "author": "Michele Ferracin"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e",
                            "title": "Docker - EmmeCiLab",
                            "author": "Mauro Cicolella"
@@ -55107,6 +55167,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Distributed Computing",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOFxFYuwv2Bs7dYmPIK1_yuQMxmN1P8V8",
+                           "title": "Distributed Computing KTU 2019 Scheme",
+                           "author": "Edu Smash"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Docker",
                      "entries": [
                         {
@@ -55404,6 +55475,22 @@
                            "url": "https://www.youtube.com/playlist?list=PL1JrLEBAapUXMuDKwPVVzhlBge9fdxV51",
                            "title": "SQL / MYSQL Malayalam Tutorial Full Course",
                            "author": "Yes Tech Media"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Networking",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLO7o5VCTCpe-7jj04hLM002hQM5J-f3tl",
+                           "title": "CCNA Malayalam Tutorial(s)",
+                           "author": "Networking Malayalam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO",
+                           "title": "Computer Networks - S5",
+                           "author": "Eduline CSE Knowledge Sharing Platform"
                         }
                      ],
                      "subsections": []
@@ -63965,6 +64052,11 @@
                   {
                      "section": "Rust",
                      "entries": [
+                        {
+                           "url": "https://www.ralfj.de/projects/rust-101/main.html",
+                           "title": "Rust-101",
+                           "author": "ralfj.de"
+                        },
                         {
                            "url": "https://dtolnay.github.io/rust-quiz",
                            "title": "Rust Quiz"
