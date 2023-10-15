@@ -5744,20 +5744,6 @@
                         }
                      ],
                      "subsections": []
-                  },
-                  {
-                     "section": "Python",
-                     "entries": [
-                        {
-                           "url": "https://drive.google.com/file/d/1cnJ6Uksso2UXwC5OHBAGk3miMzSveBvr/view",
-                           "title": "Python Notes PDF by ehindistudy.com | Hindi",
-                           "author": "Yugal Joshi",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
                   }
                ]
             },
@@ -16152,6 +16138,13 @@
                      "section": "Jenkins",
                      "entries": [
                         {
+                           "url": "https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf",
+                           "title": "Jenkins Starter Guide Ebook",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf",
                            "title": "Jenkins: The Definitive Guide",
                            "notes": [
@@ -16161,6 +16154,13 @@
                         {
                            "url": "https://www.jenkins.io/user-handbook.pdf",
                            "title": "Jenkins User Handbook",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://riptutorial.com/Download/jenkins.pdf",
+                           "title": "Learning Jenkins",
                            "notes": [
                               "PDF"
                            ]
@@ -23249,6 +23249,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Inteligência Artificial",
+                     "entries": [
+                        {
+                           "url": "https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181",
+                           "title": "Inteligência artificial: avanços e tendências",
+                           "author": "Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -30180,7 +30194,7 @@
                            "url": "https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3",
                            "title": "Guide to the Software Engineering Body of Knowledge",
                            "notes": [
-                              "email adddress *requested*"
+                              "email address *requested*"
                            ]
                         },
                         {
@@ -44869,6 +44883,11 @@
                                  ]
                               },
                               {
+                                 "url": "https://youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz",
+                                 "title": "Angularjs Tutorial - Complete (Fundamentals to Advanced)",
+                                 "author": "Tech CBT"
+                              },
+                              {
                                  "url": "https://www.youtube.com/watch?v=9b9pLgaSQuI",
                                  "title": "AngularJS Tutorial for Beginners",
                                  "author": "Yaakov Chaikin",
@@ -45404,6 +45423,11 @@
                                  "url": "https://www.youtube.com/watch?v=YK1Sw_hnm58",
                                  "title": "Three.js Tutorial Crash Course",
                                  "author": "Chris Courses"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho",
+                                 "title": "Three.js Tutorials",
+                                 "author": "Wael Yasmina"
                               }
                            ]
                         }
@@ -46851,7 +46875,7 @@
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy",
-                                 "title": "Django Wedensdays",
+                                 "title": "Django Wednesdays",
                                  "author": "Codemy.com"
                               },
                               {
@@ -47449,6 +47473,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
                            "title": "System Design",
                            "author": "Gaurav Sen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf",
+                           "title": "System Design Fundamentals",
+                           "author": "ByteByteGo"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a",
@@ -51098,6 +51127,11 @@
                            "section": "Node.js",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo",
+                                 "title": "Master NodeJS",
+                                 "author": "Piyush Garg"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhiiSVvVP_9w57-aU7kx_H9bu",
                                  "title": "Node JS",
                                  "author": "Geeky Shows"
@@ -51837,6 +51871,11 @@
                   {
                      "section": "Swift",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6",
+                           "title": "Swift Programming Hindi Tutorial For Beginners",
+                           "author": "Code Cat"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO",
                            "title": "Swift Tutorials For Beginners(Full) in Hindi.",
@@ -55593,6 +55632,202 @@
                            ]
                         }
                      ]
+                  }
+               ]
+            },
+            {
+               "language": {
+                  "code": "mr",
+                  "name": "Marathi"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Android",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLy1NOWTMDFjDLCgmxRNLDJtlutJOYl2d7",
+                           "title": "अँड्रॉइड ऍप डेव्हलपमेंट मराठी | Android App Development in Marathi",
+                           "author": "उत्तर"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Angular",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLpDAynbYcV3sruD9MNfmZtimPCKHicA2V",
+                           "title": "Angular in Marathi",
+                           "author": "Finishing School"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLMs908ICeVMEBw4CevNdPvvIJDaQV1ISN",
+                           "title": "Angular Tutorials in Marathi",
+                           "author": "Developers Marathi"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Arduino",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PL8yOrZ6_TOt5Y-ZG34wLePPZsDaZpatqD",
+                           "title": "Arduino Programming in Marathi",
+                           "author": "Asawari Shiposkar"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"c\">",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLWSZr_wlNWax9fqyNyt6Q3ADBgwLE2HvU",
+                           "title": "C Language Tutorial Videos | Krushna Pise | MaRaTHi ProGrammer",
+                           "author": "MaRaTHi ProGrammer"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLCx-k6Qe-qShOnyqpTckJd9qWflu0Ah5I",
+                           "title": "C Programming tutorials in Marathi",
+                           "author": "M Computers"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"csharp\">",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLQX297IOnCYoDo0l80fQHQrCxF0PAx8zs",
+                           "title": "C# basic To advance in Marathi",
+                           "author": "The Pro Code"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"cpp\">",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLddGZGOJ3oy61NpGiR83kYQDK8nIeTcRX",
+                           "title": "C++ Full Course in Marathi Live Teaching (Oct 2021 Batch)",
+                           "author": "Prasad Computer"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLWSZr_wlNWazn-waH7XkwE2VfT13f5oAG",
+                           "title": "C++ Programming | Krushna Pise | MaRaTHi ProGrammer",
+                           "author": "MaRaTHi ProGrammer"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Data Science",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PL9WbN_hBLtt9pYOryPps3J1M2ngFb5C14",
+                           "title": "Data Science Mentorship (Marathi)",
+                           "author": "Rajesh MORE"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Databases",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLNUHhIfQzCNcVcVbMDI8jmjxbZ9u3QSUY",
+                           "title": "Database Management System",
+                           "author": "Dnyaneshwar Cholke"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLFwH5aoadVcnimSkNWYKUjsvOTXvVnfVw",
+                           "title": "SQL Tutorial For Beginners in Marathi | SQL Structured Query Language Full Course in Marathi Basics To Advance",
+                           "author": "Code Marathi"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "HTML and CSS",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLWkJQ8CSXYd4wee103RY961OdWXwnHsBo",
+                           "title": "CSS Tutorial In Marathi",
+                           "author": "SA Infolines"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLWSZr_wlNWaw8_iFhKvrPKp1Uh2S1dXHk",
+                           "title": "HTML | HTML For Beginners | Krushna Pise | Marathi Programmer",
+                           "author": "MaRaTHi ProGrammer"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLU1bHMETQ0vzRyMVH2Wp6sA8bMUuVl5S2",
+                           "title": "HTML & CSS In Marathi Tutorials",
+                           "author": "Programming By Yogesh"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Java",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLcb3cGQ8kyd_n-B6NWekCItJ-2SrRqm8-",
+                           "title": "Core Java in Marathi",
+                           "author": "JavaKatta"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLFNYRs6J377j9k2lXXewIxx2IfRKg4w1t",
+                           "title": "Java Programming In Marathi",
+                           "author": "Learn with Ajit More"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLI1D7QZwksP7_vZ-UxoSq0iA0k6uxrXuz",
+                           "title": "Java Programming in Marathi ( मराठी )",
+                           "author": "I.T. मंडळ"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "JavaScript",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLpHGE1RJRnR2dONhkep0994hYIAXj2trt",
+                           "title": "Javascript Series Marathi | Zero to Hero",
+                           "author": "Shodkk Shantanu"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL_9bg9gibAYofFlo--HF_j1NWKBoK58YL",
+                           "title": "Javascript Tutorials with examples in Marathi",
+                           "author": "AMIT GAIKWAD"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PL9D-kb1y7d4cL3xI0Wk1krRjjiPE4IPUd",
+                           "title": "Python in Marathi",
+                           "author": "MITU Skillologies"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLI1D7QZwksP64N_zkmXxr9DAzLy9mJClY",
+                           "title": "Python Programming in Marathi (मराठी)",
+                           "author": "I.T. मंडळ"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLFwH5aoadVcnfGG9WtTd-4qYO9gzk773P",
+                           "title": "Python Tutorial for Beginners In Marathi {आता आपल्या भाषेत कोडिंग } From Basic TO Advance",
+                           "author": "Code Marathi"
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
