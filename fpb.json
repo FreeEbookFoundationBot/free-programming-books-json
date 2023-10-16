@@ -3973,22 +3973,6 @@
                            "section": "Angular",
                            "entries": [
                               {
-                                 "url": "https://rldona.gitbooks.io/angular-2-book",
-                                 "title": "Angular 2",
-                                 "author": "Raúl López",
-                                 "notes": [
-                                    "HTML"
-                                 ]
-                              },
-                              {
-                                 "url": "https://ngchallenges.gitbook.io",
-                                 "title": "Aprendiendo Angular",
-                                 "author": "Vanessa Aristizabal",
-                                 "notes": [
-                                    "HTML"
-                                 ]
-                              },
-                              {
                                  "url": "https://riptutorial.com/Download/angular-es.pdf",
                                  "title": "Aprendizaje Angular",
                                  "author": "Compiled from StackOverflow Documentation",
@@ -4007,9 +3991,7 @@
                               {
                                  "url": "https://jorgeucano.gitbook.io/entendiendo-angular/",
                                  "title": "Entendiendo Angular",
-                                 "author": "Jorge Cano",
-                                 "notes": [],
-                                 "manualReviewRequired": true
+                                 "author": "Jorge Cano"
                               }
                            ]
                         }
@@ -10989,14 +10971,6 @@
                      "section": "Arduino",
                      "entries": [
                         {
-                           "url": "https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf",
-                           "title": "Ardiuno Projects Book",
-                           "author": "Scott Fitzgerald and Michael Shiloh",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://arduino-doc.readthedocs.io/en/latest/",
                            "title": "Arduino-docs : A beginner's guide",
                            "author": "Paramesh Chandra",
@@ -11011,6 +10985,14 @@
                            "notes": [
                               "PDF",
                               ":card_file_box: *archived at unglue.it*"
+                           ]
+                        },
+                        {
+                           "url": "https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf",
+                           "title": "Arduino Projects Book",
+                           "author": "Scott Fitzgerald and Michael Shiloh",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -12136,7 +12118,7 @@
                         {
                            "url": "https://books.goalkicker.com/XamarinFormsBook/",
                            "title": "Xamarin.Forms Notes for professionals",
-                           "author": "Compiled from StackOverflow documentaion",
+                           "author": "Compiled from StackOverflow documentation",
                            "notes": [
                               "PDF"
                            ]
@@ -23263,6 +23245,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Internet das Coisas",
+                     "entries": [
+                        {
+                           "url": "https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf",
+                           "title": "A Internet das Coisas",
+                           "author": "Eduardo Magrani",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -26753,6 +26749,7 @@
                         {
                            "url": "https://www.stack.nl/~marcov/compiler.pdf",
                            "title": "Let's Build a Compiler",
+                           "author": "Jack W. Crenshaw",
                            "notes": [
                               "PDF"
                            ]
@@ -29259,6 +29256,14 @@
                            "url": "https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf",
                            "title": "Object Oriented Programming",
                            "author": "Robert Harle",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf",
+                           "title": "OOP – Learn Object Oriented Thinking and Programming",
+                           "author": "Rudolf Pecinovsky",
                            "notes": [
                               "PDF"
                            ]
@@ -40030,6 +40035,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5",
                            "title": "Dart Bangla Tutorial",
                            "author": "Learn Hunter"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=_8Q5cwfvi64",
+                           "title": "১ ভিডিওতে ডার্ট শিখুন !",
+                           "author": "Rabbil Hasan"
                         }
                      ],
                      "subsections": []
@@ -41209,6 +41219,14 @@
                            "author": "Tech Dev Guide by Google"
                         },
                         {
+                           "url": "https://nptel.ac.in/courses/106102064",
+                           "title": "Data Structures and Algorithms",
+                           "author": "Naveen Garg",
+                           "notes": [
+                              "NPTEL"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLrk5tgtnMN6StFV60jlQ9W-RXyHppbp8G",
                            "title": "Data Structures And Algorithms DSA In JAVA Full Course",
                            "author": "Coding Ninjas"
@@ -42085,6 +42103,11 @@
                            "url": "https://www.sololearn.com/learning/1080",
                            "title": "Learn C#",
                            "author": ""
+                        },
+                        {
+                           "url": "https://www.codecademy.com/learn/learn-c-sharp",
+                           "title": "Learn C#",
+                           "author": "Codecademy"
                         },
                         {
                            "url": "https://www.learnhowtoprogram.com/c-and-net",
@@ -44097,9 +44120,19 @@
                            ]
                         },
                         {
+                           "url": "https://www.codecademy.com/learn/learn-css",
+                           "title": "Learn CSS",
+                           "author": "codecademy"
+                        },
+                        {
                            "url": "https://www.learnhowtoprogram.com/css",
                            "title": "Learn how to program: CSS",
                            "author": "Epicodus Inc."
+                        },
+                        {
+                           "url": "https://www.codecademy.com/learn/learn-html",
+                           "title": "Learn HTML",
+                           "author": "codecademy"
                         },
                         {
                            "url": "https://www.bitdegree.org/courses/coding-for-beginners-space-doggos",
@@ -44354,6 +44387,11 @@
                            "url": "https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8",
                            "title": "Java Beginner",
                            "author": "Coding with John"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
+                           "title": "Java Complete Course - Placement Series",
+                           "author": "Apna College"
                         },
                         {
                            "url": "https://www.udemy.com/course/java-design-patterns-tutorial",
@@ -44638,6 +44676,11 @@
                            "url": "https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5",
                            "title": "JavaScript Coding Challenges",
                            "author": "Florin Pop"
+                        },
+                        {
+                           "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript",
+                           "title": "JavaScript Course",
+                           "author": "The Odin Project"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
@@ -46688,6 +46731,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.codecademy.com/learn/python-for-programmers",
+                           "title": "Python for Programmers",
+                           "author": "codecademy"
+                        },
+                        {
                            "url": "https://open.cs.uwaterloo.ca/python-from-scratch/",
                            "title": "Python from Scratch",
                            "author": "Centre for Education in Math and Computing",
@@ -47745,6 +47793,11 @@
                            "author": "Microsoft"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLrk5tgtnMN6TNuhUEf5-UgPxa1wu-l6kP",
+                           "title": "Web Development Tutorial By Coding Ninjas (In English)",
+                           "author": "Coding Ninjas"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc",
                            "title": "Web Development Tutorials for Beginners",
                            "author": "LearnCode.academy"
@@ -48380,6 +48433,11 @@
                            "url": "https://aprendejavascript.org",
                            "title": "Aprende JavaScript",
                            "author": "Jonathan MirCha"
+                        },
+                        {
+                           "url": "https://www.freecodecamp.org/espanol/news/aprende-javascript-curso-completo-desde-cero/",
+                           "title": "Aprendemos JavaScript",
+                           "author": "Estefania Cassingena Navone"
                         },
                         {
                            "url": "https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/",
@@ -51769,6 +51827,11 @@
                            "notes": [
                               "Tutorials Point (India"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc",
+                           "title": "R programming language(Hindi)",
+                           "author": "CS Geeks"
                         }
                      ],
                      "subsections": []
@@ -51786,6 +51849,11 @@
                         {
                            "section": "Ruby on Rails",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLSfx1NJkuWPWlVjFy5datW4Y-54ltIFw7",
+                                 "title": "Full Stack Development in Ruby on Rails - Hindi",
+                                 "author": "APPSIMPACT Academy Hindi"
+                              },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb",
                                  "title": "Ruby on Rails 5 Tutorial(Hindi)",
@@ -61638,7 +61706,7 @@
                         {
                            "url": "https://dockerlabs.collabnix.com/docker/cheatsheet/",
                            "title": "The Ultimate Docker Cheat Sheet",
-                           "author": "Sangam Biradar, Collabnix DokerLabs",
+                           "author": "Sangam Biradar, Collabnix DockerLabs",
                            "notes": [
                               "HTML"
                            ]
@@ -62565,7 +62633,7 @@
                         {
                            "url": "https://www.codewithharry.com/blogpost/python-cheatsheet",
                            "title": "Python Cheat Sheet",
-                           "author": "Code Wuth Harry"
+                           "author": "Code With Harry"
                         },
                         {
                            "url": "https://websitesetup.org/python-cheat-sheet/",
@@ -63200,11 +63268,6 @@
                            "url": "https://www.tutlane.com/tutorial/android",
                            "title": "Android Tutorial",
                            "author": "tutlane"
-                        },
-                        {
-                           "url": "https://www.javatpoint.com/android-tutorial",
-                           "title": "Javatpoint Android Tutorial",
-                           "author": "javaTpoint"
                         }
                      ],
                      "subsections": []
@@ -63689,11 +63752,6 @@
                         {
                            "url": "http://www.learnjavaonline.org",
                            "title": "Learn Java"
-                        },
-                        {
-                           "url": "https://www.javatpoint.com/java-tutorial",
-                           "title": "Learn Java",
-                           "author": "Java T Point"
                         },
                         {
                            "url": "https://www.learneroo.com/modules/11",
