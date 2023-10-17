@@ -5701,6 +5701,14 @@
                      "section": "Networking",
                      "entries": [
                         {
+                           "url": "https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%204.pdf",
+                           "title": "डाटा कम्युनिकेशन और नेटवर्किंग",
+                           "author": "आर. पी. सिंह, आर. गुप्ता",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf",
                            "title": " डाटा कयनकेशन एंड कंयटर नेटवक ",
                            "author": "ई.हरश दाधीच, ई.वकास माथर",
@@ -6280,28 +6288,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Flutter",
-                     "entries": [
-                        {
-                           "url": "https://belajarflutter.com",
-                           "title": "Belajar Flutter",
-                           "author": "Herry Prasetyo",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://utter.academy/uploads/lesson_files/2f0c5c74e9488d4c9c734e4264e5869e.pdf",
-                           "title": "Flutter dan Flutlab",
-                           "author": "Utter academy",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Git",
                      "entries": [
                         {
@@ -6789,10 +6775,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "https://www.pythonindo.com/tutorial-python-dasar/",
-                           "title": "Dasar Pemrograman Python"
                         },
                         {
                            "url": "https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ",
@@ -12293,6 +12275,14 @@
                            ]
                         },
                         {
+                           "url": "http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf",
+                           "title": "Learn C++ Programming Language",
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.learncpp.com",
                            "title": "LearnCpp.com",
                            "notes": [
@@ -13551,6 +13541,11 @@
                         {
                            "url": "https://golangbyexample.com",
                            "title": "Golang by Example"
+                        },
+                        {
+                           "url": "https://golangbot.com/learn-golang-series/",
+                           "title": "Golang tutorial series",
+                           "author": "Naveen Ramanathan"
                         },
                         {
                            "url": "https://www.digitalocean.com/community/books/how-to-code-in-go-ebook",
@@ -18408,10 +18403,6 @@
                            "accessNotes": ":card_file_box: archived"
                         },
                         {
-                           "url": "https://www.codecademy.com/learn/python",
-                           "title": "CodeCademy Python"
-                        },
-                        {
                            "url": "http://composingprograms.com",
                            "title": "Composing Programs",
                            "notes": [
@@ -19850,10 +19841,6 @@
                         {
                            "url": "https://github.com/bbatsov/ruby-style-guide",
                            "title": "A community-driven Ruby style guide"
-                        },
-                        {
-                           "url": "https://www.codecademy.com/learn/ruby",
-                           "title": "CodeCademy Ruby"
                         },
                         {
                            "url": "https://launchschool.com/books/core_ruby_tools",
@@ -26091,7 +26078,7 @@
                            "author": "Wikibooks"
                         },
                         {
-                           "url": "http://algs4.cs.princeton.edu/home/",
+                           "url": "https://algs4.cs.princeton.edu/home/",
                            "title": "Algorithms, 4th Edition",
                            "author": "Robert Sedgewick, Kevin Wayne"
                         },
@@ -26382,7 +26369,7 @@
                            ]
                         },
                         {
-                           "url": "http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
+                           "url": "https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
                            "title": "Probabilistic Programming & Bayesian Methods for Hackers",
                            "author": "Cam Davidson-Pilon",
                            "notes": [
@@ -27324,7 +27311,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.songho.ca/opengl/index.html",
+                           "url": "https://www.songho.ca/opengl/index.html",
                            "title": "OpenGL",
                            "author": "Concepts and illustrations"
                         },
@@ -27357,7 +27344,7 @@
                            "author": "Wolfgang Engel"
                         },
                         {
-                           "url": "http://www.opengl-tutorial.org",
+                           "url": "https://www.opengl-tutorial.org",
                            "title": "Tutorials for modern OpenGL"
                         },
                         {
@@ -27396,7 +27383,7 @@
                            "title": "Programming with gtkmm 4"
                         },
                         {
-                           "url": "http://searchuserinterfaces.com/book/",
+                           "url": "https://searchuserinterfaces.com/book/",
                            "title": "Search User Interfaces",
                            "author": "Marti A. Hearst"
                         },
@@ -27417,7 +27404,7 @@
                      "section": "IDE and editors",
                      "entries": [
                         {
-                           "url": "http://www.swaroopch.com/notes/vim/",
+                           "url": "https://www.swaroopch.com/notes/vim/",
                            "title": "A Byte of Vim",
                            "author": "Swaroop",
                            "notes": [
@@ -27447,17 +27434,17 @@
                            "author": "Daniel Miessler"
                         },
                         {
-                           "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
+                           "url": "https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
                            "title": "Learn Vim Progressively",
                            "author": "Yann Esposito"
                         },
                         {
-                           "url": "http://learnvimscriptthehardway.stevelosh.com",
+                           "url": "https://learnvimscriptthehardway.stevelosh.com",
                            "title": "Learn Vimscript the Hard Way",
                            "author": "Steve Losh"
                         },
                         {
-                           "url": "http://www.finseth.com/craft/",
+                           "url": "https://www.finseth.com/craft/",
                            "title": "The Craft of Text Editing or A Cookbook for an Emacs",
                            "author": "Craig A. Finseth",
                            "notes": [
@@ -27465,7 +27452,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.truth.sk/vim/vimbook-OPL.pdf",
+                           "url": "https://www.truth.sk/vim/vimbook-OPL.pdf",
                            "title": "Vi Improved -- Vim",
                            "author": "Steve Oualline",
                            "notes": [
@@ -27495,12 +27482,12 @@
                            "author": "Sundeep Agarwal"
                         },
                         {
-                           "url": "http://vimregex.com",
+                           "url": "https://vimregex.com",
                            "title": "Vim Regular Expressions 101",
                            "author": "Oleg Raisky"
                         },
                         {
-                           "url": "http://www.infoq.com/minibooks/vsnettt",
+                           "url": "https://www.infoq.com/minibooks/vsnettt",
                            "title": "Visual Studio .NET Tips and Tricks",
                            "author": "Minh T. Nguyen",
                            "notes": [
@@ -27537,7 +27524,7 @@
                            ]
                         },
                         {
-                           "url": "http://nlp.stanford.edu/IR-book/information-retrieval-book.html",
+                           "url": "https://nlp.stanford.edu/IR-book/information-retrieval-book.html",
                            "title": "Introduction to Information Retrieval"
                         }
                      ],
@@ -27560,7 +27547,7 @@
                            "author": "Lawrence Rosen"
                         },
                         {
-                           "url": "http://www.thepublicdomain.org/download/",
+                           "url": "https://www.thepublicdomain.org/download/",
                            "title": "The Public Domain: Enclosing the Commons of the Mind",
                            "author": "James Boyle"
                         }
@@ -27579,7 +27566,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.dkriesel.com/en/science/neural_networks",
+                           "url": "https://www.dkriesel.com/en/science/neural_networks",
                            "title": "A Brief Introduction to Neural Networks"
                         },
                         {
@@ -27643,7 +27630,7 @@
                            "title": "Bayesian Reasoning and Machine Learning"
                         },
                         {
-                           "url": "http://www.deeplearningbook.org",
+                           "url": "https://www.deeplearningbook.org",
                            "title": "Deep Learning",
                            "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville"
                         },
@@ -27656,7 +27643,7 @@
                            ]
                         },
                         {
-                           "url": "http://d2l.ai",
+                           "url": "https://d2l.ai",
                            "title": "Dive into Deep Learning"
                         },
                         {
@@ -27678,7 +27665,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.gaussianprocess.org/gpml/",
+                           "url": "https://www.gaussianprocess.org/gpml/",
                            "title": "Gaussian Processes for Machine Learning",
                            "author": "Carl Edward Rasmussen, Christopher K.I. Williams"
                         },
@@ -27703,7 +27690,7 @@
                            "author": "James McCaffrey"
                         },
                         {
-                           "url": "http://arxiv.org/abs/0904.3664v1",
+                           "url": "https://arxiv.org/abs/0904.3664v1",
                            "title": "Introduction to Machine Learning",
                            "author": "Amnon Shashua"
                         },
@@ -27726,7 +27713,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.intechopen.com/books/machine_learning",
+                           "url": "https://www.intechopen.com/books/machine_learning",
                            "title": "Machine Learning"
                         },
                         {
@@ -27748,7 +27735,7 @@
                            ]
                         },
                         {
-                           "url": "http://www1.maths.leeds.ac.uk/~charles/statlog/",
+                           "url": "https://www1.maths.leeds.ac.uk/~charles/statlog/",
                            "title": "Machine Learning, Neural and Statistical Classification",
                            "author": "D. Michie, D.J. Spiegelhalter, C.C. Taylor"
                         },
@@ -27806,7 +27793,7 @@
                            ]
                         },
                         {
-                           "url": "http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html",
+                           "url": "https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html",
                            "title": "Probabilistic Models in the Study of Language",
                            "notes": [
                               "Draft, with R code"
@@ -27949,7 +27936,7 @@
                            "author": "Matt Boelkins"
                         },
                         {
-                           "url": "http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf",
+                           "url": "https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf",
                            "title": "Advanced Algebra",
                            "author": "Anthony W. Knapp",
                            "notes": [
@@ -28025,7 +28012,7 @@
                            "author": "Alan Doerr, Kenneth Levasseur"
                         },
                         {
-                           "url": "http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf",
+                           "url": "https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf",
                            "title": "Basic Algebra",
                            "author": "Anthony W. Knapp",
                            "notes": [
@@ -28038,7 +28025,7 @@
                            "author": "Jiří Lebl"
                         },
                         {
-                           "url": "http://www.cis.upenn.edu/~jean/math-basics.pdf",
+                           "url": "https://www.cis.upenn.edu/~jean/math-basics.pdf",
                            "title": "Basics of Algebra, Topology, and Differential Calculus",
                            "notes": [
                               "PDF"
@@ -28081,7 +28068,7 @@
                            "author": "James Callahan"
                         },
                         {
-                           "url": "http://www.gutenberg.org/ebooks/33283",
+                           "url": "https://www.gutenberg.org/ebooks/33283",
                            "title": "Calculus Made Easy",
                            "author": "Silvanus P. Thompson",
                            "notes": [
@@ -28121,7 +28108,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/",
+                           "url": "https://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/",
                            "title": "CK-12 Probability and Statistics - Advanced"
                         },
                         {
@@ -28145,7 +28132,7 @@
                            "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
                         },
                         {
-                           "url": "http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9",
+                           "url": "https://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9",
                            "title": "Collaborative Statistics"
                         },
                         {
@@ -28172,7 +28159,7 @@
                            "author": "Ani Adhikari, John DeNero, David Wagner"
                         },
                         {
-                           "url": "http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/",
+                           "url": "https://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/",
                            "title": "Computational Geometry"
                         },
                         {
@@ -28217,7 +28204,7 @@
                            ]
                         },
                         {
-                           "url": "http://discrete.openmathbooks.org/dmoi3.html",
+                           "url": "https://discrete.openmathbooks.org/dmoi3.html",
                            "title": "Discrete Mathematics: An Open Introduction",
                            "author": "Oscar Levin"
                         },
@@ -28263,7 +28250,7 @@
                            ]
                         },
                         {
-                           "url": "http://cs.gmu.edu/~sean/book/metaheuristics/",
+                           "url": "https://cs.gmu.edu/~sean/book/metaheuristics/",
                            "title": "Essentials of Metaheuristics",
                            "author": "Sean Luke"
                         },
@@ -28320,7 +28307,7 @@
                            ]
                         },
                         {
-                           "url": "http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/",
+                           "url": "https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/",
                            "title": "Introduction to Probability and Statistics Spring 2014"
                         },
                         {
@@ -28334,7 +28321,7 @@
                            "author": "William F. Trench"
                         },
                         {
-                           "url": "http://people.math.umass.edu/~lavine/Book/book.html",
+                           "url": "https://people.math.umass.edu/~lavine/Book/book.html",
                            "title": "Introduction to Statistical Thought",
                            "author": "Michael Lavine"
                         },
@@ -28353,7 +28340,7 @@
                            "author": "Silvano Martello, Paolo Toth"
                         },
                         {
-                           "url": "http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html",
+                           "url": "https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html",
                            "title": "Lecture Notes of Linear Algebra",
                            "author": "Dr. P. Shunmugaraj, IIT Kanpur",
                            "notes": [
@@ -28429,7 +28416,7 @@
                            "author": "Andrew M. Bruckner, Brian S. Thomson, Judith B. Bruckner"
                         },
                         {
-                           "url": "http://www.ii.uib.no/~michal/und/i227/book/book.pdf",
+                           "url": "https://www.ii.uib.no/~michal/und/i227/book/book.pdf",
                            "title": "Mathematical Logic - an Introduction",
                            "notes": [
                               "PDF"
@@ -28441,7 +28428,7 @@
                            "author": "Ted Sundstrom"
                         },
                         {
-                           "url": "http://home.iitk.ac.in/~psraj/mth101/",
+                           "url": "https://home.iitk.ac.in/~psraj/mth101/",
                            "title": "Mathematics, MTH101A",
                            "author": "P. Shunmugaraj, IIT Kanpur"
                         },
@@ -28487,7 +28474,7 @@
                            "author": "Jonathan Weisberg"
                         },
                         {
-                           "url": "http://onlinestatbook.com",
+                           "url": "https://onlinestatbook.com",
                            "title": "Online Statistics Education",
                            "author": "David Lane"
                         },
@@ -28586,7 +28573,7 @@
                            "author": "Russell A. Poldrack"
                         },
                         {
-                           "url": "http://www.statisticsdonewrong.com",
+                           "url": "https://www.statisticsdonewrong.com",
                            "title": "Statistics Done Wrong",
                            "author": "Alex Reinhart"
                         },
@@ -28609,12 +28596,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.greenteapress.com/thinkbayes/",
+                           "url": "https://www.greenteapress.com/thinkbayes/",
                            "title": "Think Bayes: Bayesian Statistics Made Simple",
                            "author": "Allen B. Downey"
                         },
                         {
-                           "url": "http://greenteapress.com/thinkstats/",
+                           "url": "https://greenteapress.com/thinkstats/",
                            "title": "Think Stats: Probability and Statistics for Programmers",
                            "author": "Allen B. Downey",
                            "notes": [
@@ -28622,7 +28609,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.mecmath.net",
+                           "url": "https://www.mecmath.net",
                            "title": "Vector Calculus",
                            "author": "Michael Corral"
                         },
@@ -28651,7 +28638,7 @@
                            "author": "L. Lovasz"
                         },
                         {
-                           "url": "http://cglab.ca/~michiel/DiscreteStructures/",
+                           "url": "https://cglab.ca/~michiel/DiscreteStructures/",
                            "title": "Discrete Structures for Computer Science: Counting, Recursion, and Probability",
                            "author": "Michiel Smid"
                         },
@@ -28712,7 +28699,7 @@
                            ]
                         },
                         {
-                           "url": "http://ocaml-book.com/s/popbook.pdf",
+                           "url": "https://ocaml-book.com/s/popbook.pdf",
                            "title": "A MACHINE MADE THIS BOOK ten sketches of computer science",
                            "author": "JOHN WHITINGTON",
                            "notes": [
@@ -28725,7 +28712,7 @@
                            "accessNotes": "account required"
                         },
                         {
-                           "url": "http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8",
+                           "url": "https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8",
                            "title": "Asterisk™: The Definitive Guide",
                            "author": "Leif Madsen, Jim Van Meggelen, Russell Bryant",
                            "notes": [
@@ -28738,14 +28725,14 @@
                            "author": "Brad Frost"
                         },
                         {
-                           "url": "http://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf",
+                           "url": "https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf",
                            "title": "Barcode Overview",
                            "notes": [
                               "PDF"
                            ]
                         },
                         {
-                           "url": "http://www.wisdom.weizmann.ac.il/~playbook/",
+                           "url": "https://www.wisdom.weizmann.ac.il/~playbook/",
                            "title": "Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts",
                            "author": "David Harel, Rami Marelly"
                         },
@@ -28758,7 +28745,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto",
+                           "url": "https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto",
                            "title": "Confessions of an Unintentional CTO: Lessons in Growing a Web App",
                            "author": "Jack Kinsella"
                         },
@@ -28780,7 +28767,7 @@
                            "author": "Jennifer Tidwell"
                         },
                         {
-                           "url": "http://devdocs.io",
+                           "url": "https://devdocs.io",
                            "title": "DevDocs",
                            "author": "Documents for Developers in 1 place"
                         },
@@ -28793,12 +28780,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.sp4comm.org",
+                           "url": "https://www.sp4comm.org",
                            "title": "Digital Signal Processing For Communications",
                            "author": "Paolo Prandoni, Martin Vetterli"
                         },
                         {
-                           "url": "http://www.dspguide.com",
+                           "url": "https://www.dspguide.com",
                            "title": "Digital Signal Processing For Engineers and Scientists",
                            "author": "Steven W. Smith"
                         },
@@ -28808,7 +28795,7 @@
                            "author": "Allen B. Downey"
                         },
                         {
-                           "url": "http://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html",
+                           "url": "https://www.lulu.com/shop/http://www.lulu.com/shop/luis-enr%C3%ADquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21419788.html",
                            "title": "\"DYNAMIC LINKED LIBRARIES\": Paradigms of the GPL license in contemporary software",
                            "author": "Luis A. Enríquez"
                         },
@@ -28879,7 +28866,7 @@
                            "author": "Mark Lewin"
                         },
                         {
-                           "url": "http://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html",
+                           "url": "https://www.lulu.com/shop/ed-johnson/hacknot-essays-on-software-development/ebook/product-17544641.html",
                            "title": "Hacknot: Essays on Software Development",
                            "author": "Ed Johnson"
                         },
@@ -28901,7 +28888,7 @@
                            "author": "Lars Klint"
                         },
                         {
-                           "url": "http://www.fastchip.net/howcomputerswork/p1.html",
+                           "url": "https://www.fastchip.net/howcomputerswork/p1.html",
                            "title": "How Computers Work",
                            "author": "R. Young"
                         },
@@ -28922,12 +28909,12 @@
                            ]
                         },
                         {
-                           "url": "http://openbookproject.net/thinkcs/",
+                           "url": "https://openbookproject.net/thinkcs/",
                            "title": "How to Think Like a Computer Scientist",
                            "author": "Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers"
                         },
                         {
-                           "url": "http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/",
+                           "url": "https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/",
                            "title": "Image Processing in C: Analyzing and Enhancing Digital Images",
                            "author": "Dwayne Phillips"
                         },
@@ -28969,7 +28956,7 @@
                            "author": "Shekhar Gulati"
                         },
                         {
-                           "url": "http://patterns.dataincubator.org/book/",
+                           "url": "https://patterns.dataincubator.org/book/",
                            "title": "Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data",
                            "author": "Leigh Dodds, Ian Davis"
                         },
@@ -28986,7 +28973,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html",
+                           "url": "https://www.wisdom.weizmann.ac.il/~harel/reactive_systems.html",
                            "title": "Modeling Reactive Systems with Statecharts",
                            "author": "D. Harel, M. Politi"
                         },
@@ -28996,7 +28983,7 @@
                            "author": "Matteo Pagani"
                         },
                         {
-                           "url": "http://www.cs.cornell.edu/home/kleinber/networks-book/",
+                           "url": "https://www.cs.cornell.edu/home/kleinber/networks-book/",
                            "title": "Networks, Crowds, and Markets: Reasoning About a Highly Connected World",
                            "author": "David Easley, Jon Kleinberg"
                         },
@@ -29017,7 +29004,7 @@
                            "accessNotes": "Leanpub account or valid email requested"
                         },
                         {
-                           "url": "http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf",
+                           "url": "https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf",
                            "title": "Philosophy of Computer Science",
                            "notes": [
                               "PDF"
@@ -29049,7 +29036,7 @@
                            "author": "Kenneth Leroy Busbee, Dave Braunschweig"
                         },
                         {
-                           "url": "http://unicodebook.readthedocs.org",
+                           "url": "https://unicodebook.readthedocs.org",
                            "title": "Programming with Unicode"
                         },
                         {
@@ -29103,7 +29090,7 @@
                      "section": "Networking",
                      "entries": [
                         {
-                           "url": "http://intronetworks.cs.luc.edu",
+                           "url": "https://intronetworks.cs.luc.edu",
                            "title": "An Introduction to Computer Networks",
                            "notes": [
                               "HTML, PDF, Kindle"
@@ -29118,11 +29105,11 @@
                            ]
                         },
                         {
-                           "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/",
+                           "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/",
                            "title": "Bits, Signals, and Packets: An Introduction to Digital Communications and Networks"
                         },
                         {
-                           "url": "http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf",
+                           "url": "https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf",
                            "title": "Code Connected vol.1",
                            "notes": [
                               "PDF",
@@ -29145,7 +29132,7 @@
                            ]
                         },
                         {
-                           "url": "http://book.mixu.net/distsys/single-page.html",
+                           "url": "https://book.mixu.net/distsys/single-page.html",
                            "title": "Distributed systems for fun and profit"
                         },
                         {
@@ -29167,7 +29154,7 @@
                            ]
                         },
                         {
-                           "url": "http://daniel.haxx.se/http2/",
+                           "url": "https://daniel.haxx.se/http2/",
                            "title": "HTTP2 Explained",
                            "author": "Daniel Stenberg"
                         },
@@ -29243,7 +29230,7 @@
                            ]
                         },
                         {
-                           "url": "http://zguide.zeromq.org/page%3Aall",
+                           "url": "https://zguide.zeromq.org",
                            "title": "ZeroMQ Guide"
                         }
                      ],
@@ -29285,7 +29272,7 @@
                            "author": "Daniele Scasciafratte"
                         },
                         {
-                           "url": "http://datajournalismhandbook.org",
+                           "url": "https://datajournalismhandbook.org",
                            "title": "Data Journalism Handbook"
                         },
                         {
@@ -29302,18 +29289,18 @@
                            "author": "Peter Wayner"
                         },
                         {
-                           "url": "http://shop.fsf.org/product/free-software-free-society-2/",
+                           "url": "https://shop.fsf.org/product/free-software-free-society-2/",
                            "title": "Free Software, Free Society: Selected Essays of Richard M. Stallman"
                         },
                         {
-                           "url": "http://www.oreilly.com/programming/free/getting-started-with-innersource.csp",
+                           "url": "https://www.oreilly.com/programming/free/getting-started-with-innersource.csp",
                            "title": "Getting Started with InnerSource",
                            "notes": [
                               "email address *requested*, not required"
                            ]
                         },
                         {
-                           "url": "http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf",
+                           "url": "https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf",
                            "title": "Getting started with Open source development",
                            "notes": [
                               "PDF"
@@ -29331,7 +29318,7 @@
                            ]
                         },
                         {
-                           "url": "http://dreamsongs.com/IHE/IHE.html",
+                           "url": "https://dreamsongs.com/IHE/IHE.html",
                            "title": "Innovation Happens Elsewhere",
                            "author": "Ron Goldman, Richard P. Gabriel"
                         },
@@ -29353,7 +29340,7 @@
                            "author": "Andy Oram"
                         },
                         {
-                           "url": "http://producingoss.com",
+                           "url": "https://producingoss.com",
                            "title": "Producing Open Source Software",
                            "author": "Karl Fogel"
                         },
@@ -29363,11 +29350,11 @@
                            "author": "Nadia Eghbal"
                         },
                         {
-                           "url": "http://www.aosabook.org/en/index.html",
+                           "url": "https://www.aosabook.org/en/index.html",
                            "title": "The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks"
                         },
                         {
-                           "url": "http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf",
+                           "url": "https://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf",
                            "title": "The Art of Community",
                            "author": "Jono Bacon",
                            "notes": [
@@ -29380,16 +29367,16 @@
                            "author": "Eric S. Raymond"
                         },
                         {
-                           "url": "http://futureoftheinternet.org",
+                           "url": "https://futureoftheinternet.org",
                            "title": "The Future of the Internet",
                            "author": "Jonathan Zittrain"
                         },
                         {
-                           "url": "http://www.theopensourceway.org/book/",
+                           "url": "https://www.theopensourceway.org/book/",
                            "title": "The Open Source Way"
                         },
                         {
-                           "url": "http://cyber.law.harvard.edu/wealth_of_networks/Main_Page",
+                           "url": "https://cyber.law.harvard.edu/wealth_of_networks/Main_Page",
                            "title": "The Wealth of Networks: How Social Production Transforms Markets and Freedom",
                            "author": "Yochai Benkler"
                         }
@@ -29400,7 +29387,7 @@
                      "section": "Operating Systems",
                      "entries": [
                         {
-                           "url": "http://markburgess.org/os/os.pdf",
+                           "url": "https://markburgess.org/os/os.pdf",
                            "title": "A short introduction to operating systems (2001)",
                            "author": "Mark Burgess",
                            "notes": [
@@ -29408,7 +29395,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.bottomupcs.com",
+                           "url": "https://www.bottomupcs.com",
                            "title": "Computer Science from the Bottom Up",
                            "author": "Ian Wienand",
                            "notes": [
@@ -29432,7 +29419,7 @@
                            ]
                         },
                         {
-                           "url": "http://mikeos.sourceforge.net/write-your-own-os.html",
+                           "url": "https://mikeos.sourceforge.net/write-your-own-os.html",
                            "title": "How to write a simple operating system in assembly language",
                            "author": "Mike Saunders",
                            "notes": [
@@ -29472,7 +29459,7 @@
                            ]
                         },
                         {
-                           "url": "http://pages.cs.wisc.edu/~remzi/OSTEP/",
+                           "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
                            "title": "Operating Systems: Three Easy Pieces",
                            "author": "Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau",
                            "notes": [
@@ -29480,7 +29467,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.nobius.org/~dbg/practical-file-system-design.pdf",
+                           "url": "https://www.nobius.org/~dbg/practical-file-system-design.pdf",
                            "title": "Practical File System Design: The Be File System",
                            "author": "Dominic Giampaolo",
                            "notes": [
@@ -29488,7 +29475,7 @@
                            ]
                         },
                         {
-                           "url": "http://people.inf.ethz.ch/wirth/ProjectOberon/index.html",
+                           "url": "https://people.inf.ethz.ch/wirth/ProjectOberon/index.html",
                            "title": "Project Oberon: The Design of an Operating System, a Compiler, and a Computer",
                            "author": "Niklaus Wirth, Jürg Gutknecht",
                            "notes": [
@@ -29512,7 +29499,7 @@
                            ]
                         },
                         {
-                           "url": "http://greenteapress.com/semaphores/",
+                           "url": "https://greenteapress.com/semaphores/",
                            "title": "The Little Book of Semaphores",
                            "author": "Allen B. Downey",
                            "notes": [
@@ -29520,7 +29507,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.greenteapress.com/thinkos/index.html",
+                           "url": "https://www.greenteapress.com/thinkos/index.html",
                            "title": "Think OS: A Brief Introduction to Operating Systems",
                            "author": "Allen B. Downey",
                            "notes": [
@@ -29536,7 +29523,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf",
+                           "url": "https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf",
                            "title": "Writing a Simple Operating System from Scratch",
                            "author": "Nick Blundell",
                            "notes": [
@@ -29614,7 +29601,7 @@
                      "section": "Partial Evaluation",
                      "entries": [
                         {
-                           "url": "http://www.itu.dk/people/sestoft/pebook/",
+                           "url": "https://www.itu.dk/people/sestoft/pebook/",
                            "title": "Partial Evaluation and Automatic Program Generation",
                            "author": "Neil D. Jones, C.K. Gomard, Peter Sestoft",
                            "notes": [
@@ -29706,12 +29693,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.cse.iitd.ernet.in/~suban/CSL102/",
+                           "url": "https://www.cse.iitd.ernet.in/~suban/CSL102/",
                            "title": "Introduction to Computer Science",
                            "author": "Prof. Subhashis Banerjee, IIT Delhi"
                         },
                         {
-                           "url": "http://www.computingbook.org",
+                           "url": "https://www.computingbook.org",
                            "title": "Introduction to Computing",
                            "author": "David Evans"
                         },
@@ -29726,7 +29713,7 @@
                            "author": "Shriram Krishnamurthi"
                         },
                         {
-                           "url": "http://cs.brown.edu/~sk/Publications/Books/ProgLangs/",
+                           "url": "https://cs.brown.edu/~sk/Publications/Books/ProgLangs/",
                            "title": "Programming Languages: Application and Interpretation (2nd Edition)",
                            "author": "Shriram Krishnamurthi"
                         },
@@ -29780,12 +29767,12 @@
                      "section": "Programming Paradigms",
                      "entries": [
                         {
-                           "url": "http://jpaulmorrison.com/fbp/",
+                           "url": "https://jpaulmorrison.com/fbp/",
                            "title": "Flow based Programming",
                            "author": "J Paul Morrison"
                         },
                         {
-                           "url": "http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/",
+                           "url": "https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/",
                            "title": "Introduction to Functional Programming",
                            "author": "J. Harrison"
                         },
@@ -29848,7 +29835,7 @@
                      "section": "Quantum Computing",
                      "entries": [
                         {
-                           "url": "http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf",
+                           "url": "https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf",
                            "title": "Introduction to Classical and Quantum Computing",
                            "author": "Thomas G. Wong",
                            "notes": [
@@ -29925,7 +29912,7 @@
                            "author": "Shreyas Minocha"
                         },
                         {
-                           "url": "http://www.rexegg.com",
+                           "url": "https://www.rexegg.com",
                            "title": "RexEgg"
                         },
                         {
@@ -29934,7 +29921,7 @@
                            "author": "Sundeep Agarwal"
                         },
                         {
-                           "url": "http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial",
+                           "url": "https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial",
                            "title": "The 30 Minute Regex Tutorial",
                            "author": "Jim Hollenhorst"
                         }
@@ -29945,7 +29932,7 @@
                      "section": "Reverse Engineering",
                      "entries": [
                         {
-                           "url": "http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html",
+                           "url": "https://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html",
                            "title": "BIOS Disassembly Ninjutsu Uncovered 1st Edition",
                            "author": "Darmawan Salihun",
                            "notes": [
@@ -30006,7 +29993,7 @@
                      "section": "Security & Privacy",
                      "entries": [
                         {
-                           "url": "http://toc.cryptobook.us",
+                           "url": "https://toc.cryptobook.us",
                            "title": "A Graduate Course in Applied Cryptography"
                         },
                         {
@@ -30035,7 +30022,7 @@
                            ]
                         },
                         {
-                           "url": "http://cacr.uwaterloo.ca/hac/index.html",
+                           "url": "https://cacr.uwaterloo.ca/hac/index.html",
                            "title": "Handbook of Applied Cryptography"
                         },
                         {
@@ -30056,7 +30043,7 @@
                            ]
                         },
                         {
-                           "url": "http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf",
+                           "url": "https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf",
                            "title": "Intrusion Detection Systems with Snort",
                            "notes": [
                               "PDF"
@@ -30079,7 +30066,7 @@
                            "manualReviewRequired": true
                         },
                         {
-                           "url": "http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html",
+                           "url": "https://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html",
                            "title": "OWASP Top 10 for .NET Developers"
                         },
                         {
@@ -30100,7 +30087,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.cl.cam.ac.uk/~rja14/book.html",
+                           "url": "https://www.cl.cam.ac.uk/~rja14/book.html",
                            "title": "Security Engineering"
                         },
                         {
@@ -30131,12 +30118,12 @@
                            "author": "Launch School"
                         },
                         {
-                           "url": "http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm",
+                           "url": "https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm",
                            "title": "Architectural Styles and the Design of Network-based Software Architectures",
                            "author": "Roy Thomas Fielding"
                         },
                         {
-                           "url": "http://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/",
+                           "url": "https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/",
                            "title": "Best Kept Secrets of Peer Code Review"
                         },
                         {
@@ -30156,7 +30143,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.dataorienteddesign.com/dodmain/dodmain.html",
+                           "url": "https://www.dataorienteddesign.com/dodmain/dodmain.html",
                            "title": "Data-Oriented Design"
                         },
                         {
@@ -30175,7 +30162,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.infoq.com/minibooks/domain-driven-design-quickly",
+                           "url": "https://www.infoq.com/minibooks/domain-driven-design-quickly",
                            "title": "Domain Driven Design Quickly"
                         },
                         {
@@ -30203,15 +30190,15 @@
                            ]
                         },
                         {
-                           "url": "http://www.htdp.org",
+                           "url": "https://www.htdp.org",
                            "title": "How to Design Programs"
                         },
                         {
-                           "url": "http://mindprod.com/jgloss/unmain.html",
+                           "url": "https://mindprod.com/jgloss/unmain.html",
                            "title": "How to Write Unmaintainable Code"
                         },
                         {
-                           "url": "http://www.infoq.com/minibooks/kanban-scrum-minibook",
+                           "url": "https://www.infoq.com/minibooks/kanban-scrum-minibook",
                            "title": "Kanban and Scrum - making the most of both"
                         },
                         {
@@ -30255,7 +30242,7 @@
                            ]
                         },
                         {
-                           "url": "http://scg.unibe.ch/download/oorp/",
+                           "url": "https://scg.unibe.ch/download/oorp/",
                            "title": "Object-Oriented Reengineering Patterns",
                            "author": "S. Demeyer, S. Ducasse, O. Nierstrasz"
                         },
@@ -30285,7 +30272,7 @@
                            "author": "Alex Bespoyasov"
                         },
                         {
-                           "url": "http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2",
+                           "url": "https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2",
                            "title": "Scrum and XP from the Trenches"
                         },
                         {
@@ -30313,14 +30300,14 @@
                            "title": "Site Reliability Engineering"
                         },
                         {
-                           "url": "http://www.oreilly.com/programming/free/software-architecture-patterns.csp",
+                           "url": "https://www.oreilly.com/programming/free/software-architecture-patterns.csp",
                            "title": "Software Architecture Patterns",
                            "notes": [
                               "email address *requested*, not required"
                            ]
                         },
                         {
-                           "url": "http://philip.greenspun.com/seia/",
+                           "url": "https://philip.greenspun.com/seia/",
                            "title": "Software Engineering for Internet Applications"
                         },
                         {
@@ -30366,7 +30353,7 @@
                      "section": "Standards",
                      "entries": [
                         {
-                           "url": "http://refspecs.linuxfoundation.org/lsb.shtml",
+                           "url": "https://refspecs.linuxfoundation.org/lsb.shtml",
                            "title": "Linux Standard Base"
                         },
                         {
@@ -30380,7 +30367,7 @@
                      "section": "Theoretical Computer Science",
                      "entries": [
                         {
-                           "url": "http://mfleck.cs.illinois.edu/building-blocks/index.html",
+                           "url": "https://mfleck.cs.illinois.edu/building-blocks/index.html",
                            "title": "Building Blocks for Theoretical Computer Science",
                            "author": "Margaret M. Fleck"
                         },
@@ -30408,14 +30395,14 @@
                            ]
                         },
                         {
-                           "url": "http://homotopytypetheory.org/book/",
+                           "url": "https://homotopytypetheory.org/book/",
                            "title": "Homotopy Type Theory: Univalent Foundations of Mathematics",
                            "notes": [
                               "PDF"
                            ]
                         },
                         {
-                           "url": "http://cglab.ca/~michiel/TheoryOfComputation/",
+                           "url": "https://cglab.ca/~michiel/TheoryOfComputation/",
                            "title": "Introduction to Theory of Computation",
                            "author": "Anil Maheshwari, Michiel Smid",
                            "notes": [
@@ -30423,7 +30410,7 @@
                            ]
                         },
                         {
-                           "url": "http://cs.brown.edu/people/jes/book/",
+                           "url": "https://cs.brown.edu/people/jes/book/",
                            "title": "Models of Computation",
                            "author": "John E. Savage"
                         },
@@ -30442,12 +30429,12 @@
                            "accessNotes": ":card_file_box: archived"
                         },
                         {
-                           "url": "http://www.cse.chalmers.se/research/group/logic/book/",
+                           "url": "https://www.cse.chalmers.se/research/group/logic/book/",
                            "title": "Programming in Martin-Löf's Type Theory",
                            "author": "Bengt Nordstroem"
                         },
                         {
-                           "url": "http://cs.brown.edu/~sk/Publications/Books/ProgLangs/",
+                           "url": "https://cs.brown.edu/~sk/Publications/Books/ProgLangs/",
                            "title": "Programming Languages: Application and Interpretation (2nd Edition)",
                            "author": "Shriram Krishnamurthi"
                         },
@@ -30460,7 +30447,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf",
+                           "url": "https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf",
                            "title": "Semantics with Applications: A Formal Introduction",
                            "author": "Hanne Riis Nielson, Flemming Nielson",
                            "notes": [
@@ -30479,12 +30466,12 @@
                            "author": "Daniel Miessler"
                         },
                         {
-                           "url": "http://marklodato.github.io/visual-git-guide/index-en.html",
+                           "url": "https://marklodato.github.io/visual-git-guide/index-en.html",
                            "title": "A Visual Git Reference",
                            "author": "Mark Lodato"
                         },
                         {
-                           "url": "http://blog.anvard.org/conversational-git/",
+                           "url": "https://blog.anvard.org/conversational-git/",
                            "title": "Conversational Git",
                            "author": "Alan Hohn"
                         },
@@ -30497,7 +30484,7 @@
                            ]
                         },
                         {
-                           "url": "http://rogerdudler.github.io/git-guide/",
+                           "url": "https://rogerdudler.github.io/git-guide/",
                            "title": "git - the simple guide",
                            "author": "Roger Dudler",
                            "notes": [
@@ -30513,7 +30500,7 @@
                            ]
                         },
                         {
-                           "url": "http://eagain.net/articles/git-for-computer-scientists/",
+                           "url": "https://eagain.net/articles/git-for-computer-scientists/",
                            "title": "Git for Computer Scientists",
                            "author": "Tommi Virtanen"
                         },
@@ -30523,7 +30510,7 @@
                            "author": "J. Wiegley"
                         },
                         {
-                           "url": "http://gitimmersion.com",
+                           "url": "https://gitimmersion.com",
                            "title": "Git Immersion",
                            "author": "Jim Weirich",
                            "notes": [
@@ -30531,7 +30518,7 @@
                            ]
                         },
                         {
-                           "url": "http://cbx33.github.io/gitt/index.html",
+                           "url": "https://cbx33.github.io/gitt/index.html",
                            "title": "Git In The Trenches",
                            "author": "Peter Savage"
                         },
@@ -30552,7 +30539,7 @@
                            ]
                         },
                         {
-                           "url": "http://goalkicker.com/GitBook",
+                           "url": "https://goalkicker.com/GitBook",
                            "title": "Git Notes for Professionals",
                            "author": "Compiled from StackOverflow Documentation",
                            "notes": [
@@ -30619,7 +30606,7 @@
                            "author": "Launch School"
                         },
                         {
-                           "url": "http://cse.unl.edu/~cbourke/gitTutorial.pdf",
+                           "url": "https://cse.unl.edu/~cbourke/gitTutorial.pdf",
                            "title": "Introduction to Git and Github - Tutorial",
                            "author": "Dr. Chris Bourke",
                            "notes": [
@@ -30635,7 +30622,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.git-tower.com/learn/git/ebook/command-line/introduction",
+                           "url": "https://www.git-tower.com/learn/git/ebook/command-line/introduction",
                            "title": "Learn Git - Learn Version Control with Git",
                            "author": "Tobias Günther"
                         },
@@ -30650,7 +30637,7 @@
                            "author": "Bryan O'Sullivan"
                         },
                         {
-                           "url": "http://git-scm.com/book/en/",
+                           "url": "https://git-scm.com/book/en/",
                            "title": "Pro Git",
                            "author": "Scott Chacon, Ben Straub",
                            "notes": [
@@ -30669,7 +30656,7 @@
                            "accessNotes": ":card_file_box: archived"
                         },
                         {
-                           "url": "http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf",
+                           "url": "https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf",
                            "title": "Subversion Version Control",
                            "author": "William Nagel",
                            "notes": [
@@ -30677,7 +30664,7 @@
                            ]
                         },
                         {
-                           "url": "http://think-like-a-git.net",
+                           "url": "https://think-like-a-git.net",
                            "title": "Think Like (a) Git: A Guide for the Perplexed",
                            "author": "Sam Livingston-Gray"
                         },
@@ -30693,12 +30680,12 @@
                      "section": "Web Performance",
                      "entries": [
                         {
-                           "url": "http://www.bookofspeed.com",
+                           "url": "https://www.bookofspeed.com",
                            "title": "Book of Speed",
                            "author": "Stoyan Stefanov"
                         },
                         {
-                           "url": "http://designingforperformance.com",
+                           "url": "https://designingforperformance.com",
                            "title": "Designing for Performance",
                            "author": "Lara Hogan"
                         },
@@ -30717,7 +30704,7 @@
                            "author": "Ilya Grigorik"
                         },
                         {
-                           "url": "http://carlos.bueno.org/optimization/mature-optimization.pdf",
+                           "url": "https://carlos.bueno.org/optimization/mature-optimization.pdf",
                            "title": "Mature Optimization",
                            "author": "Carlos Bueno",
                            "notes": [
@@ -40516,6 +40503,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5",
                            "title": "Chapter 1 : Kotlin Basic Concepts Bangla",
                            "author": "Stack Learner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr",
+                           "title": "Kotlin For Android - Bangla",
+                           "author": "Touhid Apps!"
                         }
                      ],
                      "subsections": []
@@ -43742,6 +43734,14 @@
                            "title": "Git and GitHub for Poets"
                         },
                         {
+                           "url": "https://www.udemy.com/course/git-expert-4-hours/",
+                           "title": "Git: Become an Expert in Git & GitHub in 4 Hours",
+                           "author": "Jad Khalili",
+                           "notes": [
+                              "Udemy"
+                           ]
+                        },
+                        {
                            "url": "https://www.eduonix.com/git-for-beginners",
                            "title": "GIT for beginners",
                            "author": "Maksym Rudnyi",
@@ -44122,7 +44122,7 @@
                         {
                            "url": "https://www.codecademy.com/learn/learn-css",
                            "title": "Learn CSS",
-                           "author": "codecademy"
+                           "author": "Codecademy"
                         },
                         {
                            "url": "https://www.learnhowtoprogram.com/css",
@@ -44132,7 +44132,7 @@
                         {
                            "url": "https://www.codecademy.com/learn/learn-html",
                            "title": "Learn HTML",
-                           "author": "codecademy"
+                           "author": "Codecademy"
                         },
                         {
                            "url": "https://www.bitdegree.org/courses/coding-for-beginners-space-doggos",
@@ -44668,6 +44668,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+                           "title": "JavaScript Algorithms and Data Structures",
+                           "author": "freecodecamp"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2",
                            "title": "JavaScript Array Methods",
                            "author": "Florin Pop"
@@ -44693,6 +44698,14 @@
                            "author": "Lawrence Turton",
                            "notes": [
                               "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.netacad.com/courses/programming/javascript-essentials-1",
+                           "title": "Javascript Essentials 1 (JSE)",
+                           "author": "",
+                           "notes": [
+                              "Cisco Networking Academy"
                            ]
                         },
                         {
@@ -45567,6 +45580,11 @@
                                  "title": "Nuxt.js Fundamentals"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PL_euSNU_eLbedoBv-RllKj_f2Yh--91nZ",
+                                 "title": "VUE JS 3 Complete Course Tutorial",
+                                 "author": "Leela Web Dev"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f",
                                  "title": "Vue JS 3 Tutorial for Beginners",
                                  "author": "Vishwas Gopinath",
@@ -45955,6 +45973,11 @@
                            "url": "https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN",
                            "title": "Machine Learning — Andrew Ng, Stanford University",
                            "author": "Andrew Ng"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I",
+                           "title": "Machine Learning Course With Python",
+                           "author": "Siddhardhan"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal",
@@ -46608,7 +46631,8 @@
                         },
                         {
                            "url": "https://www.codecademy.com/learn/python",
-                           "title": "Learn to program in Python"
+                           "title": "Learn to program in Python",
+                           "author": "Codecademy"
                         },
                         {
                            "url": "https://www.coursera.org/learn/learn-to-program",
@@ -46733,7 +46757,7 @@
                         {
                            "url": "https://www.codecademy.com/learn/python-for-programmers",
                            "title": "Python for Programmers",
-                           "author": "codecademy"
+                           "author": "Codecademy"
                         },
                         {
                            "url": "https://open.cs.uwaterloo.ca/python-from-scratch/",
@@ -47106,6 +47130,11 @@
                         {
                            "url": "https://www.learnrubyonline.org",
                            "title": "Learn Ruby"
+                        },
+                        {
+                           "url": "https://www.codecademy.com/learn/learn-ruby",
+                           "title": "Learn Ruby",
+                           "author": "Codecademy"
                         },
                         {
                            "url": "https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/",
@@ -50035,6 +50064,11 @@
                            "author": "Pepcoding"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&si=S_MRPF7yyupBUCC6",
+                           "title": "Linked List - Level 1",
+                           "author": "Pepcoding"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs",
                            "title": "Recursion & Backtracking - Level 1",
                            "author": "Pepcoding"
@@ -50060,7 +50094,33 @@
                            "author": "Pepcoding"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Soft Computing",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-",
+                                 "title": "Application of soft computing",
+                                 "author": "LS Academy for Technical Education"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9",
+                                 "title": "Introduction To Soft Computing",
+                                 "author": "Computer Science and Engineering"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg",
+                                 "title": "Soft Computing | University exams specific",
+                                 "author": "Er Sahil ka Gyan"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw",
+                                 "title": "Soft Computing And Optimization Algorithms",
+                                 "author": "5 Minutes Engineering"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Android",
@@ -50128,9 +50188,19 @@
                      "section": "Arduino",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/watch?v=KOa1aVijhao",
+                           "title": "Arduino Programming In Hindi (Full Playlist)",
+                           "author": "SBS online classes"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM",
                            "title": "Arduino Programming Series (हिंदी में)",
                            "author": "Engineers & Electronics"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s",
+                           "title": "Complete Arduino Tutorial Learn Arduino Programming in Hindi",
+                           "author": "Techtalks With Vivek"
                         }
                      ],
                      "subsections": []
@@ -50435,6 +50505,11 @@
                            "author": "Abhishek Sharma"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL23dd-8zssJBiyntds3X1sVWUDeb0Aa1N",
+                           "title": "Compiler Design",
+                           "author": "Start Practicing"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc",
                            "title": "Compiler Design (Complete Playlist)",
                            "author": "Gate Smashers"
@@ -50659,6 +50734,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl",
                            "title": "Figma Tutorial In Hindi 2022",
                            "author": "Thapa Technical"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLuou2gyfaGEud03tcppC1ofbYIcIEwKfm",
+                           "title": "Figma Tutorials",
+                           "author": "Nikhil Pawar"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLt7HkDVHvsa4Nf5qrXG6ozK3ZPTvNe__v",
@@ -50911,6 +50991,11 @@
                         {
                            "section": "Tailwind CSS",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfpwYhVAbiGAhFl6h8XWDV_",
+                                 "title": "Tailwind CSS Complete Course - CSS Framework [Hindi] - Beginner to Advanced",
+                                 "author": "WsCube Tech"
+                              },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO",
                                  "title": "Tailwind css hindi",
@@ -51359,6 +51444,11 @@
                            "author": "Cheezy Code"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLUhfM8afLE_MXuRUfgm1g-qDuBRD1pxPG",
+                           "title": "Kotlin for Beginners in Hindi",
+                           "author": "Neat Roots"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=uoP4JKHgzDE",
                            "title": "Kotlin Programming Complete in one Video (Hindi)",
                            "author": "Geeky Shows,"
@@ -51478,6 +51568,11 @@
                      "section": "Matlab",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL6G0RjixRx3xgzxqjRdZIoLLpzhyLFTXk",
+                           "title": "MATLAB (HINDI) Tutorial Series",
+                           "author": "WittyRobo"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=iS5J4TlLSEM",
                            "title": "Matlab Complete Course",
                            "author": "Armughan Ali"
@@ -51494,8 +51589,17 @@
                      "section": "Mongo DB",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/watch?v=rU9ZODw5yvU",
+                           "title": "MongoDB Complete Course Tutorial in Hindi",
+                           "author": "Vinod Bahadur Thapa",
+                           "notes": [
+                              "Thapa Technical"
+                           ]
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa",
-                           "title": "Mongo DB full course for beginners"
+                           "title": "MongoDB full course for beginners",
+                           "author": "Thapa Technical"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1&si=4Je3O9WkMYMu9cWO",
@@ -51506,6 +51610,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92xUxpTFgAOSBHdBwIdxav39",
                            "title": "MongoDB Tutorial for Beginners (Hindi)",
                            "author": "CS Geeks"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=J6mDkcqU_ZE",
+                           "title": "MongoDB Tutorial in 1 Hour (2023)",
+                           "author": "CodeWithHarry"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX",
@@ -51740,6 +51849,11 @@
                            "author": "CodeWithHarry"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=FStwWUkW5RQ&list=PLnSDvcENZlwAcFgFLD5bzt5Zh428yzQXT",
+                           "title": "Python Tutorial For Beginners in Hindi",
+                           "author": "Micro Solution"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX",
                            "title": "Python Tutorial in Hindi",
                            "author": "edureka! Hindi"
@@ -51939,6 +52053,11 @@
                   {
                      "section": "Swift",
                      "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLtCBuHKmdxOd9kxsru5t_MFvDj5o5GdDl",
+                           "title": "Swift Programming For IOS From Scratch",
+                           "author": "Fahad Hussain"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6",
                            "title": "Swift Programming Hindi Tutorial For Beginners",
@@ -60316,6 +60435,37 @@
             },
             {
                "language": {
+                  "code": "ur",
+                  "name": "Urdu"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "<a id=\"csharp\">",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc",
+                           "title": "C# Tutorials In Urdu/Hindi",
+                           "author": "ProgramInUrdu"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "HTML and CSS",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLUyYwyJA_WfTr3YWWJ41_V7TrRZoq6cBT",
+                           "title": "HTML5 & CSS3 Tutorials In Urdu and Hindi",
+                           "author": "ProgramInUrdu"
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "vi",
                   "name": "Vietnamese"
                },
@@ -64748,6 +64898,17 @@
                            "url": "https://overthewire.org",
                            "title": "OverTheWire",
                            "author": "OverTheWire"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Bash",
+                     "entries": [
+                        {
+                           "url": "https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html",
+                           "title": "Terminus",
+                           "author": "MIT"
                         }
                      ],
                      "subsections": []
