@@ -6650,7 +6650,7 @@
                      "section": "Pemrograman Kompetitif",
                      "entries": [
                         {
-                           "url": "https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf",
+                           "url": "https://osn.toki.id/data/pemrograman-kompetitif-dasar.pdf",
                            "title": "Pemrograman Kompetitif Dasar",
                            "author": "William Gozali, Alham Fikri Aji",
                            "notes": [
@@ -13450,8 +13450,9 @@
                      "section": "Go",
                      "entries": [
                         {
-                           "url": "http://www.golang-book.com",
-                           "title": "An Introduction to Programming in Go"
+                           "url": "https://www.golang-book.com/books/intro",
+                           "title": "An Introduction to Programming in Go",
+                           "author": "Caleb Doxsey"
                         },
                         {
                            "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/",
@@ -15128,14 +15129,6 @@
                            ]
                         },
                         {
-                           "url": "http://jqfundamentals.com",
-                           "title": "jQuery Fundamentals",
-                           "author": "Bocoup",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
                            "url": "https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf",
                            "title": "JS Robots",
                            "author": "Mark Daggett",
@@ -15354,14 +15347,6 @@
                                  "url": "https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md",
                                  "title": "Angular 1 Style Guide",
                                  "author": "John Papa",
-                                 "notes": [
-                                    "HTML"
-                                 ]
-                              },
-                              {
-                                 "url": "http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html",
-                                 "title": "Angular for the jQuery developer",
-                                 "author": "ng-newsletter, Ari Lerner, David Wu, Nate Murray",
                                  "notes": [
                                     "HTML"
                                  ]
@@ -39854,17 +39839,6 @@
                "index": {},
                "sections": [
                   {
-                     "section": "Android",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLjsqymUqgpSTXtlngZCXRHEp8-FmDHHfL",
-                           "title": "Въведение в Андроид",
-                           "author": "Иван Ванков"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "PHP",
                      "entries": [
                         {
@@ -43824,6 +43798,11 @@
                            "author": "ProgrammingKnowledge"
                         },
                         {
+                           "url": "https://www.geeksforgeeks.org/golang/",
+                           "title": "Golang",
+                           "author": "GeeksforGeeks"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w",
                            "title": "Golang | Gin HTTP Framework",
                            "author": "Pragmatic Reviews"
@@ -43837,11 +43816,6 @@
                            "url": "https://www.youtube.com/watch?v=N0fIANJkwic",
                            "title": "Golang in under an hour",
                            "author": "Eli Goldberg"
-                        },
-                        {
-                           "url": "https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/",
-                           "title": "Golang Tutorial - Learn Go Programming Language",
-                           "author": "GeeksforGeeks"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=yyUHQIec83I",
@@ -51739,6 +51713,42 @@
                      "subsections": []
                   },
                   {
+                     "section": "CodeIgniter",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL8kfzPha-e2iC8cT79hd5hCVffkbW309d",
+                           "title": "Codeigniter 4 Tutorial For Beginners in Hindi",
+                           "author": "Ubk InfoTech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLolI8AY2AS9ZmTeMOpu1iTOsx9WALtCgM",
+                           "title": "Codeigniter 4 Tutorial in Hindi",
+                           "author": "Code Improve"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL4_As-_ROQH2OIE5uILfodqSNQzUfAqFs",
+                           "title": "Codeigniter 4 Tutorial in Hindi",
+                           "author": "Cs Krish"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG",
+                           "title": "CodeIgniter 4 Tutorials for Beginners",
+                           "author": "GoPHP"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_HlKez9XCSM6WNO_dHhF3yPKVdY1ZZzB",
+                           "title": "Codeigniter Tutorial for Beginners Step by Step in Hindi",
+                           "author": "Technical Suneja"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLn1Gr7zhiAMfWpSYfDgND8t7KjiqSaEum",
+                           "title": "Learn CodeIgniter 4 Framework Tutorials Hindi",
+                           "author": "Online Web Tutor"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Laravel",
                      "entries": [
                         {
@@ -59171,6 +59181,11 @@
                            "author": "CS in Tamil"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm",
+                           "title": "Python Programming Tutorial Series - In Tamil - You can become a Python Developer.",
+                           "author": "Error Makes Clever Academy"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp",
                            "title": "Python Tutorial in Tamil",
                            "author": "SANTRA TECHSPOT"
@@ -59181,6 +59196,11 @@
                   {
                      "section": "R",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpdmBGJ6ELUJr9cRrFPDAqGBXj5ge13h3",
+                           "title": "Learn R Programming for Data Science in Tamil",
+                           "author": "1Little coder"
+                        },
                         {
                            "url": "https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC",
                            "title": "R Tutorial in Tamil",
@@ -59229,6 +59249,11 @@
                   {
                      "section": "SQL",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsphD3EpR7F-u4Jjp_3fYgLSsKwPPTEH4",
+                           "title": "Oracle SQL - தமிழில்",
+                           "author": "NIC IT Academy"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm",
                            "title": "SQL in Tamil (தமிழில் SQL)",
@@ -62144,6 +62169,11 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://tailwindcomponents.com/cheatsheet",
+                           "title": "Tailwind CSS Cheat Sheet",
+                           "author": "Tailwind Components"
                         }
                      ],
                      "subsections": []
