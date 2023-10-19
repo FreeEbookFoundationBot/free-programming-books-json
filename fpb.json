@@ -4975,6 +4975,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Go",
+                     "entries": [
+                        {
+                           "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/",
+                           "title": "Développer une application Web en Go",
+                           "author": "astaxie"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -13456,7 +13467,8 @@
                         },
                         {
                            "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/",
-                           "title": "Build Web Application with Golang"
+                           "title": "Build Web Application with Golang",
+                           "author": "astaxie"
                         },
                         {
                            "url": "https://codegangsta.gitbooks.io/building-web-apps-with-go/content/",
@@ -14279,6 +14291,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://codewithchris.com/xcode-tutorial",
+                           "title": "Xcode Tutorial for Beginners",
+                           "author": "Chris Ching"
                         }
                      ],
                      "subsections": []
@@ -17001,6 +17018,14 @@
                            "url": "https://www.programming-books.io/essential/mysql/",
                            "title": "Essential MySQL",
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                        },
+                        {
+                           "url": "https://riptutorial.com/Download/mysql.pdf",
+                           "title": "Learning MySQL",
+                           "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html",
@@ -20769,6 +20794,14 @@
                            ]
                         },
                         {
+                           "url": "https://riptutorial.com/Download/sql.pdf",
+                           "title": "Learning SQL",
+                           "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf",
                            "title": "Oracle Database Notes for Professionals",
                            "notes": [
@@ -20894,6 +20927,14 @@
                         {
                            "url": "http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx",
                            "title": "Introducing Microsoft SQL Server 2014"
+                        },
+                        {
+                           "url": "https://riptutorial.com/Download/microsoft-sql-server.pdf",
+                           "title": "Learning Microsoft SQL Server",
+                           "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://www.red-gate.com/community/books/mastering-sql-server-profiler",
@@ -23139,6 +23180,11 @@
                            "url": "https://larien.gitbook.io/aprenda-go-com-testes",
                            "title": "Aprenda Go com Testes",
                            "author": "Lauren Ferreira"
+                        },
+                        {
+                           "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/",
+                           "title": "Construindo Aplicações Web em Golang",
+                           "author": "astaxie"
                         },
                         {
                            "url": "https://github.com/go-br/estudos",
@@ -26063,6 +26109,14 @@
                            "author": "Wikibooks"
                         },
                         {
+                           "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf",
+                           "title": "Algorithms",
+                           "author": "Jeff Erickson",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://algs4.cs.princeton.edu/home/",
                            "title": "Algorithms, 4th Edition",
                            "author": "Robert Sedgewick, Kevin Wayne"
@@ -26292,6 +26346,14 @@
                   {
                      "section": "Artificial Intelligence",
                      "entries": [
+                        {
+                           "url": "https://www2.ed.gov/documents/ai-report/ai-report.pdf",
+                           "title": "Artificial Intelligence and the Future for Teaching and Learning",
+                           "author": "Office of Educational Technology",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://link.springer.com/book/10.1007/978-3-030-69978-9",
                            "title": "Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies",
@@ -26777,6 +26839,14 @@
                            "url": "https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf",
                            "title": "Computational Thinking",
                            "author": "Jeannette Wing, Carnegie-Mellon University",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf",
+                           "title": "Computer Science Class XI",
+                           "author": "CBSE",
                            "notes": [
                               "PDF"
                            ]
@@ -27354,7 +27424,7 @@
                            "author": "Michael Murphy"
                         },
                         {
-                           "url": "https://aaronerhardt.github.io/relm4-book/book/",
+                           "url": "https://relm4.org/book/stable/",
                            "title": "GUI development with Relm4",
                            "author": "Aaron Erhardt"
                         },
@@ -32656,8 +32726,9 @@
                            ]
                         },
                         {
-                           "url": "https://github.com/astaxie/build-web-application-with-golang",
-                           "title": "Go Web 编程"
+                           "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/",
+                           "title": "Go Web 编程",
+                           "author": "astaxie"
                         },
                         {
                            "url": "https://github.com/astaxie/go-best-practice",
@@ -43309,6 +43380,11 @@
                      "section": "Docker",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/watch?v=RqTEHSBrYFw",
+                           "title": "Complete Docker Course - From BEGINNER to PRO!",
+                           "author": "DevOps Directive"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/deploying-containerized-applications-technical-overview",
                            "title": "Deploying Containerized Applications Technical Overview",
                            "author": "Red Hat"
@@ -44493,6 +44569,14 @@
                            "url": "https://www.programiz.com/java-programming",
                            "title": "Learn Java Programming",
                            "author": "Programiz"
+                        },
+                        {
+                           "url": "https://www.udemy.com/course/learn-java-programming-a/",
+                           "title": "Learn Java Programming - Java for Testers and Developers",
+                           "author": "Pavan Kumar",
+                           "notes": [
+                              "Udemy"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1",
@@ -47142,6 +47226,11 @@
                      "section": "Rust",
                      "entries": [
                         {
+                           "url": "https://google.github.io/comprehensive-rust/index.html",
+                           "title": "Comprehensive Rust",
+                           "author": "Google"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW",
                            "title": "Intro to Rust",
                            "author": "Tensor Programming"
@@ -47290,6 +47379,11 @@
                            ]
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47",
+                           "title": "Full Length Hacking Courses",
+                           "author": "The Cyber Mentor"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency",
                            "title": "Introduction to Dark Web, Anonymity and Cryptocurrency",
                            "author": "Rajneesh Gupta",
@@ -47327,9 +47421,24 @@
                            "author": "RPISEC"
                         },
                         {
+                           "url": "https://cybersecuritybase.mooc.fi",
+                           "title": "MOOC Introduction to Cyber Security 2023",
+                           "author": "University of Helsinki"
+                        },
+                        {
+                           "url": "https://guyinatuxedo.github.io/index.html",
+                           "title": "Nightmare",
+                           "author": "guyinatuxedo"
+                        },
+                        {
                            "url": "https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/",
                            "title": "Professor Messer’s SY0-601 CompTIA Security+ Course",
                            "author": "Professor Messer"
+                        },
+                        {
+                           "url": "https://0xinfection.github.io/reversing",
+                           "title": "Reverse Engineering For Everyone!",
+                           "author": "mytechnotalent"
                         },
                         {
                            "url": "https://www.coursera.org/course/crypto",
@@ -50880,6 +50989,11 @@
                      "section": "HTML and CSS",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD",
+                           "title": "Complete Web Dev using mern stack Love Babbar",
+                           "author": "Love Babbar"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=WyxzAU3p8CE",
                            "title": "CSS Tutorial in Hindi | Complete CSS Course For Beginners to Advanced | Step By Step Tutorial",
                            "author": "Vishwajeet Kumar",
@@ -53751,6 +53865,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t",
                            "title": "C++ libreria QT - playlist 1",
                            "author": "Fabrizio Camuso"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP85m_fZy3TkWqB_8Zt5Q5aK",
+                           "title": "Corso C++ 2023",
+                           "author": "Edoardo Midali"
                         }
                      ],
                      "subsections": []
@@ -55529,6 +55648,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLDavEIls6jrsC9EEox1WWvOlktDJcEUo6",
                                  "title": "Bootstrap Malayalam Tutorials",
                                  "author": "Malayalam Tutorials"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Z1WBeTYPOp--cI5tnztgjG5lRSPHJrL",
+                                 "title": "Learn Bootstrap in malayalam",
+                                 "author": "Aks Programming"
                               }
                            ]
                         }
@@ -55829,6 +55953,22 @@
                            ]
                         }
                      ]
+                  },
+                  {
+                     "section": "Security",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu",
+                           "title": "Cyber Security Tutorial Malayalam | Ethical Hacking Courses for IT Career",
+                           "author": "RootSaid - Robotics, Technology & Cyber Security"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI",
+                           "title": "Security Fundamentals",
+                           "author": "Cyber Security Malayalam"
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -59106,6 +59246,22 @@
                            "url": "https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM",
                            "title": "Machine Learning in Tamil",
                            "author": "Nithya Duraisamy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL-1QQC56x1gEgj8C4L2hw5orryqgdnuoP",
+                           "title": "Machine Learning with Python and R",
+                           "author": "Data Science Alive"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "MongoDB",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7BQ4lqtgECRiWoThupyKXRQoDuEV2zy5",
+                           "title": "MongoDB Course in Tamil",
+                           "author": "JVL Code"
                         }
                      ],
                      "subsections": []
@@ -59113,6 +59269,11 @@
                   {
                      "section": "Node JS",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLla-GdVgzZZV-z0Gxc7rkrV4cuqYSNZMy",
+                           "title": "Node JS in 3 Hours",
+                           "author": "Balachandra"
+                        },
                         {
                            "url": "https://youtube.com/playlist?list=PLDVMunJ3DBrNAZtl0cJiNytPE2-8MAmoc&si=z23m0cL3jA7J50f9",
                            "title": "Node JS in Tamil",
@@ -59169,6 +59330,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO",
                            "title": "Python DJango in Tamil - Full Course",
                            "author": "Payilagam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm",
+                           "title": "Python Full Course Tamil",
+                           "author": "Error Makes Clever Academy"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb",
@@ -59231,6 +59397,22 @@
                            "url": "https://youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ&si=ZNop81SRBf9eTGvK",
                            "title": "React JS Tutorial Tamil",
                            "author": "VJ Techno Wizard"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Rust",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_u9j2nFGtodQkcD1K6TqEciRzIi7DFip",
+                           "title": "Rust basics",
+                           "author": "Introverted Techie"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdIzVVjNvusSYhqEH2_fPFtcVZEAlVs4Q",
+                           "title": "Rust Beginner to Advanced Tamil",
+                           "author": "Immanuel John"
                         }
                      ],
                      "subsections": []
@@ -62235,6 +62417,14 @@
                            ]
                         },
                         {
+                           "url": "https://vim.rtorr.com",
+                           "title": "Vim Cheat Sheet",
+                           "author": "Richard Torruellas",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://devhints.io/vim",
                            "title": "Vim Cheatsheet",
                            "author": "Devhints, Rico Santa Cruz",
@@ -62326,6 +62516,14 @@
                   {
                      "section": "JavaScript",
                      "entries": [
+                        {
+                           "url": "https://github.com/wilfredinni/javascript-cheatsheet",
+                           "title": "JavaScript CheatSheet",
+                           "author": "Wilfredinni",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet",
                            "title": "JavaScript Cheatsheet",
@@ -62720,6 +62918,14 @@
                      "section": "PyTorch",
                      "entries": [
                         {
+                           "url": "https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch",
+                           "title": "Deep Learning with PyTorch Cheat Sheet",
+                           "author": "Richie Cotton",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf",
                            "title": "PyTorch Framework Cheat Sheet",
                            "author": "Simon Wenkel",
@@ -62821,6 +63027,14 @@
                            "author": "WebsiteSetup",
                            "notes": [
                               "HTML, PDF, PNG"
+                           ]
+                        },
+                        {
+                           "url": "https://www.pythoncheatsheet.org",
+                           "title": "Python Cheat Sheet",
+                           "author": "Wilfredinni",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -62967,6 +63181,27 @@
                                  "url": "https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet",
                                  "title": "Pandas, Numpy, Python Cheatsheet",
                                  "author": "Kaggle",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "PySpark",
+                           "entries": [
+                              {
+                                 "url": "https://github.com/kevinschaich/pyspark-cheatsheet",
+                                 "title": "PySpark Cheat Sheet",
+                                 "author": "Kevin Schaich",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python",
+                                 "title": "PySpark Cheat Sheet: Spark in Python",
+                                 "author": "DataCamp",
                                  "notes": [
                                     "HTML"
                                  ]
