@@ -23293,6 +23293,14 @@
                            ]
                         },
                         {
+                           "url": "https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf",
+                           "title": "Java Básico e Oriêntação a Objeto",
+                           "author": "Clayton Escouper das Chagas, Cássia Blondet Baruque, Lúcia Blondet Baruque",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://www.caelum.com.br/apostila-java-orientacao-objetos/",
                            "title": "Java e Orientação a Objetos",
                            "author": "Caelum"
@@ -26852,6 +26860,14 @@
                            ]
                         },
                         {
+                           "url": "https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf",
+                           "title": "Computer Science Class XII",
+                           "author": "CBSE",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf",
                            "title": "Computer Science I",
                            "author": "Chris Bourke",
@@ -26874,6 +26890,10 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://scs.tl/book-pr",
+                           "title": "Pull Requests and Code Review"
                         },
                         {
                            "url": "https://leanpub.com/whattolookforinacodereview",
@@ -34102,6 +34122,14 @@
                            "author": "Asbjørn Thirslund",
                            "notes": [
                               "screencast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL3bCPMOBNeGwG1fkIs6FCF7_jpeVgQLS0",
+                           "title": "Keep Coding Podcast",
+                           "author": "Nick Chapsas",
+                           "notes": [
+                              "podcast"
                            ]
                         }
                      ],
@@ -42052,6 +42080,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe",
+                           "title": "C tutorial for beginners",
+                           "author": "Bro Code"
+                        },
+                        {
                            "url": "https://www.programiz.com/c-programming",
                            "title": "Learn C Programming",
                            "author": "Programiz",
@@ -45792,6 +45825,11 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://kotlinlang.org/education/",
+                           "title": "Teach Computer Science with Kotlin",
+                           "author": "Kotlin"
                         },
                         {
                            "url": "https://hyperskill.org/tracks/18",
@@ -50117,6 +50155,11 @@
                            "author": "CodeWithHarry"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy",
+                           "title": "Data Structures and Algorithms for GATE — Complete Playlist",
+                           "author": "Gate CSE lectures by Amit Khurana"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1",
                            "title": "Data Structures and Algorithms in Python",
                            "author": "Jovian"
@@ -50845,6 +50888,11 @@
                            "author": "CODERS NEVER QUIT"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN",
+                           "title": "Flutter App Development",
+                           "author": "Code With Dhruv"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E",
                            "title": "Flutter Complete Tutorial in Hindi",
                            "author": "WsCube Tech"
@@ -50927,6 +50975,11 @@
                            "author": "CodeWithHarry"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PL5P8NPoF-nn8LFPLjJemBTVI_KsLo0VC1&si=U94-O5hr4Im0hI85",
+                           "title": "Git & Github",
+                           "author": "Rahul Singh"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=gwWKnnCMQ5c",
                            "title": "Git & GitHub Tutorial For Beginners In Hindi",
                            "author": "CodeWithHarry"
@@ -50962,6 +51015,11 @@
                   {
                      "section": "Golang",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL8fnAiiuQeFtg3ztGNquEb4Oh-WZxVPUv",
+                           "title": "Go Lang Tutorials for Beginners in Depth",
+                           "author": "Go Guru"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL45_xGOyv4bk55CMmqH6S6vvnwKD8qifD",
                            "title": "Go Lang Tutorials in HINDI",
@@ -51404,6 +51462,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL",
                                  "title": "React JS (Hindi)",
                                  "author": "Rajesh Kumar, Geeky Shows"
+                              },
+                              {
+                                 "url": "https://youtube.com/playlist?list=PLt5mNkGuWcuWSUHxSzWP74IU9U4BTVLt0",
+                                 "title": "React JS Course 2023",
+                                 "author": "6 Pack Programmer"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh",
@@ -53780,6 +53843,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS",
                            "title": "Algoritmi e Programmazione (C)",
                            "author": "P. Camurati, G. Cabodi, Politecnico di Torino"
+                        },
+                        {
+                           "url": "",
+                           "title": "Algoritmi e Strutture Dati",
+                           "author": "A. Montresor, Università di Trento"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY",
@@ -56843,14 +56911,14 @@
                      "section": "Elixir",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR",
-                           "title": "Curso de Elixir",
-                           "author": "ELLY ACADEMY"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD",
                            "title": "Curso de Elixir Alquimia",
                            "author": "Alquimia Stone"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9",
+                           "title": "Elixir (Linguagem de Programação)",
+                           "author": "Elly Academy"
                         }
                      ],
                      "subsections": []
@@ -60648,6 +60716,17 @@
                "index": {},
                "sections": [
                   {
+                     "section": "<a id=\"cplusplus\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh",
+                           "title": "Programming Fundamentals With C++ Complete Course In urdu | Hindi",
+                           "author": "Kacs Learnings"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"csharp\">",
                      "entries": [
                         {
@@ -60659,7 +60738,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "HTML and CSS",
+                     "section": "<a id=\"html-and-css\">",
                      "entries": [
                         {
                            "url": "https://youtube.com/playlist?list=PLUyYwyJA_WfTr3YWWJ41_V7TrRZoq6cBT",
@@ -60856,6 +60935,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU",
                            "title": "C# Nâng Cao",
                            "author": "Kteam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwJr0JSP7i8BERdErX9Ird67xTflZkxb-",
+                           "title": "Lập trình C# - NET Core",
+                           "author": "XuanThuLab"
                         },
                         {
                            "url": "https://tedu.com.vn/khoa-hoc/lap-trinh-c-toan-tap-cho-nguoi-moi-bat-dau-46.html",
@@ -65816,6 +65900,11 @@
                            ]
                         },
                         {
+                           "url": "https://regexper.com",
+                           "title": "Regexper",
+                           "author": "Jeff Avallone"
+                        },
+                        {
                            "url": "https://regexr.com",
                            "title": "RegExr: Learn, Build, & Test RegEx",
                            "author": "GSkinner Inc."
@@ -65989,6 +66078,22 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "Vim",
+                     "entries": [
+                        {
+                           "url": "https://vim-adventures.com",
+                           "title": "Vim Adventure",
+                           "author": "Doron Linder"
+                        },
+                        {
+                           "url": "http://vimgenius.com",
+                           "title": "Vim Genius",
+                           "author": "Vic Ramon, Rye Mason"
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -66132,10 +66237,6 @@
                            "title": "Meta Hackercup"
                         },
                         {
-                           "url": "https://microcorruption.com/login",
-                           "title": "Microcorruption"
-                        },
-                        {
                            "url": "https://my.newtonschool.co/contest/all",
                            "title": "Newton School"
                         },
@@ -66178,11 +66279,19 @@
                      "section": "Capture the flag",
                      "entries": [
                         {
+                           "url": "https://angstromctf.com",
+                           "title": "ångstromCTF"
+                        },
+                        {
                            "url": "https://ctflearn.com",
                            "title": "CTFlearn",
                            "notes": [
                               "email address *requested*"
                            ]
+                        },
+                        {
+                           "url": "https://ctftime.org",
+                           "title": "CTFtime"
                         },
                         {
                            "url": "https://capturetheflag.withgoogle.com",
@@ -66211,6 +66320,14 @@
                            "notes": [
                               "email address *requested*"
                            ]
+                        },
+                        {
+                           "url": "https://inctf.in",
+                           "title": "InCTF"
+                        },
+                        {
+                           "url": "https://microcorruption.com/login",
+                           "title": "Microcorruption"
                         },
                         {
                            "url": "https://overthewire.org/wargames/bandit",
@@ -66270,28 +66387,6 @@
                            "url": "https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free",
                            "title": "Frontend Mentor",
                            "accessNotes": "email address requested"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Information security",
-                     "entries": [
-                        {
-                           "url": "https://angstromctf.com",
-                           "title": "ångstromCTF"
-                        },
-                        {
-                           "url": "https://ctftime.org",
-                           "title": "CTFtime"
-                        },
-                        {
-                           "url": "https://ctf.hacker101.com",
-                           "title": "Hacker101"
-                        },
-                        {
-                           "url": "https://inctf.in",
-                           "title": "InCTF"
                         }
                      ],
                      "subsections": []
