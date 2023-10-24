@@ -13490,6 +13490,14 @@
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
                         },
                         {
+                           "url": "https://essentials-of-go-programming.readthedocs.io",
+                           "title": "Essentials of Go Programming",
+                           "author": "Baiju Muthukadan",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://chenyitian.gitbooks.io/gin-web-framework/content/",
                            "title": "Gin Web Framework"
                         },
@@ -27977,9 +27985,12 @@
                            ]
                         },
                         {
-                           "url": "http://math.sfsu.edu/beck/complex.html",
+                           "url": "https://matthbeck.github.io/papers/complexorth.pdf",
                            "title": "A First Course in Complex Analysis",
-                           "author": "Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka"
+                           "author": "Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://linear.ups.edu",
@@ -29776,6 +29787,14 @@
                   {
                      "section": "Programming",
                      "entries": [
+                        {
+                           "url": "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html",
+                           "title": "A Short Introduction to the Art of Programming (1971)",
+                           "author": "Edsger W. Dijkstra",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://www.smashwords.com/books/view/639609",
                            "title": "Design of a Programmer",
@@ -34051,6 +34070,14 @@
                            "url": "https://theweeklynoob.netlify.app",
                            "title": "The Weekly Noob",
                            "author": "Nabil Tharwat",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://logaretm.com/untyped/",
+                           "title": "Untyped Podcast",
+                           "author": "Abdelrahman Awad",
                            "notes": [
                               "podcast"
                            ]
@@ -40645,6 +40672,11 @@
                      "section": "Kotlin",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLdHSoHQhVWlOmjBoSXSdJl3CrqBOKIrLp",
+                           "title": "Android Development with Kotlin - Bangla",
+                           "author": "MKH Russell"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5",
                            "title": "Chapter 1 : Kotlin Basic Concepts Bangla",
                            "author": "Stack Learner"
@@ -40792,6 +40824,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN",
                            "title": "Python Bangla Tutorials for Beginners",
                            "author": "Anisul Islam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC",
+                           "title": "Python For Beginners - Bangla Tutorials",
+                           "author": "Learn With Tawhid"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLF-F70WLa6yP0gIAowyaluE85ZBBMB6en",
+                           "title": "Python Full Course Bangla (Learn Python A - Z)",
+                           "author": "Artificial Neuron"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8",
@@ -41538,7 +41580,28 @@
                            "author": "take U forward"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Soft Computing",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9",
+                                 "title": "Introduction To Soft Computing",
+                                 "author": "Computer Science and Engineering"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_kjqgSKrEaA8RDh56AeTOrcGj-nMDkSS",
+                                 "title": "Learn and Grow",
+                                 "author": "Learn and Grow"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg",
+                                 "title": "Soft Computing /| University exams specific",
+                                 "author": "Er Sahil ka Gyan"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Android",
@@ -41725,6 +41788,22 @@
                            "title": "Material Design for Android Developers",
                            "notes": [
                               "Udacity"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED",
+                           "title": "MVVM Image Search App with Architecture Components & Retrofit",
+                           "author": "Florian Walther",
+                           "notes": [
+                              " Coding in flow "
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E",
+                           "title": "MVVM To-Do List App with Flow and Architecture Components",
+                           "author": "Florian Walther",
+                           "notes": [
+                              " Coding in flow "
                            ]
                         },
                         {
@@ -42369,6 +42448,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG",
+                           "title": "C++ Tutorials",
+                           "author": "Caleb Curry"
+                        },
+                        {
                            "url": "https://developers.google.com/edu/c++/",
                            "title": "Google's C++ Course"
                         },
@@ -42433,6 +42517,11 @@
                   {
                      "section": "Cloud Computing",
                      "entries": [
+                        {
+                           "url": "https://www.udemy.com/course/introduction-cloud-computing/",
+                           "title": "A Practical Introduction to Cloud Computing",
+                           "author": "Neil Anderson"
+                        },
                         {
                            "url": "https://uaceit.com/courses/cloud-computing-and-development",
                            "title": "Cloud Computing and Development",
@@ -43001,6 +43090,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ",
+                           "title": "Database Management Systems",
+                           "author": "Neso Academy"
+                        },
+                        {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/",
                            "title": "Database Systems",
                            "notes": [
@@ -43494,6 +43588,11 @@
                            "author": "Neso Academy"
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PLm_MSClsnwm_PSua_nSYYoHhyW6taRoY4&feature=shared",
+                           "title": "Digital Electronics",
+                           "author": "Ekeeda"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-",
                            "title": "Digital Electronics for GATE",
                            "author": "Tutorials Point India Ltd."
@@ -43690,6 +43789,11 @@
                            "url": "https://www.youtube.com/watch?v=__2UgFNYgf8",
                            "title": "Fortran Tutorial",
                            "author": "Derek Banas"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L",
+                           "title": "Fortran Video Tutorials",
+                           "author": "Cyprien Rusu"
                         }
                      ],
                      "subsections": []
@@ -46096,6 +46200,11 @@
                            "title": "Lua Interactive Crash Course"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU",
+                           "title": "Lua Programming Tutorials",
+                           "author": "Steve's teacher"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=iMacxZQMPXs",
                            "title": "Lua Tutorial",
                            "author": "Derek Banas"
@@ -46127,6 +46236,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe",
                            "title": "Complete Machine Learning in Python playlist",
                            "author": "Krish Naik"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu",
+                           "title": "Convolutional Neural Network",
+                           "author": "Coding Lane"
                         },
                         {
                            "url": "https://cognitiveclass.ai/courses/introduction-deep-learning",
@@ -49512,16 +49626,6 @@
                            "url": "https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A",
                            "title": "آموزش لینوکس مقدماتی",
                            "author": "Hamid Emamian"
-                        },
-                        {
-                           "url": "https://gotoclass.ir/courses/lpic-1",
-                           "title": "LPIC-1",
-                           "author": "Peyman Hushmandi Rad"
-                        },
-                        {
-                           "url": "https://gotoclass.ir/courses/lpic-2",
-                           "title": "LPIC-2",
-                           "author": "Jadi Mirmirani"
                         }
                      ],
                      "subsections": []
@@ -49621,11 +49725,6 @@
                            "url": "https://sokanacademy.com/courses/python",
                            "title": "آموزش پایتون - سکان‌آکادمی",
                            "author": "Narges Asadi"
-                        },
-                        {
-                           "url": "https://gotoclass.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d8%a7%db%8c%d8%aa%d9%88%d9%86",
-                           "title": "آموزش پایتون مقدماتی",
-                           "author": "Jadi Mirmirani"
                         },
                         {
                            "url": "https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)",
@@ -50368,6 +50467,11 @@
                            "section": "Soft Computing",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLLmJo5LKwNNiSl_a8II-0xyujwPfdXFHR",
+                                 "title": "Application of Soft Computing",
+                                 "author": "AKTU TechQuantum"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-",
                                  "title": "Application of soft computing",
                                  "author": "LS Academy for Technical Education"
@@ -50741,6 +50845,11 @@
                                  "author": "Together with Abhi"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PL_OdF9Z6GmVZCwyfd8n6_50jcE_Xlz1je",
+                                 "title": "AWS Tutorial in Hindi",
+                                 "author": "S3CloudHub"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW",
                                  "title": "AWS Tutorial in Hindi | Edureka",
                                  "author": "edureka! Hindi"
@@ -50804,6 +50913,11 @@
                            "author": "Start Practicing"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx",
+                           "title": "Compiler Design (Complete Playlist)",
+                           "author": "KnowledgeGATE by Sanchit Sir"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc",
                            "title": "Compiler Design (Complete Playlist)",
                            "author": "Gate Smashers"
@@ -50851,6 +50965,11 @@
                            "author": "Neso Academy"
                         }
                      ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Data Science",
+                     "entries": [],
                      "subsections": []
                   },
                   {
@@ -51189,6 +51308,11 @@
                      "section": "Golang",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLLGlmW7jT-nQOVVgFV3cvztEcNxXylqj2",
+                           "title": "Go Lang Course 2023 (Hindi)",
+                           "author": "Studytonight with Abhishek"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL8fnAiiuQeFtg3ztGNquEb4Oh-WZxVPUv",
                            "title": "Go Lang Tutorials for Beginners in Depth",
                            "author": "Go Guru"
@@ -51337,6 +51461,11 @@
                   {
                      "section": "iOS",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL27xikYyFh9Cg5f28LpQuoRL8LEs01_zT",
+                           "title": "iOS App development Course - Hindi - Xcode 9 - Swift 4",
+                           "author": "Confiance Labs"
+                        },
                         {
                            "url": "https://www.youtube.com/watch?v=n7qOGHWunUY",
                            "title": "iOS App Development Crash Course in Hindi",
@@ -56440,6 +56569,11 @@
                      "section": "JavaScript",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT",
+                           "title": "Java Programming - Tutorial - Nepali",
+                           "author": "BigData IT"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc",
                            "title": "JavaScript",
                            "author": "EverydayKarma 🇳🇵"
@@ -60133,6 +60267,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf",
                                  "title": "React JS In Telugu (Playlist)",
                                  "author": "Telugu Skillhub"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLzdWZT-ZJD0-806wl_diOtzcMS8SYTzq3",
+                                 "title": "React Js Tutorials in Telugu",
+                                 "author": "CS World Telugu"
                               }
                            ]
                         },
@@ -60915,6 +61054,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLuuQCKO44unsLwJMkR8_koVG6vDPjMYmH",
                            "title": "C++ Course Series for Beginner in Urdu/Hindi",
                            "author": "Learning Point"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLt4rWC_3rBbWnDrIv4IeC4Vm7PN1wvrNg",
+                           "title": "C++ Free Course for Beginners in (Urdu /Hindi)",
+                           "author": "CodeMite"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh",
@@ -62889,6 +63033,11 @@
                                  ]
                               },
                               {
+                                 "url": "https://overapi.com/jquery",
+                                 "title": "JQuery Cheat Sheet",
+                                 "author": "OverAPI"
+                              },
+                              {
                                  "url": "https://htmlcheatsheet.com/jquery/",
                                  "title": "jQuery CheatSheet",
                                  "notes": [
@@ -63264,6 +63413,11 @@
                            "manualReviewRequired": true
                         },
                         {
+                           "url": "https://overapi.com/php",
+                           "title": "PHP Cheat Sheet",
+                           "author": "OverAPI"
+                        },
+                        {
                            "url": "https://www.quickstart.com/blog/php-cheat-sheet/",
                            "title": "PHP Cheat Sheet - 2021 Edition",
                            "author": "Zsolt Nagy",
@@ -63337,6 +63491,11 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://overapi.com/python",
+                           "title": "Python Cheat Sheet",
+                           "author": "OverAPI"
                         },
                         {
                            "url": "https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet",
@@ -65739,6 +65898,11 @@
                            "author": "The Odin Project"
                         },
                         {
+                           "url": "https://livecodes.io",
+                           "title": "LiveCode",
+                           "author": "LiveCode"
+                        },
+                        {
                            "url": "https://code.sololearn.com/web#css",
                            "title": "SoloLearn"
                         },
@@ -65836,6 +66000,11 @@
                         {
                            "url": "https://jsfiddle.net",
                            "title": "JSFiddle"
+                        },
+                        {
+                           "url": "https://liveweave.com",
+                           "title": "Liveweave",
+                           "author": "Amit Sen"
                         },
                         {
                            "url": "https://onecompiler.com/javascript",
