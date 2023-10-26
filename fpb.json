@@ -13649,30 +13649,95 @@
                      "subsections": []
                   },
                   {
-                     "section": "GraphQL",
-                     "entries": [
+                     "section": "Graphs",
+                     "entries": [],
+                     "subsections": [
                         {
-                           "url": "https://github.com/GraphQLCollege/fullstack-graphql",
-                           "title": "Fullstack GraphQL"
-                        },
-                        {
-                           "url": "https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf",
-                           "title": "GraphQL or Bust",
-                           "author": "Nordic APIs",
-                           "notes": [
-                              "PDF"
+                           "section": "GraphQL",
+                           "entries": [
+                              {
+                                 "url": "https://github.com/GraphQLCollege/fullstack-graphql",
+                                 "title": "Fullstack GraphQL"
+                              },
+                              {
+                                 "url": "https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf",
+                                 "title": "GraphQL or Bust",
+                                 "author": "Nordic APIs",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://riptutorial.com/Download/graphql.pdf",
+                                 "title": "Learning graphqL",
+                                 "author": "Compiled from StackOverflow Documentation",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
                            ]
                         },
                         {
-                           "url": "https://riptutorial.com/Download/graphql.pdf",
-                           "title": "Learning graphqL",
-                           "author": "Compiled from StackOverflow Documentation",
-                           "notes": [
-                              "PDF"
+                           "section": "Gremlin",
+                           "entries": [
+                              {
+                                 "url": "https://www.kelvinlawrence.net/book/PracticalGremlin.html",
+                                 "title": "Practical Gremlin - An Apache TinkerPop Tutorial",
+                                 "author": "Kelvin R. Lawrence"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Neo4J",
+                           "entries": [
+                              {
+                                 "url": "https://neo4j.com/fullstack-graphql-applications-with-grandstack/",
+                                 "title": "Fullstack GraphQL Applications with GRANDStack – Essential Excerpts",
+                                 "author": "William Lyon",
+                                 "notes": [
+                                    "PDF"
+                                 ],
+                                 "accessNotes": "email requested"
+                              },
+                              {
+                                 "url": "https://neo4j.com/graph-algorithms-book/",
+                                 "title": "Graph Algorithms: Practical Examples in Apache Spark and Neo4j",
+                                 "author": "Mark Needham, Amy E. Hodler",
+                                 "notes": [
+                                    "PDF, EPUB, MOBI"
+                                 ],
+                                 "accessNotes": "email requested"
+                              },
+                              {
+                                 "url": "http://neo4j.com/books/graph-databases/",
+                                 "title": "Graph Databases 2nd edition",
+                                 "author": "Ian Robinson, Jim Webber, Emil Eifrém",
+                                 "notes": [
+                                    "PDF, EPUB, MOBI"
+                                 ],
+                                 "accessNotes": "email requested"
+                              },
+                              {
+                                 "url": "https://neo4j.com/graph-databases-for-dummies/",
+                                 "title": "Graph Databases For Dummies",
+                                 "author": "Dr. Jim Webber, Rik Van Bruggen",
+                                 "notes": [
+                                    "PDF"
+                                 ],
+                                 "accessNotes": "email requested"
+                              },
+                              {
+                                 "url": "https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/",
+                                 "title": "Knowledge Graphs: Data in Context for Responsive Businesses",
+                                 "author": "Jesús Barrasa, Amy E. Hodler, Jim Webber",
+                                 "notes": [
+                                    "PDF"
+                                 ],
+                                 "accessNotes": "email requested"
+                              }
                            ]
                         }
-                     ],
-                     "subsections": []
+                     ]
                   },
                   {
                      "section": "Groovy",
@@ -17080,57 +17145,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Neo4J",
-                     "entries": [
-                        {
-                           "url": "https://neo4j.com/fullstack-graphql-applications-with-grandstack/",
-                           "title": "Fullstack GraphQL Applications with GRANDStack – Essential Excerpts",
-                           "author": "William Lyon",
-                           "notes": [
-                              "PDF"
-                           ],
-                           "accessNotes": "email requested"
-                        },
-                        {
-                           "url": "https://neo4j.com/graph-algorithms-book/",
-                           "title": "Graph Algorithms: Practical Examples in Apache Spark and Neo4j",
-                           "author": "Mark Needham, Amy E. Hodler",
-                           "notes": [
-                              "PDF, EPUB, MOBI"
-                           ],
-                           "accessNotes": "email requested"
-                        },
-                        {
-                           "url": "http://neo4j.com/books/graph-databases/",
-                           "title": "Graph Databases 2nd edition",
-                           "author": "Ian Robinson, Jim Webber, Emil Eifrém",
-                           "notes": [
-                              "PDF, EPUB, MOBI"
-                           ],
-                           "accessNotes": "email requested"
-                        },
-                        {
-                           "url": "https://neo4j.com/graph-databases-for-dummies/",
-                           "title": "Graph Databases For Dummies",
-                           "author": "Dr. Jim Webber, Rik Van Bruggen",
-                           "notes": [
-                              "PDF"
-                           ],
-                           "accessNotes": "email requested"
-                        },
-                        {
-                           "url": "https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/",
-                           "title": "Knowledge Graphs: Data in Context for Responsive Businesses",
-                           "author": "Jesús Barrasa, Amy E. Hodler, Jim Webber",
-                           "notes": [
-                              "PDF"
-                           ],
-                           "accessNotes": "email requested"
                         }
                      ],
                      "subsections": []
@@ -21797,6 +21811,37 @@
                            "url": "https://www.alvils.info/e-gramatas/programmesanas-valoda-python-iesacejiem/",
                            "title": "Programmēšanas valoda \"Python\" iesācējiem",
                            "author": "Alvils Bērziņš"
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
+                  "code": "ml",
+                  "name": "Malayalam"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Computer Science",
+                     "entries": [
+                        {
+                           "url": "https://samagra.kite.kerala.gov.in/files/samagra-resource/uploads/tbookscmq/Class_XI/CompSciencepart1/XI_Computer_Science_Part_1.pdf",
+                           "title": "XI_Computer_Science_Part_I",
+                           "author": "SCERT",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://samagra.kite.kerala.gov.in/files/samagra-resource/uploads/tbookscmq/Class_XI/CompSciencepart1/XI_Computer_Science_Part_II.pdf",
+                           "title": "XI_Computer_Science_Part_II",
+                           "author": "SCERT",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -40575,6 +40620,16 @@
                                  "author": "web-man"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLBcycf_KNrYpgj_yzcNgW9I3_2fpiGXXg",
+                                 "title": "Angular full tutorial series for Beginners in Bangla",
+                                 "author": "Learn With Rashed"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLDP_-KW5VxNRqG7317GyBlOwvtxP6d-LE",
+                                 "title": "Angular Tutorials for Beginners in Bangla",
+                                 "author": "miTechSoln"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst",
                                  "title": "AngularJS bangla tutorial",
                                  "author": "tutplus24"
@@ -40906,9 +40961,29 @@
                            "section": "Django",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLrbhZ2o2oUzRPc7KvvQySBmrXtg6HmNp5",
+                                 "title": "60 Days of Django - Bangla Tutorial",
+                                 "author": "Abu Noman Basar"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V",
                                  "title": "Django Bangla Tutorial",
                                  "author": "Learn Hunter"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-83IWJl8Qht1OmhiEnRw8H8ieKAjucNN",
+                                 "title": "Django Bangla Tutorial | পাইথন জ্যাঙ্গো বাংলা | Django full course | 2022",
+                                 "author": "Nongare Hi-Tech"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6",
+                                 "title": "Python Django & RestAPI Bangla Tutorial",
+                                 "author": "Study Mart"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL4NIq30KvXLDf3a3DQXZyGv_BNYRYTXJS",
+                                 "title": "Python DJango Bangla (বাংলা) tutorial",
+                                 "author": "Tech Solutions In Bangla"
                               }
                            ]
                         },
@@ -42979,6 +43054,11 @@
                            "author": "CognitiveClass.ai"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLLa_h7BriLH2UYJIO9oDoP3W-b6gQeA12",
+                           "title": "Big Data Engineering Course",
+                           "author": "Data Engineering"
+                        },
+                        {
                            "url": "https://learn.saylor.org/course/view.php?id=504",
                            "title": "CS250: Python for Data Science",
                            "author": "Saylor Academy"
@@ -43792,6 +43872,11 @@
                   {
                      "section": "Flutter",
                      "entries": [
+                        {
+                           "url": "https://developers.google.com/learn/pathways/intro-to-flutter",
+                           "title": "Build Apps with Flutter",
+                           "author": "Google for Developers"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC",
                            "title": "Flutter & Firebase App Build",
@@ -46022,6 +46107,16 @@
                                  "url": "https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom",
                                  "title": "Learn Webpack Course",
                                  "author": "Colt Steele"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z",
+                                 "title": "Webpack 5",
+                                 "author": "Swashbuckling with Code"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC",
+                                 "title": "Webpack Tutorials for Beginners",
+                                 "author": "Net Ninja"
                               }
                            ]
                         }
@@ -47704,6 +47799,11 @@
                            "notes": [
                               "MIT OpenCourseWare"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDV15dUauYyOcloXu7GXHJ6Xxq5XTBg1k",
+                           "title": "Ethical Hacking",
+                           "author": "Cyber Square"
                         },
                         {
                            "url": "https://www.hacker101.com/videos",
@@ -50558,6 +50658,11 @@
                            "author": "Pepcoding"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt",
+                           "title": "Graph Theory",
+                           "author": "Gate Smashers"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v",
                            "title": "Graphs - Level 1",
                            "author": "Pepcoding"
@@ -50663,6 +50768,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1",
                            "title": "Complete Android Development Course in Hindi",
                            "author": "Neat Roots"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE",
+                           "title": "The complete Android Application Development Course in Hindi/Urdu",
+                           "author": "Fahad Hussain"
                         }
                      ],
                      "subsections": []
@@ -51277,6 +51387,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10",
                            "title": "DevOps Tutorials in Hindi/Urdu | Devops सीखने का सबसे आसान तरीका | Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes",
                            "author": "Bhupinder Rajput, Technical Guftgu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC",
+                           "title": "Server Configuration, Deployment & VPS Tutorials For Beginners",
+                           "author": "CodeWithHarry"
                         }
                      ],
                      "subsections": []
@@ -52036,6 +52151,11 @@
                            "section": "Vue.js",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLfxALjnZodruGEvbM8zTdnPMrQ5wHMmw8",
+                                 "title": "Latest vue js 3 tutorial for beginners in hindi",
+                                 "author": "Wap Institute"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn",
                                  "title": "Vue js tutorial in Hindi",
                                  "author": "Code Step By Step"
@@ -52286,6 +52406,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd",
                            "title": "3.4 Computer Networks (Complete Playlist)",
                            "author": "Knowledge Gate"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLz8UpOu_f4zoIai54JZFfIJxaSrmqz3B9",
+                           "title": "CCNA Hindi by Network Engineer",
+                           "author": "Network Kings"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a",
@@ -52733,6 +52858,11 @@
                   {
                      "section": "Swift",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL3IxLTWfZ7Y1zM3EejYkcq4I86K3eloCb",
+                           "title": "Swift Programming For Beginners In Hindi",
+                           "author": "BuildWithShubham"
+                        },
                         {
                            "url": "https://youtube.com/playlist?list=PLtCBuHKmdxOd9kxsru5t_MFvDj5o5GdDl",
                            "title": "Swift Programming For IOS From Scratch",
@@ -63267,6 +63397,11 @@
                                  "notes": [
                                     "HTML"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/",
+                                 "title": "TypeScript Next.js Cheatsheet",
+                                 "author": "SaltyCrane Cheat Sheets"
                               }
                            ]
                         },
@@ -67030,6 +67165,12 @@
                   {
                      "section": "Problem Sets",
                      "entries": [
+                        {
+                           "url": "https://100dayscss.com",
+                           "title": "100 Days CSS Challenge",
+                           "author": "Matthias Martin",
+                           "accessNotes": "Codepen account requested, not required"
+                        },
                         {
                            "url": "https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions",
                            "title": "500 Data structures and algorithms interview questions and their solutions in C++"
