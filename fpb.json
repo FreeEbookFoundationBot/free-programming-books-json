@@ -19108,6 +19108,11 @@
                            ]
                         },
                         {
+                           "url": "https://docs.python-guide.org",
+                           "title": "The Hitchhiker's Guide to Python: Best Practices for Development",
+                           "author": "Kenneth Reitz, Tanya Schlusser, et al"
+                        },
+                        {
                            "url": "http://docs.quantifiedcode.com/python-anti-patterns/",
                            "title": "The Little Book of Python Anti-Patterns",
                            "notes": [],
@@ -22025,8 +22030,8 @@
                            ]
                         },
                         {
-                           "url": "https://eimaung.com/pwd2022/",
-                           "title": "Professional Web Developer 2022",
+                           "url": "https://eimaung.com/pwd2023/",
+                           "title": "Professional Web Developer 2023",
                            "author": "Ei Maung",
                            "notes": [
                               "PDF"
@@ -22610,6 +22615,16 @@
                   {
                      "section": "Python",
                      "entries": [
+                        {
+                           "url": "https://brain.fuw.edu.pl/edu/index.php/%22Programowanie_z_Pythonem%22",
+                           "title": "Programowanie z Pythonem",
+                           "author": "Jarosław Żygierewicz, Maciej Kamiński, Zbyszek J-Szmeka"
+                        },
+                        {
+                           "url": "https://brain.fuw.edu.pl/edu/index.php/%22Programowanie_z_Pythonem3%22",
+                           "title": "Programowanie z Pythonem 3",
+                           "author": "Robert J Budzyński"
+                        },
                         {
                            "url": "https://py4e.pl/book",
                            "title": "Python dla wszystkich: Odkrywanie danych z Python 3",
@@ -42517,6 +42532,14 @@
                            "author": "Nick Chapsas"
                         },
                         {
+                           "url": "https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui",
+                           "title": "Build mobile and desktop apps with .NET MAUI",
+                           "author": "James Montemagno",
+                           "notes": [
+                              "Microsoft"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=SR53SKIUYPA",
                            "title": "Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022",
                            "author": "Gill Cleeren"
@@ -47625,6 +47648,14 @@
                                  "author": "Dennis Ivy"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLBfoYdk-WAlyr3cpOiOI4UXBfVVuF05e6",
+                                 "title": "Python Django Web Framework - Full Course for Beginners",
+                                 "author": "freeCodeCamp",
+                                 "notes": [
+                                    "Justin Mitchel"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL",
                                  "title": "Try Django 3.2 - Python Web Development Tutorial Series",
                                  "author": "Justin Mitchel, CodingEntrepreneurs"
@@ -48915,7 +48946,7 @@
                      "section": "Flujos de Trabajo",
                      "entries": [
                         {
-                           "url": "https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-14-a-edicion",
+                           "url": "https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-16-a-edicion",
                            "title": "Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI",
                            "notes": [
                               "Miriadax"
@@ -59192,6 +59223,14 @@
                      "section": "Go",
                      "entries": [
                         {
+                           "url": "https://ru.hexlet.io/courses/go-basics",
+                           "title": "Основы Go",
+                           "author": "Hexlet",
+                           "notes": [
+                              "BEG"
+                           ]
+                        },
+                        {
                            "url": "https://stepik.org/course/54403",
                            "title": "Программирование на Golang",
                            "author": "Stepik",
@@ -59327,6 +59366,14 @@
                         {
                            "url": "https://ru.hexlet.io/courses/programming-basics",
                            "title": "Основы программирования",
+                           "author": "Hexlet",
+                           "notes": [
+                              "BEG"
+                           ]
+                        },
+                        {
+                           "url": "https://ru.hexlet.io/courses/js-basics",
+                           "title": "Основы JavaScript",
                            "author": "Hexlet",
                            "notes": [
                               "BEG"
@@ -59575,6 +59622,14 @@
                            "url": "https://www.coursera.org/learn/python-osnovy-programmirovaniya",
                            "title": "Основы программирования на Python",
                            "author": "Coursera",
+                           "notes": [
+                              "BEG"
+                           ]
+                        },
+                        {
+                           "url": "https://ru.hexlet.io/courses/python-basics",
+                           "title": "Основы Python",
+                           "author": "Hexlet",
                            "notes": [
                               "BEG"
                            ]
