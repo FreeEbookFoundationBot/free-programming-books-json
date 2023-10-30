@@ -509,6 +509,11 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "http://cpbook.subeen.com/p/blog-page.html",
+                           "title": "কম্পিউটার প্রোগ্রামিং",
+                           "author": "Tamim Shahriar Subeen"
+                        },
+                        {
                            "url": "https://c.howtocode.dev",
                            "title": "বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স",
                            "author": "Jakir Hossain, et al."
@@ -18845,6 +18850,11 @@
                            ]
                         },
                         {
+                           "url": "https://python-book.softuni.org",
+                           "title": "Programming Basics with Python",
+                           "author": "Svetlin Nakov & Team"
+                        },
+                        {
                            "url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
                            "title": "Programming Computer Vision with Python",
                            "notes": [
@@ -24877,11 +24887,6 @@
                            "author": "Г. Коваленко"
                         },
                         {
-                           "url": "https://bitbucket.org/darkus/yesod/downloads",
-                           "title": "Developing Web Applications with Haskell and Yesod",
-                           "author": "Майкл Сноймен"
-                        },
-                        {
                            "url": "https://wiki.nsunc.com/_export/html/haskell",
                            "title": "Haskell: введение в функциональное программирование",
                            "author": "В.Н. Власов"
@@ -25161,10 +25166,6 @@
                                  "url": "https://metanit.com/web/angular",
                                  "title": "Онлайн-руководство по AngularJS",
                                  "author": "Евгений Попов"
-                              },
-                              {
-                                 "url": "http://angular-doc.herokuapp.com",
-                                 "title": "Перевод документации"
                               },
                               {
                                  "url": "https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial",
@@ -25528,10 +25529,6 @@
                               {
                                  "url": "https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony",
                                  "title": "Учебник по Symfony"
-                              },
-                              {
-                                 "url": "https://symfony.com/doc/5.0/the-fast-track/ru/index.html",
-                                 "title": "Symfony 5. Быстрый старт"
                               }
                            ]
                         }
@@ -28026,6 +28023,14 @@
                         {
                            "url": "http://neuralnetworksanddeeplearning.com",
                            "title": "Neural Networks and Deep Learning"
+                        },
+                        {
+                           "url": "https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+                           "title": "Pattern Recognition and Machine Learning",
+                           "author": "Christopher M. Bishop",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf",
@@ -42420,6 +42425,11 @@
                      "section": "Blockchain",
                      "entries": [
                         {
+                           "url": "https://www.edx.org/learn/blockchain/university-of-california-berkeley-blockchain-technology",
+                           "title": "BerkeleyX: Blockchain Technology",
+                           "author": "Rustie Lin and Nadir Akhtar"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id",
                            "title": "Blockchain Developer Tutorials",
                            "author": "Gregory McCubbin",
@@ -43979,6 +43989,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK",
                            "title": "Docker",
                            "author": "Raghav Pal"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0hSJrxggIQoKLETBSmgbbvE4FO_eEgoB",
+                           "title": "Docker and Kubernetes Complete Tutorial",
+                           "author": "Analytics Excellence"
                         },
                         {
                            "url": "https://cognitiveclass.ai/courses/docker-essentials",
@@ -46797,6 +46812,22 @@
                            "title": "Pattern Recognition and Machine Learning"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=WFr2WgN9_xE",
+                           "title": "Python Machine Learning and AI Mega Course - Learn 4 Different Areas of ML & AI",
+                           "author": "Tech With Tim",
+                           "notes": [
+                              "Tim Ruscica"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr",
+                           "title": "Python Machine Learning Tutorials",
+                           "author": "Tech With Tim",
+                           "notes": [
+                              "Tim Ruscica"
+                           ]
+                        },
+                        {
                            "url": "https://pytorch.org/tutorials",
                            "title": "PyTorch tutorials",
                            "author": "PyTorch.org"
@@ -47025,6 +47056,26 @@
                         {
                            "url": "https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about",
                            "title": "Introduction to Functional Programming in OCaml"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLea0WJq13cnA1622rtoEhd911spMDRvWh",
+                           "title": "OCAML Data Structures Tutorial",
+                           "author": "Noureddin Sadawi"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKO_ZowsIOu7o3iQmS3InxLKd0L5-zyqo",
+                           "title": "OCaml Playlist",
+                           "author": "OCamlWorkshops"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU",
+                           "title": "OCaml Programming: Correct + Efficient + Beautiful",
+                           "author": "Michael Ryan Clarkson"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1",
+                           "title": "OCAML Tutorial",
+                           "author": "Noureddin Sadawi"
                         }
                      ],
                      "subsections": []
@@ -47533,6 +47584,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLBfoYdk-WAlzfRFHRKAmA7Vw2svoGqfb5",
+                           "title": "Python for Hackers FULL Course | Bug Bounty & Ethical Hacking",
+                           "author": "PhD Security"
+                        },
+                        {
                            "url": "https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf",
                            "title": "Python for OSINT. 21 day course for beginners",
                            "author": "cyb_detective",
@@ -47807,6 +47863,11 @@
                   {
                      "section": "R",
                      "entries": [
+                        {
+                           "url": "https://www.datacamp.com/courses/free-introduction-to-r",
+                           "title": "Introduction to R",
+                           "author": "DataCamp"
+                        },
                         {
                            "url": "https://www.udemy.com/course/r-basics/",
                            "title": "R Basics - R Programming Language Introduction",
@@ -48646,6 +48707,11 @@
                         {
                            "url": "http://www.theodinproject.com",
                            "title": "The Odin Project - Learn Web Development for Free"
+                        },
+                        {
+                           "url": "https://www.hostinger.in/tutorials/web-accessibility",
+                           "title": "Web Accessibility – What It Is and How to Design for It?",
+                           "author": "Hostinger Tutorials"
                         },
                         {
                            "url": "https://open.cs.uwaterloo.ca/web-basics/",
@@ -57182,6 +57248,26 @@
             },
             {
                "language": {
+                  "code": "my",
+                  "name": "Burmese"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLUbA5XRGtepL4W4hXBBXfqC1i3PaBxMtN",
+                           "title": "Programming Basic",
+                           "author": "Htain Lin Shwe"
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "ne",
                   "name": "Nepali"
                },
@@ -59302,51 +59388,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.coursera.org/learn/c-plus-plus-white",
-                           "title": "Основы разработки на С++: белый пояс",
-                           "author": "Шишков Илья Иванович, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович, Лежанкин Иван Андреевич",
-                           "notes": [
-                              "Coursera",
-                              "INT"
-                           ]
-                        },
-                        {
-                           "url": "https://www.coursera.org/learn/c-plus-plus-yellow",
-                           "title": "Основы разработки на С++: желтый пояс",
-                           "author": "Шишков Илья Иванович, Лежанкин Иван Андреевич, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович",
-                           "notes": [
-                              "Coursera",
-                              "INT"
-                           ]
-                        },
-                        {
-                           "url": "https://www.coursera.org/learn/c-plus-plus-brown",
-                           "title": "Основы разработки на С++: коричневый пояс",
-                           "author": "Шишков Илья Иванович, Полднев Антон Вячеславович, Матросов Михаил Александрович, Alexey Zobnin, Субоч Николай Михайлович",
-                           "notes": [
-                              "Coursera",
-                              "INT"
-                           ]
-                        },
-                        {
-                           "url": "https://www.coursera.org/learn/c-plus-plus-red",
-                           "title": "Основы разработки на С++: красный пояс",
-                           "author": "Шишков Илья Иванович, Полднев Антон Вячеславович",
-                           "notes": [
-                              "Coursera",
-                              "INT"
-                           ]
-                        },
-                        {
-                           "url": "https://www.coursera.org/learn/c-plus-plus-black",
-                           "title": "Основы разработки на С++: черный пояс",
-                           "author": "Шишков Илья Иванович, Полднев Антон Вячеславович, Субоч Николай Михайлович, Alexey Zobnin, Матросов Михаил Александрович",
-                           "notes": [
-                              "Coursera",
-                              "INT"
-                           ]
-                        },
-                        {
                            "url": "https://metanit.com/cpp/tutorial/",
                            "title": "Руководство по языку программирования C++",
                            "author": "Metanit",
@@ -59827,14 +59868,6 @@
                            "author": "Сергей Балакирев",
                            "notes": [
                               "Stepik",
-                              "BEG"
-                           ]
-                        },
-                        {
-                           "url": "https://www.coursera.org/learn/python-osnovy-programmirovaniya",
-                           "title": "Основы программирования на Python",
-                           "author": "Coursera",
-                           "notes": [
                               "BEG"
                            ]
                         },
@@ -61901,6 +61934,17 @@
                },
                "index": {},
                "sections": [
+                  {
+                     "section": "<a id=\"algorithms\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz",
+                           "title": "Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu | Data structures by Fahad Hussain | data structures and algorithms tutorial",
+                           "author": "Fahad Hussain"
+                        }
+                     ],
+                     "subsections": []
+                  },
                   {
                      "section": "<a id=\"android\">",
                      "entries": [
@@ -65069,6 +65113,17 @@
                            "url": "https://learn.adacore.com/courses/intro-to-ada/index.html",
                            "title": "Introduction to Ada",
                            "author": "Adacore"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Algorithms",
+                     "entries": [
+                        {
+                           "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+                           "title": "Data Structures Visualization",
+                           "author": "David Galles"
                         }
                      ],
                      "subsections": []
