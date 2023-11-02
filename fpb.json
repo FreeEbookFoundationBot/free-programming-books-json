@@ -10465,6 +10465,11 @@
                      "section": "R",
                      "entries": [
                         {
+                           "url": "https://wikidocs.net/book/4315",
+                           "title": "Must Learning with R (개정판)",
+                           "author": "DoublekPark 외 1명"
+                        },
+                        {
                            "url": "http://r4pda.co.kr",
                            "title": "R을 이용한 데이터 처리 & 분석 실무",
                            "author": "서민구",
@@ -16424,8 +16429,9 @@
                            "author": "Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman"
                         },
                         {
-                           "url": "http://www.linuxfromscratch.org/lfs/view/stable/",
-                           "title": "Linux from Scratch"
+                           "url": "https://www.linuxfromscratch.org/lfs/view/stable/",
+                           "title": "Linux From Scratch",
+                           "author": "Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al."
                         },
                         {
                            "url": "http://linux-training.be/linuxfun.pdf",
@@ -25961,6 +25967,19 @@
                                  ]
                               }
                            ]
+                        },
+                        {
+                           "section": "Všeobecné programovanie",
+                           "entries": [
+                              {
+                                 "url": "https://greenie.elist.sk/knihy/html/mala-kniha-programovania.html",
+                                 "title": "Malá kniha programovania",
+                                 "author": "Stanislav Hoferek",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              }
+                           ]
                         }
                      ]
                   },
@@ -26204,6 +26223,14 @@
                            "url": "https://www.math.upenn.edu/~wilf/AlgoComp.pdf",
                            "title": "Algorithms and Complexity",
                            "author": "Herbert S. Wilf",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf",
+                           "title": "Algorithms and Data Structures - With Applications to Graphics and Geometry",
+                           "author": "Jurg Nievergelt, Klaus Hinrichs",
                            "notes": [
                               "PDF"
                            ]
@@ -29586,13 +29613,6 @@
                            "notes": [
                               "HTML"
                            ]
-                        },
-                        {
-                           "url": "https://www.linuxfromscratch.org/lfs/view/stable/",
-                           "title": "Linux From Scratch",
-                           "author": "Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al.",
-                           "notes": [],
-                           "manualReviewRequired": true
                         },
                         {
                            "url": "https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work",
@@ -54995,6 +55015,11 @@
                            "author": "Mauro Cicolella"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLQBZ1Z0ZLjQBesf3ZPxEL-qqhFHrcNgCb",
+                           "title": "Crittografia 2023",
+                           "author": "Alessandro Zaccagnini"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLCbSCJEIR6Co72vs-7KRCiCgaC3ht-HYM",
                            "title": "Espressioni regolari - RegEx",
                            "author": "Mauro Cicolella"
@@ -56098,6 +56123,14 @@
                   {
                      "section": "Mathematics",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3",
+                           "title": "2013 2학기 선형대수",
+                           "author": "",
+                           "notes": [
+                              "이상화 교수"
+                           ]
+                        },
                         {
                            "url": "http://www.kocw.net/home/search/kemView.do?kemId=1297704",
                            "title": "수치해석",
@@ -61941,9 +61974,19 @@
                      "section": "<a id=\"android\">",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN",
+                           "title": "Flutter App Development",
+                           "author": "Code With Dhruv"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE",
                            "title": "The complete Android Application Development Course in Hindi/Urdu | Android Development for Beginners in Hindi - Urdu | Android tutorial in Urdu",
                            "author": "Fahad Hussain"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9fcHFJHtFaZ6DuInqORqFUaKiZO1XCmb",
+                           "title": "Mobile App Development Tutorial Series using React Native in Urdu / Hindi",
+                           "author": "Perfect Web Solutions"
                         }
                      ],
                      "subsections": []
@@ -61972,6 +62015,11 @@
                   {
                      "section": "<a id=\"csharp\">",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOfLseCtdZg1a3XBsDFbRVfd",
+                           "title": "C# Tutorial For Beginners in Hindi/Urdu",
+                           "author": "Fahad Hussain"
+                        },
                         {
                            "url": "https://youtube.com/playlist?list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc",
                            "title": "C# Tutorials In Urdu/Hindi",
