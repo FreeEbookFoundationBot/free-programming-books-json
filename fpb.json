@@ -12073,6 +12073,14 @@
                            "author": "Panic, et al."
                         },
                         {
+                           "url": "https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Design_Patterns",
+                           "title": "C++ Programming: Code patterns design",
+                           "author": "WikiBooks",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/cplusplus",
                            "title": "C++ Succinctly, Syncfusion",
                            "notes": [
@@ -40578,6 +40586,16 @@
                      "section": "IDE and editors",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLPkEK3TrAJ1Pi8IUcA9Ldm81ZCVCA_bIm",
+                           "title": "How to save coding time using sublime text (bangla)",
+                           "author": "Sharif Chowdhury"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgV8FC0EoxMcKrw5VydxZAZ0ZivXWL_ej",
+                           "title": "Sublime Text 3 Bangla Tutorial - (Beginners to Advanced)",
+                           "author": "Positive World"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE",
                            "title": "VSCode Complete Tutorial Series | VSCode টিউটোরিয়াল সিরিজ",
                            "author": "Stack Learner"
@@ -44065,6 +44083,11 @@
                      "section": "Flutter",
                      "entries": [
                         {
+                           "url": "https://10pearlsuniversity.org/courses/basic-development-with-flutter/",
+                           "title": "Basic Development With Flutter",
+                           "author": "Muhammad Noman"
+                        },
+                        {
                            "url": "https://developers.google.com/learn/pathways/intro-to-flutter",
                            "title": "Build Apps with Flutter",
                            "author": "Google for Developers"
@@ -44125,6 +44148,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT",
                            "title": "Free Flutter Course",
                            "author": "Vandad Nahavandipoor"
+                        },
+                        {
+                           "url": "https://10pearlsuniversity.org/courses/getting-started-with-flutter/",
+                           "title": "Getting Started With Flutter",
+                           "author": "Muhammad Noman"
                         }
                      ],
                      "subsections": []
@@ -48901,11 +48929,13 @@
                         },
                         {
                            "url": "https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1",
-                           "title": "Introducción a la programación Android"
+                           "title": "Introducción a la programación Android",
+                           "author": "Jesús Tomás Gironés"
                         },
                         {
                            "url": "https://campusvirtual.ull.es/ocw/course/view.php?id=130",
-                           "title": "Introducción a la programación Android"
+                           "title": "Introducción a la programación Android",
+                           "author": "Cándido Caballero Gil, Jezabel Molina Gil"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX",
@@ -62045,6 +62075,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "<a id=\"java\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLU4yvac0MJbKs78u32MyVgYFg9d-6DYGL",
+                           "title": "Java Programming in Urdu/Hindi",
+                           "author": "OnlineUstaad"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"python\">",
                      "entries": [
                         {
@@ -62978,6 +63019,17 @@
                         {
                            "url": "https://chinese.freecodecamp.org",
                            "title": "freeCodeCamp"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Flutter",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?v=7lZRWWELIaA&list=PL274L1n86T80VQcJb76zcXcPpF-S-fFV-",
+                           "title": "Flutter 仿微信朋友圈",
+                           "author": "ducafecat"
                         }
                      ],
                      "subsections": []
