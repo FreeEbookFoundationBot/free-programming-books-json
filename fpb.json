@@ -13519,6 +13519,14 @@
                            "author": "Maximilien Andile"
                         },
                         {
+                           "url": "https://dave.cheney.net/practical-go/presentations/qcon-china.html",
+                           "title": "Practical Go: Real world advice for writing maintainable Go programs",
+                           "author": "Dave Cheney",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://leanpub.com/productiongo/read",
                            "title": "Production Go",
                            "author": "Herman Schaaf and Shawn Smith",
@@ -25992,6 +26000,28 @@
                      ]
                   },
                   {
+                     "section": "Operačné systémy",
+                     "entries": [
+                        {
+                           "url": "https://greenie.elist.sk/knihy/linux-ako-nieco-navyse.pdf",
+                           "title": "Linux ako niečo navyše",
+                           "author": "Stanislav Hoferek",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://greenie.elist.sk/knihy/linuxove-distribucie.pdf",
+                           "title": "Linuxové distribúcie",
+                           "author": "Stanislav Hoferek",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Python",
                      "entries": [],
                      "subsections": [
@@ -28483,6 +28513,14 @@
                         {
                            "url": "http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/",
                            "title": "Graph Theory"
+                        },
+                        {
+                           "url": "https://core.ac.uk/download/pdf/326762636.pdf",
+                           "title": "Guide to Discrete Mathematics",
+                           "author": "David Gries, Fred B. Schneider",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/",
@@ -40369,6 +40407,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLy0nhnjSE4irkzR9mbo70J2iKbf4a36y5",
                            "title": "Dart Bangla Tutorial",
                            "author": "Afran Sarkar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLg87mxEuu8-68krJBfgF3yjIPAwdgz1T2",
+                           "title": "Dart Bangla Tutorial",
+                           "author": "Techno BD XYZ"
                         }
                      ],
                      "subsections": []
@@ -41591,11 +41634,6 @@
                            "title": "Berkeley's CS 61B: Data Structures"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner",
-                           "title": "Binary Trees - by LoveBabbar",
-                           "author": "CodeHelp - by Babbar"
-                        },
-                        {
                            "url": "https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM",
                            "title": "C Programming & Data Structures",
                            "author": "Neso Academy"
@@ -42511,6 +42549,11 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyqSpQzTE6M8O9Oy9t-yhiAUXOi-rmTp_",
+                           "title": "C Programming and Assembly Language",
+                           "author": "NPTEL NOC IITM"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e",
@@ -50900,6 +50943,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2",
                            "title": "Binary Search | Interview Questions | Coding | Tutorials | Algorithm",
                            "author": "Aditya Verma"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner",
+                           "title": "Binary Trees - by LoveBabbar",
+                           "author": "CodeHelp - by Babbar"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4",
@@ -62022,6 +62070,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "<a id=\"c\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa",
+                           "title": "C language tutorial for beginners Urdu/Hindi",
+                           "author": "Fahad Hussain"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"cplusplus\">",
                      "entries": [
                         {
@@ -63137,12 +63196,9 @@
                            ]
                         },
                         {
-                           "url": "https://awagga.github.io/dyalog/voc",
+                           "url": "https://abrudz.github.io/voc",
                            "title": "Dyalog APL - Vocabulary",
-                           "author": "awagga",
-                           "notes": [
-                              "HTML"
-                           ]
+                           "author": "Adám Brudzewsky"
                         },
                         {
                            "url": "https://docs.dyalog.com/latest/ReferenceCard.pdf",
@@ -63386,12 +63442,13 @@
                            ]
                         },
                         {
-                           "url": "https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf",
+                           "url": "https://web.archive.org/web/20220925022529/https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf",
                            "title": "Docker Cheat Sheet",
                            "author": "Docker Inc., Solomon Hykes",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/",
@@ -63402,11 +63459,13 @@
                            ]
                         },
                         {
-                           "url": "https://swissarmydevops.com/containers/docker/docker-cli-cheat-sheet",
+                           "url": "https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf",
                            "title": "Docker Cheat Sheet",
                            "author": "Nikko Pedersen, Swiss Army DevOps",
-                           "notes": [],
-                           "manualReviewRequired": true
+                           "notes": [
+                              "PDF"
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://github.com/wsargent/docker-cheat-sheet",
@@ -63425,12 +63484,13 @@
                            ]
                         },
                         {
-                           "url": "https://helmcode.com/blog/docker-cheat-sheet",
+                           "url": "https://web.archive.org/web/20230127114402/https://helmcode.com/blog/docker-cheat-sheet",
                            "title": "Docker Cheat Sheet (:es:)",
                            "author": "Cristian Córdova, HelmCode",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://dockerlux.github.io/pdf/cheat-sheet.pdf",
@@ -63576,12 +63636,13 @@
                            ]
                         },
                         {
-                           "url": "https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf",
+                           "url": "https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf",
                            "title": "Git Cheat Sheet",
                            "author": "Moshfegh Hamedani",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e",
@@ -63634,14 +63695,6 @@
                            "author": "devhints, Rico Santa Cruz",
                            "notes": [
                               "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo",
-                           "title": "Go Dojo Cheatsheet",
-                           "author": "Golang CheatSheet by golang-dojo",
-                           "notes": [
-                              "PDF"
                            ]
                         },
                         {
@@ -63880,12 +63933,13 @@
                            ]
                         },
                         {
-                           "url": "http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655",
+                           "url": "https://web.archive.org/web/20230116111001/http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655",
                            "title": "Jupyter Notebook Cheat sheet",
                            "author": "Datacamp",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://aurelio.net/vim/vim-avancado.txt",
@@ -63960,12 +64014,13 @@
                            ]
                         },
                         {
-                           "url": "https://www.vscheatsheet.com",
+                           "url": "https://web.archive.org/web/20230816231124/https://www.vscheatsheet.com/",
                            "title": "VSCheatsheet",
                            "author": "Nicolas Constantinou",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -63974,12 +64029,13 @@
                      "section": "Java",
                      "entries": [
                         {
-                           "url": "https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf",
+                           "url": "https://web.archive.org/web/20230816231124/https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf",
                            "title": "Java",
                            "author": "Moshfegh Hamedani",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/",
@@ -64581,12 +64637,13 @@
                            "author": "OverAPI"
                         },
                         {
-                           "url": "https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet",
+                           "url": "https://web.archive.org/web/20220705200154/https://www.codecademy.com/learn/learn-python-3",
                            "title": "Python Cheatsheet for beginners",
                            "author": "Codeacademy",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://ehmatthes.github.io/pcc/cheatsheets/README.html",
@@ -64819,12 +64876,13 @@
                            ]
                         },
                         {
-                           "url": "https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf",
+                           "url": "https://web.archive.org/web/20211227021126/https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf",
                            "title": "Raspberry Pi Basics cheatsheet",
                            "author": "Woolsey Workshop",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Cheatsheet.pdf",
