@@ -43629,6 +43629,14 @@
                                  "author": "Programiz"
                               },
                               {
+                                 "url": "https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction",
+                                 "title": "MySQL for Developers",
+                                 "author": "Aaron Francis",
+                                 "notes": [
+                                    "PlanetScale"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl",
                                  "title": "MySQL Playlist",
                                  "author": "Krish Naik"
