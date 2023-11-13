@@ -13991,6 +13991,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
+                           "title": "CSS Transition vs CSS animation",
+                           "author": "Oluwatobi Sofela"
+                        },
+                        {
                            "url": "http://diveinto.html5doctor.com",
                            "title": "Dive Into HTML5",
                            "author": "Mark Pilgrim",
@@ -38337,6 +38342,19 @@
                            "title": "null podcast",
                            "notes": [
                               "podcast"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Ruby",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLEWqXxI7lAZIHZ4s3fcuy1UmF_YiQkZpi",
+                           "title": "Yakut",
+                           "notes": [
+                              "screencast"
                            ]
                         }
                      ],
