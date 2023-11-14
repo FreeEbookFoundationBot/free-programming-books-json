@@ -6222,6 +6222,29 @@
             },
             {
                "language": {
+                  "code": "hy",
+                  "name": "Armenian"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://armath.am/uploads/E-learning/Robotics/RaspberryPi/python.pdf",
+                           "title": "Python Ուղեցույց",
+                           "author": "Վարդուհի Անդրեասյան",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "id",
                   "name": "Indonesian"
                },
@@ -40660,6 +40683,11 @@
                            "author": "Sharif Chowdhury"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLf3nMuwgaMb24VtxNGQcUKr2NVenMkzGC",
+                           "title": "Notepad++ tutorial in Bangla for beginner",
+                           "author": "Community Solution IT"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgV8FC0EoxMcKrw5VydxZAZ0ZivXWL_ej",
                            "title": "Sublime Text 3 Bangla Tutorial - (Beginners to Advanced)",
                            "author": "Positive World"
@@ -41012,6 +41040,11 @@
                            "url": "https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9",
                            "title": "MongoDB Bangla tutorial series",
                            "author": "Anisul Islam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFe5tIAh3FB8avnQBD5FFXvE",
+                           "title": "MongoDB Bangla Tutorials | MongoDB  Crash Course in Bangla | MongoDB NoSQL Database Tutorial in Bengali",
+                           "author": "Study Mart"
                         }
                      ],
                      "subsections": []
@@ -41291,6 +41324,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l",
                            "title": "WordPress Theme Development Tutorial Bangla ",
                            "author": "Procoder BD"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLn_JOV5gUeKwLEMqi93W6eswy4hEQ_ouL",
+                           "title": "WP Theme Development with ChatGPT",
+                           "author": "Md Maruf Adnan Sami"
                         }
                      ],
                      "subsections": []
@@ -41668,11 +41706,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLRKOqqzwh75huOam-77G1v9uHjO9WWBRX",
                            "title": "Codechef Solutions",
                            "author": "Endeavour Monk"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
-                           "title": "Complete C++ Placement DSA Course",
-                           "author": "CodeHelp - by Babbar"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16",
@@ -50994,6 +51027,11 @@
                            "author": "Pepcoding"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
+                           "title": "Complete C++ Placement DSA Course",
+                           "author": "CodeHelp by Babbar"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
                            "title": "Data Structures and Algorithms Course in Hindi",
                            "author": "CodeWithHarry"
@@ -51876,6 +51914,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLz7ymP4HzwSH3vAnhDWLkO2TLbwGeigl7",
                            "title": "Flutter Widgets in Hindi",
                            "author": "Ahirlog"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=j-LOab_PzzU",
+                           "title": "Master Flutter in Just 8 Hours | Full Course Hindi",
+                           "author": "Codepur"
                         }
                      ],
                      "subsections": []
@@ -61967,6 +62010,11 @@
                            "url": "https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8",
                            "title": "Git İleri Eğitim Serisi",
                            "author": "Kodluyoruz"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLld6WWpFK1nEhFvvYi5ts-_JoUL3wF3zz",
+                           "title": "Git/Github Sıfırdan Kapsamlı Eğitim Seti",
+                           "author": "Bidoluyazılım"
                         }
                      ],
                      "subsections": []
@@ -66874,6 +66922,10 @@
                            "title": "LabStack"
                         },
                         {
+                           "url": "https://www.codinguru.online/compiler/cpp",
+                           "title": "Online C++ Compiler"
+                        },
+                        {
                            "url": "https://www.onlinegdb.com/online_c++_compiler",
                            "title": "OnlineGDB"
                         },
@@ -67009,6 +67061,10 @@
                      "section": "Go",
                      "entries": [
                         {
+                           "url": "https://www.codinguru.online/compiler/go",
+                           "title": "GO Lang Compiler"
+                        },
+                        {
                            "url": "https://play.golang.org",
                            "title": "Go Playground"
                         },
@@ -67069,6 +67125,10 @@
                            "author": "Codepip"
                         },
                         {
+                           "url": "https://www.codinguru.online/compiler/html",
+                           "title": "HTML, CSS, JavaScript"
+                        },
+                        {
                            "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css",
                            "title": "Learn advanced html and css",
                            "author": "The Odin Project"
@@ -67110,6 +67170,10 @@
                         {
                            "url": "https://www.interviewbit.com/online-java-compiler/",
                            "title": "InterviewBit - Online Java Compiler IDE"
+                        },
+                        {
+                           "url": "https://www.codinguru.online/compiler/java",
+                           "title": "Java Compiler"
                         },
                         {
                            "url": "https://www.jdoodle.com/online-java-compiler-ide/",
@@ -67173,6 +67237,10 @@
                         {
                            "url": "https://www.interviewbit.com/online-javascript-compiler/",
                            "title": "InterviewBit - Online JavaScript Compiler IDE"
+                        },
+                        {
+                           "url": "https://www.codinguru.online/compiler/javascript",
+                           "title": "JavaScript Compiler"
                         },
                         {
                            "url": "https://jsbin.com",
@@ -67240,6 +67308,16 @@
                         {
                            "url": "https://labs.play-with-k8s.com",
                            "title": "Play with Kubernetes"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Markdown",
+                     "entries": [
+                        {
+                           "url": "https://www.codinguru.online/compiler/markdown",
+                           "title": "Markdown Editor"
                         }
                      ],
                      "subsections": []
@@ -67334,6 +67412,10 @@
                            "title": "ExtendsClass"
                         },
                         {
+                           "url": "https://www.codinguru.online/compiler/php",
+                           "title": "PHP Online Compiler"
+                        },
+                        {
                            "url": "http://phptester.net",
                            "title": "PHPTester"
                         },
@@ -67366,6 +67448,10 @@
                         {
                            "url": "https://pynative.com/online-python-code-editor-to-execute-python-code/",
                            "title": "Pynative.com"
+                        },
+                        {
+                           "url": "https://www.codinguru.online/compiler/python",
+                           "title": "Python Online Compilers"
                         },
                         {
                            "url": "https://trinket.io/python",
@@ -67405,6 +67491,10 @@
                         {
                            "url": "http://www.r-fiddle.org",
                            "title": "R-Fiddle"
+                        },
+                        {
+                           "url": "https://www.codinguru.online/compiler/R",
+                           "title": "R Online Editors"
                         },
                         {
                            "url": "https://rextester.com/l/r_online_compiler",
