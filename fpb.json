@@ -41570,6 +41570,11 @@
                      "section": "SQL",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL_pqkvxZ6ho1dn7jRkTfoYBXhw5c9jll0",
+                           "title": "Datenbanken und SQL",
+                           "author": "Programmieren Starten"
+                        },
+                        {
                            "url": "https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen",
                            "title": "SQL-Grundlagen",
                            "author": "SelfHTML"
@@ -50119,6 +50124,11 @@
                      "section": "VS Code",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/watch?v=Ei1y51K8jQk",
+                           "title": "Aprende VS Code ahora! | curso completo de VSCode desde CERO",
+                           "author": "HolaMundo"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/",
                            "title": "Visual Studio Code: Mejora tu velocidad para codificar",
                            "author": "Fernando Herrera"
@@ -51008,13 +51018,6 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/",
-                           "title": "Self.py – הדרך שלך ללמוד פייתון",
-                           "notes": [
-                              "קמפוסIL והמרכז לחינוך סייבר"
-                           ]
-                        },
-                        {
                            "url": "https://campus.gov.il/course/course-v1-cs-gov-cs-nextpy102/",
                            "title": "Next.py – הצעד הבא שלך בפייתון",
                            "notes": [
@@ -51024,6 +51027,18 @@
                         {
                            "url": "https://campus.gov.il/course/cs-gov-cs-networkpy103-2020-1/",
                            "title": "network.py לתכנת במרחב הרשת",
+                           "notes": [
+                              "קמפוסIL והמרכז לחינוך סייבר"
+                           ]
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL1ZSrkGSJEGMgiAaEx1Cw3khbdDXGx_6i",
+                           "title": "Python Course Hebrew",
+                           "author": "Geek of Automation"
+                        },
+                        {
+                           "url": "https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/",
+                           "title": "Self.py – הדרך שלך ללמוד פייתון",
                            "notes": [
                               "קמפוסIL והמרכז לחינוך סייבר"
                            ]
@@ -60343,6 +60358,11 @@
                            "url": "https://youtube.com/playlist?list=PLvvtf05eMZ2CXD2JdZgSBgyl13ODqHOkO",
                            "title": "C# Full Course in Sinhala",
                            "author": "Fiqri Ismail"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLUrYmKQ-FfzqVhQWb2qQLWB0hCF9oyVuy",
+                           "title": "C# Programming Sinhala - Complete Tutorial Series",
+                           "author": "TechStreet"
                         }
                      ],
                      "subsections": []
@@ -61559,6 +61579,11 @@
                            "url": "https://www.youtube.com/watch?v=2XB5CddzEaM",
                            "title": "SQL commands and PL/SQL programs complete in telugu - Oracle SQL-PL/SQL in telugu",
                            "author": "Edusoft Learning Systems - Learning Simplified"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLANRDZaL1nlsfBLayvMb_y9k__o_8kt24",
+                           "title": "SQL Tutorial for beginners in Telugu",
+                           "author": "Telugu Programmer"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1",
