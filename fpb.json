@@ -5316,6 +5316,11 @@
                            "author": "Kenneth Reitz"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G",
+                           "title": "Python Programming in French",
+                           "author": "Data Scientist Nigeria"
+                        },
+                        {
                            "url": "https://perso.limsi.fr/pointal/python:courspython3",
                            "title": "Une introduction à Python 3",
                            "author": "Bob Cordeau, Laurent Pointal"
@@ -7837,15 +7842,12 @@
                               {
                                  "url": "https://thinca.hatenablog.com/entry/20100201/1265009821",
                                  "title": "Vim スクリプト基礎文法最速マスター",
-                                 "author": "id:thinca"
+                                 "author": "@thinca"
                               },
                               {
                                  "url": "https://vim-jp.org/vimdoc-ja/usr_41.html",
                                  "title": "Vim スクリプト書法",
-                                 "author": "Bram Moolenaar, vimdoc-ja プロジェクト",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": "Bram Moolenaar,"
                               }
                            ]
                         },
@@ -7880,11 +7882,7 @@
                               {
                                  "url": "https://producingoss.com/ja/",
                                  "title": "オープンソースソフトウェアの育て方",
-                                 "author": "Fogel Karl, 高木正弘",
-                                 "notes": [
-                                    "翻訳",
-                                    "翻訳"
-                                 ]
+                                 "author": "Fogel Karl,"
                               },
                               {
                                  "url": "https://github.com/oss-gate/first-feedback-guidebook",
@@ -8032,26 +8030,17 @@
                               {
                                  "url": "https://tatsu-zine.com/books/kk1",
                                  "title": "ケヴィン・ケリー著作選集　１",
-                                 "author": "ケヴィン・ケリー, 堺屋七左衛門",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": "ケヴィン・ケリー,"
                               },
                               {
                                  "url": "https://tatsu-zine.com/books/kk2",
                                  "title": "ケヴィン・ケリー著作選集　２",
-                                 "author": "ケヴィン・ケリー, 堺屋七左衛門",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": "ケヴィン・ケリー,"
                               },
                               {
                                  "url": "https://tatsu-zine.com/books/kk3",
                                  "title": "ケヴィン・ケリー著作選集　３",
-                                 "author": "ケヴィン・ケリー, 堺屋七左衛門",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": "ケヴィン・ケリー,"
                               },
                               {
                                  "url": "http://www.aoky.net",
@@ -8327,7 +8316,7 @@
                         {
                            "url": "https://gist.github.com/nobuoka/6546813",
                            "title": "Android アプリ開発のための Java 入門",
-                           "author": "id:nobuoka"
+                           "author": "@nobuoka"
                         },
                         {
                            "url": "https://mixi-inc.github.io/AndroidTraining/",
@@ -8337,10 +8326,7 @@
                         {
                            "url": "http://www.textdrop.net/android/code-style-ja.html",
                            "title": "コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳",
-                           "author": "Android Open Source Project, Takashi Sasai",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Android Open Source Project,"
                         }
                      ],
                      "subsections": []
@@ -8404,31 +8390,22 @@
                         {
                            "url": "https://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html",
                            "title": "BASH Programming - Introduction HOW-TO",
-                           "author": "Mike G, 千旦裕司",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "trl:Mike G, 千旦裕司"
                         },
                         {
                            "url": "https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483",
                            "title": "Bash 基礎文法最速マスター",
-                           "author": "id:nattou_curry"
+                           "author": "@nattou_curry"
                         },
                         {
                            "url": "https://yakst.com/ja/posts/2929",
                            "title": "Bashのよくある間違い",
-                           "author": "GreyCat, @yakstcom",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "GreyCat, trl:@yakstcom"
                         },
                         {
                            "url": "https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md",
                            "title": "The Art of Command Line",
-                           "author": "Joshua Levy, Hayato Matsuura",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Joshua Levy,"
                         },
                         {
                            "url": "https://shellscript.sunone.me",
@@ -8514,10 +8491,7 @@
                         {
                            "url": "https://ttsuki.github.io/styleguide/cppguide.ja.html",
                            "title": "Google C++ スタイルガイド 日本語全訳",
-                           "author": "Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, ttsuki",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray,"
                         },
                         {
                            "url": "https://web.archive.org/web/20170607163002/http://episteme.wankuma.com/stlprog",
@@ -8548,18 +8522,12 @@
                         {
                            "url": "https://github.com/totakke/clojure-style-guide",
                            "title": "Clojureスタイルガイド",
-                           "author": "Bozhidar Batsov, Toshiki TAKEUCHI",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Bozhidar Batsov,"
                         },
                         {
                            "url": "https://github.com/TranslateBabelJapan/modern-cljs",
                            "title": "Modern cljs(翻訳中)",
-                           "author": "Mimmo Cosenza, @esehara",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Mimmo Cosenza,"
                         },
                         {
                            "url": "https://github.com/making/rd-clj",
@@ -8575,15 +8543,12 @@
                         {
                            "url": "https://blog.bokuweb.me/entry/2015/01/06/190240",
                            "title": "CoffeeScript基礎文法最速マスター",
-                           "author": "id:bokuweb"
+                           "author": "@bokuweb"
                         },
                         {
                            "url": "https://minghai.github.io/library/coffeescript",
                            "title": "The Little Book on CoffeeScript",
-                           "author": "Alex MacCaw, Narumi Katoh",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Alex MacCaw,"
                         },
                         {
                            "url": "https://kyu-mu.net/coffeescript/revref",
@@ -8604,15 +8569,7 @@
                         {
                            "url": "http://proofcafe.org/sf",
                            "title": "ソフトウェアの基礎",
-                           "author": "Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, 梅村晃広",
-                           "notes": [
-                              "翻訳",
-                              "翻訳",
-                              "翻訳",
-                              "翻訳",
-                              "翻訳",
-                              "翻訳"
-                           ]
+                           "author": "Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey,"
                         }
                      ],
                      "subsections": []
@@ -8733,18 +8690,12 @@
                         {
                            "url": "https://www.spinute.org/go-by-example",
                            "title": "サンプルで学ぶ Go 言語",
-                           "author": "Mark McGranaghan, spinute",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Mark McGranaghan,"
                         },
                         {
                            "url": "https://andmorefine.gitbook.io/learn-go-with-tests/",
                            "title": "テスト駆動開発でGO言語を学びましょう",
-                           "author": "Christopher James, andmorefine",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Christopher James,"
                         },
                         {
                            "url": "https://www.tohoho-web.com/ex/golang.html",
@@ -8759,10 +8710,7 @@
                         {
                            "url": "http://go.shibu.jp",
                            "title": "プログラミング言語 Go ドキュメント",
-                           "author": "The Go Authors, SHIBUKAWA Yoshiki 他",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "The Go Authors,"
                         }
                      ],
                      "subsections": []
@@ -8831,7 +8779,7 @@
                         {
                            "url": "https://ruicc.hatenablog.jp/entry/20100131/1264905896",
                            "title": "Haskell 基礎文法最速マスター",
-                           "author": "id:ruicc"
+                           "author": "@ruicc"
                         },
                         {
                            "url": "https://aiya000.gitbooks.io/haskell_de_groupstructure",
@@ -8865,10 +8813,7 @@
                         {
                            "url": "http://tutorial.rubymotion.jp",
                            "title": "RubyMotion Tutorial: Ruby で iOS アプリを作ろう",
-                           "author": "Clay Allsopp, RubyMotion JP",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Clay Allsopp,"
                         }
                      ],
                      "subsections": []
@@ -8876,6 +8821,14 @@
                   {
                      "section": "Java",
                      "entries": [
+                        {
+                           "url": "https://ousar.lib.okayama-u.ac.jp/files/public/5/55952/20180614114854955908/K0005730_fulltext.pdf",
+                           "title": "Javaプログラミング学習支援システムのソフトウェアアーキテクチャと2種類の新問題形式の提案",
+                           "author": "石原信也",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094",
                            "title": "Java基礎文法最速マスター",
@@ -8889,9 +8842,8 @@
                         {
                            "url": "http://seiza.dip.jp/link/files/writingrobustjavacode.pdf",
                            "title": "頑健なJavaプログラムの書き方",
-                           "author": "Scott W. Ambler, 高橋徹",
+                           "author": "Scott W. Ambler,",
                            "notes": [
-                              "翻訳",
                               "PDF"
                            ]
                         }
@@ -8904,18 +8856,12 @@
                         {
                            "url": "https://mitsuruog.github.io/javascript-style-guide",
                            "title": "Airbnb JavaScript スタイルガイド",
-                           "author": "Airbnb, 小川充",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Airbnb,"
                         },
                         {
                            "url": "https://w.atwiki.jp/aias-jsstyleguide2",
                            "title": "Google JavaScript スタイルガイド",
-                           "author": "Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker,"
                         },
                         {
                            "url": "https://azu.gitbooks.io/javascript-plugin-architecture/content",
@@ -8935,7 +8881,7 @@
                         {
                            "url": "https://gifnksm.hatenablog.jp/entry/20100131/1264934942",
                            "title": "JavaScript 基礎文法最速マスター",
-                           "author": "id:gifnksm"
+                           "author": "@gifnksm"
                         },
                         {
                            "url": "https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx",
@@ -8985,10 +8931,7 @@
                               {
                                  "url": "https://js.studio-kingdom.com/angularjs",
                                  "title": "AngularJS 1.2 日本語リファレンス",
-                                 "author": "@tomof",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": ""
                               },
                               {
                                  "url": "https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md",
@@ -9036,10 +8979,7 @@
                               {
                                  "url": "https://popkirby.github.io/contents/nodeguide/style.html",
                                  "title": "Felix's Node.js Style Guide",
-                                 "author": "Debuggable Limited, @popkirby",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": "Debuggable Limited,"
                               },
                               {
                                  "url": "https://github.com/omatoro/NodeSample",
@@ -9049,10 +8989,7 @@
                               {
                                  "url": "https://www.nodebeginner.org/index-jp.html",
                                  "title": "Nodeビギナーズブック",
-                                 "author": "Manuel Kiessling, Yuki Kawashima",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": "Manuel Kiessling,"
                               }
                            ]
                         },
@@ -9062,10 +8999,7 @@
                               {
                                  "url": "https://js.studio-kingdom.com/react",
                                  "title": "React 0.13 日本語リファレンス",
-                                 "author": "@tomof",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": ""
                               },
                               {
                                  "url": "https://ja.reactjs.org/tutorial/tutorial.html",
@@ -9147,18 +9081,12 @@
                         {
                            "url": "https://lfsbookja.osdn.jp/7.4.ja/",
                            "title": "Linux from Scratch (Version 7.4)",
-                           "author": "Gerard Beekmans, 松山道夫",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Gerard Beekmans,"
                         },
                         {
                            "url": "https://linuxjf.osdn.jp/JFdocs/Secure-Programs-HOWTO",
                            "title": "Secure Programming for Linux and Unix HOWTO",
-                           "author": "David A. Wheeler, 高橋聡",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "David A. Wheeler,"
                         }
                      ],
                      "subsections": []
@@ -9193,10 +9121,7 @@
                         {
                            "url": "http://www.asahi-net.or.jp/~kc7k-nd",
                            "title": "On Lisp (草稿)",
-                           "author": "Paul Graham, 野田開",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Paul Graham,"
                         },
                         {
                            "url": "http://lambda.bugyo.tk/cdr/mwl",
@@ -9249,18 +9174,12 @@
                         {
                            "url": "http://foozy.bitbucket.org/hgbook-ja/index.ja.html",
                            "title": "Mercurial: The Definitive Guide",
-                           "author": "Bryan O'Sullivan, 藤原克則",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Bryan O'Sullivan,"
                         },
                         {
                            "url": "https://mmitou.hatenadiary.org/entry/20100501/1272680474",
                            "title": "Mercurial チュートリアル hginit.com の和訳",
-                           "author": "Joel Spolsky, id:mmitou",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Joel Spolsky,"
                         }
                      ],
                      "subsections": []
@@ -9285,19 +9204,15 @@
                         {
                            "url": "https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf",
                            "title": "MongoDBの薄い本",
-                           "author": "Karl Seguin, 濱野司",
+                           "author": "Karl Seguin,",
                            "notes": [
-                              "翻訳",
                               "PDF"
                            ]
                         },
                         {
                            "url": "https://github.com/craftgear/the-little-redis-book",
                            "title": "The Little Redis Book",
-                           "author": "Karl Seguin,",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Karl Seguin,"
                         }
                      ],
                      "subsections": []
@@ -9308,10 +9223,7 @@
                         {
                            "url": "http://www.textdrop.net/google-styleguide-ja/objcguide.xml",
                            "title": "Google Objective-C スタイルガイド 日本語訳",
-                           "author": "Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Mike Pinkerton, Greg Miller, Dave MacLachlan,"
                         },
                         {
                            "url": "https://marycore.jp/prog/objective-c/basic-syntax",
@@ -9329,7 +9241,7 @@
                         {
                            "url": "https://fn7.hatenadiary.org/entry/20100203/1265207098",
                            "title": "Objective-C 最速基礎文法マスター",
-                           "author": "id:fn7"
+                           "author": "@fn7"
                         }
                      ],
                      "subsections": []
@@ -9356,10 +9268,7 @@
                         {
                            "url": "https://qntm.org/files/perl/perl_jp.html",
                            "title": "2時間半で学ぶPerl",
-                           "author": "Sam Hughes, Kato Atsusi",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Sam Hughes,"
                         },
                         {
                            "url": "https://ja.wikibooks.org/wiki/Perl",
@@ -9485,11 +9394,7 @@
                         {
                            "url": "http://diveintopython3-ja.rdy.jp",
                            "title": "Dive Into Python 3 日本語版",
-                           "author": "Mark Pilgrim, Fukada",
-                           "notes": [
-                              "翻訳",
-                              "翻訳"
-                           ]
+                           "author": "Mark Pilgrim,"
                         },
                         {
                            "url": "https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/",
@@ -9504,15 +9409,12 @@
                         {
                            "url": "http://turbare.net/transl/scipy-lecture-notes",
                            "title": "Python Scientific Lecture Notes",
-                           "author": "打田旭宏",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": ""
                         },
                         {
                            "url": "https://aidiary.hatenablog.com/entry/20110514/1305377659",
                            "title": "Python で音声信号処理",
-                           "author": "id:aidiary"
+                           "author": "@aidiary"
                         },
                         {
                            "url": "http://www.s12600.net/psy/python",
@@ -9527,12 +9429,7 @@
                         {
                            "url": "https://www.nltk.org/book-jp/ch12.html",
                            "title": "Python による日本語自然言語処理",
-                           "author": "Steven Bird, Ewan Klein, Edward Loper, 萩原正人",
-                           "notes": [
-                              "翻訳",
-                              "翻訳",
-                              "翻訳"
-                           ]
+                           "author": "Steven Bird, Ewan Klein, Edward Loper,"
                         },
                         {
                            "url": "https://skitazaki.github.io/python-school-ja",
@@ -9542,40 +9439,27 @@
                         {
                            "url": "https://python-guide-ja.readthedocs.io/en/latest",
                            "title": "Python ヒッチハイク・ガイド",
-                           "author": "Kenneth Reitz, Tsuyoshi Tokuda",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Kenneth Reitz,"
                         },
                         {
                            "url": "https://methane.github.io/gevent-tutorial-ja",
                            "title": "Python プログラマーのための gevent チュートリアル",
-                           "author": "Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, methane",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov,"
                         },
                         {
                            "url": "https://dplusplus.hatenablog.com/entry/20100126/p1",
                            "title": "Python 基礎文法最速マスター",
-                           "author": "id:dplusplus"
+                           "author": "@dplusplus"
                         },
                         {
                            "url": "https://sites.google.com/site/theprogramminghistorianja",
                            "title": "The Programming Historian",
-                           "author": "William J. Turkel, Alan MacEachern, @moroshigeki",
-                           "notes": [
-                              "翻訳",
-                              "翻訳",
-                              "翻訳",
-                              "翻訳",
-                              "翻訳"
-                           ]
+                           "author": "William J. Turkel, Alan MacEachern,"
                         },
                         {
                            "url": "http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf",
                            "title": "Think Python：コンピュータサイエンティストのように考えてみよう",
-                           "author": "Allen Downey, 相川 利樹（翻訳）",
+                           "author": "Allen Downey,",
                            "notes": [
                               "PDF"
                            ]
@@ -9621,10 +9505,7 @@
                               {
                                  "url": "https://flask-docs-ja.readthedocs.io/en/latest",
                                  "title": "Flask ドキュメント",
-                                 "author": "Armin Ronacher, Tsuyoshi Tokuda",
-                                 "notes": [
-                                    "翻訳"
-                                 ]
+                                 "author": "Armin Ronacher,"
                               },
                               {
                                  "url": "https://methane.github.io/flask-handson",
@@ -9654,18 +9535,16 @@
                         {
                            "url": "https://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf",
                            "title": "R 言語定義",
-                           "author": "R Development Core Team, 間瀬茂",
+                           "author": "R Development Core Team,",
                            "notes": [
-                              "翻訳",
                               "PDF"
                            ]
                         },
                         {
                            "url": "https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf",
                            "title": "R 入門",
-                           "author": "W. N. Venables, D. M. Smith, R Development Core Team, 間瀬茂",
+                           "author": "W. N. Venables, D. M. Smith, R Development Core Team,",
                            "notes": [
-                              "翻訳",
                               "PDF"
                            ]
                         },
@@ -9707,20 +9586,12 @@
                         {
                            "url": "https://railsguides.jp",
                            "title": "Ruby on Rails ガイド",
-                           "author": "Rails community, 八田 昌三",
-                           "notes": [
-                              "翻訳",
-                              "翻訳"
-                           ]
+                           "author": "Rails community,"
                         },
                         {
                            "url": "https://railstutorial.jp",
                            "title": "Ruby on Rails チュートリアル",
-                           "author": "Michael Hartl, 八田 昌三",
-                           "notes": [
-                              "翻訳",
-                              "翻訳"
-                           ]
+                           "author": "Michael Hartl,"
                         },
                         {
                            "url": "https://i.loveruby.net/ja/rhg/book",
@@ -9755,10 +9626,7 @@
                         {
                            "url": "http://www.aoky.net/articles/why_poignant_guide_to_ruby",
                            "title": "ホワイの(感動的)Rubyガイド",
-                           "author": "why the lucky stiff, 青木靖",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "why the lucky stiff,"
                         },
                         {
                            "url": "https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf",
@@ -9777,18 +9645,13 @@
                         {
                            "url": "https://doc.rust-jp.rs/rust-by-example-ja",
                            "title": "Rust by Example 日本語版",
-                           "author": "Rustコミュニティ",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": ""
                         },
                         {
                            "url": "https://doc.rust-jp.rs/book-ja",
                            "title": "The Rust Programming Language 日本語版",
-                           "author": "Steve Klabnik, Carol Nichols, Rustコミュニティ",
-                           "notes": [
-                              "翻訳"
-                           ],
+                           "author": "Steve Klabnik, Carol Nichols,",
+                           "notes": [],
                            "manualReviewRequired": true
                         }
                      ],
@@ -9811,11 +9674,7 @@
                         {
                            "url": "https://twitter.github.io/effectivescala/index-ja.html",
                            "title": "Effective Scala",
-                           "author": "Marius Eriksen, Yuta Okamoto",
-                           "notes": [
-                              "翻訳",
-                              "翻訳"
-                           ]
+                           "author": "Marius Eriksen,"
                         },
                         {
                            "url": "https://eed3si9n.com/tetrix-in-scala/ja",
@@ -9985,18 +9844,12 @@
                         {
                            "url": "https://typescript-jp.gitbook.io/deep-dive/",
                            "title": "TypeScript Deep Dive 日本語版",
-                           "author": "basarat, yohamta",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "basarat,"
                         },
                         {
                            "url": "https://msakamaki.github.io/clean-code-typescript",
                            "title": "TypeScriptの為のクリーンコード",
-                           "author": "labs42io, 酒巻 瑞穂",
-                           "notes": [
-                              "翻訳"
-                           ]
+                           "author": "labs42io,"
                         },
                         {
                            "url": "https://typescriptbook.jp",
@@ -10038,7 +9891,7 @@
                         {
                            "url": "https://nattou-curry-2.hatenadiary.org/entry/20100129/1264787849",
                            "title": "VBA基礎文法最速マスター",
-                           "author": "id:nattou_curry"
+                           "author": "@nattou_curry"
                         },
                         {
                            "url": "https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference",
@@ -26114,6 +25967,116 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"cpp\">",
+                     "entries": [
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/40777-programski-jezik-c-sa-resenim-zadacima",
+                           "title": "Programski jezik C++ sa rešenim zadacima",
+                           "author": "Ranko Popović, Zona Kostić",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "HTML and CSS",
+                     "entries": [
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/42767-web-dizajn-html-css-i-javascript",
+                           "title": "Web dizajn: HTML, CSS i JavaScript",
+                           "author": "Nenad Kojić",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Java",
+                     "entries": [
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/40880-internet-programiranje-pomocu-programskog-jezika-java",
+                           "title": "Internet programiranje pomoću programskog jezika JAVA",
+                           "author": "Boško Nikolić, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/43019-java-programiranje",
+                           "title": "Java programiranje",
+                           "author": "Dejan Živković, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/40891-java-programiranje-staro-izdanje",
+                           "title": "Java programiranje - Staro izdanje",
+                           "author": "Dejan Živković, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/40717-osnove-java-programiranja-staro-izdanje",
+                           "title": "Java programiranje - Staro izdanje",
+                           "author": "Dejan Živković, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/40716-osnove-java-programiranja",
+                           "title": "Osnove Java programiranja",
+                           "author": "Dejan Živković, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/40721-osnove-java-programiranja-zbirka-pitanja-i-zadataka",
+                           "title": "Osnove Java programiranja - Zbirka pitanja i zadataka",
+                           "author": "Dejan Živković, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "JavaScript",
+                     "entries": [
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/42767-web-dizajn-html-css-i-javascript",
+                           "title": "Web dizajn: HTML, CSS i JavaScript",
+                           "author": "Nenad Kojić, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://singipedia.singidunum.ac.rs/izdanje/42765-osnove-programiranja-python",
+                           "title": "Osnove programiranja - Python",
+                           "author": "Vladislav Miškovic, Univerzitet Singidunum",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -26611,6 +26574,11 @@
                            "notes": [
                               "PDF, EPUB"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/norvig/paip-lisp",
+                           "title": "Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp",
+                           "author": "Peter Norvig"
                         },
                         {
                            "url": "https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
@@ -34982,6 +34950,14 @@
                      "section": "JavaScript",
                      "entries": [
                         {
+                           "url": "https://20minjs.com",
+                           "title": "20 Min JS",
+                           "author": "Agustinus Theodorus, Chris Bongers, Mark Volkmann, et al.",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://devmode.fm",
                            "title": "devMode.fm",
                            "author": "Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg",
@@ -38043,7 +38019,41 @@
                            ]
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Node.js",
+                           "entries": [
+                              {
+                                 "url": "https://learn.javascript.ru/screencast/nodejs",
+                                 "title": "Скринкаст Node.JS",
+                                 "author": "Илья Кантор",
+                                 "notes": [
+                                    "Screencast"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "React.js",
+                           "entries": [
+                              {
+                                 "url": "http://learn.javascript.ru/screencast/react",
+                                 "title": "Основы React.js",
+                                 "author": "Роман Якобчук",
+                                 "notes": [
+                                    "Screencast"
+                                 ]
+                              },
+                              {
+                                 "url": "http://5minreact.ru",
+                                 "title": "Пятиминутка React",
+                                 "notes": [
+                                    "Podcast"
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": ".NET",
@@ -38076,20 +38086,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Node.js",
-                     "entries": [
-                        {
-                           "url": "https://learn.javascript.ru/screencast/nodejs",
-                           "title": "Скринкаст Node.JS",
-                           "author": "Илья Кантор",
-                           "notes": [
-                              "Screencast"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "PHP",
                      "entries": [
                         {
@@ -38115,27 +38111,6 @@
                         {
                            "url": "https://automation-remarks.com/tags/QAGuild.html",
                            "title": "QAGuild",
-                           "notes": [
-                              "Podcast"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "React.js",
-                     "entries": [
-                        {
-                           "url": "http://learn.javascript.ru/screencast/react",
-                           "title": "Основы React.js",
-                           "author": "Роман Якобчук",
-                           "notes": [
-                              "Screencast"
-                           ]
-                        },
-                        {
-                           "url": "http://5minreact.ru",
-                           "title": "Пятиминутка React",
                            "notes": [
                               "Podcast"
                            ]
@@ -38938,6 +38913,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2",
                                  "title": "MySQL tutorials || بناء قواعد البيانات بكفاءة عالية",
                                  "author": "TheNewBaghdad"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=kb-_GbpH3sQ",
+                                 "title": "SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء",
+                                 "author": "Big Data"
                               }
                            ]
                         }
@@ -38986,6 +38966,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl",
                            "title": "Kubernetes بالعربي",
                            "author": "Codographia"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Docker",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=PrusdhS2lmo",
+                           "title": "Docker and Kubernetes | العلبة دي فيها سوعبان | Arabic",
+                           "author": "Ahmed Sami"
                         }
                      ],
                      "subsections": []
@@ -39100,6 +39091,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF",
                            "title": "Git and Github‏",
                            "author": "Elzero Web School"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=Q6G-J54vgKc&t=3162s&pp=ygUMZ2l0IGJpZyBkYXRh",
+                           "title": "Git and GitHub | شخبط وانت متطمن ",
+                           "author": "Ahmed Sami"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL1FWK-sgJ9elQBDq5EtQ8AJFTlfqCJfEX",
@@ -40012,6 +40008,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE",
                            "title": "تعلم أساسيات البرمجة",
                            "author": "غريب الشيخ || Ghareeb Elshaik"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYW0LRZ3ePo6IYDS2K5IhmuP5qY3dmI9e",
+                           "title": "قناة علم البيانات - حسام الحوراني",
+                           "author": "Hussam Hourani"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ",
@@ -42674,6 +42675,11 @@
                            "author": "ProgrammingKnowledge"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=irqbmMNs2Bo",
+                           "title": "C Programming Tutorials for Beginners (with notes & practice questions)",
+                           "author": "Apna College"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe",
                            "title": "C tutorial for beginners",
                            "author": "Bro Code"
@@ -44703,6 +44709,14 @@
                            "author": "Wrath of Math"
                         },
                         {
+                           "url": "https://nptel.ac.in/courses/111106102",
+                           "title": "Graph Theory",
+                           "author": "Prof. Soumen Maity",
+                           "notes": [
+                              "NPTEL"
+                           ]
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur",
                            "title": "Graph Theory - DM",
                            "author": "SCCI Labs IIT Ropar"
@@ -45334,6 +45348,11 @@
                            "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
                            "title": "Java Tutorial for Beginners",
                            "author": "Programming with Mosh"
+                        },
+                        {
+                           "url": "https://www.scaler.com/topics/java/",
+                           "title": "Java Tutorial For Beginners",
+                           "author": "Tarun Luthra"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK",
@@ -51930,6 +51949,11 @@
                            "author": "Pelfizz Studio"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=UjPpvf4TNLI",
+                           "title": "Figma Tutorial For Beginners in Hindi",
+                           "author": "Learn Grow"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl",
                            "title": "Figma Tutorial In Hindi 2022",
                            "author": "Thapa Technical"
@@ -52312,6 +52336,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV",
                            "title": "Core Java Programming (Hindi)",
                            "author": "Rajesh Kumar, Geeky Shows"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk",
+                           "title": "Hibernate tutorial Basic to Advance in Hindi",
+                           "author": "Learn Code With Durgesh"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
@@ -53391,6 +53420,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R",
                            "title": "Complete Ethical Hacking Tutorial for Beginners to Pro 2022",
                            "author": "WsCube Tech"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLE3bzAX_OzbkQXKbRFqQqbnlGxTNeaUqe",
+                           "title": "Cryptography and Network Security Lecture in Hindi / Urdu for Beginners",
+                           "author": "Katoon Studio"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk",
@@ -54851,11 +54885,6 @@
                            "author": "Indonesia Belajar"
                         },
                         {
-                           "url": "https://www.petanikode.com/tutorial/python/",
-                           "title": "Tutorial Dasar Pemrograman Python",
-                           "author": "PetaniKode"
-                        },
-                        {
                            "url": "https://www.youtube.com/watch?v=rWC2iFlN3TM",
                            "title": "Tutorial Python Beginner Bahasa Indonesia",
                            "author": "Agung Setiawan"
@@ -55921,6 +55950,11 @@
                            "url": "https://youtube.com/playlist?list=PLUZkVL-W-8GJVkp8Az0SAWqmDPv5b2Tn9",
                            "title": "JavaScript course in Kannada",
                            "author": "script kiddie"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLQztdyH5OY4BvjvmU0PV8nTevqXjYcYEE",
+                           "title": "JavaScript for Beginners in Kannada(Full Course)",
+                           "author": "MicroDegree ಕನ್ನಡ"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLBVoFEaXQzK0ybl-O3g_2_PswaLzNGbb8",
@@ -62231,7 +62265,7 @@
                "index": {},
                "sections": [
                   {
-                     "section": "<a id=\"algorithms\">",
+                     "section": "Algorithms",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz",
@@ -62242,7 +62276,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"android\">",
+                     "section": "Android",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN",
@@ -62311,6 +62345,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Figma",
+                     "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLspW40rZgNekDbMeeuV8VLt3JoCMg8pQt&si=_J8tYEL3W0YFiHNh",
+                           "title": "Figma Design Complete Course in Urdu | Hindi",
+                           "author": "Tutorials Town"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"html-and-css\">",
                      "entries": [
                         {
@@ -62327,7 +62372,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"java\">",
+                     "section": "Java",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLU4yvac0MJbKs78u32MyVgYFg9d-6DYGL",
@@ -62338,7 +62383,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"python\">",
+                     "section": "Python",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI",
@@ -66024,6 +66069,11 @@
                            "author": "Scaler Topics"
                         },
                         {
+                           "url": "https://www.afterhoursprogramming.com/tutorial/javascript/",
+                           "title": "JavaScript Tutorial and Overview",
+                           "author": "After Hours Programming"
+                        },
+                        {
                            "url": "https://github.com/sethvincent/javascripting",
                            "title": "Javascripting"
                         },
@@ -66136,6 +66186,11 @@
                                  "url": "https://www.scaler.com/topics/react/",
                                  "title": "React Tutorial",
                                  "author": "Scaler Topics"
+                              },
+                              {
+                                 "url": "https://scrimba.com/learn/learnreact",
+                                 "title": "React Tutorial: Learn React JS",
+                                 "author": "Srimba"
                               }
                            ]
                         },
@@ -67180,6 +67235,10 @@
                            "title": "Go Playground"
                         },
                         {
+                           "url": "https://go-vim.appspot.com",
+                           "title": "Go-Vim"
+                        },
+                        {
                            "url": "https://code.sololearn.com/go",
                            "title": "SoloLearn"
                         }
@@ -67439,6 +67498,18 @@
                         {
                            "url": "https://www.codechef.com/ide",
                            "title": "CodeChef"
+                        },
+                        {
+                           "url": "https://ide.geeksforgeeks.org",
+                           "title": "GeeksforGeeks"
+                        },
+                        {
+                           "url": "https://ideone.com",
+                           "title": "Ideone"
+                        },
+                        {
+                           "url": "https://www.onlinegdb.com",
+                           "title": "OnlineGDB"
                         }
                      ],
                      "subsections": []
