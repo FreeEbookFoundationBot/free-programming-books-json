@@ -1100,9 +1100,9 @@
                                  "title": "Django Girls Tutoriál",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *in process*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: in process"
                               }
                            ]
                         }
@@ -1918,7 +1918,7 @@
                         {
                            "url": "https://github.com/pbouda/pyqt-und-pyside-buch",
                            "title": "PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt",
-                           "author": "Peter Bouda, Michael Palmer, Markus Wirz",
+                           "author": "Peter Bouda, Michael Palmer, Dr. Markus Wirz",
                            "notes": [],
                            "manualReviewRequired": true
                         },
@@ -1940,9 +1940,9 @@
                                  "title": "Django Girls Tutorial",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *in process*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: in Bearbeitung"
                               }
                            ]
                         }
@@ -4581,9 +4581,7 @@
                            "url": "https://fi.wikibooks.org/wiki/OpenGL",
                            "title": "OpenGL",
                            "author": "Wikikirjasto",
-                           "notes": [
-                              ":construction: *keskeneräinen*"
-                           ]
+                           "accessNotes": ":construction: keskeneräinen"
                         }
                      ],
                      "subsections": []
@@ -6228,9 +6226,9 @@
                                  "title": "Django Girls Tutorial",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *in process*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: in process"
                               }
                            ]
                         }
@@ -6303,9 +6301,7 @@
                            "url": "https://www.petanikode.com/tutorial/c/",
                            "title": "Belajar Pemrograman C untuk Pemula",
                            "author": "Ahmad Muhardian",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/",
@@ -6372,7 +6368,7 @@
                         {
                            "url": "https://www.petanikode.com/tutorial/codeigniter/",
                            "title": "Tutorial CodeIgniter 3 & 4",
-                           "accessNotes": "Dalam Proses"
+                           "accessNotes": ":construction: dalam proses"
                         },
                         {
                            "url": "http://mfikri.com/artikel/tutorial-codeigniter4",
@@ -6452,7 +6448,7 @@
                            "notes": [
                               "Petani Kode"
                            ],
-                           "accessNotes": ":construction: Dalam Proses"
+                           "accessNotes": ":construction: dalam proses"
                         },
                         {
                            "url": "https://www.petanikode.com/tutorial/html/",
@@ -6559,7 +6555,7 @@
                         {
                            "url": "https://www.petanikode.com/tutorial/javascript/",
                            "title": "Tutorial Dasar Javascript untuk Pemula",
-                           "accessNotes": "Dalam Proses"
+                           "accessNotes": ":construction: dalam proses"
                         },
                         {
                            "url": "https://id.javascript.info",
@@ -6850,7 +6846,7 @@
                            "notes": [
                               "Petani Kode"
                            ],
-                           "accessNotes": "Dalam Proses"
+                           "accessNotes": ":construction: dalam proses"
                         }
                      ],
                      "subsections": []
@@ -7744,9 +7740,9 @@
                                  "title": "Il tutorial di Django Girls",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *in process*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: in process"
                               }
                            ]
                         }
@@ -10342,9 +10338,9 @@
                                  "title": "장고걸스 튜토리얼 (Django Girls Tutorial)",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *in process*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: in process"
                               },
                               {
                                  "url": "https://wikidocs.net/book/4223",
@@ -10423,16 +10419,14 @@
                            "title": "러스트 프로그래밍 언어",
                            "author": "스티브 클라브닉, 캐롤 니콜스",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://hanbum.gitbooks.io/rustbyexample/content/",
                            "title": "Rust by Example",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         }
                      ],
                      "subsections": []
@@ -10722,18 +10716,18 @@
                            "url": "http://www.dyalog.com/mastering-dyalog-apl.htm",
                            "title": "Mastering Dyalog APL",
                            "notes": [
-                              "PDF",
-                              "HTML,IPYNB :construction: *in process*"
-                           ]
+                              "PDF, HTML, IPYNB"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://romilly.github.io/o-x-o",
                            "title": "Reinforcement Learning From The Ground Up",
                            "author": "Romilly Cocking",
                            "notes": [
-                              "PDF,HTML,IPYNB",
-                              ":construction: *in process*"
-                           ]
+                              "PDF, HTML, IPYNB"
+                           ],
+                           "accessNotes": ":construction: in process"
                         }
                      ],
                      "subsections": []
@@ -10802,9 +10796,7 @@
                            "url": "https://www.arduino.cc/en/Guide",
                            "title": "Getting Started with Arduino products",
                            "author": "Official Arduino Documentation",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "http://playground.arduino.cc/Main/ManualsAndCurriculum",
@@ -10842,9 +10834,9 @@
                            "title": "Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure (2020)",
                            "author": "Steve \"ardalis\" Smith",
                            "notes": [
-                              "PDF",
-                              ":construction: *in process*"
-                           ]
+                              "PDF"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "http://mvcmusicstore.codeplex.com",
@@ -10957,9 +10949,9 @@
                            "title": "ARM Assembly Language Programming",
                            "author": "Peter Knaggs",
                            "notes": [
-                              "PDF",
-                              ":construction: *in process*"
-                           ]
+                              "PDF"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "http://www.davidsalomon.name/assem.advertis/asl.pdf",
@@ -11927,7 +11919,8 @@
                            "author": "Šimon Tóth",
                            "notes": [
                               "PDF, LaTeX"
-                           ]
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://darrenyao.com/usacobook/cpp.pdf",
@@ -11938,7 +11931,7 @@
                            ]
                         },
                         {
-                           "url": "https://fbb-git.gitlab.io/cppannotations",
+                           "url": "https://fbb-git.gitlab.io/cppannotations/",
                            "title": "C++ Annotations",
                            "author": "Frank B. Brokken",
                            "notes": [
@@ -12759,23 +12752,22 @@
                            "title": "Joy of Elixir",
                            "author": "Ryan Bigg",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
+                              "HTML"
                            ],
                            "otherLinks": [
                               {
                                  "title": "Source",
                                  "url": "https://github.com/radar/joyofelixir"
                               }
-                           ]
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "http://learningelixir.joekain.com",
                            "title": "Learning Elixir",
                            "author": "Joseph Kain Blog",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
+                              "HTML"
                            ]
                         },
                         {
@@ -14040,9 +14032,9 @@
                            "title": "Magic of CSS",
                            "author": "Adam Schwartz",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "http://maintainablecss.com",
@@ -15406,9 +15398,7 @@
                               {
                                  "url": "https://singlepagebook.supportbee.com",
                                  "title": "Building Single Page Web Apps with Backbone.js",
-                                 "notes": [
-                                    ":construction: *in process*"
-                                 ]
+                                 "accessNotes": ":construction: in process"
                               },
                               {
                                  "url": "http://addyosmani.github.io/backbone-fundamentals/",
@@ -17303,9 +17293,9 @@
                            "title": "OCaml From the Ground Up",
                            "author": "Daniil Baturin",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://johnwhitington.net/ocamlfromtheverybeginning/",
@@ -17317,9 +17307,9 @@
                            "title": "OCaml Scientific Computing",
                            "author": "Liang Wang, Jianxin Zhao",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://dev.realworldocaml.org/toc.html",
@@ -18390,13 +18380,12 @@
                         },
                         {
                            "url": "https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf",
-                           "title": "Fundamentals of Python Programming",
+                           "title": "Fundamentals of  Python Programming",
                            "author": "Richard L. Halterman",
                            "notes": [
-                              "PDF",
-                              ":construction: *in process*"
+                              "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://developers.google.com/edu/python/",
@@ -19372,18 +19361,18 @@
                            "title": "Qt5 Cadaques",
                            "author": "Juergen Bocklage-Ryannel, Johan Thelin",
                            "notes": [
-                              "HTML, PDF, ePub",
-                              ":construction: *in process*"
-                           ]
+                              "HTML, PDF, ePub"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.qt.io/product/qt6/qml-book/preface-preface",
                            "title": "Qt6 Book",
                            "author": "Johan Thelin, Jürgen Bocklage-Ryannel, Cyril Lorquet",
                            "notes": [
-                              "HTML, PDF",
-                              ":construction: *in process*"
-                           ]
+                              "HTML, PDF"
+                           ],
+                           "accessNotes": ":construction: in process"
                         }
                      ],
                      "subsections": []
@@ -19697,9 +19686,7 @@
                         {
                            "url": "https://github.com/perl6/book/",
                            "title": "Using Perl 6",
-                           "notes": [
-                              ":construction: *project is dead*"
-                           ]
+                           "accessNotes": ":construction: project is dead"
                         },
                         {
                            "url": "https://learnxinyminutes.com/docs/raku/",
@@ -21531,8 +21518,8 @@
                                  "url": "https://github.com/bwasty/vulkan-tutorial-rs",
                                  "title": "Vulkan Tutorial RS",
                                  "author": "Benjamin Wasty, et al.",
+                                 "accessNotes": ":construction: in process",
                                  "notes": [
-                                    ":construction: *in process*",
                                     "Rust"
                                  ]
                               },
@@ -22582,6 +22569,15 @@
                            ]
                         },
                         {
+                           "url": "https://dbadmin.net.pl/category/sql/",
+                           "title": "Kurs SQL",
+                           "author": "Łukasz Bartnicki",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
                            "url": "https://www.sqlpedia.pl/kurs-sql",
                            "title": "Kurs SQL",
                            "author": "Jakub Kasprzak"
@@ -22716,9 +22712,9 @@
                                  "title": "Sistemas Operacionais: Conceitos e Mecanismos",
                                  "author": "Carlos A. Maziero",
                                  "notes": [
-                                    "PDF",
-                                    ":construction: *em contínuo desenvolvimento*"
-                                 ]
+                                    "PDF"
+                                 ],
+                                 "accessNotes": ":construction: em contínuo desenvolvimento"
                               }
                            ]
                         }
@@ -23117,9 +23113,7 @@
                            "url": "https://www.tsouanas.org/fmcbook/",
                            "title": "Matemática Fundacional para Computação - Em progresso",
                            "author": "Thanos Tsouanas",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: em contínuo desenvolvimento"
                         },
                         {
                            "url": "https://www.ime.usp.br/~pf/livrinho-AA/",
@@ -24357,9 +24351,7 @@
                                  "url": "http://networksciencebook.com",
                                  "title": "Наука о Сетях",
                                  "author": "Альберто Лазло-Барабаси",
-                                 "notes": [
-                                    ":construction: *in process*"
-                                 ]
+                                 "accessNotes": ":construction: в процессе написания"
                               },
                               {
                                  "url": "https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true",
@@ -25482,9 +25474,9 @@
                                  "title": "Руководство Django Girls",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *в процессе написания*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: в процессе написания"
                               }
                            ]
                         },
@@ -25971,9 +25963,9 @@
                                  "title": "Príručka k Django Girls",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *in process*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: in process"
                               }
                            ]
                         }
@@ -26788,9 +26780,7 @@
                            "url": "https://cloud4scieng.org/chapters/",
                            "title": "Cloud Computing for Science and Engineering",
                            "author": "Ian Foster, Dennis B. Gannon",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://docs.microsoft.com/en-us/azure/architecture/patterns/",
@@ -27503,15 +27493,13 @@
                            "title": "Blender Manual"
                         },
                         {
-                           "url": "https://gabrielgambetta.com/computer-graphics-from-scratch",
+                           "url": "http://gabrielgambetta.com/computer-graphics-from-scratch",
                            "title": "Computer Graphics from scratch",
                            "author": "Gabriel Gambetta",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
-                           "url": "https://user.xmission.com/~legalize/book/download/index.html",
+                           "url": "http://user.xmission.com/~legalize/book/download/index.html",
                            "title": "DirectX manual",
                            "notes": [
                               "draft"
@@ -27551,9 +27539,7 @@
                            "url": "https://www.scratchapixel.com",
                            "title": "Learn Computer Graphics From Scratch!",
                            "author": "Scratchapixel",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://learnopengl.com",
@@ -27564,10 +27550,7 @@
                            "url": "https://github.com/bwasty/learn-opengl-rs",
                            "title": "Learn OpenGL RS",
                            "author": "Benjamin Wasty, et al.",
-                           "notes": [
-                              ":construction: *in process*",
-                              "Rust"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html",
@@ -27700,9 +27683,9 @@
                            "title": "Learn Vim (the Smart Way)",
                            "author": "Igor Irianto",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://danielmiessler.com/study/vim/",
@@ -28645,11 +28628,11 @@
                         {
                            "url": "https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf",
                            "title": "Lecture Notes on Linear Algebra",
-                           "author": "Arbind K Lal, Sukant Pati",
+                           "author": "Dr. Arbind K Lal, Sukant Pati",
                            "notes": [
-                              "PDF",
-                              ":construction: *in process*"
-                           ]
+                              "PDF"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.poritz.net/jonathan/share/ldlos.pdf",
@@ -29705,9 +29688,7 @@
                            "url": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
                            "title": "How to Make a Computer Operating System",
                            "author": "Samy Pesse",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://mikeos.sourceforge.net/write-your-own-os.html",
@@ -29901,9 +29882,7 @@
                         {
                            "url": "https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details",
                            "title": "Clean Code Developer: An initiative for more professionalism in software development",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.red-gate.com/library/confessions-of-an-it-manager",
@@ -29953,9 +29932,7 @@
                            "url": "https://softwareconcepts.vercel.app",
                            "title": "Software Environment Concepts",
                            "author": "Amr Elmohamady",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://leanpub.com/shippingsoftware/read",
@@ -30297,9 +30274,9 @@
                            "title": "Cryptography",
                            "author": "Wikibooks",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://unglue.it/work/141611/",
@@ -30978,9 +30955,9 @@
                            "title": "High Performance Accelerated Websites",
                            "author": "Anshul",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://hpbn.co",
@@ -31847,9 +31824,9 @@
                                  "title": "Django Girls Eğitimi",
                                  "notes": [
                                     "1.11",
-                                    "HTML",
-                                    ":construction: *in process*"
-                                 ]
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":construction: in process"
                               }
                            ]
                         }
@@ -38566,9 +38543,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w",
                            "title": "Cs50 In Arabic 2022 | كورس cs50 بالعربي كامل",
                            "author": "Abdelrahman Gamal‏",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx",
@@ -38607,9 +38582,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW",
                            "title": "grokking-algorithms‏",
                            "author": "Nehal Elsamoly‏",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk",
@@ -38831,9 +38804,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP",
                            "title": "Modern c++‎‏",
                            "author": "Moatasem El Sayed‏",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow",
@@ -40198,9 +40169,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j",
                            "title": "Behavioral Design Patterns بالعربى",
                            "author": "Mohammed Reda‏",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX",
@@ -40221,9 +40190,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM",
                            "title": "Design patterns‏",
                            "author": "Nehal Elsamoly‏",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC",
@@ -42322,9 +42289,7 @@
                            "url": "https://course.dyalog.com",
                            "title": "APL Course",
                            "author": "Dyalog",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://aplwiki.com/wiki/APL_Cultivation",
@@ -56658,9 +56623,9 @@
                            "url": "https://tutorials.pytorch.kr",
                            "title": "파이토치(PyTorch) 튜토리얼 한국어 번역",
                            "notes": [
-                              "HTML",
-                              ":construction: *in process* - *번역 진행 중*"
-                           ]
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process - 번역 진행 중"
                         },
                         {
                            "url": "https://www.boostcourse.org/ai214",
@@ -63233,9 +63198,7 @@
                            "url": "https://machinelearningcoban.com",
                            "title": "Machine learing cơ bản",
                            "author": "Vũ Hữu Tiệp",
-                           "notes": [
-                              ":construction: *in process*"
-                           ]
+                           "accessNotes": ":construction: in process"
                         }
                      ],
                      "subsections": []
@@ -66630,9 +66593,7 @@
                                  "url": "https://github.com/s-matyukevich/raspberry-pi-os",
                                  "title": "Learning operating system development using Linux kernel and Raspberry Pi",
                                  "author": "Sergey Matyukevich",
-                                 "notes": [
-                                    ":construction: *in process*"
-                                 ]
+                                 "accessNotes": ":construction: in process"
                               },
                               {
                                  "url": "https://linuxjourney.com",
