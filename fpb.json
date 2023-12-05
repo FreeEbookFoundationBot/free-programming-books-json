@@ -3327,6 +3327,14 @@
                      "section": "LaTeX",
                      "entries": [
                         {
+                           "url": "https://tecdigital.tec.ac.cr/servicios/revistamatematica/Libros/LaTeX/MoraW_BorbonA_LibroLaTeX.pdf",
+                           "title": "Edición de textos científicos con LaTeX. Composición, gráficos, diseño editorial y presentaciones beamer",
+                           "author": "Walter Mora F., Alexander Borbón A.",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf",
                            "title": "La introducción no-tan-corta a LaTeX 2ε",
                            "author": "Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl,",
@@ -68483,6 +68491,10 @@
                         {
                            "url": "https://ctftime.org",
                            "title": "CTFtime"
+                        },
+                        {
+                           "url": "https://www.damnvulnerabledefi.xyz",
+                           "title": "DamnVulnerableDefi"
                         },
                         {
                            "url": "https://echoctf.red",
