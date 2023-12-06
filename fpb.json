@@ -59781,6 +59781,28 @@
                      "subsections": []
                   },
                   {
+                     "section": "Smalltalk",
+                     "entries": [
+                        {
+                           "url": "https://www.researchgate.net/publication/262882317_Conhecendo_o_Smalltalk_-_Todos_os_Detalhes_da_Melhor_Linguagem_de_Programacao_Orientada_a_Objetos",
+                           "title": "Conhecendo o SmallTalk",
+                           "author": "Daniel Duarte Abdala, Aldo von Wangenheim",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://dcc.ufrj.br/~jonathan/smalltalk/Introd-a-POO-com-Smalltalk-1994.pdf",
+                           "title": "Introdução à Programação Orientada a Objetos com Smalltalk",
+                           "author": "Miguel Jonathan",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Swift",
                      "entries": [
                         {
