@@ -64968,6 +64968,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "LaTeX",
+                     "entries": [
+                        {
+                           "url": "https://gist.github.com/LKS90/252ac41bd4a173be35b0",
+                           "title": "Latex Cheat Sheet",
+                           "author": "Lukas Schneider"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Machine Learning",
                      "entries": [
                         {
