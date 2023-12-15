@@ -12841,56 +12841,6 @@
                      ]
                   },
                   {
-                     "section": "Embedded Systems",
-                     "entries": [
-                        {
-                           "url": "http://www.learn-c.com",
-                           "title": "Control and Embedded Systems",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "http://www.cs.indiana.edu/~geobrown/book.pdf",
-                           "title": "Discovering the STM32 Microcontroller",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf",
-                           "title": "First Steps with Embedded Systems",
-                           "author": "Byte Craft Limited",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf",
-                           "title": "Introduction to Embedded Systems, Second Edition",
-                           "author": "Edward Ashford Lee, Sanjit Arunkumar Seshia",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "http://www.embeddedrelated.com/showarticle/453.php",
-                           "title": "Introduction to Microcontrollers",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://freertos.org/Documentation/RTOS_book.html",
-                           "title": "Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide",
-                           "author": "freertos.org",
-                           "notes": [],
-                           "manualReviewRequired": true
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Erlang",
                      "entries": [
                         {
@@ -27408,6 +27358,56 @@
                         {
                            "url": "https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html",
                            "title": "The Theory of Relational Databases"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Embedded Systems",
+                     "entries": [
+                        {
+                           "url": "http://www.learn-c.com",
+                           "title": "Control and Embedded Systems",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "http://www.cs.indiana.edu/~geobrown/book.pdf",
+                           "title": "Discovering the STM32 Microcontroller",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf",
+                           "title": "First Steps with Embedded Systems",
+                           "author": "Byte Craft Limited",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf",
+                           "title": "Introduction to Embedded Systems, Second Edition",
+                           "author": "Edward Ashford Lee, Sanjit Arunkumar Seshia",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "http://www.embeddedrelated.com/showarticle/453.php",
+                           "title": "Introduction to Microcontrollers",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://freertos.org/Documentation/RTOS_book.html",
+                           "title": "Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide",
+                           "author": "freertos.org",
+                           "notes": [],
+                           "manualReviewRequired": true
                         }
                      ],
                      "subsections": []
