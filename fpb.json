@@ -28664,6 +28664,11 @@
                            "author": "Jim Hefferon"
                         },
                         {
+                           "url": "https://linear.axler.net",
+                           "title": "Linear Algebra Done Right",
+                           "author": "Sheldon Axler"
+                        },
+                        {
                            "url": "https://www.math.brown.edu/streil/papers/LADW/LADW.html",
                            "title": "Linear Algebra Done Wrong",
                            "author": "Sergei Treil"
