@@ -25478,6 +25478,13 @@
                            "title": "Анализ данных с R"
                         },
                         {
+                           "url": "https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf",
+                           "title": "Наглядная статистика. Используем R!",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf",
                            "title": "Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.",
                            "notes": [
