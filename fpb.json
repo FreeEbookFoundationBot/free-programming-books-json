@@ -27884,12 +27884,9 @@
                            ]
                         },
                         {
-                           "url": "https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf",
+                           "url": "https://www.statlearning.com",
                            "title": "An Introduction to Statistical Learning",
-                           "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
-                           "notes": [
-                              "PDF"
-                           ]
+                           "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani"
                         },
                         {
                            "url": "https://github.com/abhishekkrthakur/approachingalmost",
@@ -60124,18 +60121,17 @@
                      "section": "Dart",
                      "entries": [
                         {
-                           "url": "https://stepik.org/course/92982",
-                           "title": "Основы Dart",
-                           "author": "Анна Музыкина",
+                           "url": "https://stepik.org/course/109361",
+                           "title": "Основы программирования на Dart",
+                           "author": "Stepik",
                            "notes": [
-                              "Stepik",
                               "BEG"
                            ]
                         },
                         {
-                           "url": "https://stepik.org/course/97479",
+                           "url": "https://stepik.org/course/92982",
                            "title": "Основы Dart",
-                           "author": "Станислав Чернышев",
+                           "author": "Анна Музыкина",
                            "notes": [
                               "Stepik",
                               "BEG"
