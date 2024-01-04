@@ -60177,6 +60177,14 @@
                            "notes": [
                               "BEG"
                            ]
+                        },
+                        {
+                           "url": "https://stepik.org/course/158385",
+                           "title": "PRO Go. Основы программирования",
+                           "author": "Stepik",
+                           "notes": [
+                              "BEG"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -60331,6 +60339,14 @@
                            ]
                         },
                         {
+                           "url": "https://stepik.org/course/180784",
+                           "title": "Погружение в JavaScript: для начинающих",
+                           "author": "Stepik",
+                           "notes": [
+                              "BEG"
+                           ]
+                        },
+                        {
                            "url": "https://learn.javascript.ru",
                            "title": "Современный учебник JavaScript",
                            "author": "Илья Кантор",
@@ -60460,6 +60476,14 @@
                            "author": "Metanit",
                            "notes": [
                               "BEG/INT"
+                           ]
+                        },
+                        {
+                           "url": "https://stepik.org/course/131507",
+                           "title": "PRO Kotlin. Основы программирования",
+                           "author": "Stepik",
+                           "notes": [
+                              "BEG"
                            ]
                         }
                      ],
