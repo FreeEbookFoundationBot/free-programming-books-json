@@ -14450,14 +14450,6 @@
                            "author": "James Gosling, et al."
                         },
                         {
-                           "url": "https://javamasters.io/servlets",
-                           "title": "Java Masters",
-                           "author": "Java Masters",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
                            "url": "http://goalkicker.com/JavaBook/",
                            "title": "Java Notes for Professionals",
                            "author": "Compiled from StackOverflow documentation",
@@ -28122,6 +28114,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://deeplearningmath.org",
+                           "title": "The Mathematical Engineering of Deep Learning",
+                           "author": "Benoit Liquet, Sarat Moka, Yoni Nazarathy"
                         },
                         {
                            "url": "https://mlbook.explained.ai",
