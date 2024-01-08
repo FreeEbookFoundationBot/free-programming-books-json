@@ -29357,6 +29357,14 @@
                            ]
                         },
                         {
+                           "url": "https://jamesg.blog/book.pdf",
+                           "title": "Software Technical Writing: A Guidebook",
+                           "author": "James Gallagher",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf",
                            "title": "Web Almanac",
                            "notes": [
