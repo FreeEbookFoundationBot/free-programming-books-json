@@ -14916,6 +14916,14 @@
                            ]
                         },
                         {
+                           "url": "https://third-bit.com/js4ds/",
+                           "title": "JavaScript for Data Science",
+                           "author": "Maya Gans, Toby Hodges, Greg Wilson",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://exploringjs.com/impatient-js/toc.html",
                            "title": "JavaScript for Impatient Programmers (ES2020 edition)",
                            "author": "Axel Rauschmayer",
@@ -15140,6 +15148,14 @@
                            "url": "http://singlepageappbook.com",
                            "title": "Single page apps in depth",
                            "author": "Mixu",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://third-bit.com/sdxjs/",
+                           "title": "Software Design by Example: A Tool-Based Introduction with JavaScript",
+                           "author": "Greg Wilson",
                            "notes": [
                               "HTML"
                            ]
@@ -18832,6 +18848,14 @@
                            ]
                         },
                         {
+                           "url": "https://merely-useful.tech/py-rse/",
+                           "title": "Research Software Engineering with Python",
+                           "author": "Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://github.com/rougier/scientific-visualization-book",
                            "title": "Scientific Visualization: Python + Matplotlib",
                            "author": "Nicolas P. Rougier",
@@ -18857,6 +18881,14 @@
                               "3.7"
                            ],
                            "accessNotes": ":card_file_box: archived"
+                        },
+                        {
+                           "url": "https://third-bit.com/sdxpy/",
+                           "title": "Software Design by Example: A Tool-Based Introduction with Python",
+                           "author": "Greg Wilson",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://python3porting.com",
@@ -29960,6 +29992,14 @@
                            "title": "Software Environment Concepts",
                            "author": "Amr Elmohamady",
                            "accessNotes": ":construction: in process"
+                        },
+                        {
+                           "url": "http://teachtogether.tech/en/",
+                           "title": "Teaching Tech Together",
+                           "author": "Greg Wilson",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://leanpub.com/shippingsoftware/read",
