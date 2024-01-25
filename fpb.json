@@ -30433,6 +30433,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://leastauthority.com/community-matters/moonmath-manual/",
+                           "title": "The MoonMath Manual to zk-SNARKs",
+                           "author": "Least Authority"
                         }
                      ],
                      "subsections": []
