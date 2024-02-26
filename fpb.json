@@ -33992,6 +33992,10 @@
                            "title": "Rust 官方教程"
                         },
                         {
+                           "url": "https://zjp-cn.github.io/tlborm/",
+                           "title": "Rust 宏小册"
+                        },
+                        {
                            "url": "https://github.com/photino/rust-notes",
                            "title": "Rust 语言学习笔记"
                         },
