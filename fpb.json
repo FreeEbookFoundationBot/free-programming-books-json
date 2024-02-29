@@ -32753,6 +32753,10 @@
                            "title": "C 语言常见问题集"
                         },
                         {
+                           "url": "https://www.dotcpp.com/course/c/",
+                           "title": "C 语言入门教程"
+                        },
+                        {
                            "url": "https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C&CPP/c/",
                            "title": "Linux C 编程一站式学习",
                            "accessNotes": ":card_file_box: archived"
@@ -63815,8 +63819,13 @@
                      "subsections": []
                   },
                   {
-                     "section": "操作系统",
+                     "section": "OS",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLkl2qqmYigA66rJ4FgmZan4YIVRgNFLQx",
+                           "title": "操作系统原理",
+                           "author": "从0开始数"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9",
                            "title": "操作系统原理 清华大学",
