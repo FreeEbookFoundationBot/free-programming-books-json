@@ -63814,6 +63814,11 @@
                            "url": "https://youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15_BlQBC9rTdd8",
                            "title": "Linux 核心設計",
                            "author": "jserv"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9_iDguCUOhLFGamKI",
+                           "title": "Linux 教程 CentOS 从入门到精通",
+                           "author": "Jomy King"
                         }
                      ],
                      "subsections": []
