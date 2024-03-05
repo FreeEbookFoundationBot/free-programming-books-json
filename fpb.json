@@ -4408,7 +4408,7 @@
                         },
                         {
                            "url": "http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf",
-                           "title": "موضعات ویژه در R",
+                           "title": "مباحث ویژه در R",
                            "notes": [
                               "PDF"
                            ]
@@ -6448,6 +6448,14 @@
                         {
                            "url": "https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/",
                            "title": "Ebook Belajar HTML Dan CSS Dasar"
+                        },
+                        {
+                           "url": "https://github.com/LIGMATV/LIGMATV/wiki/Ebook-HTML-CSS-Manual-Dasar",
+                           "title": "Ebook HTML CSS Manual Dasar",
+                           "author": "Muhammad Danish Naufal",
+                           "notes": [
+                              "PDF, DOCX"
+                           ]
                         },
                         {
                            "url": "https://www.petanikode.com/tutorial/css/",
@@ -68232,6 +68240,11 @@
                            "url": "https://ihateregex.io/playground",
                            "title": "iHateRegex: regex for playground",
                            "author": "Geon George"
+                        },
+                        {
+                           "url": "https://pythonium.net/regex",
+                           "title": "Pyrexp",
+                           "author": "Cyril Bois"
                         },
                         {
                            "url": "https://www.regextester.com",
