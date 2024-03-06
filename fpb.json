@@ -32761,6 +32761,10 @@
                            "title": "C 语言常见问题集"
                         },
                         {
+                           "url": "https://wangdoc.com/clang/",
+                           "title": "C 语言教程"
+                        },
+                        {
                            "url": "https://www.dotcpp.com/course/c/",
                            "title": "C 语言入门教程"
                         },
@@ -63843,6 +63847,22 @@
                            "url": "https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9",
                            "title": "操作系统原理 清华大学",
                            "author": "自我学习Evan"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "AI",
+                     "entries": [
+                        {
+                           "url": "https://zh.d2l.ai/index.html",
+                           "title": "动手学深度学习",
+                           "author": "d2lzh"
+                        },
+                        {
+                           "url": "https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn",
+                           "title": "机器学习速成课程",
+                           "author": "谷歌出品"
                         }
                      ],
                      "subsections": []
