@@ -34012,6 +34012,10 @@
                            "title": "Rust 宏小册"
                         },
                         {
+                           "url": "https://course.rs",
+                           "title": "Rust 语言圣经"
+                        },
+                        {
                            "url": "https://github.com/photino/rust-notes",
                            "title": "Rust 语言学习笔记"
                         },
@@ -63809,6 +63813,22 @@
                      "subsections": []
                   },
                   {
+                     "section": "AI",
+                     "entries": [
+                        {
+                           "url": "https://zh.d2l.ai/index.html",
+                           "title": "动手学深度学习",
+                           "author": "d2lzh"
+                        },
+                        {
+                           "url": "https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn",
+                           "title": "机器学习速成课程",
+                           "author": "谷歌出品"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Flutter",
                      "entries": [
                         {
@@ -63852,17 +63872,12 @@
                      "subsections": []
                   },
                   {
-                     "section": "AI",
+                     "section": "Python",
                      "entries": [
                         {
-                           "url": "https://zh.d2l.ai/index.html",
-                           "title": "动手学深度学习",
-                           "author": "d2lzh"
-                        },
-                        {
-                           "url": "https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn",
-                           "title": "机器学习速成课程",
-                           "author": "谷歌出品"
+                           "url": "https://www.youtube.com/playlist?list=PLF2BRDzmXcWqMzQlIUOjiGVmiyEcHiO3q",
+                           "title": "Python 新教程全集",
+                           "author": "在线教育"
                         }
                      ],
                      "subsections": []
