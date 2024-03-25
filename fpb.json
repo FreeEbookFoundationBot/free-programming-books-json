@@ -38599,11 +38599,6 @@
                      "section": "Algorithms & Data Structures",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq",
-                           "title": "بالعربي CS50T كورس || CS50T in Arabic‏",
-                           "author": "Coders Camp - Rasha Abdeen"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz",
                            "title": "سلسة الخوارزميات وحل المشاكل المستوى الاول",
                            "author": "Programming Advices"
@@ -38624,30 +38619,14 @@
                            "author": "محمد الدسوقي"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLCInYL3l2AagpjRJQp0q8D1D3Uuh1hsVH",
+                           "title": "Competitive Programming and Problem Solving",
+                           "author": "Adel Nasim"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC",
                            "title": "CS Master - Level 1- Algorithms & Data Structures الخوارزميات وهياكل البيانات",
                            "author": "KMR Script"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF",
-                           "title": "CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر",
-                           "author": "KMR Script"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj",
-                           "title": "CS50 in Arabic‏",
-                           "author": "KMR Script"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd",
-                           "title": "CS50 In Arabic‏",
-                           "author": "Coders Camp - Rasha Abdeen"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w",
-                           "title": "Cs50 In Arabic 2022 | كورس cs50 بالعربي كامل",
-                           "author": "Abdelrahman Gamal‏",
-                           "accessNotes": ":construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx",
@@ -38685,13 +38664,30 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW",
                            "title": "grokking-algorithms‏",
-                           "author": "Nehal Elsamoly‏",
-                           "accessNotes": ":construction: in process"
+                           "author": "Nehal Elsamoly"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk",
                            "title": "Problem solving (Arabic)‏",
                            "author": "Muhammed Afifi"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru",
+                           "title": "Problems Solving With C++ Level One‏",
+                           "author": "Elzero Web School"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDoPjvoNmBAwgefuRqj8OB5ioMT1eC_EZ",
+                           "title": "Problems Solving With C++ Level Two‏",
+                           "author": "Elzero Web School‏",
+                           "notes": [
+                              ":construction: *in process*"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLINp1xZ5bPrpmnL0cdk80czipnIqPAzWH",
+                           "title": "Sorting algorithms | خوارزميات الترتيب",
+                           "author": "DevLoopers"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp",
@@ -38713,22 +38709,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN",
                            "title": "x86 Assembly Language - لغة التجميع",
                            "author": "Ahmed Sallam"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "AWS",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY",
-                           "title": "AWS Certified Solutions Architect - Associate By Eng-Mohammed Oday | Arabic",
-                           "author": "Free4arab | Information Technology"
-                        },
-                        {
-                           "url": "youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf",
-                           "title": "AWS SAA-C02 - كورس كامل بالعربي مع المهندس عيسى أبو شريف",
-                           "author": "AWS Riyadh User Group"
                         }
                      ],
                      "subsections": []
@@ -38789,6 +38769,16 @@
                            "author": "Programming Solutions - Academy"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo",
+                           "title": "المواضيع المتقدمة في السي شارب | Advanced C# Course in Arabia‏",
+                           "author": "Codographia"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR",
+                           "title": "كورس سي شارب للمبتدئين",
+                           "author": "Codographia"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLzCpl3aBwaY56xIDF6IX0hmZC6JYoGQkS",
                            "title": "كورس Design Patternsبالعربي-ITI‏",
                            "author": "Mobarmg"
@@ -38799,6 +38789,16 @@
                            "author": "6wrni"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY",
+                           "title": "C# Advanced‏",
+                           "author": "Passionate Coders | محمد المهدي"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI",
+                           "title": "C# Fundamentals‏",
+                           "author": "Passionate Coders | محمد المهدي"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLnzqK5HvcpwQLsXXXxx_mX3WvUEgGM0iA",
                            "title": "C# Programming Course Level 1 Basics By Arabic",
                            "author": "محمد شوشان"
@@ -38807,6 +38807,21 @@
                            "url": "https://www.youtube.com/playlist?list=PLnzqK5HvcpwQfXeFaGHRYQfyQrJjOy43u",
                            "title": "C# Programming Course Level 2 Object Oriented Programming By Arabic",
                            "author": "محمد شوشان"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5",
+                           "title": "Object-Oriented Programming (OOP)‏",
+                           "author": "Passionate Coders | محمد المهدي"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75",
+                           "title": "Object-Oriented Programming in C#‎ سلسلة",
+                           "author": "Codographia"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NS2O4QeWFVHOOALoehl22vU",
+                           "title": "Unit Testing‏",
+                           "author": "Passionate Coders | محمد المهدي"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLwj1YcMhLRN28xijrXMO255JHsO3csus-",
@@ -38934,12 +38949,107 @@
                      "subsections": []
                   },
                   {
+                     "section": "Cloud Computing",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZd2bo_SbAm-qHFib_KPKFBlOL3Ggb9Hi",
+                           "title": "Confluent بالعربي",
+                           "author": "Ismail Anjrini"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZd2bo_SbAm-JJyJ5kJA02rcOXnyfqIWO",
+                           "title": "GCP بالعربي",
+                           "author": "Ismail Anjrini"
+                        }
+                     ],
+                     "subsections": [
+                        {
+                           "section": "AWS",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY",
+                                 "title": "AWS Certified Solutions Architect - Associate By Eng-Mohammed Oday | Arabic‏",
+                                 "author": "Free4arab | Information Technology"
+                              },
+                              {
+                                 "url": "youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf",
+                                 "title": "AWS SAA-C02 - كورس كامل بالعربي مع المهندس عيسى أبو شريف",
+                                 "author": "AWS Riyadh User Group"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
                      "section": "Computer Architecture",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ",
                            "title": "Computer Architecture - تنظيم وبناء الحاسب",
                            "author": "Ahmed Sallam"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Computer Science",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq",
+                           "title": "بالعربي CS50T كورس || CS50T in Arabic‏",
+                           "author": "Coders Camp - Rasha Abdeen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoP3S2S1qTfBCtTYJ2dyy3mpn7aWAAjdN",
+                           "title": "تعلم أساسيات البرمجة للمبتدئين",
+                           "author": "OctuCode"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLvGNfY-tFUN8D7uAQzkBfMkJ7XAFWSsIv",
+                           "title": "كورس أساسيات الكمبيوتر",
+                           "author": "غريب الشيخ || Ghareeb Elshaikh"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDoPjvoNmBAx8xKvAXpb6f0Urj98Xo7zg",
+                           "title": "ما قبل تعلم البرمجة",
+                           "author": "Elzero Web School"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv3VqjyehAoRcrpuavzqleAA2jJYk6KgU",
+                           "title": "مفاهيم اساسية في البرمجة",
+                           "author": "Ali Shahin"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv3VqjyehAoRUEU3Gr1Fwzhdmz4wH0tNJ",
+                           "title": "مقدمة في علوم الحاسب",
+                           "author": "Ali Shahin"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF",
+                           "title": "CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر",
+                           "author": "KMR Script"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj",
+                           "title": "CS50 in Arabic‏",
+                           "author": "KMR Script"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd",
+                           "title": "CS50 In Arabic‏",
+                           "author": "Coders Camp - Rasha Abdeen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w",
+                           "title": "Cs50 In Arabic 2022 | كورس cs50 بالعربي كامل",
+                           "author": "Abdelrahman Gamal‏",
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk6ssRA-8LzMpep1MrqocFiY",
+                           "title": "Distributed Systems Design Patterns‏",
+                           "author": "Mahmoud Youssef - محمود يوسف",
+                           "accessNotes": ":construction: in process"
                         }
                      ],
                      "subsections": []
@@ -38977,6 +39087,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ",
                            "title": "Designing Data Intensive Applications بالعربي",
                            "author": "Ahmed Elemam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF",
+                           "title": "Relational Database Internals (Arabic - عربي)",
+                           "author": "TechVault"
                         }
                      ],
                      "subsections": [
@@ -39080,6 +39195,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl",
                            "title": "Kubernetes بالعربي",
                            "author": "Codographia"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhBIT9-Nyt4_osatqokaN8ae",
+                           "title": "Terraform بالعربي | DevOps in Arabic‏",
+                           "author": "Codographia"
                         }
                      ],
                      "subsections": []
@@ -39088,9 +39208,24 @@
                      "section": "Docker",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ",
+                           "title": "Docker سلسلة تعلم",
+                           "author": "Codographia"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=PrusdhS2lmo",
-                           "title": "Docker and Kubernetes | العلبة دي فيها سوعبان | Arabic",
+                           "title": "Docker and Kubernetes | العلبة دي فيها سوعبان | Arabic‏",
                            "author": "Ahmed Sami"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR",
+                           "title": "Docker Practical Course in Arabic - بالعربي Docker شرح",
+                           "author": "Tresmerge"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-",
+                           "title": "Software Containerization for Beginners‏",
+                           "author": "Passionate Coders | محمد المهدي"
                         }
                      ],
                      "subsections": []
@@ -39138,6 +39273,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0",
                            "title": "Flutter بالعربى",
                            "author": "Asem Saafan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a",
+                           "title": "Flutter Advanced Complete Course - بالعربي",
+                           "author": "Omar Ahmed"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB",
@@ -39248,6 +39388,11 @@
                            "author": "Mobarmg"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLoP3S2S1qTfCVIETOGwaK3lyaL3UKu403",
+                           "title": "كورس HTML من الصفر",
+                           "author": "OctuCode"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLzCpl3aBwaY76fLdWZt7T8FfVHpvu0zOm",
                            "title": "كورس HTML5 بالعربي-ITI‏",
                            "author": "Mobarmg"
@@ -39319,6 +39464,11 @@
                      "section": "Java",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_ucgIJOLT2KH5aQ9tt-sXyQ9",
+                           "title": "Java - بالعربي",
+                           "author": "Omar Ahmed"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLnzqK5HvcpwTgEDztQ8y4K4-VoeoK1QCG",
                            "title": "JAVA Course Level 1 Basics By Arabic",
                            "author": "محمد شوشان"
@@ -39377,6 +39527,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv",
                            "title": "Object-Oriented Programming JAVA in Arabic‏",
                            "author": "Adel Nasim"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v",
+                           "title": "OOP - بالعربي",
+                           "author": "Omar Ahmed"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk",
@@ -39505,6 +39660,11 @@
                            "author": "Elzero Web School"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4",
+                           "title": "Software Testing Course in Arabic - بالعربي software testing شرح",
+                           "author": "Tresmerge"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLQtNtS-WfRa9Dwu0xHfC0gALHCdia6L6w",
                            "title": "SOLID Principles In Arabic‏",
                            "author": "codeZone"
@@ -39555,6 +39715,10 @@
                                  "author": "Hassouna Academy"
                               }
                            ]
+                        },
+                        {
+                           "section": "Nest.js",
+                           "entries": []
                         },
                         {
                            "section": "NodeJS",
@@ -39678,6 +39842,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLfDx4cQoUNOYKXNTPUiZw8X7dDIgsSZln",
                                  "title": "React.js Todo App‏",
                                  "author": "Algorithm Academy"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLCInYL3l2AahiYaPBNh6YtI9NifuG8SqT",
+                                 "title": "ReactJS",
+                                 "author": "Adel Nasim"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLejc1JbD4ZFTiDCCVu_uCW0GXqyvhtbf8",
@@ -39822,6 +39991,12 @@
                            "author": "Khaled Mostafa Elsayed"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk5kALJAZKVAqjcJpG6ngsFq",
+                           "title": "Building Microservices‏",
+                           "author": "Mahmoud Youssef - محمود يوسف",
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLZd2bo_SbAm-LKJ_x_OuOZtuwEFqbJ5B7",
                            "title": "Microservice بالعربي",
                            "author": "Ismail Anjrini"
@@ -39904,9 +40079,24 @@
                            "author": "Khalid ESSAADANI"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC",
+                           "title": "ASP.NET Core مقدمة في تعلم",
+                           "author": "Codographia"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh",
+                           "title": "ASP.NET Core For Beginners‏",
+                           "author": "Passionate Coders | محمد المهدي"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLwj1YcMhLRN1zbN2olMzvIBXP06FIwoes",
                            "title": "ASP.NET Core Fundamentals‏",
                            "author": "Khalid ESSAADANI"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLX1bW_GeBRhBUAlLChHYX3BmtU0NBe30-",
+                           "title": "ASP.NET Core Long Videos‏",
+                           "author": "Codographia"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLwj1YcMhLRN1T3fIb-JDa4xNFfVQoljGI",
@@ -40129,6 +40319,11 @@
                            "author": "Hussam Hourani"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLoP3S2S1qTfCUdNazAZY1LFALcUr0Vbs9",
+                           "title": "كورس بايثون - تعلم بايثون من الصفر للإحتراف",
+                           "author": "OctuCode"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ",
                            "title": "كورس بايثون من الصفر | سلسلة دروس لغة البايثون | python",
                            "author": "أكاديمية ترميز"
@@ -40297,9 +40492,37 @@
                            "accessNotes": ":construction: in process"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR",
+                           "title": "Design Patterns‏",
+                           "author": "Passionate Coders | محمد المهدي",
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos",
+                           "title": "Design Patterns - بالعربي",
+                           "author": "Omar Ahmed‏",
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC",
                            "title": "Software Design Patterns",
                            "author": "محمد يحيى"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug",
+                           "title": "SOLID Principles‏",
+                           "author": "Mahmoud Youssef - محمود يوسف",
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq",
+                           "title": "SOLID Principles‏",
+                           "author": "Passionate Coders | محمد المهدي"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLINp1xZ5bPrqtE3Hee3vnyrHCaOyMADBt",
+                           "title": "Solid Principles | Uncle bob‏",
+                           "author": "DevLoopers"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL",
@@ -40315,6 +40538,18 @@
                            "url": "https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm",
                            "title": "Structural Design Patterns بالعربى",
                            "author": "Mohammed Reda"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy",
+                           "title": "Tennis Game Refactoring Kata‏",
+                           "author": "Mahmoud Youssef - محمود يوسف",
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk5h31weDexEeNtchOgqR2ji",
+                           "title": "Write Better Code With Refactoring‏",
+                           "author": "Mahmoud Youssef - محمود يوسف",
+                           "accessNotes": ":construction: in process"
                         }
                      ],
                      "subsections": []
@@ -62678,6 +62913,21 @@
                            "url": "https://stepik.org/course/67114",
                            "title": "Мова програмування C++",
                            "author": "Александр Руденко",
+                           "notes": [
+                              "Stepik",
+                              "BEG"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Go",
+                     "entries": [
+                        {
+                           "url": "https://stepik.org/course/171599",
+                           "title": "Go (Golang) - перше знайомство (українською)",
+                           "author": "Ігор Лютий",
                            "notes": [
                               "Stepik",
                               "BEG"
