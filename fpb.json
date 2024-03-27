@@ -4119,6 +4119,20 @@
                      ]
                   },
                   {
+                     "section": "LaTex",
+                     "entries": [
+                        {
+                           "url": "https://ctan.org/tex-archive/info/lshort/estonian",
+                           "title": "Mitte väga lühike LATEX 2ε sissejuhatus",
+                           "author": "Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl,",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "PHP",
                      "entries": [
                         {
@@ -9965,7 +9979,7 @@
                         {
                            "url": "http://pacman128.github.io/static/pcasm-book-korean.pdf",
                            "title": "PC Assembly Language",
-                           "author": "Paul A. Carter",
+                           "author": "Paul A. Carter,",
                            "notes": [
                               "PDF"
                            ]
@@ -10167,7 +10181,11 @@
                      "entries": [
                         {
                            "url": "https://ctan.org/tex-archive/info/lshort/korean",
-                           "title": "The Not So short Introduction to LaTeX 2ε"
+                           "title": "The Not So short Introduction to LaTeX 2ε",
+                           "author": "Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl,",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
