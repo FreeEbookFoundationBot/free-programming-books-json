@@ -43395,8 +43395,24 @@
                            "entries": [
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB",
-                                 "title": "AWS Certified Cloud Practitioner Course",
+                                 "title": "AWS Certified Cloud Practitioner Course (2020-2023)",
                                  "author": "Stephane Maarek"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=NhDYbskXRgc",
+                                 "title": "AWS Certified Cloud Practitioner Course (CLF-C02)(2024)",
+                                 "author": "Andrew Brown",
+                                 "notes": [
+                                    "FreeCodeCamp"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=zA8guDqfv40",
+                                 "title": "AWS Cloud Complete Bootcamp Course",
+                                 "author": "Andrew Brown",
+                                 "notes": [
+                                    "FreeCodeCamp"
+                                 ]
                               },
                               {
                                  "url": "https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep",
@@ -47513,6 +47529,14 @@
                            "url": "https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp",
                            "title": "Understand Machine Learning Engineering by Building Projects",
                            "author": "Alexey Grigorev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=VgzHT9quo5c",
+                           "title": "Understanding AI from Scratch – Neural Networks Course",
+                           "author": "Radu",
+                           "notes": [
+                              "FreeCodeCamp"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -50707,6 +50731,17 @@
                "index": {},
                "sections": [
                   {
+                     "section": "Ansible",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRMCwJJwWR1AKYcUkdcorTFR-bhXUN6oO",
+                           "title": "آموزش رایگان انسیبل",
+                           "author": "Morteza Bashsiz"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Blockchain",
                      "entries": [
                         {
@@ -50874,7 +50909,7 @@
                      "section": "Linux",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLFK3-mgWZHcpWSFgpy-uEwIb6xjj4vfkB",
+                           "url": "https://www.youtube.com/playlist?list=PLRMCwJJwWR1A3_ECuOqdIaR-XLnr6bDj_",
                            "title": "آموزش رایگان لینوکس",
                            "author": "Morteza Bashsiz"
                         },
@@ -51041,6 +51076,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw",
                            "title": "آموزش توسعه وب با فریم‌ورک فلسک",
                            "author": "Alireza Ayinmehr"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Storage",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRMCwJJwWR1DhlYbrvwXCXbudzfxseo7E",
+                           "title": "آموزش رایگان سف",
+                           "author": "Morteza Bashsiz"
                         }
                      ],
                      "subsections": []
