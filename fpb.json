@@ -26585,6 +26585,14 @@
                            ]
                         },
                         {
+                           "url": "https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf",
+                           "title": "Clever Algorithms Nature-Inspired Programming Recipes",
+                           "author": "Jason Brownlee",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.ibm.com/downloads/cas/OJ6WX73V",
                            "title": "Getting Started with Artificial Intelligence , 2nd Edition",
                            "author": "Tom Markiewicz, Josh Zheng",
@@ -27026,6 +27034,14 @@
                            "url": "https://faculty.etsu.edu/tarnoff/138292",
                            "title": "Computer Organization and Design Fundamentals",
                            "author": "David Tarnoff",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer",
+                           "title": "Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition",
+                           "author": "Charles W. Kann",
                            "notes": [
                               "PDF"
                            ]
