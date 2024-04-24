@@ -30130,6 +30130,15 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/keyvank/tsp",
+                           "title": "The Super Programmer",
+                           "author": "Keyvan Kambakhsh",
+                           "notes": [
+                              "PDF, HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
+                        },
+                        {
                            "url": "https://greenteapress.com/wp/think-complexity-2e/",
                            "title": "Think Complexity",
                            "author": "- Allen B. Downey",
