@@ -66710,6 +66710,11 @@
                            "author": "Microsoft"
                         },
                         {
+                           "url": "https://app.codecrafters.io/concepts/go-tcp-server",
+                           "title": "TCP Servers in Go",
+                           "author": "CodeCrafters"
+                        },
+                        {
                            "url": "http://tour.golang.org",
                            "title": "The Go Tutorial"
                         }
@@ -67488,12 +67493,22 @@
                            "author": "ralfj.de"
                         },
                         {
+                           "url": "https://app.codecrafters.io/collections/rust-primer",
+                           "title": "Rust Primer",
+                           "author": "CodeCrafters"
+                        },
+                        {
                            "url": "https://dtolnay.github.io/rust-quiz",
                            "title": "Rust Quiz"
                         },
                         {
                            "url": "https://github.com/rust-lang/rustlings",
                            "title": "Rustlings"
+                        },
+                        {
+                           "url": "https://app.codecrafters.io/concepts/rust-tcp-server",
+                           "title": "TCP Servers in Rust",
+                           "author": "CodeCrafters"
                         }
                      ],
                      "subsections": []
