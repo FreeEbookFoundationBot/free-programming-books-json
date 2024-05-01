@@ -59754,6 +59754,14 @@
                            ]
                         },
                         {
+                           "url": "https://academy.satellasoft.com/course/php-criando-e-consumindo-api-restful",
+                           "title": "Criando e consumindo API RESTful",
+                           "author": "Gunnar Correa",
+                           "notes": [
+                              "SatellaSoftware"
+                           ]
+                        },
+                        {
                            "url": "https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/",
                            "title": "Curso Básico de Bootstrap 4 , PHP e MySQL",
                            "author": "Ricardo Milbrath Gonçalves",
@@ -59833,6 +59841,14 @@
                            "author": "Alexandre Cardoso",
                            "notes": [
                               "Udemy"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYGFJHWj9BYqSXzSfHGd46yipCrkjC8AD",
+                           "title": "PHP PDO",
+                           "author": "Miriam",
+                           "notes": [
+                              "Miriam TechCod"
                            ]
                         }
                      ],
