@@ -46665,6 +46665,14 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=-bEzt5ISACA",
+                                 "title": "React State Management Intermediate JavaScript Course",
+                                 "author": "Jack Herrington",
+                                 "notes": [
+                                    "freeCodeCamp"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/watch?v=zxP4oGejqpU",
                                  "title": "React State Management using Context API (useContext + useReducer Hooks = Magic)",
                                  "author": "The Full Stack Junkie"
