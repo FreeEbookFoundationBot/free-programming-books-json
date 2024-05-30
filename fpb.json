@@ -3180,6 +3180,14 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/afuggini/javascript-definitivo-vol1",
+                           "title": "JavaScript Definitivo Vol. I",
+                           "author": "Ariel Fuggini",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://jsparagatos.com",
                            "title": "JavaScript Para Gatos",
                            "author": "Maxwell Ogden,",
