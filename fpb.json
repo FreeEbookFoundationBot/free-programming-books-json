@@ -10392,6 +10392,16 @@
                            ]
                         },
                         {
+                           "section": "FastAPI",
+                           "entries": [
+                              {
+                                 "url": "https://wikidocs.net/book/8531",
+                                 "title": "점프 투 FastAPI",
+                                 "author": "박응용"
+                              }
+                           ]
+                        },
+                        {
                            "section": "Flask",
                            "entries": [
                               {
@@ -10507,6 +10517,11 @@
                   {
                      "section": "Springboot",
                      "entries": [
+                        {
+                           "url": "https://wikidocs.net/book/7601",
+                           "title": "점프 투 스프링부트",
+                           "author": "박응용"
+                        },
                         {
                            "url": "https://djunnni.gitbook.io/springboot",
                            "title": "Springboot 2.X 정리",
