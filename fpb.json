@@ -10019,6 +10019,11 @@
                         {
                            "url": "https://blogofscience.com/Socket_Programming-KLDP.html",
                            "title": "BeeJ's Guide to Network Programming - 인터넷 소켓 활용"
+                        },
+                        {
+                           "url": "https://wikidocs.net/book/2494",
+                           "title": "C 프로그래밍: 현대적 접근",
+                           "author": "K.N.King,"
                         }
                      ],
                      "subsections": []
@@ -10325,6 +10330,11 @@
                         {
                            "url": "https://wikidocs.net/book/1",
                            "title": "점프 투 파이썬 - Python 3"
+                        },
+                        {
+                           "url": "https://wikidocs.net/book/9059",
+                           "title": "좌충우돌, 파이썬으로 자료구조 구현하기",
+                           "author": "심명수"
                         },
                         {
                            "url": "https://ddanggle.gitbooks.io/interpy-kr/content/",
