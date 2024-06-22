@@ -10009,12 +10009,22 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://thebook.io/006989/",
+                           "title": "모두의 C언어",
+                           "author": "이형우"
+                        },
+                        {
                            "url": "https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf",
                            "title": "씹어먹는 C",
                            "author": "이재범",
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://thebook.io/007139/",
+                           "title": "코딩 자율학습 나도코딩의 C 언어 입문",
+                           "author": "나도코딩"
                         },
                         {
                            "url": "https://blogofscience.com/Socket_Programming-KLDP.html",
@@ -10024,6 +10034,17 @@
                            "url": "https://wikidocs.net/book/2494",
                            "title": "C 프로그래밍: 현대적 접근",
                            "author": "K.N.King,"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"csharp\">",
+                     "entries": [
+                        {
+                           "url": "https://thebook.io/006890/",
+                           "title": "C# 교과서",
+                           "author": "박용준"
                         }
                      ],
                      "subsections": []
