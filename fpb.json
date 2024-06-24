@@ -20137,6 +20137,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.lurklurk.org/effective-rust",
+                           "title": "Effective Rust",
+                           "author": "David Drysdale",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf",
                            "title": "From JavaScript to Rust ebook",
                            "author": "Jarrod Overson",
@@ -20180,6 +20188,10 @@
                         {
                            "url": "https://rust-lang-nursery.github.io/rust-cookbook",
                            "title": "Rust Cookbook"
+                        },
+                        {
+                           "url": "https://rust-unofficial.github.io/patterns/",
+                           "title": "Rust Design Patterns"
                         },
                         {
                            "url": "https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book",
