@@ -56769,18 +56769,18 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz",
-                           "title": "실전 알고리즘 강좌"
+                           "title": "실전 알고리즘 강좌",
+                           "author": "동빈나"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLNvbgg5to7cfAx80VeQFW1Sq1mHGfiECo",
                            "title": "알고리즘 강좌",
-                           "notes": [
-                              "부경대 권오흠"
-                           ]
+                           "author": "권오흠"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL7mmuO705dG12pP82RPUR3wdD5dbYu9gZ",
-                           "title": "이상진의 자료구조"
+                           "title": "이상진의 자료구조 (2017)",
+                           "author": "프리렉"
                         }
                      ],
                      "subsections": []
@@ -56790,7 +56790,8 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdB6sCgj_jubp8KPb1ni0VOC",
-                           "title": "안드로이드 스튜디오 강좌"
+                           "title": "안드로이드 스튜디오 강좌",
+                           "author": "동빈나"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL",
@@ -56799,34 +56800,26 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9mhQYIlKEhcXoTW9RwEf_7UTMcAJaink",
                            "title": "안드로이드 프로그래밍 고급",
-                           "notes": [
-                              "T 아카데미"
-                           ]
+                           "author": "T 아카데미"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9mhQYIlKEhd0NndsEQc0in36Oegm3ldE",
                            "title": "안드로이드 프로그래밍 응용",
-                           "notes": [
-                              "T 아카데미"
-                           ]
+                           "author": "T 아카데미"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9mhQYIlKEhc7o2HHixQi0PU2sQVerRW2",
                            "title": "안드로이드 프로그래밍 중급",
-                           "notes": [
-                              "T 아카데미"
-                           ]
+                           "author": "T 아카데미"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAHpIweCixdDrPoXv5bXGx",
                            "title": "안드로이드 프로그래밍 초급",
-                           "notes": [
-                              "T 아카데미"
-                           ]
+                           "author": "T 아카데미"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLG7te9eYUi7sq701GghpoSKe-jbkx9NIF",
-                           "title": "Do it! 안드로이드 앱 프로그래밍"
+                           "title": "Do it! 안드로이드 앱 프로그래밍 (2018)"
                         }
                      ],
                      "subsections": []
@@ -56896,21 +56889,23 @@
                      "section": "<a id=\"csharp\">",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLTFRwWXfOIYBmr3fK17E0VhKPyYrGy75z",
+                           "title": "눈으로 보는 C# 프로그래밍",
+                           "author": "눈코딩"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL4PkN2EXiuVF3Xl0HNVMdY-_kMM3oyBds",
                            "title": "예제로 배우는 C# 강좌"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Circuit",
-                     "entries": [
+                        },
                         {
-                           "url": "http://socw.skku.edu/Lectures/Regular/Detail.do",
-                           "title": "논리회로",
-                           "notes": [
-                              "성균관대 김문현"
-                           ]
+                           "url": "https://www.youtube.com/playlist?list=PLiNvMfa_Y5hfgpgd3hgXdHACCZuIEozjL",
+                           "title": "C# 기초 - 예제로 배우는 C# 프로그래밍",
+                           "author": "csharpstudy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiNvMfa_Y5hdz3Pitggrisaam_35ZqdtE",
+                           "title": "C# 중급 - 예제로 배우는 C# 프로그래밍",
+                           "author": "csharpstudy"
                         }
                      ],
                      "subsections": []
@@ -56988,39 +56983,12 @@
                      "subsections": []
                   },
                   {
-                     "section": "Haskell",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW",
-                           "title": "하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)",
-                           "author": "Gyesik Lee «liga nega»"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Introduction",
-                     "entries": [
-                        {
-                           "url": "http://www.kocw.net/home/search/kemView.do?kemId=1322410",
-                           "title": "컴퓨터 프로그래밍"
-                        },
-                        {
-                           "url": "http://www.kocw.net/home/search/kemView.do?kemId=1323143",
-                           "title": "컴퓨터공학 입문"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "iOS",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9mhQYIlKEhdQ8viJACIwxIcUiXU2lMLX",
                            "title": "iPhone 프로그래밍",
-                           "notes": [
-                              "T 아카데미"
-                           ]
+                           "author": "T아카데미"
                         }
                      ],
                      "subsections": []
@@ -57030,26 +56998,28 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj",
-                           "title": "Do it! Java 프로그래밍 입문"
+                           "title": "Do it! Java 프로그래밍 입문",
+                           "author": "이지스퍼블리싱"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R",
-                           "title": "Java 기초 프로그래밍 강좌"
+                           "title": "Java 기초 프로그래밍 강좌",
+                           "author": "동빈나"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR",
-                           "title": "Java 리듬게임 만들기 강좌"
+                           "title": "Java 리듬게임 만들기 강좌",
+                           "author": "동빈나"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3930",
                            "title": "Java 입문수업",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp",
-                           "title": "Java with 인크레파스"
+                           "title": "Java with 인크레파스",
+                           "author": "인크레파스융합SW교육센터"
                         }
                      ],
                      "subsections": []
@@ -57059,17 +57029,13 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU",
-                           "title": "JavaScript 입문 수업",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "title": "JavaScript 입문 수업 (2014)",
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX",
-                           "title": "JavaScript for Web Browser",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "title": "JavaScript for Web Browser (2014)",
+                           "author": "생활코딩"
                         }
                      ],
                      "subsections": [
@@ -57088,11 +57054,13 @@
                            "entries": [
                               {
                                  "url": "https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC",
-                                 "title": "React.js 강좌"
+                                 "title": "React.js 강좌",
+                                 "author": "Minjun Kim"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB",
-                                 "title": "React.js 이론부터 실전까지"
+                                 "title": "React.js 이론부터 실전까지",
+                                 "author": "동빈나"
                               }
                            ]
                         }
@@ -57115,9 +57083,7 @@
                         {
                            "url": "http://www.kocw.net/home/search/kemView.do?kemId=1266434",
                            "title": "리눅스 및 커널 프로그래밍",
-                           "notes": [
-                              "금오공대 최태영"
-                           ]
+                           "author": "최태영"
                         }
                      ],
                      "subsections": []
@@ -57127,7 +57093,7 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS",
-                           "title": "머신러닝/딥러닝 입문 youtube playlist",
+                           "title": "머신러닝/딥러닝 실전 입문",
                            "author": "윤인성"
                         },
                         {
@@ -57151,9 +57117,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO",
                            "title": "Python tensorflow & 머신러닝 기초 강좌",
-                           "notes": [
-                              "동빈나"
-                           ]
+                           "author": "동빈나"
                         }
                      ],
                      "subsections": []
@@ -57164,17 +57128,12 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3",
                            "title": "2013 2학기 선형대수",
-                           "author": "",
-                           "notes": [
-                              "이상화 교수"
-                           ]
+                           "author": "이상화"
                         },
                         {
                            "url": "http://www.kocw.net/home/search/kemView.do?kemId=1297704",
                            "title": "수치해석",
-                           "notes": [
-                              "국민대 김상철"
-                           ]
+                           "author": "김상철"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLczEhXyH_pUfKl9SPn-9j3K7olfBj5cpl",
@@ -57187,9 +57146,7 @@
                         {
                            "url": "http://www.kocw.net/home/search/kemView.do?kemId=1296081",
                            "title": "전산수학1",
-                           "notes": [
-                              "고려대 주재걸"
-                           ]
+                           "author": "주재걸"
                         }
                      ],
                      "subsections": []
@@ -57200,9 +57157,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLuHgQVnccGMCgrP_9HL3dAcvdt8qOZxjW",
                            "title": "DATABASE2-MySQL",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         }
                      ],
                      "subsections": []
@@ -57213,16 +57168,12 @@
                         {
                            "url": "http://www.kocw.net/home/search/kemView.do?kemId=1319674",
                            "title": "컴퓨터 네트워크",
-                           "notes": [
-                              "부산대 김종덕"
-                           ]
+                           "author": "김종덕"
                         },
                         {
                            "url": "http://www.kocw.net/home/search/kemView.do?kemId=1312397",
                            "title": "컴퓨터 네트워크",
-                           "notes": [
-                              "한양대 이석복"
-                           ]
+                           "author": "이석복"
                         }
                      ],
                      "subsections": []
@@ -57233,23 +57184,17 @@
                         {
                            "url": "http://ocw.kookmin.ac.kr/?course=15329",
                            "title": "운영체제",
-                           "notes": [
-                              "국민대 이시윤"
-                           ]
+                           "author": "이시윤"
                         },
                         {
                            "url": "http://www.kocw.net/home/search/kemView.do?kemId=1194929",
                            "title": "운영체제",
-                           "notes": [
-                              "고려대 최린"
-                           ]
+                           "author": "최린"
                         },
                         {
                            "url": "http://socw.skku.edu/Lectures/Regular/Detail.do",
                            "title": "운영체제론",
-                           "notes": [
-                              "성균관대 엄영익"
-                           ]
+                           "author": "엄영익"
                         }
                      ],
                      "subsections": []
@@ -57264,7 +57209,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW",
-                           "title": "PHP 프로그래밍"
+                           "title": "PHP 프로그래밍",
+                           "author": "정보박사컴퓨터자격증"
                         }
                      ],
                      "subsections": []
@@ -57334,9 +57280,7 @@
                         {
                            "url": "https://www.opentutorials.org/course/1750",
                            "title": "Python & Ruby",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s",
@@ -57386,9 +57330,28 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9mhQYIlKEheAkAxX53qlTjjWK93Xd2pf",
                            "title": "Swift 프로그래밍",
-                           "notes": [
-                              "T 아카데미"
-                           ]
+                           "author": "T 아카데미"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Unity",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLC2Tit6NyViewOPACJai5zNAfZuUW8aYq",
+                           "title": "유니티 강좌 (초급)",
+                           "author": "고박사의 유니티 노트"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2",
+                           "title": "유니티 기초 강좌",
+                           "author": "골드메달"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x",
+                           "title": "유니티 기초 벡서라이크 언데드서바이벌",
+                           "author": "골드메달"
                         }
                      ],
                      "subsections": []
@@ -57397,7 +57360,7 @@
                      "section": "Unreal Engine",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL9kzervdzKxyTPMBHt26wkaAvCv6JkHQV",
+                           "url": "https://www.youtube.com/playlist?list=PL9kzervdzKxyIPMBHt26wkaAvCv6JkHQV",
                            "title": "실전 게임 제작으로 배우는 언리얼엔진"
                         }
                      ],
@@ -57413,72 +57376,52 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79",
                            "title": "HTML5&CSS3 기초",
-                           "notes": [
-                              "T 아카데미"
-                           ]
+                           "author": "T 아카데미"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3084",
                            "title": "Web1-HTML",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3086",
                            "title": "Web2-CSS",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3276",
                            "title": "Web2-Domain name system",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3265",
                            "title": "Web2-Home server",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3085",
                            "title": "Web2-JavaScript",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3332",
                            "title": "Web2-nodejs",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3130",
                            "title": "Web2-PHP",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.opentutorials.org/course/3256",
                            "title": "Web2-Python",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh",
                            "title": "Web3-PHP & MySQL",
-                           "notes": [
-                              "생활코딩"
-                           ]
+                           "author": "생활코딩"
                         }
                      ],
                      "subsections": []
