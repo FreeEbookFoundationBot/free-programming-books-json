@@ -56848,6 +56848,11 @@
                      "section": "C/C++",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLMsa_0kAjjreuGLbwYdkrCTXxfJIrmmA6",
+                           "title": "(개정판) C 언어 초보 강의",
+                           "author": "나도코딩"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk",
                            "title": "두들낙서의 C/C++ 강좌"
                         },
@@ -56868,11 +56873,6 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75",
                            "title": "최호성의 C 프로그래밍"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP",
-                           "title": "C 언어 초보 강의",
-                           "author": "나도코딩"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT",
@@ -56955,6 +56955,16 @@
                   {
                      "section": "Git",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLcqDmjxt30RvjqpIBi4mtkK5LkzYtXluF",
+                           "title": "12가지 명령어로 배우는 Git",
+                           "author": "ZeroCho TV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM",
+                           "title": "유튜브로 배우는 코딩 Git 강좌",
+                           "author": "영욱 스튜디오"
+                        },
                         {
                            "url": "https://www.opentutorials.org/course/3837",
                            "title": "GIT1",
@@ -57063,32 +57073,31 @@
                                  "author": "동빈나"
                               }
                            ]
+                        },
+                        {
+                           "section": "Svelte",
+                           "entries": [
+                              {
+                                 "url": "https://www.inflearn.com/course/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/dashboard",
+                                 "title": "Svelte.js 입문 가이드",
+                                 "author": "HEROPY",
+                                 "notes": [
+                                    "Inflearn"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL2Y878eUwQK4ZhfQfVdxS9yYdQlnfDInm",
+                                 "title": "SvelteKit(스벨트킷) 튜토리얼 Part.1",
+                                 "author": "코딩셀러"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL2Y878eUwQK6XN8emWcHFStBy-28bg_pM",
+                                 "title": "SvelteKit(스벨트킷) 튜토리얼 Part.2",
+                                 "author": "코딩셀러"
+                              }
+                           ]
                         }
                      ]
-                  },
-                  {
-                     "section": "Svelte",
-                     "entries": [
-                        {
-                           "url": "https://www.inflearn.com/course/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/dashboard",
-                           "title": "Svelte.js 입문 가이드",
-                           "author": "HEROPY",
-                           "notes": [
-                              "Inflearn"
-                           ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL2Y878eUwQK4ZhfQfVdxS9yYdQlnfDInm",
-                           "title": "SvelteKit(스벨트킷) 튜토리얼 Part.1",
-                           "author": "코딩셀러"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL2Y878eUwQK6XN8emWcHFStBy-28bg_pM",
-                           "title": "SvelteKit(스벨트킷) 튜토리얼 Part.2",
-                           "author": "코딩셀러"
-                        }
-                     ],
-                     "subsections": []
                   },
                   {
                      "section": "Kotlin",
@@ -57248,6 +57257,11 @@
                      "section": "Python",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLMsa_0kAjjrdqJ1rJba9MFWYv-GHluK4_",
+                           "title": "파이썬 실전 프로젝트",
+                           "author": "나도코딩"
+                        },
+                        {
                            "url": "https://dojang.io/course/view.php?id=7",
                            "title": "파이썬 코딩 도장"
                         },
@@ -57382,6 +57396,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x",
                            "title": "유니티 기초 벡서라이크 언데드서바이벌",
                            "author": "골드메달"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMsa_0kAjjrdcdM4RcpGni9OLv-xy8FiB",
+                           "title": "유니티 초보 강의 + 실전 프로젝트",
+                           "author": "나도코딩"
                         }
                      ],
                      "subsections": []
