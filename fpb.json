@@ -60644,6 +60644,14 @@
                            "url": "https://github.com/yzh44yzh/elixir_course",
                            "title": "Язык программирования Эликсир",
                            "author": "Yuri Zhloba"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWlFXymvoaJ_SWXOOm2JSqv86ZBkQ9-zo",
+                           "title": "Elixir - функциональная разработка",
+                           "author": "Ilya Krukowski",
+                           "notes": [
+                              "BEG"
+                           ]
                         }
                      ],
                      "subsections": []
