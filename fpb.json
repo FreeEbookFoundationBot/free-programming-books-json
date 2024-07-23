@@ -31830,6 +31830,14 @@
                            "url": "https://github.com/mkdemir/Git_ve_Github_Rehberi",
                            "title": "Git ve Github Rehberi",
                            "author": "Mustafa Kaan Demir"
+                        },
+                        {
+                           "url": "https://git-scm.com/book/tr/v2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub",
+                           "notes": [
+                              "Çeviri: Murat Yaşar"
+                           ]
                         }
                      ],
                      "subsections": []
