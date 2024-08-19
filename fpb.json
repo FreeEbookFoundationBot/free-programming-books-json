@@ -653,6 +653,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Problem Sets",
+                     "entries": [
+                        {
+                           "url": "http://cpbook.subeen.com/p/blog-page_11.html",
+                           "title": "৫২ টি প্রোগ্রামিং সমস্যা",
+                           "author": "Tamim Shahriar Subeen",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Python",
                      "entries": [
                         {
