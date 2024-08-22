@@ -1399,6 +1399,14 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://www.c-howto.de",
+                           "title": "C-HowTo: Programmieren lernen mit der Programmiersprache C",
+                           "author": "Elias Fischer",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://de.wikibooks.org/wiki/C-Programmierung",
                            "title": "C-Programmierung",
                            "author": "Wikibooks",
