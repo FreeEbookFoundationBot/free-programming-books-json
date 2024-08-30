@@ -34510,6 +34510,29 @@
             },
             {
                "language": {
+                  "code": "de",
+                  "name": "German"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://python-podcast.de/show",
+                           "title": "Python Podcast",
+                           "author": "Jochen, Dominik",
+                           "notes": [
+                              "podcast"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "en",
                   "name": "English",
                   "isSubject": false
