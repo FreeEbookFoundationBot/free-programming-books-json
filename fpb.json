@@ -17814,6 +17814,11 @@
                            "section": "Drupal",
                            "entries": [
                               {
+                                 "url": "https://selwynpolit.github.io/d9book/",
+                                 "title": "Drupal at your Fingertips",
+                                 "author": "Selwyn Polit, Drupal Community Contributors"
+                              },
+                              {
                                  "url": "https://www.drupal.org/files/tiny-book-of-rules.pdf",
                                  "title": "The Tiny Book of Rules",
                                  "notes": [
@@ -63104,6 +63109,22 @@
                            "url": "https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy",
                            "title": "Yeni Başlayanlar İçin React",
                            "author": "Arin Yazilim"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "SQL",
+                     "entries": [
+                        {
+                           "url": "https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007",
+                           "title": "Her Yönüyle SQL Server",
+                           "author": "Ömer Faruk Çolakoğlu"
+                        },
+                        {
+                           "url": "https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249",
+                           "title": "Uygulamalarla SQL Öğreniyorum",
+                           "author": "Ömer Faruk Çolakoğlu"
                         }
                      ],
                      "subsections": []
