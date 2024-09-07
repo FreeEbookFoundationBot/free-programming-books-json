@@ -1603,6 +1603,10 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/frontenddogma/html-css-frameworks",
+                           "title": "Das kleine Buch der HTML-/CSS-Frameworks"
+                        },
+                        {
                            "url": "http://www.peterkropff.de/site/html/html.htm",
                            "title": "HTML",
                            "author": "Peter Kropff",
@@ -13951,6 +13955,10 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/frontenddogma/css-optimization-basics",
+                           "title": "CSS Optimization Basics"
+                        },
+                        {
                            "url": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
                            "title": "CSS Transition vs CSS animation",
                            "author": "Oluwatobi Sofela"
@@ -14130,6 +14138,10 @@
                            "author": "Jeremy Keith"
                         },
                         {
+                           "url": "https://meiert.com/en/blog/rote-learning-html-and-css/",
+                           "title": "Rote Learning HTML & CSS"
+                        },
+                        {
                            "url": "https://rtlstyling.com",
                            "title": "RTL Styling 101",
                            "author": "Ahmad Shadeed"
@@ -14167,6 +14179,10 @@
                            "url": "https://ohansemmanuel.github.io/uf_download.html",
                            "title": "Understanding Flexbox: Everything you need to know",
                            "author": "Ohans Emmanuel"
+                        },
+                        {
+                           "url": "https://github.com/frontenddogma/upgrade-your-html",
+                           "title": "Upgrade Your HTML"
                         },
                         {
                            "url": "https://www.syncfusion.com/ebooks/w3_css_succinctly",
@@ -29554,6 +29570,10 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/frontenddogma/web-development-glossary",
+                           "title": "The Web Development Glossary"
+                        },
+                        {
                            "url": "https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf",
                            "title": "Web Almanac",
                            "notes": [
@@ -44703,6 +44723,11 @@
                            "author": "Analytics Excellence"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7",
+                           "title": "Docker Crash Course Tutorial",
+                           "author": "Net Ninja"
+                        },
+                        {
                            "url": "https://cognitiveclass.ai/courses/docker-essentials",
                            "title": "Docker Essentials",
                            "author": "CognitiveClass.ai"
@@ -48614,6 +48639,11 @@
                         {
                            "section": "Django",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw",
+                                 "title": "Complete Django Tutorial",
+                                 "author": "Net Ninja"
+                              },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO",
                                  "title": "Django 3.0 Crash Course Tutorials | Customer Management App",
