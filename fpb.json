@@ -28542,6 +28542,14 @@
                            ]
                         },
                         {
+                           "url": "https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/",
+                           "title": "Calculus",
+                           "author": "Gilbert Strang",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://resolver.caltech.edu/CaltechBOOK:1985.001",
                            "title": "Calculus I",
                            "author": "Jerrold E. Marsden, Alan Weinstein"
