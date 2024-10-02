@@ -27181,6 +27181,14 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://diveintosystems.org",
+                           "title": "Dive Into Systems: A Gentle Introduction to Computer Systems",
+                           "author": "Suzanne J. Matthews, Tia Newhall, Kevin C. Webb",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -41672,6 +41680,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Operating Systems",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT",
+                           "title": "Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)",
+                           "author": "Lecturelia - CSE Bangla Tutorial"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "PHP",
                      "entries": [
                         {
@@ -41819,6 +41838,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK",
                                  "title": "Flask Web Development with python (Bangla)",
                                  "author": "Naimul Hawk"
+                              },
+                              {
+                                 "url": "https://youtu.be/QnbsCC8wvJk?si=sRyiRRehGb_qv2wR",
+                                 "title": "Python Flask Web Development Full Course in One Video(বাংলা)",
+                                 "author": "CodeWithRafiq"
                               }
                            ]
                         }
@@ -42954,6 +42978,16 @@
                      "section": "Assembly",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLMa5a9Dh6SlhJq4wCH_CLSdfRaAbuJTzb",
+                           "title": "Assembly Language complete course",
+                           "author": "Exceptional Programmers"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPedo-T7QiNsIji329HyTzbKBuCAHwNFC",
+                           "title": "Assembly Language Programming",
+                           "author": "Rasmurtech"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN",
                            "title": "Binary Exploitation / Memory Corruption by LiveOverflow",
                            "author": "LiveOverflow"
@@ -43676,6 +43710,16 @@
                                  "url": "https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/",
                                  "title": "Microsoft Certified: Azure Fundamentals",
                                  "author": "Microsoft"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "GCP",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL",
+                                 "title": "Google Cloud Essentials",
+                                 "author": "Google Cloud Tech"
                               }
                            ]
                         },
@@ -49594,6 +49638,11 @@
                            "author": "University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz",
+                           "title": "Full Stack Web Development Tutorial Course",
+                           "author": "WB Web Development Solutions"
+                        },
+                        {
                            "url": "https://www.w3.org/WAI/WCAG21/quickref/",
                            "title": "How to Meet Web Content Accessibility Guidelines (Quick Reference)",
                            "author": "W3C Web Accessibility Initiative"
@@ -49798,6 +49847,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLQOGKy2nPhxlEVP4RBVrBoXPL6mZNZv5L",
                            "title": "WordPress Basic to Advanced Course",
                            "author": "Azharul Rafy"
+                        },
+                        {
+                           "url": "https://learn.rtcamp.com/courses/wordpress-development/",
+                           "title": "WordPress Development",
+                           "author": "rtCamp",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLjR7HjmPoicEVCFa75468V_XVA47FLJO4",
@@ -53888,6 +53945,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
                            "title": "Operating System (Complete Playlist)",
                            "author": "Gate Smashers"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqcuf9-ILPYARwquS3KOD3bDe0NSaD-oK",
+                           "title": "Operating System in Hindi",
+                           "author": "CS Engineering Gyan"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG",
