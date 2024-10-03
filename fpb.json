@@ -514,7 +514,7 @@
                            "author": "Jakir Hossain, et al."
                         },
                         {
-                           "url": "https://cpbook.subeen.com",
+                           "url": "http://cpbook.subeen.com",
                            "title": "Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»",
                            "author": "Tamim Shahriar Subeen",
                            "notes": [
@@ -592,7 +592,7 @@
                            ]
                         },
                         {
-                           "url": "https://zonayed.js.org",
+                           "url": "https://with.zonayed.me/js-basic/",
                            "title": "হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন",
                            "author": "Zonayed Ahmed",
                            "notes": [
@@ -3833,6 +3833,20 @@
                            ]
                         }
                      ]
+                  },
+                  {
+                     "section": "Rust",
+                     "entries": [
+                        {
+                           "url": "https://book.rustlang-es.org",
+                           "title": "El Lenguaje de Programación Rust",
+                           "author": "Steve Klabnik y Carol Nichols,",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   },
                   {
                      "section": "R",
@@ -11461,6 +11475,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.shellscript.sh",
+                           "title": "The Shell Scripting Tutorial",
+                           "author": "Steve Parker",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://linuxcommand.org/lc3_writing_shell_scripts.php",
                            "title": "Writing Shell Scripts",
                            "author": "William E. Shotts Jr.",
@@ -14552,6 +14574,14 @@
                            "author": "David J. Eck",
                            "notes": [
                               "HTML, PDF, ePUB + exercises"
+                           ]
+                        },
+                        {
+                           "url": "https://petrucci.dev/java23.html",
+                           "title": "Java 23 - Key Concepts in Brief",
+                           "author": "Sergio Petrucci",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -35447,9 +35477,25 @@
                            ]
                         },
                         {
+                           "url": "https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f",
+                           "title": "The Junior Jobs Podcast",
+                           "author": "Erik Andersen",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "http://javascriptshow.com",
                            "title": "The Vanilla JS Podcast",
                            "author": "Chris Ferdinandi.",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://virtualcoffee.io/podcast",
+                           "title": "Virtual Coffee",
+                           "author": "Bekah Hawrot Weigel, Dan Ott, Meghan Gutshall, Kirk Shillingford",
                            "notes": [
                               "podcast"
                            ]
@@ -42710,6 +42756,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLsyeobzWxl7p-lZvWabkVJdM_UVURhUh4",
+                           "title": "Android Tutorial for Beginners",
+                           "author": "Telusko"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV",
                            "title": "Android with kotlin",
                            "author": "Smartherd"
@@ -42910,6 +42961,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.deeplearning.ai/short-courses/ai-python-for-beginners/",
+                           "title": "AI Python for Beginners",
+                           "author": "Andrew Ng",
+                           "notes": [
+                              "DeepLearning.ai"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC",
                            "title": "Aml-2018 Ambient Intelligence",
                            "author": "Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino"
@@ -42965,6 +43024,11 @@
                            "notes": [
                               "MIT OpenCourseWare"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx",
+                           "title": "NYU Artificial Intelligence SP24",
+                           "author": "Alfredo Canziani, Ernest Davis"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX",
@@ -43720,6 +43784,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL",
                                  "title": "Google Cloud Essentials",
                                  "author": "Google Cloud Tech"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLBRBRV08tHh1e9oqTsONC5AuhFd-SUXWq",
+                                 "title": "Learn Google Cloud",
+                                 "author": "Cloud Advocate"
                               }
                            ]
                         },
@@ -44519,6 +44588,11 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI",
                            "title": "NYU Deep Learning SP21"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT",
+                           "title": "NYU Deep Learning SP22",
+                           "author": "Alfredo Canziani"
                         },
                         {
                            "url": "http://www.fast.ai",
@@ -46606,6 +46680,11 @@
                            "section": "Electron",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLmx8ERLT7ojO2PAH_sDnnoKXcqswxJ6CL",
+                                 "title": "Electron Complete Course",
+                                 "author": "coderJeet"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW",
                                  "title": "Electron js Tutorials",
                                  "author": "Codevolution"
@@ -48310,6 +48389,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12",
+                           "title": "Data Structures And Algorithms In Python",
+                           "author": "codebasics"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLrk5tgtnMN6TYBW0-U4YhIRyYEVpqVEnJ",
                            "title": "Data Structures And Algorithms In Python",
                            "author": "Coding Ninjas"
@@ -49021,6 +49105,11 @@
                            "url": "https://learn.microsoft.com/en-us/training/paths/rust-first-steps/",
                            "title": "Take your first steps with Rust",
                            "author": "Microsoft.com"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8",
+                           "title": "The Rust Lang Book",
+                           "author": "Let's Get Rusty"
                         }
                      ],
                      "subsections": []
@@ -49402,14 +49491,34 @@
                      "section": "System Design",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u",
+                           "title": "Basics of System Design",
+                           "author": "Coding Simplified"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsdq-3Z1EPT27BuTnJ_trF7BsaTpYLqst",
+                           "title": "System Design",
+                           "author": "Arpit Bhayani"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
                            "title": "System Design",
                            "author": "Gaurav Sen"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLliXPok7ZonnZd99TE0Zzn1MZlE4u08GW",
+                           "title": "System Design",
+                           "author": "Keerti Purswani"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf",
                            "title": "System Design Fundamentals",
                            "author": "ByteByteGo"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3",
+                           "title": "System Design Interview Preparation Series",
+                           "author": "codeKarle"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a",
@@ -50551,6 +50660,11 @@
                            "notes": [
                               "Refactoring.Guru"
                            ]
+                        },
+                        {
+                           "url": "https://learn.microsoft.com/es-es/training/paths/rust-first-steps",
+                           "title": "Primeros Pasos con Rust",
+                           "author": "Microsoft Learn"
                         },
                         {
                            "url": "https://programadorwebvalencia.com/cursos/php/base/",
@@ -52209,6 +52323,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA",
                            "title": "Playlist to Artificial Intelligence ",
                            "author": "Perfect Computer Engineer"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyz4Eb45WBQ02Md7BiIO1sUsKTs8GcWKS",
+                           "title": "Prompt Engineering Full Course in Hindi (beginner to Master)",
+                           "author": "EduExpress"
                         }
                      ],
                      "subsections": []
@@ -53094,6 +53213,11 @@
                            "notes": [
                               "Tech Gun"
                            ]
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O&si=rTTFha3VOrpdSXU2",
+                           "title": "Tailwind CSS Tutorials in Hindi",
+                           "author": "CodeWithHarry"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n",
@@ -54167,6 +54291,11 @@
                            "section": "Django",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy",
+                                 "title": "Chai aur Django",
+                                 "author": "Chai aur Code"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6",
                                  "title": "Django (Hindi)",
                                  "author": "Rajesh Kumar, Geeky Shows"
@@ -54307,6 +54436,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL8fnAiiuQeFsss4xdjXyHJ4fT4_w10s3J",
                            "title": "Rust-Programming in Hindi",
                            "author": "Go Guru"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLinedj3B30sA_M0oxCRgFzPzEMX3CSfT5",
+                           "title": "Rust Programming Language",
+                           "author": "Piyush Garg"
                         }
                      ],
                      "subsections": []
