@@ -28718,6 +28718,14 @@
                            ]
                         },
                         {
+                           "url": "https://arxiv.org/pdf/math/0405323",
+                           "title": "Course Of Linear Algebra And Multidimensional Geometry",
+                           "author": "Ruslan Sharipov",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://tutorial.math.lamar.edu/Classes/DE/DE.aspx",
                            "title": "Differential Equations",
                            "author": "Paul Dawkins",
@@ -43095,6 +43103,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6",
                            "title": "AutoIt Tutorials",
                            "author": "403forbidden403"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLmB-aWjqd3PrkiIK-kiD_T08_g48n1Jdn",
+                           "title": "The Basics AutoIt Tutorial",
+                           "author": "MrAutoIt"
                         }
                      ],
                      "subsections": []
@@ -46731,6 +46744,11 @@
                               {
                                  "url": "https://masteringnextjs.com",
                                  "title": "Mastering Next.js"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLrnPJCHvNZuBH7pax5p75JDNblo8rpl00",
+                                 "title": "Next.js 14 Beginner Roadmap & Course",
+                                 "author": "Coding in Flow"
                               },
                               {
                                  "url": "https://www.youtube.com/watch?v=1WmNXEVia8I",
@@ -53215,6 +53233,11 @@
                            ]
                         },
                         {
+                           "url": "https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=mGaDlsxY1dRAR1t0",
+                           "title": "Sigma Web Development Course",
+                           "author": "CodeWithHarry"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O&si=rTTFha3VOrpdSXU2",
                            "title": "Tailwind CSS Tutorials in Hindi",
                            "author": "CodeWithHarry"
@@ -53578,6 +53601,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG",
                                  "title": "Next.js Tutorials for Beginners in Hindi",
                                  "author": "CodeWithHarry"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq",
+                                 "title": "NextJS Chai aur full stack",
+                                 "author": "Chai aur Code"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv",
@@ -67768,6 +67796,11 @@
                            "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
                            "title": "Data Analysis with Python Certification",
                            "author": "freeCodeCamp"
+                        },
+                        {
+                           "url": "https://runestone.academy/ns/books/published/fopp/index.html",
+                           "title": "Foundations of Python Programming",
+                           "author": "Runestone Interactive"
                         },
                         {
                            "url": "https://futurecoder.io",
