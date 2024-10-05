@@ -621,6 +621,14 @@
                            "manualReviewRequired": true
                         },
                         {
+                           "url": "https://rakibul-hassan.gitbook.io/deep-learning",
+                           "title": "হাতেকলমে পাইথন ডীপ লার্নিং",
+                           "author": "Rakibul Hassan",
+                           "notes": [
+                              "gitbook"
+                           ]
+                        },
+                        {
                            "url": "https://rakibul-hassan.gitbook.io/mlbook-titanic/",
                            "title": "হাতেকলমে মেশিন লার্নিং: পরিচিতি, প্রজেক্ট টাইটানিক, আর এবং পাইথনসহ",
                            "author": "Rakibul Hassan",
@@ -31342,6 +31350,21 @@
                      "subsections": []
                   },
                   {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://git-scm.com/book/sv/v2",
+                           "title": "Pro Git",
+                           "author": "",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": ":construction: in process"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Fortran",
                      "entries": [
                         {
@@ -52240,6 +52263,11 @@
                            "author": "WsCube Tech"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8",
+                           "title": "Android App Development Course in 2024",
+                           "author": "Saumya Singh"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb",
                            "title": "Android Development Tutorial for Beginners",
                            "author": "Anuj Bhaiya"
@@ -52594,6 +52622,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL",
                            "title": "C++ Tutorials In Hindi",
                            "author": "CodeWithHarry"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi",
+                           "title": "Chai aur C++",
+                           "author": "Chai aur Code"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF",
@@ -54236,6 +54269,11 @@
                            "author": "Rajesh Kumar, Geeky Shows"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s",
+                           "title": "Chai aur Python",
+                           "author": "Chai aur Code"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j",
                            "title": "Class 12 Board | Python | Computer Science",
                            "author": "Apni Kaksha"
@@ -54312,6 +54350,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX",
                            "title": "Python Tutorial in Hindi",
                            "author": "edureka! Hindi"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLjVLYmrlmjGfSYkgH-_jgC8KMxyRzq7US&si=quHKEA6-lapsAXQu",
+                           "title": "Web Scraping Full Free Course by WsCube Tech",
+                           "author": "WsCube Tech"
                         }
                      ],
                      "subsections": [
@@ -67971,6 +68014,10 @@
                            "url": "https://app.codecrafters.io/concepts/rust-tcp-server",
                            "title": "TCP Servers in Rust",
                            "author": "CodeCrafters"
+                        },
+                        {
+                           "url": "https://tourofrust.com",
+                           "title": "Tour of Rust"
                         }
                      ],
                      "subsections": []
@@ -69820,6 +69867,10 @@
                         {
                            "url": "http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html",
                            "title": "Mathproblem of the Month - Bilkent University"
+                        },
+                        {
+                           "url": "https://neetcode.io/practice",
+                           "title": "NeetCode 150"
                         },
                         {
                            "url": "http://wcipeg.com",
