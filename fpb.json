@@ -16429,6 +16429,14 @@
                            "title": "Hardened Linux From Scratch"
                         },
                         {
+                           "url": "https://tldp.org/LDP/intro-linux/intro-linux.pdf",
+                           "title": "Introduction to Linux - A Hands on Guide",
+                           "author": "Machtelt Garrels",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition",
                            "title": "Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition",
                            "author": "Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali",
@@ -21381,6 +21389,13 @@
                            "url": "https://exploringjs.com/tackling-ts/toc.html",
                            "title": "Tackling TypeScript: Upgrading from JavaScript",
                            "author": "Axel Rauschmayer"
+                        },
+                        {
+                           "url": "https://www.totaltypescript.com/books/total-typescript-essentials",
+                           "title": "Total TypeScript: Essentials",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://accelerated.amimetic.co.uk",
@@ -29634,6 +29649,14 @@
                         {
                            "url": "https://github.com/frontenddogma/web-development-glossary",
                            "title": "The Web Development Glossary"
+                        },
+                        {
+                           "url": "http://www.usingz.com/usingz.pdf",
+                           "title": "Using Z Specification, Refinement, and Proof",
+                           "author": "Jim Woodcock, Jim Davies",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf",
@@ -43307,6 +43330,11 @@
                            "author": "Alchemy University"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY",
+                           "title": "Free Blockchain Development Courses",
+                           "author": "Dapp University"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9",
                            "title": "Learn Blockchain",
                            "author": "Roomyan"
@@ -44620,6 +44648,11 @@
                            "url": "http://introtodeeplearning.com",
                            "title": "MIT 6.S191: Introduction to Deep Learning",
                            "author": "Alexander Amini, Ava Soleimany"
+                        },
+                        {
+                           "url": "https://deeplearning.neuromatch.io/tutorials/intro.html",
+                           "title": "Neuromatch Academy: Deep Learning",
+                           "author": "Neuromatch Academy"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI",
@@ -53229,6 +53262,11 @@
                   {
                      "section": "HTML and CSS",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI",
+                           "title": "Chai aur HTML in हिन्दी",
+                           "author": "Chai aur Code"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD",
                            "title": "Complete Web Dev using mern stack Love Babbar",
@@ -64830,6 +64868,13 @@
                   {
                      "section": "Artificial Intelligence",
                      "entries": [
+                        {
+                           "url": "https://www.theverge.com/24201441/ai-terminology-explained-humans",
+                           "title": "AI is confusing — here’s your cheat sheet",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://intelligencereborn.com/ArtificialIntelligence.html",
                            "title": "What is Artificial Intelligence?",
