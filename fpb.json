@@ -3164,8 +3164,16 @@
                         },
                         {
                            "url": "https://eloquentjs-es.thedojo.mx",
-                           "title": "Eloquent JavaScript",
+                           "title": "Eloquent JavaScript (3ra Edición)",
                            "author": "Marijn Haverbeke,",
+                           "notes": [
+                              "HTML, PDF, EPUB, MOBI"
+                           ]
+                        },
+                        {
+                           "url": "https://www.eloquentjavascript.es",
+                           "title": "Eloquent JavaScript (4ta Edición)",
+                           "author": "Marijn Haverbeke",
                            "notes": [
                               "HTML, PDF, EPUB, MOBI"
                            ]
@@ -6411,51 +6419,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "CodeIgniter",
-                     "entries": [
-                        {
-                           "url": "https://leanpub.com/codeigniter-pendekatanpraktis",
-                           "title": "Codeigniter - Pendekatan Praktis",
-                           "author": "Ibnu Daqiqil Id",
-                           "notes": [
-                              "HTML, PDF, EPUB, Kindle"
-                           ],
-                           "accessNotes": "Membutuhkan akun Leanpub atau email yang valid"
-                        },
-                        {
-                           "url": "https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf",
-                           "title": "Codeigniter Untuk Pemula",
-                           "author": "M Fikri Setiadi",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf",
-                           "title": "Framework Codeigniter - Sebuah Panduan dan Best Practice",
-                           "author": "Gila Coding",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://codeigniter-id.github.io/user-guide/",
-                           "title": "Panduan Pengguna CodeIgniter Indonesia",
-                           "author": "CodeIgniter Indonesia"
-                        },
-                        {
-                           "url": "https://www.petanikode.com/tutorial/codeigniter/",
-                           "title": "Tutorial CodeIgniter 3 & 4",
-                           "accessNotes": ":construction: dalam proses"
-                        },
-                        {
-                           "url": "http://mfikri.com/artikel/tutorial-codeigniter4",
-                           "title": "Tutorial CodeIgniter 4"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Git",
                      "entries": [
                         {
@@ -6566,6 +6529,11 @@
                                  "url": "https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html",
                                  "title": "Daftar Tutorial Bootstrap 4 Bahasa Indonesia",
                                  "author": "Gerald Cahya Prambudi"
+                              },
+                              {
+                                 "url": "https://www.duniailkom.com/tutorial-belajar-framework-bootstrap/",
+                                 "title": "Tutorial Belajar Framework Bootstrap 5",
+                                 "author": "Duniailkom"
                               }
                            ]
                         }
@@ -6615,6 +6583,11 @@
                            "url": "https://blog.rosihanari.net/download-tutorial-java-se-gratis/",
                            "title": "Pemrograman Java",
                            "author": "Rosihan Ari Yuana"
+                        },
+                        {
+                           "url": "https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-java-untuk-pemula/",
+                           "title": "Tutorial Belajar Bahasa Pemrograman Java untuk Pemula",
+                           "author": "Duniailkom"
                         }
                      ],
                      "subsections": []
@@ -6710,6 +6683,11 @@
                                  "url": "https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f",
                                  "title": "React Redux Tutorial Untuk Pemula",
                                  "author": "Yudi Krisnandi"
+                              },
+                              {
+                                 "url": "https://www.duniailkom.com/tutorial-belajar-library-react-js/",
+                                 "title": "Tutorial Belajar Library React JS",
+                                 "author": "Duniailkom"
                               },
                               {
                                  "url": "https://mfikri.com/artikel/reactjs-pemula",
@@ -6810,6 +6788,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Pascal",
+                     "entries": [
+                        {
+                           "url": "https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-pascal-bagi-pemula/",
+                           "title": "Tutorial Belajar Bahasa Pemrograman Python Untuk Pemula",
+                           "author": "Duniailkom"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Pemrograman Fungsional",
                      "entries": [
                         {
@@ -6847,14 +6836,6 @@
                   {
                      "section": "PHP",
                      "entries": [
-                        {
-                           "url": "https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf",
-                           "title": "Belajar Laravel Untuk Pemula",
-                           "author": "Dadan Hamdani",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
                         {
                            "url": "https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/",
                            "title": "Belajar PHP Dasar",
@@ -6935,7 +6916,70 @@
                            "accessNotes": ":construction: dalam proses"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "CodeIgniter",
+                           "entries": [
+                              {
+                                 "url": "https://leanpub.com/codeigniter-pendekatanpraktis",
+                                 "title": "Codeigniter - Pendekatan Praktis",
+                                 "author": "Ibnu Daqiqil Id",
+                                 "notes": [
+                                    "HTML, PDF, EPUB, Kindle"
+                                 ],
+                                 "accessNotes": "Membutuhkan akun Leanpub atau email yang valid"
+                              },
+                              {
+                                 "url": "https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf",
+                                 "title": "Codeigniter Untuk Pemula",
+                                 "author": "M Fikri Setiadi",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf",
+                                 "title": "Framework Codeigniter - Sebuah Panduan dan Best Practice",
+                                 "author": "Gila Coding",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://codeigniter-id.github.io/user-guide/",
+                                 "title": "Panduan Pengguna CodeIgniter Indonesia",
+                                 "author": "CodeIgniter Indonesia"
+                              },
+                              {
+                                 "url": "https://www.petanikode.com/tutorial/codeigniter/",
+                                 "title": "Tutorial CodeIgniter 3 & 4",
+                                 "accessNotes": ":construction: dalam proses"
+                              },
+                              {
+                                 "url": "http://mfikri.com/artikel/tutorial-codeigniter4",
+                                 "title": "Tutorial CodeIgniter 4"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Laravel",
+                           "entries": [
+                              {
+                                 "url": "https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf",
+                                 "title": "Belajar Laravel Untuk Pemula",
+                                 "author": "Dadan Hamdani",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.duniailkom.com/tutorial-belajar-framework-laravel/",
+                                 "title": "Tutorial Belajar Framework Laravel 10",
+                                 "author": "Duniailkom"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Python",
@@ -41819,8 +41863,8 @@
                            "section": "Laravel",
                            "entries": [
                               {
-                                 "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY",
-                                 "title": "Restapi Bangla tutorial | Laravel & Lumen Api development",
+                                 "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff",
+                                 "title": "laravel 10 bangla tutorial latest version | laravel basic to advanced from official documentation",
                                  "author": "Learn Hunter"
                               }
                            ]
@@ -41865,14 +41909,9 @@
                            ]
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ",
-                           "title": "Python All You Need To Know",
+                           "url": "https://www.youtube.com/playlist?list=PL3-qJK8D7YirnPBwmPNRyczdVOEwJbtLW",
+                           "title": "Python All You Need to Know / stack learner",
                            "author": "Stack Learner"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT",
-                           "title": "Python Bangla Tutorial & Data Science Full Course",
-                           "author": "Study Mart"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v",
@@ -42024,11 +42063,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLm64fbD5Onxti7DiUkX3UX3P2tuiEw30E",
                            "title": "WordPress Bangla Tutorial",
                            "author": "Moshiur"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf",
-                           "title": "Wordpress Bangla Tutorial Course for beginner to advanced level",
-                           "author": "Freelancer Mannan"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4",
@@ -43051,6 +43085,11 @@
                            "author": "University of Helsinki, Reaktor"
                         },
                         {
+                           "url": "https://shala2020.github.io",
+                           "title": "Have fun Staying Home And Learning AI - SHALA2020",
+                           "author": "IIT BOMBAY"
+                        },
+                        {
                            "url": "https://www.coursera.org/professional-certificates/ai-engineer",
                            "title": "IBM AI Engineering Professional Certificate",
                            "author": "Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al.",
@@ -44050,6 +44089,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU",
                            "title": "CUDA Crash Course",
                            "author": "CoffeeBeforeArch"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s",
+                           "title": "CUDA Programming Course – High-Performance Computing with GPUs",
+                           "author": "Elliot Arledge",
+                           "notes": [
+                              "FreeCodeCamp"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK",
@@ -53186,6 +53233,11 @@
                            "author": "Vashishth Muni Singh"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLfEr2kn3s-brBO7d9irTRvClcjiNhzczH",
+                           "title": "Git & GitHub Fundamentals in 6 Hours",
+                           "author": "Anurag Singh ProCodrr"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=gwWKnnCMQ5c",
                            "title": "Git & GitHub Tutorial For Beginners In Hindi",
                            "author": "CodeWithHarry"
@@ -53291,9 +53343,19 @@
                            "author": "WsCube Tech"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLfEr2kn3s-bpuh9XfcDlXP6weTISBWzvQ",
+                           "title": "Full HTML Course for Beginners in Hindi",
+                           "author": "Anurag Singh ProCodrr"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC",
                            "title": "HTML CSS & Browser APIs",
                            "author": "Pepcoding"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=k2DSi1zGEc8",
+                           "title": "HTML Tutorial for Beginners in Hindi | Complete HTML Course with AI + Notes + 5 Project Bundle",
+                           "author": "CodeWithHarry"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=QXPWs00RD3A",
@@ -53377,6 +53439,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLPppPPmk0i3h9Xs6cAknE9OODTqZD5zFe",
                                  "title": "Learn Tailwind CSS with Projects - Hindi",
                                  "author": "Do Some Coding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLfEr2kn3s-br05lTglbEi25A1X07cvihy",
+                                 "title": "Tailwind CSS Complete Course",
+                                 "author": "Anurag Singh ProCodrr"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfpwYhVAbiGAhFl6h8XWDV_",
@@ -54347,6 +54414,11 @@
                            "author": "CodeWithHarry"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGelmHXLZ0ukHdb-jjvG6rRm",
+                           "title": "OpenCV Full Tutorial by WsCube Tech",
+                           "author": "WsCube Tech"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF",
                            "title": "Python",
                            "author": "Computer Gyan Guruji"
@@ -54561,6 +54633,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R",
                            "title": "Complete Ethical Hacking Tutorial for Beginners to Pro 2022",
                            "author": "WsCube Tech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8",
+                           "title": "Cryptography and network security",
+                           "author": "Abhishek Sharma"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PLE3bzAX_OzbkQXKbRFqQqbnlGxTNeaUqe",
