@@ -14279,6 +14279,14 @@
                            "section": "Bootstrap",
                            "entries": [
                               {
+                                 "url": "https://bootstrapclasses.com/shop/bootstrap-quick-start",
+                                 "title": "Bootstrap 4 Quick Start Book",
+                                 "author": "Jacob Lett",
+                                 "notes": [
+                                    "PDF, EPUB, MOBI"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3",
                                  "title": "Twitter Bootstrap 3 Succinctly",
                                  "author": "Peter Shaw"
@@ -30364,7 +30372,8 @@
                            "title": "Structure and Interpretation of Computer Programs",
                            "author": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -30372,7 +30381,8 @@
                            "title": "Structure and Interpretation of Computer Programs",
                            "author": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -53323,6 +53333,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD",
                            "title": "Complete Web Dev using mern stack Love Babbar",
                            "author": "Love Babbar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGcotVRgbduK05oOMnt-9r8H",
+                           "title": "CSS Full Free Course by WsCube Tech",
+                           "author": "WsCube Tech"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=WyxzAU3p8CE",
