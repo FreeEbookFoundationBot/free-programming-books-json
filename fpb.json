@@ -5187,7 +5187,7 @@
                            "section": "LaTeX",
                            "entries": [
                               {
-                                 "url": "https://tex.loria.fr/general/apprends-latex.pdf",
+                                 "url": "http://www.babafou.eu.org/Apprends_LaTeX/Apprends_LaTeX.pdf",
                                  "title": "Apprends LaTeX",
                                  "author": "Marc Baudoin",
                                  "notes": [
@@ -12309,7 +12309,8 @@
                            "title": "Modern C++ Tutorial: C++11/14/17/20 On the Fly",
                            "author": "Changkun Ou",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -15813,8 +15814,12 @@
                            "section": "Meteor",
                            "entries": [
                               {
-                                 "url": "http://meteortips.com/book/",
-                                 "title": "Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework"
+                                 "url": "https://web.archive.org/web/20230815173101/http://meteortips.com/first-meteor-tutorial/",
+                                 "title": "Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework",
+                                 "notes": [
+                                    "HTML"
+                                 ],
+                                 "accessNotes": ":card_file_box: archived"
                               }
                            ]
                         },
@@ -26830,7 +26835,8 @@
                            "title": "Clever Algorithms Nature-Inspired Programming Recipes",
                            "author": "Jason Brownlee",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -27284,7 +27290,8 @@
                            "title": "Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition",
                            "author": "Charles W. Kann",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY"
                            ]
                         },
                         {
@@ -27698,7 +27705,8 @@
                            "url": "http://www.cs.indiana.edu/~geobrown/book.pdf",
                            "title": "Discovering the STM32 Microcontroller",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -30141,7 +30149,8 @@
                            "title": "The Little Book of Semaphores",
                            "author": "Allen B. Downey",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -47904,7 +47913,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal",
-                           "title": "Machine Learning Recipes with Josh Gordon"
+                           "title": "Machine Learning Recipes with Josh Gordon",
+                           "author": "Google for Developers"
                         },
                         {
                            "url": "https://www.coursera.org/specializations/machine-learning-introduction",
@@ -52216,6 +52226,11 @@
                            "author": "Pepcoding"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt",
+                           "title": "Complete C++ DSA Course | Data Structures & Algorithms Playlist",
+                           "author": "Apna College"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
                            "title": "Complete C++ Placement DSA Course",
                            "author": "CodeHelp by Babbar"
@@ -53218,6 +53233,11 @@
                      "section": "Git and GitHub",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/watch?v=q8EevlEpQ2A",
+                           "title": "Complete git and Github course in Hindi",
+                           "author": "Chai aur Code"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s",
                            "title": "Complete Git and GitHub Tutorial",
                            "author": "Kunal Kushwaha"
@@ -53454,6 +53474,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLPppPPmk0i3h9Xs6cAknE9OODTqZD5zFe",
                                  "title": "Learn Tailwind CSS with Projects - Hindi",
                                  "author": "Do Some Coding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu0OrMJWIuhvibOPZm_IHGTl",
+                                 "title": "Tailwind Course + Project",
+                                 "author": "Anuj Bhaiya"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLfEr2kn3s-br05lTglbEi25A1X07cvihy",
