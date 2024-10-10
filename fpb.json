@@ -12209,7 +12209,10 @@
                         {
                            "url": "https://www.programming-books.io/essential/cpp/",
                            "title": "Essential C++",
-                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://ba-odegaard.no/gcc_prog/recipes/",
@@ -26033,6 +26036,14 @@
                                  "notes": [
                                     "PDF"
                                  ]
+                              },
+                              {
+                                 "url": "https://postgrespro.ru/education/books/sqlprimer",
+                                 "title": "PostgreSQL. Основы языка SQL",
+                                 "author": "Моргунов Евгений Павлович",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         }
@@ -26513,7 +26524,8 @@
                            "title": "A Field Guide To Genetic Programming",
                            "author": "Riccardo Poli, William B. Langdon, Nicholas F. McPhee",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ],
                            "accessNotes": ":card_file_box: archived"
                         },
@@ -26527,7 +26539,8 @@
                            "title": "Algorithmic Graph Theory",
                            "author": "David Joyner, Minh Van Nguyen, David Phillips",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "GFDL"
                            ]
                         },
                         {
@@ -27345,7 +27358,8 @@
                            "title": "Computer Science I",
                            "author": "Chris Bourke",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -27353,7 +27367,8 @@
                            "title": "Computer Science II",
                            "author": "Chris Bourke",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -27443,7 +27458,8 @@
                            "title": "Docker Tutorial",
                            "author": "Anthony Baire",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -30166,7 +30182,8 @@
                            "title": "UNIX Application and System Programming, lecture notes",
                            "author": "Stewart Weiss",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -42851,6 +42868,11 @@
                            "title": "Android Developer Fundamentals (Version 2) — Concepts"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=fis26HvvDII",
+                           "title": "Android Development for Beginners - Full Course",
+                           "author": "freeCodeCamp.org"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLqM7alHXFySF_Hb1GtyvCX44dBniJ5sNy",
                            "title": "Android Development Tutorials",
                            "author": "GeeksforGeeks"
@@ -43089,6 +43111,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY",
                            "title": "Artificial Intelligence Search Methods For Problem Solving",
                            "author": "nptelhrd"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=WZeZZ8_W-M4",
+                           "title": "AWS Certified AI Practitioner (AIF-C01)",
+                           "author": "Andrew Brown",
+                           "notes": [
+                              "FreeCodeCamp"
+                           ]
                         },
                         {
                            "url": "https://cs50.harvard.edu/ai/",
@@ -44441,7 +44471,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU",
                            "title": "DBMS Placement Series",
-                           "author": "CodeHelp by Babbar>>>>>>> main"
+                           "author": "CodeHelp by Babbar"
                         },
                         {
                            "url": "https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised",
@@ -45269,6 +45299,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL6bQeQE-ybqAYoaWz_ZEE2X4wX6PhwCWR",
                            "title": "Godot Wave Shooter Tutorials",
                            "author": "PlugWorld"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=gB1F9G0JXOo",
+                           "title": "Learn Unity - Beginner's Game Development Tutorial",
+                           "author": "freeCodeCamp.org"
                         },
                         {
                            "url": "https://www.coursera.org/learn/low-poly-art-video-games",
@@ -46859,6 +46894,14 @@
                                  "author": "Daily Tuition"
                               },
                               {
+                                 "url": "https://nextjs.org/learn/dashboard-app",
+                                 "title": "Learn Next.js",
+                                 "author": "Vercel",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3",
                                  "title": "Master Next JS by Building Real Projects",
                                  "author": "JavaScript Mastery"
@@ -47912,6 +47955,11 @@
                            "author": "Siddhardhan"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV",
+                           "title": "Machine Learning Foundations",
+                           "author": "Google for Developers"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal",
                            "title": "Machine Learning Recipes with Josh Gordon",
                            "author": "Google for Developers"
@@ -48085,7 +48133,8 @@
                         },
                         {
                            "url": "http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/",
-                           "title": "MIT 18.S997 Introduction to MATLAB Programming"
+                           "title": "MIT 18.S997 Introduction to MATLAB Programming",
+                           "author": "MIT OpenCourseWare"
                         }
                      ],
                      "subsections": [
@@ -53724,6 +53773,26 @@
                         }
                      ],
                      "subsections": [
+                        {
+                           "section": "GSAP",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+                                 "title": "Animate anything with GSAP | Complete GSAP Course",
+                                 "author": "Sheryians Coding School"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOn9x8DUbc-E0t9PnvrUaPs9",
+                                 "title": "GSAP Demystified | From Beginning to Advanced",
+                                 "author": "Sheryians Coding School"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLf8nAOi8Z9NXGhl7m8rTWmzjyhJEuFYmF",
+                                 "title": "Learning GSAP in hindi",
+                                 "author": "D.Designing"
+                              }
+                           ]
+                        },
                         {
                            "section": "jQuery",
                            "entries": [
