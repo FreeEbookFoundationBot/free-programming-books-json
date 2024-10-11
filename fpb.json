@@ -12132,6 +12132,14 @@
                            ]
                         },
                         {
+                           "url": "https://possibility.com/Cpp/CppCodingStandard.html",
+                           "title": "C++ Coding Standard",
+                           "author": "Todd Hoff",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md",
                            "title": "C++ Core Guidelines",
                            "author": ""
@@ -13433,7 +13441,10 @@
                         {
                            "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/",
                            "title": "Build Web Application with Golang",
-                           "author": "astaxie"
+                           "author": "astaxie",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://codegangsta.gitbooks.io/building-web-apps-with-go/content/",
@@ -13451,14 +13462,18 @@
                         {
                            "url": "https://www.programming-books.io/essential/go/",
                            "title": "Essential Go",
-                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                           "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://essentials-of-go-programming.readthedocs.io",
                            "title": "Essentials of Go Programming",
                            "author": "Baiju Muthukadan",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -13599,7 +13614,10 @@
                         },
                         {
                            "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook/",
-                           "title": "Web apps in Go, the anti textbook"
+                           "title": "Web apps in Go, the anti textbook",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -15039,7 +15057,8 @@
                            "title": "Eloquent JavaScript 3rd edition",
                            "author": "Marijn Haverbeke",
                            "notes": [
-                              "HTML, PDF, EPUB, MOBI"
+                              "HTML, PDF, EPUB, MOBI",
+                              "CC BY-NC"
                            ]
                         },
                         {
@@ -18687,7 +18706,8 @@
                            "title": "Introduction to Scientific Programming with Python",
                            "author": "Joakim Sundnes",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY"
                            ]
                         },
                         {
@@ -19245,7 +19265,8 @@
                            "author": "Allen B. Downey",
                            "notes": [
                               "3.x",
-                              "HTML, PDF"
+                              "HTML, PDF",
+                              "CC BY-NC"
                            ]
                         },
                         {
@@ -28430,7 +28451,8 @@
                            "title": "Reinforcement Learning: An Introduction",
                            "author": "Richard S. Sutton, Andrew G. Barto",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -28459,7 +28481,8 @@
                            "title": "The Little Book of Deep Learning",
                            "author": "François Fleuret",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -42505,11 +42528,6 @@
                            "title": "Berkeley's CS 61B: Data Structures"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner",
-                           "title": "Binary Trees - by LoveBabbar",
-                           "author": "CodeHelp - by Babbar"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM",
                            "title": "C Programming & Data Structures",
                            "author": "Neso Academy"
@@ -43487,7 +43505,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P",
-                           "title": "C Programming Tutorial"
+                           "title": "C Programming Tutorial",
+                           "author": "The Bad Tutorials"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=KJgsSFOSQv0",
@@ -43532,7 +43551,11 @@
                         },
                         {
                            "url": "https://www.coursera.org/learn/arduino-platform",
-                           "title": "The Arduino Platform and C Programming"
+                           "title": "The Arduino Platform and C Programming",
+                           "author": "Ian Harris",
+                           "notes": [
+                              "Coursera"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -44462,6 +44485,11 @@
                            "url": "https://www.youtube.com/watch?v=4cWkVbC2bNE",
                            "title": "Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)",
                            "author": "Professor Immanuel Trummer, freeCodeCamp.org"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLliXPok7ZonnALnedG5doBOSCXlU14yJF",
+                           "title": "Databases in Depth",
+                           "author": "Keerti Purswani"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLWPirh4EWFpGrpcMfZ6UcdI786QdtSxV8",
@@ -46952,6 +46980,11 @@
                                  "author": "Microsoft Developer"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PL8YhozOQUteYwa13S-PGUNMM37gv7gEVq",
+                                 "title": "Build a Bank App ...From Scratch",
+                                 "author": "Ugwu Somto"
+                              },
+                              {
                                  "url": "https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-nodejs",
                                  "title": "Build JavaScript applications with Node.js",
                                  "author": "Microsoft Learn"
@@ -48521,7 +48554,7 @@
                      "section": "Processing",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10",
+                           "url": "https://thecodingtrain.com/tracks/learning-processing",
                            "title": "Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction",
                            "author": "The Coding Train"
                         }
@@ -54806,6 +54839,11 @@
                      "section": "Solidity",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh",
+                           "title": "Solidity ^0.8 | Blockchain | In Hindi",
+                           "author": "Pepcoding"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i",
                            "title": "Solidity Full Course",
                            "author": "Code Eater"
@@ -54851,6 +54889,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg",
                            "title": "System Analysis and Design",
                            "author": "Gursimran Singh Dhillon"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+                           "title": "System Design Playlist",
+                           "author": "Gaurav Sen"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM",
