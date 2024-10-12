@@ -3238,6 +3238,14 @@
                            ]
                         },
                         {
+                           "url": "https://javascript.sumankunwar.com.np/es",
+                           "title": "Learn JavaScript",
+                           "author": "Suman Kumar, Github Contributors",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20",
                            "title": "Manual de JavaScript",
                            "notes": [
@@ -5131,6 +5139,14 @@
                            "author": "Marijn Haverbeke"
                         },
                         {
+                           "url": "https://javascript.sumankunwar.com.np/fr",
+                           "title": "Learn JavaScript",
+                           "author": "Suman Kumar, Github Contributors",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "https://oncletom.io/node.js/#chapitres",
                            "title": "Node.Js: Apprendre par la pratique",
                            "author": "Thomas Parisot"
@@ -5814,6 +5830,14 @@
                            "url": "https://www.tutorialinhindi.com/javascript-tutorial-hindi/",
                            "title": "JavaScript | Hindi",
                            "author": "TutorialinHindi.com"
+                        },
+                        {
+                           "url": "https://javascript.sumankunwar.com.np/np",
+                           "title": "Learn JavaScript | Hindi",
+                           "author": "Suman Kumar, Github Contributors",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -6601,6 +6625,14 @@
                            "author": "Desrizal",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://javascript.sumankunwar.com.np/id",
+                           "title": "Learn JavaScript",
+                           "author": "Suman Kumar, Github Contributors",
+                           "notes": [
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -13567,11 +13599,17 @@
                         },
                         {
                            "url": "https://miek.nl/go/",
-                           "title": "Learning Go"
+                           "title": "Learning Go",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "http://go-book.readthedocs.io/en/latest/",
-                           "title": "Let's learn Go!"
+                           "title": "Let's learn Go!",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://leanpub.com/gocrypto/read",
@@ -13631,7 +13669,10 @@
                            "entries": [
                               {
                                  "url": "https://github.com/GraphQLCollege/fullstack-graphql",
-                                 "title": "Fullstack GraphQL"
+                                 "title": "Fullstack GraphQL",
+                                 "notes": [
+                                    "CC BY-NC-SA"
+                                 ]
                               },
                               {
                                  "url": "https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf",
@@ -13646,7 +13687,8 @@
                                  "title": "Learning graphqL",
                                  "author": "Compiled from StackOverflow Documentation",
                                  "notes": [
-                                    "PDF"
+                                    "PDF",
+                                    "CC BY-SA"
                                  ]
                               }
                            ]
@@ -13817,7 +13859,10 @@
                         {
                            "url": "http://hadoopilluminated.com/index.html",
                            "title": "Hadoop Illuminated",
-                           "author": "Mark Kerzner, Sujee Maniyam"
+                           "author": "Mark Kerzner, Sujee Maniyam",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -15284,6 +15329,14 @@
                            "author": "Malcolm Maclean",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://javascript.sumankunwar.com.np/en",
+                           "title": "Learn JavaScript",
+                           "author": "Suman Kumar, Github Contributors",
+                           "notes": [
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -19887,7 +19940,8 @@
                            "url": "https://raku.guide",
                            "title": "Raku Guide",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-SA"
                            ],
                            "otherLinks": [
                               {
@@ -26833,6 +26887,14 @@
                      "section": "Artificial Intelligence",
                      "entries": [
                         {
+                           "url": "https://courses.csail.mit.edu/6.034f/ai3/rest.pdf",
+                           "title": "Artificial Intelligence, 3rd Edition (1993)",
+                           "author": "Patrick Henry Winston",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www2.ed.gov/documents/ai-report/ai-report.pdf",
                            "title": "Artificial Intelligence and the Future for Teaching and Learning",
                            "author": "Office of Educational Technology",
@@ -31578,6 +31640,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Git Github",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/eliya_tamizhil_git/",
+                           "title": "எளிய தமிழில் கிட்(Git) – தொழில்நுட்பம்",
+                           "author": "கி. முத்துராமலிங்கம்",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Hadoop",
                      "entries": [
                         {
@@ -31659,6 +31735,14 @@
                   {
                      "section": "Machine Learning",
                      "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/",
+                           "title": "எளிய தமிழில் Deep Learning",
+                           "author": "து. நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/",
                            "title": "எளிய தமிழில் ML",
@@ -32214,6 +32298,20 @@
                            "title": "Java Kitabı",
                            "notes": [
                               "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "JavaScript",
+                     "entries": [
+                        {
+                           "url": "https://javascript.sumankunwar.com.np/tr",
+                           "title": "Learn JavaScript",
+                           "author": "Suman Kumar, Github Contributors",
+                           "notes": [
+                              "HTML, PDF"
                            ]
                         }
                      ],
@@ -42797,11 +42895,6 @@
                                  "url": "https://www.youtube.com/playlist?list=PL_kjqgSKrEaA8RDh56AeTOrcGj-nMDkSS",
                                  "title": "Learn and Grow",
                                  "author": "Learn and Grow"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg",
-                                 "title": "Soft Computing /| University exams specific",
-                                 "author": "Er Sahil ka Gyan"
                               }
                            ]
                         }
@@ -43527,11 +43620,6 @@
                            "author": "ProgrammingKnowledge"
                         },
                         {
-                           "url": "https://www.youtube.com/watch?v=irqbmMNs2Bo",
-                           "title": "C Programming Tutorials for Beginners (with notes & practice questions)",
-                           "author": "Apna College"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe",
                            "title": "C tutorial for beginners",
                            "author": "Bro Code"
@@ -43803,7 +43891,8 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/watch?v=zFPiPBIkAcQ",
-                           "title": "Clojure language Tutorial - for Beginners"
+                           "title": "Clojure language Tutorial - for Beginners",
+                           "author": "it learning"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=ciGyHkDuPAE",
@@ -45789,7 +45878,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe",
-                           "title": "CSS Tutorial"
+                           "title": "CSS Tutorial",
+                           "author": "The Bad Tutorials"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ",
@@ -46561,7 +46651,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46",
                            "title": "JavaScript Tutorial for Beginners",
-                           "author": "Code With Harry"
+                           "author": "ProgrammingWithHarry"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET",
@@ -52682,6 +52772,11 @@
                            "author": "CodeWithHarry"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt",
+                           "title": "C Programming Course",
+                           "author": "College Wallah"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l",
                            "title": "C Programming Tutorials",
                            "author": "Vikas Pandey, easytuts4you"
@@ -53414,6 +53509,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk",
                            "title": "Go programming Tutorial for Beginners(Hindi)",
                            "author": "CS Geeks"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLXQpH_kZIxTWUe-Ee-DZEX5gfeoo4tHV6",
+                           "title": "Golang Tutorial",
+                           "author": "Coder's Gyan"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa",
