@@ -707,7 +707,7 @@
                      "section": "Sql",
                      "entries": [
                         {
-                           "url": "https://www.sattacademy.com/sql/sql-intro.php",
+                           "url": "https://www.sattacademy.org/sql/index.php",
                            "title": "এসকিউএল পরিচিতি(SQL Introduction in Bangla)",
                            "author": "Satt Academy"
                         },
@@ -2824,6 +2824,14 @@
                            "author": "Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://conclase.net/c/curso",
+                           "title": "Curso de C++",
+                           "author": "Salvador Pozo",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -27103,6 +27111,14 @@
                            "url": "https://www.wolframscience.com/nksonline/toc.html",
                            "title": "A New Kind of Science",
                            "author": "Stephen Wolfram"
+                        },
+                        {
+                           "url": "https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf",
+                           "title": "An Introduction to Cellular Automata",
+                           "author": "Hélène Vivien",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -48901,6 +48917,14 @@
                            ]
                         },
                         {
+                           "url": "https://alison.com/course/python-for-beginners",
+                           "title": "Python for Beginners",
+                           "author": "Merul Dhiman",
+                           "notes": [
+                              "Alison"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK",
                            "title": "Python for Beginners",
                            "author": "Alex The Analyst"
@@ -52625,6 +52649,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s",
                            "title": "Complete Arduino Tutorial Learn Arduino Programming in Hindi",
                            "author": "Techtalks With Vivek"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLVl__93X7ZlxnDtEY1_ibH-fECYEAKAQC",
+                           "title": "Learn Arduino in Hindi",
+                           "author": "TEKNOISTIX"
                         }
                      ],
                      "subsections": []
@@ -52838,11 +52867,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd",
                            "title": "C++ and DSA Foundation Course",
                            "author": "College Wallah"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=EAR7De6Goz4",
-                           "title": "C++ Basics in One Shot - Strivers A2Z DSA Course - L1",
-                           "author": "Take U Forward"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
@@ -54947,6 +54971,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i",
                            "title": "Solidity Full Course",
                            "author": "Code Eater"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR0uCBk15bq9a__TgfcZ7oA73MTEZ3NOK",
+                           "title": "Solidity full course for beginners in Hindi",
+                           "author": "web3Mantra"
                         }
                      ],
                      "subsections": []
@@ -54989,11 +55018,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg",
                            "title": "System Analysis and Design",
                            "author": "Gursimran Singh Dhillon"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
-                           "title": "System Design Playlist",
-                           "author": "Gaurav Sen"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM",
@@ -57134,6 +57158,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC",
                            "title": "Computer grafica 2017/2018",
                            "author": "A. Bottino, Politecnico di Torino"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP_boQ2FBTSvA1fU73x2BiEv",
+                           "title": "Corso Bootstrap Italiano",
+                           "author": "Edoardo Midali"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP-a0MG-MFHKCISmj2Wg4vT6",
@@ -64085,6 +64114,11 @@
                      "section": "Python",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL-vQNozaqIxuPzFUVEIrYDvd6ieUshJTw",
+                           "title": "Python",
+                           "author": "Kawish - Urdu"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI",
                            "title": "Python_ka_chilla (python in 40 days in urdu/Hindi)",
                            "author": "Codeanics"
@@ -69910,6 +69944,10 @@
                            "title": "Techgig"
                         },
                         {
+                           "url": "https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions/",
+                           "title": "Top Array Interview Questions – Structured Path with Video Solutions | Arrays Series"
+                        },
+                        {
                            "url": "https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/",
                            "title": "Top Coding Interview Problems",
                            "author": "Striver"
@@ -70093,6 +70131,14 @@
                         {
                            "url": "https://takeuforward.org/interview-experience/strivers-cp-sheet/",
                            "title": "Striver’s CP Sheet"
+                        },
+                        {
+                           "url": "https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/",
+                           "title": "System Design Roadmap with Videos for SDEs",
+                           "author": "take U forward",
+                           "notes": [
+                              "takeuforward"
+                           ]
                         }
                      ],
                      "subsections": []
