@@ -7061,6 +7061,11 @@
                            "title": "Tutorial Python"
                         },
                         {
+                           "url": "https://www.kevintekno.com/p/tutorial-python-untuk-pemula.html",
+                           "title": "Tutorial Python untuk Pemula",
+                           "author": "Kevin Tekno, Kevin Alfito"
+                        },
+                        {
                            "url": "http://sakti.github.io/python101/",
                            "title": "Workshop Python 101"
                         }
@@ -27119,6 +27124,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/",
+                           "title": "Introduction to the Modeling and Analysis of Complex Systems",
+                           "author": "Hiroki Sayama"
                         }
                      ],
                      "subsections": []
@@ -43248,12 +43258,27 @@
                            ]
                         },
                         {
+                           "url": "https://huggingface.co/learn/computer-vision-course",
+                           "title": "Community Computer Vision Course",
+                           "author": "Hugging Face"
+                        },
+                        {
                            "url": "https://cs50.harvard.edu/ai/",
                            "title": "CS50’s Introduction to Artificial Intelligence with Python",
                            "author": "Brian Yu, David J. Malan",
                            "notes": [
                               "Harvard OpenCourseWare and edX"
                            ]
+                        },
+                        {
+                           "url": "https://huggingface.co/learn/deep-rl-course",
+                           "title": "Deep Reinforcement Learning Course",
+                           "author": "Hugging Face"
+                        },
+                        {
+                           "url": "https://huggingface.co/learn/diffusion-course",
+                           "title": "Diffusion Course",
+                           "author": "Hugging Face"
                         },
                         {
                            "url": "https://www.elementsofai.com",
@@ -43293,6 +43318,11 @@
                            "notes": [
                               "MIT OpenCourseWare"
                            ]
+                        },
+                        {
+                           "url": "https://huggingface.co/learn/nlp-course",
+                           "title": "NLP Course",
+                           "author": "Hugging Face"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx",
@@ -45018,6 +45048,11 @@
                                  "notes": [
                                     "Udemy"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70",
+                                 "title": "Getting Started with Ansible",
+                                 "author": "Learn Linux TV"
                               },
                               {
                                  "url": "https://www.udemy.com/course/red-hat-ansible-automation-for-sap",
@@ -47543,6 +47578,11 @@
                            "notes": [
                               "Scrimba"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW",
+                           "title": "Typescript",
+                           "author": "Hitesh Choudhary"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
@@ -54843,6 +54883,11 @@
                      "section": "Ruby",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92y_ENwi_4hMCpDtQFnazFPp",
+                           "title": "Complete Ruby Programming Course || Hindi",
+                           "author": "CS Geeks"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=3V9a_WYEQPA",
                            "title": "Learn Ruby in 45 Minutes | Hindi",
                            "author": "CS Geeks"
@@ -55480,6 +55525,11 @@
                            "url": "https://www.youtube.com/watch?v=fQbTeNX1mvM",
                            "title": "Tutorial Git Dasar",
                            "author": "Programmer Zaman Now"
+                        },
+                        {
+                           "url": "https://app.sko.dev/kelas/upload-kode-di-github",
+                           "title": "Upload Code di Github",
+                           "author": "Sekolah Koding"
                         }
                      ],
                      "subsections": []
@@ -57187,6 +57237,11 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7",
                            "title": "Corso SEO Italiano 2023",
+                           "author": "Edoardo Midali"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP--n8iUsDsFMuTiKW5ooZE6",
+                           "title": "Corso Typescript 2023",
                            "author": "Edoardo Midali"
                         },
                         {
@@ -64461,6 +64516,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce",
                            "title": "HTML Cơ Bản",
                            "author": "Thạch Phạm"
+                        },
+                        {
+                           "url": "https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68",
+                           "title": "HTML Dành Cho Lập Trình Viên Web",
+                           "author": "Nguyen Van Linh",
+                           "notes": [
+                              "ZendVN"
+                           ]
                         },
                         {
                            "url": "https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS",
