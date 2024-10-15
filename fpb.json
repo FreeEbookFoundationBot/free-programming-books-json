@@ -6446,6 +6446,11 @@
                            "url": "https://github.com/kelasterbuka/CPP_dasar-dasar-programming",
                            "title": "Belajar C++ Dasar Bahasa Indonesia",
                            "author": "Kelas Terbuka"
+                        },
+                        {
+                           "url": "https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula",
+                           "title": "Buku Pintar C++ untuk Pemula",
+                           "author": "Abdul Kadir"
                         }
                      ],
                      "subsections": []
@@ -6594,6 +6599,11 @@
                            "url": "https://polinema.gitbook.io/jti-modul-praktikum-algoritma-dan-struktur-data/",
                            "title": "Algoritma dan Struktur Data dengan Java oleh Polinema SIB",
                            "author": "Politeknik Negeri Malang"
+                        },
+                        {
+                           "url": "https://www.researchgate.net/publication/264422101_Buku_Pertama_Belajar_Pemrograman_Java_untuk_Pemula",
+                           "title": "Buku Pertama Belajar Pemrograman Java untuk Pemula",
+                           "author": "Abdul Kadir"
                         },
                         {
                            "url": "https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf",
@@ -7035,6 +7045,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://www.researchgate.net/publication/361459389_Dasar-Dasar_Python_Panduan_Cepat_untuk_Memahami_Fondasi_Pemrograman_Python",
+                           "title": "Dasar-Dasar Python: Panduan Cepat untuk Memahami Fondasi Pemrograman Python",
+                           "author": "Abdul Kadir"
                         },
                         {
                            "url": "https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ",
@@ -12156,7 +12171,8 @@
                            "title": "A Complete Guide to Standard C++ Algorithms",
                            "author": "Šimon Tóth",
                            "notes": [
-                              "PDF, LaTeX"
+                              "PDF, LaTeX",
+                              "CC BY-NC-SA"
                            ],
                            "accessNotes": ":construction: in process"
                         },
@@ -12207,14 +12223,18 @@
                         },
                         {
                            "url": "http://www.cplusplus.com/doc/tutorial/",
-                           "title": "C++ Language"
+                           "title": "C++ Language",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://goalkicker.com/CPlusPlusBook",
                            "title": "C++ Notes for Professionals",
                            "author": "Compiled from StackOverflow Documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -32912,6 +32932,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "人工智能",
+                     "entries": [
+                        {
+                           "url": "https://aibydoing.com",
+                           "title": "动手实战人工智能",
+                           "author": "huhuhang"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "软件开发方法",
                      "entries": [
                         {
@@ -43585,6 +43616,11 @@
                            "author": "Roomyan"
                         },
                         {
+                           "url": "https://updraft.cyfrin.io/courses/security",
+                           "title": "Smart Contract Security",
+                           "author": "Cyfrin Updraft"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=M576WGiDBdQ",
                            "title": "Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial",
                            "author": "Patrick Collins",
@@ -52686,6 +52722,11 @@
                            "author": "Engineers & Electronics"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLLpp1gWWec-Fj93mz9kfflp_ovplKCpR4",
+                           "title": "Arduino project in hindi",
+                           "author": "Praveen Innovation Lab"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s",
                            "title": "Complete Arduino Tutorial Learn Arduino Programming in Hindi",
                            "author": "Techtalks With Vivek"
@@ -52705,6 +52746,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI",
                            "title": "Artificial Intelligence (Complete Playlist)",
                            "author": "Gate Smashers"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe",
+                           "title": "Artificial Intelligence Lectures Hindi",
+                           "author": "Easy Engineering Classes"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6",
@@ -52862,6 +52908,11 @@
                            "author": "Sunny Games & Technology"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLOd2apPiwn-Z8GJiZs5HYb7HoiVvTV9H7",
+                           "title": "C# Programming Complete in Hindi By Arvind",
+                           "author": "Sarkar Study Waves Education"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR",
                            "title": "C# Programming language (Console Applications)",
                            "author": "Learning Never Ends"
@@ -53001,19 +53052,9 @@
                            "author": "Intellipaat"
                         },
                         {
-                           "url": "https://www.youtube.com/watch?v=2LaAJq1lB1Q",
-                           "title": "Cloud Computing Full Course In 11 Hours",
-                           "author": "Edureka"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd",
                            "title": "Cloud Computing Tutorial",
                            "author": "University Academy"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J",
-                           "title": "NPTEL Cloud Computing Course",
-                           "author": "NPTEL"
                         }
                      ],
                      "subsections": [
@@ -53208,11 +53249,6 @@
                            "author": "Saurabh Shukla"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU",
-                           "title": "Data Structures and Algorithms",
-                           "author": "Jenny's Lectures CS IT"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
                            "title": "Data Structures and Algorithms Course in Hindi",
                            "author": "CodeWithHarry"
@@ -53246,11 +53282,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
                            "title": "Java + DSA",
                            "author": "Apna College"
-                        },
-                        {
-                           "url": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
-                           "title": "Java + DSA + Interview Preparation Course",
-                           "author": "Kunal Kushwaha"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_",
@@ -53400,11 +53431,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E",
                            "title": "Flutter Complete Tutorial in Hindi",
                            "author": "WsCube Tech"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=Wdx8vwN_nWI",
-                           "title": "Flutter Essential Course",
-                           "author": "freecodecamp"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo3Cs115GXkot28i406511Y",
@@ -68128,6 +68154,11 @@
                                  "url": "https://www.scaler.com/topics/operating-system/",
                                  "title": "Operating System Tutorial",
                                  "author": "Scaler Topics"
+                              },
+                              {
+                                 "url": "https://labex.io/tutorials/practice-linux-commands-free-tutorials-398420",
+                                 "title": "Practice Linux Commands (Hands-On Labs)",
+                                 "author": "LabEx"
                               },
                               {
                                  "url": "https://exposnitc.github.io",
