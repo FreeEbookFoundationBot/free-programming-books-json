@@ -21814,7 +21814,8 @@
                            "title": "Visual Basic .NET Notes for Professionals",
                            "author": "Compiled from StackOverflow Documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -31158,6 +31159,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://browser.engineering/index.html",
+                           "title": "Web Browser Engineering",
+                           "author": "Pavel Panchekha, Chris Harrelson"
                         },
                         {
                            "url": "https://launchschool.com/books/working_with_apis",
@@ -42601,6 +42607,10 @@
                            "title": "Khan Academy"
                         },
                         {
+                           "url": "https://labex.io",
+                           "title": "LabEx"
+                        },
+                        {
                            "url": "https://learnweb3.io",
                            "title": "LearnWeb3 DAO | Become a Web3 Developer for Free"
                         },
@@ -43535,6 +43545,11 @@
                   {
                      "section": "Blockchain",
                      "entries": [
+                        {
+                           "url": "https://updraft.cyfrin.io/courses/formal-verification",
+                           "title": "Assembly and Formal Verification",
+                           "author": "Cyfrin Updraft"
+                        },
                         {
                            "url": "https://www.edx.org/learn/blockchain/university-of-california-berkeley-blockchain-technology",
                            "title": "BerkeleyX: Blockchain Technology",
@@ -44668,11 +44683,6 @@
                            "author": "Tutorialspoint"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU",
-                           "title": "DBMS Placement Series",
-                           "author": "CodeHelp by Babbar"
-                        },
-                        {
                            "url": "https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised",
                            "title": "DML Server Administration",
                            "notes": [
@@ -44684,6 +44694,13 @@
                            "title": "Introduction to Databases",
                            "notes": [
                               "Stanford University"
+                           ]
+                        },
+                        {
+                           "url": "https://www.simplilearn.com/learn-basics-of-databases-free-course-skillup",
+                           "title": "Introduction to the Fundamentals of Databases",
+                           "notes": [
+                              "Simplilearn"
                            ]
                         },
                         {
@@ -49328,6 +49345,11 @@
                            "title": "R Programming"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG",
+                           "title": "R Programming For Beginners",
+                           "author": "Simplilearn"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=_V8eKsto3Ug",
                            "title": "R Programming Tutorial",
                            "author": "Barton Poulson",
@@ -53125,6 +53147,11 @@
                      "section": "Compiler Design",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr",
+                           "title": "Compiler Design",
+                           "author": "The Gatehub"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL9FuOtXibFjVR-87LcU-DS-9TJcbG97_p",
                            "title": "Compiler Design",
                            "author": "Abhishek Sharma"
@@ -53318,11 +53345,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs",
                            "title": "Database Management System (DBMS) in Hindi",
                            "author": "Jitendra Ajmedha"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc",
-                           "title": "DBMS (Database Management System)",
-                           "author": "Jenny's lectures CS/IT NET&JRF"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y",
@@ -55355,6 +55377,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1",
                            "title": "Pemrograman Berorientasi Objek - Dart",
                            "author": "Erico Darmawan Handoyo"
+                        },
+                        {
+                           "url": "https://www.kevintekno.com/p/tutorial-dart.html",
+                           "title": "Tutorial Dart",
+                           "author": "Kevin Tekno"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=-mzXdI27tyk",
@@ -65341,6 +65368,11 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://www.geeksforgeeks.org/c-cheatsheet/",
+                           "title": "C Cheat Sheet",
+                           "author": "GeeksforGeeks"
+                        },
+                        {
                            "url": "https://www.codewithharry.com/blogpost/c-cheatsheet/",
                            "title": "C Language Cheat Sheet",
                            "author": "CodeWithHarry",
@@ -67418,6 +67450,11 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://www.w3schools.com/c/",
+                           "title": "C Tutorial",
+                           "author": "W3Schools"
+                        },
+                        {
                            "url": "https://www.scaler.com/topics/c/",
                            "title": "C Tutorial",
                            "author": "Scaler Topics"
@@ -67608,6 +67645,20 @@
                         {
                            "url": "https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html",
                            "title": "Top 10 Data Science Projects for Beginners - KDnuggets"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "DBMS",
+                     "entries": [
+                        {
+                           "url": "https://www.scaler.com/topics/course/dbms/",
+                           "title": "DBMS Course - Master the Fundamentals and Advanced Concepts",
+                           "author": "Srikanth Varma",
+                           "notes": [
+                              "Scaler Topics"
+                           ]
                         }
                      ],
                      "subsections": []
