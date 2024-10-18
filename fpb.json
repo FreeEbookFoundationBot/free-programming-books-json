@@ -2234,7 +2234,7 @@
                      "section": "C",
                      "entries": [
                         {
-                           "url": "https://repository.kallipos.gr/bitstream/11419/1346/1/00_master%20document_KOY.pdf",
+                           "url": "https://repository.kallipos.gr/bitstream/11419/1346/3/00_master%20document_KOY.pdf",
                            "title": "Διαδικαστικός προγραμματισμός",
                            "author": "Μαστοροκώστας Πάρις",
                            "notes": [
@@ -10406,7 +10406,23 @@
                   },
                   {
                      "section": "Machine Learning",
-                     "entries": [],
+                     "entries": [
+                        {
+                           "url": "https://wikidocs.net/book/14314",
+                           "title": "<랭체인LangChain 노트> - LangChain 한국어 튜토리얼",
+                           "author": "테디노트"
+                        },
+                        {
+                           "url": "https://wikidocs.net/book/2155",
+                           "title": "딥 러닝을 이용한 자연어 처리 입문",
+                           "author": "유원준, 상준"
+                        },
+                        {
+                           "url": "https://wikidocs.net/book/2788",
+                           "title": "Pytorch로 시작하는 딥 러닝 입문",
+                           "author": "유원준, 상준"
+                        }
+                     ],
                      "subsections": []
                   },
                   {
@@ -10668,18 +10684,35 @@
                      "section": "Rust",
                      "entries": [
                         {
-                           "url": "https://rinthel.github.io/rust-lang-book-ko/",
-                           "title": "러스트 프로그래밍 언어",
-                           "author": "스티브 클라브닉, 캐롤 니콜스",
-                           "notes": [
-                              "HTML"
-                           ],
-                           "accessNotes": ":construction: in process"
+                           "url": "https://coding-insight.com/docs/category/rust",
+                           "title": "러스트 코딩인사이트"
                         },
                         {
-                           "url": "https://hanbum.gitbooks.io/rustbyexample/content/",
-                           "title": "Rust by Example",
-                           "accessNotes": ":construction: in process"
+                           "url": "https://rinthel.github.io/rust-lang-book-ko/",
+                           "title": "러스트 프로그래밍 언어",
+                           "author": "스티브 클라브닉, 캐롤 니콜스"
+                        },
+                        {
+                           "url": "http://rust-lang.xyz",
+                           "title": "예제로 배우는 Rust 프로그래밍"
+                        },
+                        {
+                           "url": "https://indosaram.github.io/rust-python-book/",
+                           "title": "파이썬과 비교하며 배우는 러스트 프로그래밍",
+                           "author": "윤인도"
+                        },
+                        {
+                           "url": "https://google.github.io/comprehensive-rust/ko/index.html",
+                           "title": "Comprehensive Rust"
+                        },
+                        {
+                           "url": "https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps",
+                           "title": "Rust로 첫 번째 단계 수행",
+                           "author": "마이크로소프트에서 제공하는 러스트 강의"
+                        },
+                        {
+                           "url": "https://doc.rust-kr.org/title-page.html",
+                           "title": "The Rust Programming Language"
                         }
                      ],
                      "subsections": []
@@ -17057,7 +17090,10 @@
                         },
                         {
                            "url": "http://chortle.ccsu.edu/VectorLessons/index.html",
-                           "title": "Vector Math for 3d Computer Graphics"
+                           "title": "Vector Math for 3d Computer Graphics",
+                           "notes": [
+                              "CC BY-NC"
+                           ]
                         },
                         {
                            "url": "https://www.wolfram.com/wolfram-u/catalog/product-training/mathematica/",
@@ -18702,14 +18738,6 @@
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
                         },
                         {
-                           "url": "https://www.labri.fr/perso/nrougier/from-python-to-numpy/",
-                           "title": "From Python to NumPy",
-                           "author": "Nicolas P. Rougier",
-                           "notes": [
-                              "3.6"
-                           ]
-                        },
-                        {
                            "url": "https://www.fullstackpython.com",
                            "title": "Full Stack Python",
                            "author": "Matt Makai"
@@ -19626,6 +19654,36 @@
                               {
                                  "url": "https://kivy.org/docs/guide-index.html",
                                  "title": "Kivy Programming Guide"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "NumPY",
+                           "entries": [
+                              {
+                                 "url": "https://www.labri.fr/perso/nrougier/from-python-to-numpy/",
+                                 "title": "From Python to NumPy",
+                                 "author": "Nicolas P. Rougier",
+                                 "notes": [
+                                    "HTML",
+                                    "3.6"
+                                 ]
+                              },
+                              {
+                                 "url": "https://web.mit.edu/dvp/Public/numpybook.pdf",
+                                 "title": "Guide to NumPY 2010",
+                                 "author": "Travis E. Oliphant",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://numpy.org/doc/stable/user",
+                                 "title": "NumPy user guide",
+                                 "author": "NumPY developers",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               }
                            ]
                         },
@@ -32654,7 +32712,7 @@
                      "section": "PHP",
                      "entries": [
                         {
-                           "url": "https://symfony.com/doc/current/the-fast-track/uk/index.html",
+                           "url": "https://symfony.com.ua/doc/current/quick_tour/index.html",
                            "title": "Symfony: Швидкий старт",
                            "author": "Symfony SAS"
                         }
@@ -44350,11 +44408,6 @@
                            "url": "https://www.coursera.org/course/crypto",
                            "title": "Stanford Cryptography I",
                            "author": "Dan Boneh"
-                        },
-                        {
-                           "url": "https://www.coursera.org/course/crypto2",
-                           "title": "Stanford Cryptography II",
-                           "author": "Dan Boneh"
                         }
                      ],
                      "subsections": []
@@ -47828,6 +47881,11 @@
                            "notes": [
                               "Udacity"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=9-pFPGAOSZQ",
+                           "title": "Android Development Full Tutorial 2023 | Kotlin",
+                           "author": "Scaler"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV",
@@ -57118,6 +57176,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9",
                            "title": "Machine Learning in italiano col Pollo Watzlawick",
                            "author": "Piero Savastano"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL-tCoHPn6YlbCQHeyRxc_CQ0f1VZsUD6D",
+                           "title": "Machine Learning Reti Neurali",
+                           "author": "Davide Manzoni",
+                           "notes": [
+                              "Brainlink"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -59557,6 +59623,20 @@
                            "url": "https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo",
                            "title": "PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)",
                            "author": "Mirosław Zelent, Damian Stelmach"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Embedded",
+                     "entries": [
+                        {
+                           "url": "https://www.forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290",
+                           "title": "Kurs podstaw Arduino"
+                        },
+                        {
+                           "url": "https://www.forbot.pl/blog/kurs-stm32-l4-wstep-spis-tresci-dla-kogo-jest-ten-kurs-id48575",
+                           "title": "Kurs STM32L4"
                         }
                      ],
                      "subsections": []
