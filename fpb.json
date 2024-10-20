@@ -29591,6 +29591,14 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf",
+                           "title": "PROGRAM = PROOF",
+                           "author": "Samuel Mimram",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -53917,6 +53925,16 @@
                            "section": "Material UI",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/watch?v=TJz6y9RLtA8",
+                                 "title": "Material UI Complete in One Video (Hindi)",
+                                 "author": "Geeky Shows"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLlR2O33QQkfXnZMMZC0y22gLayBbB1UQd",
+                                 "title": "Material UI Tutorial",
+                                 "author": "Indian Coders"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL8u9CiaEfFDaR0ipsKfHdnZccTm10J7-3",
                                  "title": "Material UI Tutorial for Beginners in Hindi",
                                  "author": "Basics Adda"
@@ -56937,6 +56955,11 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs",
                            "title": "Assembler x86"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL4GzWsD6ECaXVzneIlSV62plQPdWXIZ_h",
+                           "title": "Assembly x86",
+                           "author": "Leonardo Boselli"
                         }
                      ],
                      "subsections": []
@@ -65833,6 +65856,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.geeksforgeeks.org/docker-cheat-sheet",
+                           "title": "Docker Cheat Sheet : Complete Guide (2024)",
+                           "author": "Geeksforgeeks",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://dockerlux.github.io/pdf/cheat-sheet.pdf",
                            "title": "Docker Cheat Sheet (v1)",
                            "author": "Gildas Cuisinier, Docker Meetup Luxembourg",
@@ -66140,6 +66171,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css",
+                           "title": "CSS Cheat Sheet – A Basic Guide to CSS",
+                           "author": "GeeksforGeeks",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://htmlcheatsheet.com/css/",
                            "title": "CSS CheatSheet",
                            "notes": [
@@ -66388,7 +66427,15 @@
                            "accessNotes": ":card_file_box: archived"
                         },
                         {
-                           "url": "https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/",
+                           "url": "https://www.geeksforgeeks.org/java-cheat-sheet",
+                           "title": "Java Cheat Sheet",
+                           "author": "GeeksforGeeks",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.edureka.co/blog/cheatsheets/java-cheat-sheet",
                            "title": "Java Cheat Sheet",
                            "author": "Edureka",
                            "notes": [
@@ -66404,7 +66451,7 @@
                            ]
                         },
                         {
-                           "url": "https://introcs.cs.princeton.edu/java/11cheatsheet/",
+                           "url": "https://introcs.cs.princeton.edu/java/11cheatsheet",
                            "title": "Java Programming Cheatsheet",
                            "author": "Robert Sedgewick and Kevin Wayne",
                            "notes": [
@@ -66417,6 +66464,14 @@
                   {
                      "section": "JavaScript",
                      "entries": [
+                        {
+                           "url": "https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript",
+                           "title": "JavaScript Cheat Sheet – A Basic Guide to JavaScript",
+                           "author": "GeeksforGeeks",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://github.com/wilfredinni/javascript-cheatsheet",
                            "title": "JavaScript CheatSheet",
@@ -66497,6 +66552,14 @@
                                  "url": "https://overapi.com/jquery",
                                  "title": "JQuery Cheat Sheet",
                                  "author": "OverAPI"
+                              },
+                              {
+                                 "url": "https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery",
+                                 "title": "jQuery Cheat Sheet – A Basic Guide to jQuery",
+                                 "author": "GeeksforGeeks",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               },
                               {
                                  "url": "https://htmlcheatsheet.com/jquery/",
@@ -67126,6 +67189,22 @@
                         {
                            "section": "Numpy Pandas",
                            "entries": [
+                              {
+                                 "url": "https://www.geeksforgeeks.org/numpy-cheat-sheet",
+                                 "title": "NumPy Cheat Sheet: Beginner to Advanced (PDF)",
+                                 "author": "GeeksforGeeks",
+                                 "notes": [
+                                    "HTML,PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.geeksforgeeks.org/pandas-cheat-sheet",
+                                 "title": "Pandas Cheat Sheet for Data Science in Python",
+                                 "author": "GeeksforGeeks",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
                               {
                                  "url": "https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet",
                                  "title": "Pandas, Numpy, Python Cheatsheet",
