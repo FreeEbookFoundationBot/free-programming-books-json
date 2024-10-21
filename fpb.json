@@ -49754,11 +49754,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLDV15dUauYyOcloXu7GXHJ6Xxq5XTBg1k",
-                           "title": "Ethical Hacking",
-                           "author": "Cyber Square"
-                        },
-                        {
                            "url": "https://www.hacker101.com/videos",
                            "title": "Ethical Hacking",
                            "author": "Hacker101"
@@ -49772,33 +49767,9 @@
                            ]
                         },
                         {
-                           "url": "https://www.udemy.com/course/sql-injection-ethical-hacking",
-                           "title": "Ethical Hacking - SQL Injection Attack",
-                           "author": "Sunil K. Gupta, Knowledge Aacademy",
-                           "notes": [
-                              "Udemy"
-                           ]
-                        },
-                        {
                            "url": "https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance",
                            "title": "Ethical Hacking for beginners: Beginner to Advance",
                            "author": "PaceIT Academy",
-                           "notes": [
-                              "Udemy"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udemy.com/course/ethical-hacking-by-digiflax",
-                           "title": "Ethical Hacking from Scratch - The Complete Course",
-                           "author": "DIGIFLAX E-LEARNING",
-                           "notes": [
-                              "Udemy"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udemy.com/course/kali-linux-command-line-cli-hands-on",
-                           "title": "Ethical Hacking Kali Linux Command Line (CLI) Hands-On",
-                           "author": "Musab Zayadneh",
                            "notes": [
                               "Udemy"
                            ]
@@ -49897,11 +49868,6 @@
                            "author": "Dan Boneh"
                         },
                         {
-                           "url": "https://www.coursera.org/course/crypto2",
-                           "title": "Stanford Cryptography II",
-                           "author": "Dan Boneh"
-                        },
-                        {
                            "url": "https://www.udemy.com/course/ethical-hacking-with-parrot-security-os",
                            "title": "Start Ethical Hacking with Parrot Security OS (Alt. to Kali)",
                            "author": "Seyed Farshid Miri",
@@ -49915,14 +49881,6 @@
                            "author": "INSEC-TECHS",
                            "notes": [
                               "EH Academy"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udemy.com/course/wireshark-for-ethical-hacking-new",
-                           "title": "WireShark for Ethical Hacking",
-                           "author": "Musab Zayadneh",
-                           "notes": [
-                              "Udemy"
                            ]
                         },
                         {
@@ -54389,6 +54347,11 @@
                                  "url": "https://www.youtube.com/watch?v=RGKi6LSPDLU",
                                  "title": "React Tutorial in Hindi",
                                  "author": "CodeWithHarry"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLfEr2kn3s-bqpPUbeTZP6iRXTxTLwNB7F",
+                                 "title": "React.js Full Course in Hindi | Zero to Advanced in 28 Hours",
+                                 "author": "Anurag Singh ProCodrr"
                               },
                               {
                                  "url": "https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w",
