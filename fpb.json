@@ -47246,7 +47246,24 @@
                                  "author": "Brad Traversy, Traversy Media"
                               }
                            ]
+                        }
+                     ]
+                  },
+                  {
+                     "section": "Nest.js",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
+                           "title": "Learn NestJS – Complete Course",
+                           "author": "freeCodeCamp"
                         },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB",
+                           "title": "NestJs",
+                           "author": "Marius Espejo"
+                        }
+                     ],
+                     "subsections": [
                         {
                            "section": "Next.js",
                            "entries": [
@@ -48050,6 +48067,11 @@
                            "notes": [
                               "edX"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/live/PN3VqbZqmD8?feature=shared",
+                           "title": "Kubernetes 101 workshop - complete hands-on",
+                           "author": "Kubesimplify"
                         },
                         {
                            "url": "https://kube.academy/paths/kubernetes-core-concepts",
@@ -54580,6 +54602,11 @@
                            "author": "Pepcoding"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST",
+                           "title": "Maths for Machine Learning",
+                           "author": "CampusX"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
                            "title": "Statistics And Probability",
                            "author": "Gajendra Purohit"
@@ -54660,6 +54687,11 @@
                   {
                      "section": "Natural Language Processing",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX",
+                           "title": "Natural Language Processing",
+                           "author": "CampusX"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG",
                            "title": "Natural Language Processing with Deep NLP from Zero to Hero",
@@ -55022,6 +55054,14 @@
                                  "url": "https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC",
                                  "title": "Flask (Python) In Hindi",
                                  "author": "HindiSiksha"
+                              },
+                              {
+                                 "url": "https://learnwith.campusx.in/courses/Flask-for-Machine-Learning-Introduction-to-Flask--Dynamic-URL-Redirection-URL-Building-Jinja-Templates-Forms--Input-Validation-Databases-Sessions-Cookies-Training--Deloyment-of-ML-Model-6658698ad54433398d1a487b",
+                                 "title": "Flask for Machine Learning",
+                                 "author": "Mohammed Misbahullah Sheriff",
+                                 "notes": [
+                                    "CampusX"
+                                 ]
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf",
@@ -59274,11 +59314,6 @@
                            "url": "https://youtube.com/playlist?list=PLWSZr_wlNWaw8_iFhKvrPKp1Uh2S1dXHk",
                            "title": "HTML | HTML For Beginners | Krushna Pise | Marathi Programmer",
                            "author": "MaRaTHi ProGrammer"
-                        },
-                        {
-                           "url": "https://youtube.com/playlist?list=PLU1bHMETQ0vzRyMVH2Wp6sA8bMUuVl5S2",
-                           "title": "HTML & CSS In Marathi Tutorials",
-                           "author": "Programming By Yogesh"
                         }
                      ],
                      "subsections": []
@@ -59672,6 +59707,14 @@
                      "section": "Embedded",
                      "entries": [
                         {
+                           "url": "https://www.forbot.pl/blog/kurs-arduino-ii-wstep-spis-tresci-id15494",
+                           "title": "Kurs Arduino, poziom II",
+                           "author": "Damian",
+                           "notes": [
+                              "Treker"
+                           ]
+                        },
+                        {
                            "url": "https://www.forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290",
                            "title": "Kurs podstaw Arduino"
                         },
@@ -59708,10 +59751,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLpwxuvBp359NntV2cLO5LaH6tmd6efmHH",
                            "title": "Kurs HTML",
                            "author": "Marcin Filczyński"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL0zYPqHK5yJWsIn3PIproSyxO3nchPd99",
-                           "title": "Kurs HTML - od zera do Webmastera"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLs8Otihb6zvfosmWesJ_lkJS_HzL58gSS",
@@ -59782,8 +59821,9 @@
                            "section": "Vue.js",
                            "entries": [
                               {
-                                 "url": "https://frontandback.pl/tags/kurs-vue-w-praktyce/",
-                                 "title": "FrontAndBack.pl - Kurs Vue w praktyce"
+                                 "url": "https://web.archive.org/web/20221004101108/https://frontandback.pl/tags/kurs-vue-w-praktyce/",
+                                 "title": "FrontAndBack.pl - Kurs Vue w praktyce",
+                                 "accessNotes": ":card_file_box: archived"
                               }
                            ]
                         }
