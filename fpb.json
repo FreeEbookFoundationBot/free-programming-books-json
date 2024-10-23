@@ -18787,6 +18787,14 @@
                            "accessNotes": ":construction: in process"
                         },
                         {
+                           "url": "https://geographicdata.science/book/intro.html",
+                           "title": "Geographic Data Science with Python",
+                           "author": "Sergio Rey, Dani Arribas-Bel, Levi John Wolf",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://developers.google.com/edu/python/",
                            "title": "Google's Python Class",
                            "notes": [
@@ -47224,6 +47232,21 @@
                            ]
                         },
                         {
+                           "section": "Force.com",
+                           "entries": [
+                              {
+                                 "url": "https://trailhead.salesforce.com/users/rolson5/trailmixes/apex-trail-mix",
+                                 "title": "Apex TrailMix",
+                                 "author": "Rick Olson"
+                              },
+                              {
+                                 "url": "https://trailhead.salesforce.com/users/strailhead/trailmixes/lightning-web-components",
+                                 "title": "Get Started with Lightning Web Components",
+                                 "author": "Salesforce Trailhead"
+                              }
+                           ]
+                        },
+                        {
                            "section": "jQuery",
                            "entries": [
                               {
@@ -49668,6 +49691,11 @@
                   {
                      "section": "Rust",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=joCFbTJt0o0&t=20s",
+                           "title": "Complete Rust Marathon",
+                           "author": "Harkirat Singh"
+                        },
                         {
                            "url": "https://google.github.io/comprehensive-rust/index.html",
                            "title": "Comprehensive Rust",
@@ -53414,6 +53442,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm",
                            "title": "Data Structure Programs | Hindi",
                            "author": "Saurabh Shukla"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su",
+                           "title": "Data Structure using Java",
+                           "author": "ForMyScholars"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
