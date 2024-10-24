@@ -1794,7 +1794,7 @@
                      "section": "LaTeX",
                      "entries": [
                         {
-                           "url": "http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf",
+                           "url": "https://www.fernuni-hagen.de/zdi/docs/a026_latex_einf.pdf",
                            "title": "LaTeX - eine Einführung und ein bisschen mehr ...",
                            "author": "Manuela Jürgens, Thomas Feuerstack",
                            "notes": [
@@ -1802,7 +1802,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf",
+                           "url": "https://www.fernuni-hagen.de/zdi/docs/a027_latex_fort.pdf",
                            "title": "LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)",
                            "author": "Manuela Jürgens",
                            "notes": [
@@ -9228,8 +9228,8 @@
                                  "author": ""
                               },
                               {
-                                 "url": "https://ja.reactjs.org/tutorial/tutorial.html",
-                                 "title": "チュートリアル：React の導入",
+                                 "url": "https://ja.react.dev/learn",
+                                 "title": "クイックスタート",
                                  "author": "Facebook Inc."
                               }
                            ]
@@ -12420,7 +12420,8 @@
                            "title": "Learning C++ eBook",
                            "author": "Compiled from StackOverflow Documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -12453,7 +12454,8 @@
                            "title": "Open Data Structures (In C++)",
                            "author": "Pat Morin",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY"
                            ]
                         },
                         {
@@ -16204,6 +16206,10 @@
                                  "title": "Learning React.js: Getting Started and Concepts"
                               },
                               {
+                                 "url": "https://react.dev/learn",
+                                 "title": "Quick Start"
+                              },
+                              {
                                  "url": "https://github.com/vasanthk/react-bits",
                                  "title": "React-Bits"
                               },
@@ -16245,10 +16251,6 @@
                                  "url": "https://www.syncfusion.com/ebooks/react-succinctly",
                                  "title": "React Succinctly",
                                  "author": "Samer Buna"
-                              },
-                              {
-                                 "url": "https://reactjs.org/tutorial/tutorial.html",
-                                 "title": "React Tutorial"
                               }
                            ]
                         },
@@ -23157,7 +23159,8 @@
                                  "title": "Algoritmos e Estruturas de Dados 1",
                                  "author": "Marcos Castilho, Fabiano Silva, Daniel Weingaertner",
                                  "notes": [
-                                    "PDF"
+                                    "PDF",
+                                    "CC BY-NC-ND"
                                  ]
                               },
                               {
@@ -24178,14 +24181,6 @@
                   {
                      "section": "Pascal",
                      "entries": [
-                        {
-                           "url": "https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf",
-                           "title": "Algoritmos e Estruturas de Dados I",
-                           "author": "Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
                         {
                            "url": "https://ic.ufal.br/professor/jaime/livros/Programando%20com%20Pascal.pdf",
                            "title": "Programando com Pascal",
@@ -27188,6 +27183,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/volodymyrprokopyuk/go-blockchain",
+                           "title": "Build a Blockchain from Scratch in Go with gRPC",
+                           "author": "Volodymyr Prokopyuk"
                         },
                         {
                            "url": "https://web.archive.org/web/20220127020549/https://chain.courses/",
@@ -31855,6 +31855,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "DevOps",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/learn_devops_in_tamil/",
+                           "title": "எளிய தமிழில் DevOps – கணினி அறிவியல்",
+                           "author": "து.நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Git Github",
                      "entries": [
                         {
@@ -32054,6 +32068,20 @@
                            "url": "https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil",
                            "title": "எளிய தமிழில் Agile/Scrum",
                            "author": "த.சீனிவாசன்",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Software Testing",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/eliya_tamilil_software_testing/",
+                           "title": "எளிய தமிழில் சாப்ட்வேர் டெஸ்டிங் – தொழில்நுட்பம்",
+                           "author": "கி.முத்துராமலிங்கம்",
                            "notes": [
                               "PDF"
                            ]
@@ -48052,6 +48080,11 @@
                            "author": "Telusko"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLmtsMNDRU0BwGCBDIKKQNLYycRTnQzMfp",
+                           "title": "Kotlin Tutorial - Kotlin at Light Speed",
+                           "author": "Rock the JVM"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR",
                            "title": "Kotlin Tutorial for Beginners: Basics and Fundamentals for Android",
                            "author": "Smartherd"
@@ -57823,11 +57856,6 @@
                            "author": "DEBUG CODING"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLBVoFEaXQzK3F2BN7ZbXb_EpnDMAlJsPo",
-                           "title": "HTML and CSS in Kannada || Web Designing in Kannada || CSS in Kannada || Html in Kannada",
-                           "author": "Learn Tech in Kannada"
-                        },
-                        {
                            "url": "https://youtube.com/playlist?list=PLBGSzVCM24iHCjyPxCZBbZSNIiFS7vDFl",
                            "title": "HTML in Kannada (ಕನ್ನಡದಲ್ಲಿ) - Beginners to Advanced",
                            "author": "DEBUG CODING"
@@ -57847,11 +57875,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLQztdyH5OY4BvjvmU0PV8nTevqXjYcYEE",
                            "title": "JavaScript for Beginners in Kannada(Full Course)",
                            "author": "MicroDegree ಕನ್ನಡ"
-                        },
-                        {
-                           "url": "https://youtube.com/playlist?list=PLBVoFEaXQzK0ybl-O3g_2_PswaLzNGbb8",
-                           "title": "Javascript tutorial in Kannada || Javascript in Kannada || Complete Javascript in Kannada",
-                           "author": "Learn Tech in Kannada"
                         }
                      ],
                      "subsections": []
@@ -64333,8 +64356,9 @@
                            ]
                         },
                         {
-                           "url": "https://sites.google.com/site/pythonukr/vstup",
-                           "title": "Програмування на мові Python (3.x). Початковий курс"
+                           "url": "http://web.archive.org/web/20201026152235/https://sites.google.com/site/pythonukr/vstup",
+                           "title": "Програмування на мові Python (3.x). Початковий курс",
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://ela.kpi.ua/handle/123456789/25111",
