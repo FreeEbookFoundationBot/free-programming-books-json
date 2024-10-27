@@ -3636,6 +3636,19 @@
                                  ]
                               }
                            ]
+                        },
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-es.pdf",
+                                 "title": "Gu´ıa Definitiva de Yii 2.0",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
+                           ]
                         }
                      ]
                   },
@@ -5400,6 +5413,19 @@
                                  "url": "https://symfony.com/doc/current/the-fast-track/fr/index.html",
                                  "title": "En route pour Symfony 6.2",
                                  "author": "Fabien Potencier"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-fr.pdf",
+                                 "title": "Guide définitif pour Yii 2.0",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         }
@@ -9554,7 +9580,21 @@
                            "author": "maosanhioro"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-ja.pdf",
+                                 "title": "Yii 2.0 決定版ガイド",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "PowerShell",
@@ -12684,6 +12724,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.tonymarston.net/cobol/cobolstandards.html",
+                           "title": "COBOL Programming Standards",
+                           "author": "A J Marston",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://www-01.ibm.com/support/docview.wss?uid=swg27036733",
                            "title": "Enterprise COBOL for z/OS documentation library"
                         },
@@ -12713,6 +12761,14 @@
                         {
                            "url": "http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf",
                            "title": "OpenCOBOL 1.1 - Programmer's Guide",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf",
+                           "title": "Visual COBOL: A Developer's Guide to Modern COBOL",
+                           "author": "Paul Kelly",
                            "notes": [
                               "PDF"
                            ]
@@ -12995,6 +13051,14 @@
                            "author": "Michalis Kamburelis",
                            "notes": [],
                            "manualReviewRequired": true
+                        },
+                        {
+                           "url": "https://code.sd/startprog/StartProgUsingPascal.pdf",
+                           "title": "Start Programming using Object Pascal",
+                           "author": "Motaz Abdel Azeem",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -14206,6 +14270,14 @@
                            ]
                         },
                         {
+                           "url": "https://ecss.benfrain.com/preface.html",
+                           "title": "Enduring CSS",
+                           "author": "Ben Frain",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.programming-books.io/essential/css/",
                            "title": "Essential CSS",
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
@@ -14233,7 +14305,8 @@
                            "title": "How To Build a Website with HTML",
                            "author": "Erin Glass",
                            "notes": [
-                              "PDF, EPUB"
+                              "PDF, EPUB",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -22964,7 +23037,21 @@
                            "author": "Josh Lockhart"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-pl.pdf",
+                                 "title": "Przewodnik po Yii 2.0",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Prolog",
@@ -23689,11 +23776,17 @@
                         {
                            "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/",
                            "title": "Construindo Aplicações Web em Golang",
-                           "author": "astaxie"
+                           "author": "astaxie",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://github.com/go-br/estudos",
-                           "title": "Go - hands on"
+                           "title": "Go - hands on",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf",
@@ -23708,7 +23801,8 @@
                            "title": "Go por Exemplo",
                            "author": "Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY"
                            ]
                         }
                      ],
@@ -24226,7 +24320,21 @@
                            ]
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-pt-br.pdf",
+                                 "title": "Guia Definitivo para Yii 2.0",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Python",
@@ -25875,6 +25983,19 @@
                               {
                                  "url": "https://symfony.com/doc/6.2/the-fast-track/ru/index.html",
                                  "title": "Symfony 6.2: Быстрый старт"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-ru.pdf",
+                                 "title": "Полное руководство по Yii 2.0",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         }
@@ -28498,6 +28619,11 @@
                            "url": "https://www.statlearning.com",
                            "title": "An Introduction to Statistical Learning",
                            "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani"
+                        },
+                        {
+                           "url": "https://aml4td.org",
+                           "title": "Applied Machine Learning for Tabular Data",
+                           "author": "Max Kuhn, Kjell Johnson"
                         },
                         {
                            "url": "https://github.com/abhishekkrthakur/approachingalmost",
@@ -31963,6 +32089,28 @@
                      "subsections": []
                   },
                   {
+                     "section": "Linux",
+                     "entries": [
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part1/",
+                           "title": "எளிய தமிழில் GNU/Linux - பாகம் - 1",
+                           "author": "து.நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part2/",
+                           "title": "எளிய தமிழில் GNU/Linux - பாகம் - 2",
+                           "author": "து.நித்யா",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Machine Learning",
                      "entries": [
                         {
@@ -34505,6 +34653,19 @@
                                  "accessNotes": ":card_file_box: archived"
                               }
                            ]
+                        },
+                        {
+                           "section": "Yii",
+                           "entries": [
+                              {
+                                 "url": "https://www.yiiframework.com/doc/download/yii-guide-2.0-zh-cn.pdf",
+                                 "title": "Yii 2.0 权威指南",
+                                 "author": "Yii Software",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
+                           ]
                         }
                      ]
                   },
@@ -36429,6 +36590,14 @@
                            "author": "Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman",
                            "notes": [
                               "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLum3CyP95edxwLIHenKw0nMHlfvr76ZSU",
+                           "title": "Frontend Masters",
+                           "author": "Marc Grabanski, Frontend Masters team",
+                           "notes": [
+                              "screencast"
                            ]
                         },
                         {
@@ -42579,6 +42748,11 @@
                            "url": "https://youtube.com/playlist?list=PLnlqg5o1zhnhVI3t1iTE2oO4QSGpu7EMx",
                            "title": "HTML Tutorial Deutsch",
                            "author": "Markus Reichl"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL_pqkvxZ6ho3Dho4bGSJfEXn38fI9VuC7",
+                           "title": "HTML Tutorial Deutsch",
+                           "author": "Programmieren Starten"
                         }
                      ],
                      "subsections": [
@@ -51098,16 +51272,18 @@
                      "section": "Procesadores de lenguaje",
                      "entries": [
                         {
-                           "url": "http://ocw.uji.es/curso/4949",
-                           "title": "Compiladores e Intérpretes (2012)"
+                           "url": "https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949",
+                           "title": "Compiladores e Intérpretes (2012)",
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html",
                            "title": "Procesadores de lenguaje (2006)"
                         },
                         {
-                           "url": "http://ocw.uji.es/curso/5180",
-                           "title": "Procesadores de Lenguaje (2012)"
+                           "url": "https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180",
+                           "title": "Procesadores de Lenguaje (2012)",
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://campusvirtual.ull.es/ocw/course/view.php?id=45",
@@ -51339,14 +51515,6 @@
                         {
                            "url": "https://campusvirtual.ull.es/ocw/course/view.php?id=44",
                            "title": "Programación en paralelo -Perl- (2012)"
-                        },
-                        {
-                           "url": "https://www.udemy.com/course/programacion-para-principiantes",
-                           "title": "Programación para principiantes - primeros pasos",
-                           "author": "Fernando Herrera",
-                           "notes": [
-                              "Udemy"
-                           ]
                         },
                         {
                            "url": "https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html",
@@ -65513,9 +65681,9 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLF2BRDzmXcWqMzQlIUOjiGVmiyEcHiO3q",
-                           "title": "Python 新教程全集",
-                           "author": "在线教育"
+                           "url": "https://www.youtube.com/playlist?list=PLVyDH2ns1F75k1hvD2apA0DwI3XMiSDqp",
+                           "title": "最新Python编程教程19天从入门到精通",
+                           "author": "知知识改变命运"
                         }
                      ],
                      "subsections": []
