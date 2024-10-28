@@ -718,6 +718,17 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "Git and Github",
+                     "entries": [
+                        {
+                           "url": "https://with.zonayed.me/book/git-n-github-at-glance/",
+                           "title": "এক পলকে গিট ও গিটহাব",
+                           "author": "Zonayed"
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -14242,7 +14253,8 @@
                            "title": "CSS Notes for Professionals",
                            "author": "Compiled from StackOverflow Documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -22571,6 +22583,14 @@
                            "notes": [
                               "PDF",
                               "3.x"
+                           ]
+                        },
+                        {
+                           "url": "http://inventwithpython.com/nl/games_maken_met_Python_1-13.pdf",
+                           "title": "Je eigen games maken met Python 3e editie",
+                           "author": "Al Sweigart,",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -47695,6 +47715,14 @@
                                  "author": "Full Stack open"
                               },
                               {
+                                 "url": "https://v2.scrimba.com/learn-class-components-in-react-c0h",
+                                 "title": "Learn Class Components in React",
+                                 "author": "Bob Ziroll",
+                                 "notes": [
+                                    "Scrimba"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.sololearn.com/learning/1097",
                                  "title": "Learn React + Redux",
                                  "author": ""
@@ -47704,7 +47732,7 @@
                                  "title": "Learn React for Free",
                                  "author": "Bob Ziroll",
                                  "notes": [
-                                    "scrimba"
+                                    "Scrimba"
                                  ]
                               },
                               {
@@ -47712,13 +47740,21 @@
                                  "title": "Learn React Router 6",
                                  "author": "Bob Ziroll",
                                  "notes": [
-                                    "scrimba"
+                                    "Scrimba"
                                  ]
                               },
                               {
                                  "url": "https://www.codecademy.com/learn/react-101",
                                  "title": "Learn ReactJS",
                                  "author": "Codecademy"
+                              },
+                              {
+                                 "url": "https://v2.scrimba.com/learn-styled-components-in-react-c0r",
+                                 "title": "Learn Styled Components in React",
+                                 "author": "Ania Kubow",
+                                 "notes": [
+                                    "Scrimba"
+                                 ]
                               },
                               {
                                  "url": "https://progate.com/languages/react",
@@ -52920,6 +52956,11 @@
                            "author": "Gate Smashers"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm",
+                           "title": "Design and Analysis of Algorithms",
+                           "author": "The Gatehub"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx",
                            "title": "DS & Algorithms Course Using Javascript",
                            "author": "Technical Suneja"
@@ -53608,6 +53649,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8",
                            "title": "Data Science Course 2023",
                            "author": "Indian AI Production"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH",
+                           "title": "Python Data Science and Big Data Tutorials In Hindi",
+                           "author": "CodeWithHarry"
                         }
                      ],
                      "subsections": []
@@ -54418,6 +54464,21 @@
                         }
                      ],
                      "subsections": [
+                        {
+                           "section": "Electron.js",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4",
+                                 "title": "Electron js desktop app development tutorial",
+                                 "author": "Wap Institute"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD",
+                                 "title": "Electron js tutorial in Hindi",
+                                 "author": "Code Step By Step"
+                              }
+                           ]
+                        },
                         {
                            "section": "GSAP",
                            "entries": [
@@ -59349,6 +59410,11 @@
                            "url": "https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks",
                            "title": "Python Tutorial Malayalam | Best Malayalam Python Programming Tutorial",
                            "author": "Brototype Malayalam"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLd_rdeTABMgQgZj2g9IyWqA2bnkHDUyof&feature=shared",
+                           "title": "Python Tutorial Malayalam | Full videos Playlist",
+                           "author": "Safeonnet"
                         }
                      ],
                      "subsections": [
@@ -63836,6 +63902,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR",
                            "title": "Python in Telugu - Step by Step Tutorials",
                            "author": "Telugu Computer World"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw",
+                           "title": "Python Course in Telugu: 30 days challenge",
+                           "author": "Vamsi Bhavani"
                         }
                      ],
                      "subsections": []
@@ -64660,6 +64731,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLU4yvac0MJbKs78u32MyVgYFg9d-6DYGL",
                            "title": "Java Programming in Urdu/Hindi",
                            "author": "OnlineUstaad"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Next.js",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL5OhSdfH4uDu6YJcHhmQLkwx4hPWyppos",
+                           "title": "Master Next JS 14: Complete Next JS 14 Tutorial from Basics to Advanced in Hindi/Urdu with Projects & Interview Prep",
+                           "author": "The Techzeen"
                         }
                      ],
                      "subsections": []
