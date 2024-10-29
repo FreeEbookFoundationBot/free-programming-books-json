@@ -14927,6 +14927,14 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/alan412/LearnJavaForFTC",
+                           "title": "Learn Java for FTC",
+                           "author": "Alan Smith",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://riptutorial.com/Download/java-language.pdf",
                            "title": "Learning Java Language",
                            "author": "Compiled from StackOverflow Documentation",
@@ -32021,7 +32029,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/eliya_tamizhil_git/",
                            "title": "எளிய தமிழில் கிட்(Git) – தொழில்நுட்பம்",
-                           "author": "கி. முத்துராமலிங்கம்",
+                           "author": "கி.முத்துராமலிங்கம்",
                            "notes": [
                               "PDF"
                            ]
@@ -32035,7 +32043,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil",
                            "title": "எளிய தமிழில் Big Data",
-                           "author": "து. நித்யா",
+                           "author": "து.நித்யா",
                            "notes": [
                               "PDF"
                            ]
@@ -32049,7 +32057,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn-css-in-tamil/",
                            "title": "எளிய தமிழில் CSS",
-                           "author": "Kaniyam Foundation",
+                           "author": "து.நித்யா",
                            "notes": [
                               "PDF"
                            ]
@@ -32057,6 +32065,7 @@
                         {
                            "url": "https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html",
                            "title": "எளிய தமிழில் HTML",
+                           "author": "த.சீனிவாசன்",
                            "notes": [
                               "PDF"
                            ]
@@ -32136,7 +32145,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/",
                            "title": "எளிய தமிழில் Deep Learning",
-                           "author": "து. நித்யா",
+                           "author": "து.நித்யா",
                            "notes": [
                               "PDF"
                            ]
@@ -32144,7 +32153,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/",
                            "title": "எளிய தமிழில் ML",
-                           "author": "து. நித்யா",
+                           "author": "து.நித்யா",
                            "notes": [
                               "PDF"
                            ]
@@ -32180,7 +32189,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/",
                            "title": "எளிய தமிழில் Pandas",
-                           "author": "து. நித்யா",
+                           "author": "து.நித்யா",
                            "notes": [
                               "PDF"
                            ]
@@ -41658,6 +41667,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Assembly Language",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLEYW3pZS6IQ8UMvusEVnIJ2dDieXKyKRM",
+                           "title": "Assembly Language Bangla Tutorial",
+                           "author": "Maruf Sarker"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "C",
                      "entries": [
                         {
@@ -41744,6 +41764,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y",
                            "title": "Object Oriented C++ | Bangla Tutorial",
                            "author": "Online School"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5",
+                           "title": "Standard Template Library of C++ (STL)",
+                           "author": "CPS Academy"
                         }
                      ],
                      "subsections": []
@@ -42192,6 +42217,16 @@
                                  "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG",
                                  "title": "Angularjs bangla tutorial basic",
                                  "author": "Learn Hunter"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Electron",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ",
+                                 "title": "Electron JS Bangla Tutorials",
+                                 "author": "Stack Learner"
                               }
                            ]
                         },
@@ -42983,6 +43018,10 @@
                         {
                            "url": "https://www.futurelearn.com",
                            "title": "FutureLearn"
+                        },
+                        {
+                           "url": "https://hyperskill.org",
+                           "title": "Hyperskill"
                         },
                         {
                            "url": "https://www.iitbombayx.in",
@@ -49670,11 +49709,6 @@
                                  "author": "Navin Reddy"
                               },
                               {
-                                 "url": "https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr",
-                                 "title": "Django tutorial for Beginners",
-                                 "author": "ProgrammingWithHarry"
-                              },
-                              {
                                  "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
                                  "title": "Django Tutorial for Beginners (2021)",
                                  "author": "Moshfegh Hamedani",
@@ -49690,10 +49724,7 @@
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr",
                                  "title": "Django Tutorials for Beginners",
-                                 "author": "Programming With Harry",
-                                 "notes": [
-                                    "English"
-                                 ]
+                                 "author": "ProgrammingWithHarry"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy",
@@ -54574,6 +54605,11 @@
                            "section": "Node.js",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3",
+                                 "title": "Complete NodeJS + ExpressJS + MongoDB Course in Hindi | Notes | Certification",
+                                 "author": "Complete Coding by Prashant Sir"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo",
                                  "title": "Master NodeJS",
                                  "author": "Piyush Garg"
@@ -54602,6 +54638,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At",
                                  "title": "NodeJS in Hindi",
                                  "author": "Code Step By Step"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLzjZaW71kMwScTRKzoasdyB1sX-a9EbFp",
+                                 "title": "NodeJS Tutorial for Beginners",
+                                 "author": "Hello World"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG",
@@ -60544,6 +60585,11 @@
                            "author": "Gustavo Guanabara"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLHbGjxRVA_FmFRF1-OqWaWwqhIiS9Cg0w",
+                           "title": "Curso Git e Github 2024",
+                           "author": "Carlos Uchoa"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/git-e-github/",
                            "title": "Git e contribuições para projetos Open Source",
                            "author": "Bruno Orlandi",
@@ -62978,6 +63024,11 @@
                            "author": "CSE Tamila by Eezytutorials"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLVkDztYhxUGH9AubH9hLy_JYam8EZ9VKs",
+                           "title": "Data Structures & Algorithms Python",
+                           "author": "Code Meal"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE",
                            "title": "Data Structures and Algorithms in Java",
                            "author": "Logic First Tamil"
@@ -63342,6 +63393,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLsphD3EpR7F-u4Jjp_3fYgLSsKwPPTEH4",
                            "title": "Oracle SQL - தமிழில்",
                            "author": "NIC IT Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLVkDztYhxUGEP7Yrw2voVWhcxILiLCwOt",
+                           "title": "SQL For Beginners - Tamil",
+                           "author": "Code Meal"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm",
@@ -63971,6 +64027,11 @@
                   {
                      "section": "Artificial Intelligence",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyyEwPZh6aHpCAaG6dot5xXrlEK73oF4J",
+                           "title": "Natural Language Processing 2023",
+                           "author": "อรรถพล ธำรงรัตนฤทธิ์"
+                        },
                         {
                            "url": "https://youtube.com/playlist?list=PLcBOyD1N1T-PIYnPZ9_iHtug9e-BcHIob",
                            "title": "NLP 2021",
