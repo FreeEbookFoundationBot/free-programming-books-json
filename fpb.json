@@ -23328,7 +23328,8 @@
                                  "title": "Sistemas Operacionais: Conceitos e Mecanismos",
                                  "author": "Carlos A. Maziero",
                                  "notes": [
-                                    "PDF"
+                                    "PDF",
+                                    "CC BY-NC-SA"
                                  ],
                                  "accessNotes": ":construction: em contínuo desenvolvimento"
                               }
@@ -23884,11 +23885,20 @@
                      "section": "Inteligência Artificial",
                      "entries": [
                         {
+                           "url": "https://editorapantanal.com.br/ebooks/2021/aplicacoes-de-machine-learning/ebook.pdf",
+                           "title": "Aplicações de Machine Learning",
+                           "author": "Ricardo Augusto Manfredini, Geraldo Nunes Corrêa, Bruno Rodrigues de Oliveira, Suellen Teixeira Zaradzki de Pauli",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181",
                            "title": "Inteligência artificial: avanços e tendências",
                            "author": "Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -23896,7 +23906,8 @@
                            "title": "Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português",
                            "author": "Helena M. Caseli, Maria G. V. Nunes",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-ND"
                            ]
                         }
                      ],
@@ -23910,7 +23921,8 @@
                            "title": "A Internet das Coisas",
                            "author": "Eduardo Magrani",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         }
                      ],
@@ -42656,6 +42668,37 @@
                            "url": "https://www.youtube.com/playlist?list=PLuDISCShhAlxIduQrBqee-dlCAQTygm4l",
                            "title": "Shell Scripting Tutorial in Bangla",
                            "author": "Mohammad Shakirul Islam"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Software Architecture",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO",
+                           "title": "Career in Backend Workshop",
+                           "author": "Stack Learner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL",
+                           "title": "Practical Microservices Workshop",
+                           "author": "Stack Learner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF",
+                           "title": "Pro Postman Workshop",
+                           "author": "Stack Learner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAWGDKIzcn6NWikVkljJQZc",
+                           "title": "REST API Design Workshop",
+                           "author": "Stack Learner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz",
+                           "title": "System Design & Application Architecture Workshop",
+                           "author": "Stack Learner"
                         }
                      ],
                      "subsections": []
