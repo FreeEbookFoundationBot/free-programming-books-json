@@ -54583,6 +54583,11 @@
                            "section": "Electron.js",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLCHw5ssvpa9sYFawfqZPeb70Le-3H9nTt",
+                                 "title": "Electron js Course in Hindi for beginner",
+                                 "author": "satendrasingh programmer"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4",
                                  "title": "Electron js desktop app development tutorial",
                                  "author": "Wap Institute"
@@ -55553,6 +55558,11 @@
                            "url": "https://www.youtube.com/watch?v=3V9a_WYEQPA",
                            "title": "Learn Ruby in 45 Minutes | Hindi",
                            "author": "CS Geeks"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92yefe1xmyxgcyXjxmLHsSEV",
+                           "title": "Ruby Tutorial for Beginners (Hindi)",
+                           "author": "CS Geeks"
                         }
                      ],
                      "subsections": [
@@ -55568,6 +55578,16 @@
                                  "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb",
                                  "title": "Ruby on Rails 5 Tutorial(Hindi)",
                                  "author": "CS Geeks"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL9WbyKqkuCAYT-IPvo5PxR_hijMuR1RCB",
+                                 "title": "Ruby on Rails Course | Urdu / Hindi",
+                                 "author": "Code with Naqvi"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLWWB_UKBNWcuATKL6_MjSkPOMckEgYpcD",
+                                 "title": "Ruby on Rails Tutorial in Hindi",
+                                 "author": "AJ Technical"
                               }
                            ]
                         }
@@ -55576,6 +55596,11 @@
                   {
                      "section": "Rust",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOY5k46NyxirlL6Pk3Py6_5SL1EIdXg5c",
+                           "title": "Complete Rust Course - Zero to Advanced 2023",
+                           "author": "Blockchain Wala"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP",
                            "title": "Rust Complete Tutorial In Hindi",
