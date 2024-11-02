@@ -54661,6 +54661,16 @@
                            "section": "Next.js",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/watch?v=cVKB5NQPiFA&t=744s",
+                                 "title": "Learn NextJS with Aceternity UI library by building a project",
+                                 "author": "Chai aur Code"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=yN8VXmncvRU&t=190s",
+                                 "title": "Master Next JS 14 Complete Basic to Advance",
+                                 "author": "Geeky Shows"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM",
                                  "title": "Next JS Tutorial for Beginners in Hindi",
                                  "author": "ILive4Coding"
@@ -54669,6 +54679,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT",
                                  "title": "Next js tutorial in Hindi",
                                  "author": "Code Step By Step"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGcg_ZTmYgMkYp0snH-g4Zf6",
+                                 "title": "Next.JS Full FREE Course (New Updated) by WsCube Tech",
+                                 "author": "WsCube Tech"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG",
@@ -54681,12 +54696,22 @@
                                  "author": "Chai aur Code"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J",
+                                 "title": "NextJS Master Course",
+                                 "author": "Piyush Garg"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv",
                                  "title": "NextJS Tutorial In Hindi",
                                  "author": "Vinod Bahadur Thapa",
                                  "notes": [
                                     "Thapa Technical"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL0zysOflRCemKr4NHzNgrfZAUjDzlQtO5",
+                                 "title": "NextJS Tutorial with Project in Hindi",
+                                 "author": "Learn Code With Durgesh"
                               }
                            ]
                         },
