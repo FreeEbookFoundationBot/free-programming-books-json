@@ -27624,20 +27624,22 @@
                            ]
                         },
                         {
-                           "url": "http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf",
+                           "url": "https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf",
                            "title": "Compiler Design: Theory, Tools, and Examples, C/C++ Edition",
                            "author": "Seth D. Bergmann",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
-                           "url": "http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf",
+                           "url": "https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf",
                            "title": "Compiler Design: Theory, Tools, and Examples, Java Edition",
                            "author": "Seth D. Bergmann",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": ":card_file_box: archived"
                         },
                         {
                            "url": "https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf",
