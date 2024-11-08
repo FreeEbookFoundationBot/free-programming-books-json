@@ -12809,7 +12809,10 @@
                         },
                         {
                            "url": "http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html",
-                           "title": "Smooth CoffeeScript"
+                           "title": "Smooth CoffeeScript",
+                           "notes": [
+                              "CC BY"
+                           ]
                         },
                         {
                            "url": "http://arcturo.github.io/library/coffeescript/",
