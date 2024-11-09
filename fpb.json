@@ -46216,6 +46216,10 @@
                            "title": "A Tour Of Go"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_",
+                           "title": "Building Microservices with Go"
+                        },
+                        {
                            "url": "https://github.com/jeffotoni/goworkshopdevops",
                            "title": "DevOps BootCamp",
                            "author": "Jefferson Otoni Lima, et al."
@@ -47624,6 +47628,11 @@
                            "url": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
                            "title": "Learn NestJS – Complete Course",
                            "author": "freeCodeCamp"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr",
+                           "title": "Nest.js Crash Course",
+                           "author": "Net Ninja"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB",
