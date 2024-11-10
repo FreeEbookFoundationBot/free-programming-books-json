@@ -27212,6 +27212,15 @@
                      "section": "Artificial Intelligence",
                      "entries": [
                         {
+                           "url": "https://aisafety.dance",
+                           "title": "AI Safety for Fleshy Humans",
+                           "author": "Nicky Case and Hack Club",
+                           "accessNotes": ":construction: in process",
+                           "notes": [
+                              "CC BY-NC"
+                           ]
+                        },
+                        {
                            "url": "https://courses.csail.mit.edu/6.034f/ai3/rest.pdf",
                            "title": "Artificial Intelligence, 3rd Edition (1993)",
                            "author": "Patrick Henry Winston",
