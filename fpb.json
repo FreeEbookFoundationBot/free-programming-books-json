@@ -31344,6 +31344,15 @@
                            "author": "Markus Voelter"
                         },
                         {
+                           "url": "http://knosof.co.uk/ESEUR",
+                           "title": "Evidence-based Software Engineering",
+                           "author": "Derek M. Jones",
+                           "notes": [
+                              "PDF",
+                              "CC BY-SA"
+                           ]
+                        },
+                        {
                            "url": "https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)",
                            "title": "Exploring CQRS and Event Sourcing",
                            "author": "Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi",
