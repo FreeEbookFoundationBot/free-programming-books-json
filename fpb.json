@@ -11825,7 +11825,8 @@
                            "title": "Beej's Guide to C Programming",
                            "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
-                              "HTML, PDF"
+                              "HTML, PDF",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -11833,7 +11834,8 @@
                            "title": "Beej's Guide to the GNU Debugger (GDB)",
                            "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -12532,7 +12534,8 @@
                            "title": "The Boost C++ libraries",
                            "author": "Boris Schäling",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -30933,6 +30936,14 @@
                            "url": "https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/",
                            "title": "Introduction to Functional Programming",
                            "author": "J. Harrison"
+                        },
+                        {
+                           "url": "https://learn-functional-programming.com",
+                           "title": "Learn Functional Programming",
+                           "author": "G. Jovic",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf",
@@ -67216,6 +67227,14 @@
                                  "url": "https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet",
                                  "title": "React Cheatsheet",
                                  "author": "Codecademy",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://devhints.io/react-router",
+                                 "title": "React-router Cheatsheet",
+                                 "author": "Devhints.io",
                                  "notes": [
                                     "HTML"
                                  ]
