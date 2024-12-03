@@ -30808,6 +30808,15 @@
                            "accessNotes": ":construction: in process"
                         },
                         {
+                           "url": "https://github.com/succeedinsoftware/book",
+                           "title": "Succeed In Software: A Comprehensive Guide To Software Career Excellence",
+                           "author": "Sean Cannon",
+                           "notes": [
+                              "PDF, ePUB",
+                              "CC BY-NC-ND"
+                           ]
+                        },
+                        {
                            "url": "http://teachtogether.tech/en/",
                            "title": "Teaching Tech Together",
                            "author": "Greg Wilson",
