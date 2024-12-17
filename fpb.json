@@ -31604,6 +31604,14 @@
                            ]
                         },
                         {
+                           "url": "https://files.boazbarak.org/introtcs/lnotes_book.pdf",
+                           "title": "Introduction to Theoretical Computer Science",
+                           "author": "Boaz Barak",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://cglab.ca/~michiel/TheoryOfComputation/",
                            "title": "Introduction to Theory of Computation",
                            "author": "Anil Maheshwari, Michiel Smid",
