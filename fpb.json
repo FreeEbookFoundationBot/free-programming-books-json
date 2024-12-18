@@ -31194,6 +31194,14 @@
                            "title": "CryptoParty Handbook"
                         },
                         {
+                           "url": "https://www.fuzzingbook.org",
+                           "title": "Fuzzing Book",
+                           "author": "Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf",
                            "title": "Gray Hat Hacking: The Ethical Hacker's Handbook",
                            "author": "Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams",
