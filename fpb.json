@@ -48087,11 +48087,6 @@
                                  "url": "https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ",
                                  "title": "React Native Tutorial (2021)",
                                  "author": "Programming with Mash, MAhdi SHarifimehr"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
-                                 "title": "React Tutorial for Beginners",
-                                 "author": "codevolution"
                               }
                            ]
                         },
@@ -48190,6 +48185,11 @@
                         {
                            "section": "Three.js",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/watch?v=rxTb9ys834w",
+                                 "title": "Three.js Advanced Tutorial",
+                                 "author": "Andrew Woan"
+                              },
                               {
                                  "url": "https://www.youtube.com/watch?v=YK1Sw_hnm58",
                                  "title": "Three.js Tutorial Crash Course",
@@ -60364,6 +60364,11 @@
                   {
                      "section": "JavaScript",
                      "entries": [
+                        {
+                           "url": "https://youtube.com/playlist?list=PLaRAejmsc8gGAs-Ml8aa4eLCkm6ESvdnN",
+                           "title": "Kurs Javascript: Moduł 1: Poczatkujacy",
+                           "author": "Kacper Szarkiewicz"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC",
                            "title": "Kurs JavaScript. Programowanie frontendowe (VIDEO)",
