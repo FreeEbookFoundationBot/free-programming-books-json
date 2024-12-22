@@ -520,6 +520,14 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin",
+                           "title": "Computer Programming Part 3",
+                           "author": "Tamim Shahriar Subeen",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -69904,12 +69912,45 @@
                      "section": "<a id=\"csharp\">",
                      "entries": [
                         {
+                           "url": "https://www.scholarhat.com/compiler/csharp",
+                           "title": "C# Online Compiler",
+                           "author": "ScholarHat"
+                        },
+                        {
+                           "url": "https://www.w3schools.com/cs/cs_compiler.php",
+                           "title": "C# Online Compiler",
+                           "author": "W3Schools"
+                        },
+                        {
+                           "url": "https://codapi.org/csharp",
+                           "title": "C# playground",
+                           "author": "Codeapi"
+                        },
+                        {
+                           "url": "https://onecompiler.com/csharp/3wv9zujyk",
+                           "title": "OneCompiler"
+                        },
+                        {
+                           "url": "https://www.mycompiler.io/online-csharp-compiler",
+                           "title": "Online C# Compiler",
+                           "author": "myCompiler"
+                        },
+                        {
+                           "url": "https://www.jdoodle.com/compile-c-sharp-online",
+                           "title": "Online C# Compiler IDE",
+                           "author": "JDoodle"
+                        },
+                        {
                            "url": "https://www.onlinegdb.com/online_csharp_compiler",
                            "title": "OnlineGDB"
                         },
                         {
-                           "url": "https://www.programiz.com/csharp-programming/online-compiler/",
+                           "url": "https://www.programiz.com/csharp-programming/online-compiler",
                            "title": "Programiz - Online Compiler"
+                        },
+                        {
+                           "url": "https://sharplab.io",
+                           "title": "SharpLab"
                         },
                         {
                            "url": "https://code.sololearn.com/csharp",
@@ -70083,8 +70124,12 @@
                      "section": "Git",
                      "entries": [
                         {
+                           "url": "https://git-school.github.io/visualizing-git",
+                           "title": "Git-school"
+                        },
+                        {
                            "url": "https://learngitbranching.js.org/?NODEMO",
-                           "title": "Git"
+                           "title": "Learn Git Branching"
                         }
                      ],
                      "subsections": []
