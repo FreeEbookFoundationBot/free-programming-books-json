@@ -52412,6 +52412,11 @@
                            "url": "https://sokanacademy.com/courses/php/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-PHP",
                            "title": "آموزش پی‌اچ‌پی - سکان آکادمی",
                            "author": "Behzad Moradi"
+                        },
+                        {
+                           "url": "https://sabzdanesh.com/php-tutorial/",
+                           "title": "آموزش PHP - سبز دانش",
+                           "author": "Omid Rajaei"
                         }
                      ],
                      "subsections": [
@@ -52454,6 +52459,12 @@
                   {
                      "section": "Python",
                      "entries": [
+                        {
+                           "url": "https://sabzdanesh.com/python-tutorial/",
+                           "title": "آموزش پایتون رایگان (برنامه نویسی python از صفر)",
+                           "author": "Omid Rajaei",
+                           "accessNotes": "به‌همراه کوئیز و تمرین بیشتر با ثبت‌نام رایگان"
+                        },
                         {
                            "url": "https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)",
                            "title": "دوره آموزش رایگان زبان پایتون ( Python ) از مقدماتی تا پیشرفته",
