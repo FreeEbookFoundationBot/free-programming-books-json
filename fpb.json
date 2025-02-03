@@ -24465,6 +24465,14 @@
                            ]
                         },
                         {
+                           "url": "https://sbm.org.br/wp-content/uploads/2023/09/Minicurso_Python_final2.pdf",
+                           "title": "Python para Matemáticos",
+                           "author": "Andréa Lins, Lins Souza",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://tutorial.djangogirls.org/pt/",
                            "title": "Tutorial Django Girls"
                         }
