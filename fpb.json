@@ -22220,6 +22220,27 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "Zig",
+                     "entries": [
+                        {
+                           "url": "https://pedropark99.github.io/zig-book",
+                           "title": "Introduction to Zig",
+                           "author": "Pedro Duarte Faria",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://ziglang.org/documentation/master",
+                           "title": "Zig Language Reference",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
