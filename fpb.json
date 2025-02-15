@@ -22505,6 +22505,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "TypeScript",
+                     "entries": [
+                        {
+                           "url": "https://lwin-moe-paing.gitbook.io/typescript-baby-by-lwin-moe-paing",
+                           "title": "TypeScript Baby",
+                           "author": "Lwin Moe Paing",
+                           "notes": [
+                              "Git Book"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Web Development",
                      "entries": [
                         {
