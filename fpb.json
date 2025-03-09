@@ -11174,6 +11174,15 @@
                               "PDF",
                               "CC BY-NC-ND"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/artyom-poptsov/SPARC",
+                           "title": "Science, Programming, Art and Radioelectronics Club (SPARC)",
+                           "author": "Artyom V. Poptsov",
+                           "notes": [
+                              "PDF",
+                              "CC BY-SA"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -25108,6 +25117,21 @@
                            ]
                         }
                      ]
+                  },
+                  {
+                     "section": "Arduino",
+                     "entries": [
+                        {
+                           "url": "https://github.com/artyom-poptsov/SPARC/blob/master/README.ru.org",
+                           "title": "Автомато-программато-компарадио-кружок",
+                           "author": "Artyom V. Poptsov",
+                           "notes": [
+                              "PDF",
+                              "CC BY-SA"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   },
                   {
                      "section": "Assembly",
