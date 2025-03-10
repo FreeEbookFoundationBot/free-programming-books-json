@@ -304,32 +304,24 @@
                      "section": "C",
                      "entries": [
                         {
-                           "url": "http://ilkaddimlar.com/ders/c-proqramlasdirma-dili",
-                           "title": "C Proqramlaşdırma Dili"
+                           "url": "https://web.archive.org/web/20241214000729/https://ilkaddimlar.com/ders/c-proqramlasdirma-dili",
+                           "title": "C Proqramlaşdırma Dili",
+                           "notes": [
+                              ":card_file_box: archived"
+                           ]
                         }
                      ],
                      "subsections": []
                   },
                   {
-                     "section": "HTML and CSS",
+                     "section": "HTML",
                      "entries": [
                         {
-                           "url": "http://ilkaddimlar.com/ders/css",
-                           "title": "CSS"
-                        },
-                        {
-                           "url": "http://ilkaddimlar.com/ders/html",
-                           "title": "HTML"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "JavaScript",
-                     "entries": [
-                        {
-                           "url": "http://ilkaddimlar.com/ders/javascript",
-                           "title": "JavaScript"
+                           "url": "https://web.archive.org/web/20241214005042/https://ilkaddimlar.com/ders/html",
+                           "title": "HTML",
+                           "notes": [
+                              ":card_file_box: archived"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -338,18 +330,11 @@
                      "section": "Linux",
                      "entries": [
                         {
-                           "url": "http://ilkaddimlar.com/ders/linux",
-                           "title": "Linux"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "PHP",
-                     "entries": [
-                        {
-                           "url": "http://ilkaddimlar.com/ders/php",
-                           "title": "PHP"
+                           "url": "https://web.archive.org/web/20241214095624/https://ilkaddimlar.com/ders/linux",
+                           "title": "Linux",
+                           "notes": [
+                              ":card_file_box: archived"
+                           ]
                         }
                      ],
                      "subsections": []
