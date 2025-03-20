@@ -1263,6 +1263,14 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://mcronberg.github.io/bogenomcsharp/",
+                           "title": "Bogen om C#",
+                           "author": "Michell Cronberg",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
