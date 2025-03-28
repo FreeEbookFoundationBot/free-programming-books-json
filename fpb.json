@@ -10390,6 +10390,11 @@
                      "section": "JavaScript",
                      "entries": [
                         {
+                           "url": "https://ko.javascript.info",
+                           "title": "모던 JavaScript 튜토리얼",
+                           "author": "Ilya Kantor"
+                        },
+                        {
                            "url": "https://helloworldjavascript.net",
                            "title": "JavaScript로 만나는 세상"
                         }
