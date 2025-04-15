@@ -17108,6 +17108,14 @@
                                  "title": "Elisp Programming"
                               },
                               {
+                                 "url": "https://protesilaos.com/emacs/emacs-lisp-elements",
+                                 "title": "Emacs Lisp Elements",
+                                 "author": "Protesilaos Stavrou",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
                                  "url": "http://www.gnu.org/software/emacs/manual/elisp.html",
                                  "title": "GNU Emacs Lisp Reference Manual"
                               }
@@ -30332,14 +30340,6 @@
                            "title": "Computer Networking : Principles, Protocols and Practice",
                            "notes": [
                               "HTML, ePub, PDF, Kindle"
-                           ]
-                        },
-                        {
-                           "url": "https://kanchiuniv.ac.in/coursematerials/VINODKUMAR_COMPUTER_NETWORKS.pdf",
-                           "title": "Computer Networks",
-                           "author": "J.Vinoth kumar",
-                           "notes": [
-                              "PDF"
                            ]
                         },
                         {
