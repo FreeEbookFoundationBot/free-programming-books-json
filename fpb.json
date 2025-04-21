@@ -65189,6 +65189,31 @@
                      "section": "Android",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLbhheUORMqP2_2bdQ3QYnkst8TFldm3p3",
+                           "title": "Android app bán hàng online",
+                           "author": "NH Android"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaAeaWy8eRkuDjrqm4Rhm-cx",
+                           "title": "Android Cơ Bản",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPt6-BtUI22qf3KE1V1PyAm1v8M2qqwL5",
+                           "title": "Android với kolin cho người mới",
+                           "author": "Gà Lại Lập Trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpgD-OxlvlqFNyyaFlan2-WTtSaBkWllm",
+                           "title": "Học Android + Kotlin cơ bản",
+                           "author": "Xin chào, mình là Sữa"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwJr0JSP7i8AU_esH4BC0NDz_m_yLV4PW",
+                           "title": "Lập trình Android - Android Studio",
+                           "author": "XuanThuLab"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb",
                            "title": "Lập trình Android - Android Widgets - Các điều khiển",
                            "author": "ZendVN"
@@ -65214,6 +65239,16 @@
                            "author": "Kteam"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLn9lhDYvf_3FDMIcSTSuXZIAB1NJuPuaS",
+                           "title": "Lập trình Android cơ bản - v2022",
+                           "author": "Anh Nguyen Ngoc"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFPekWzEN9zMPU_se3HtbdmPDvXnX7V80",
+                           "title": "Lập Trình Android Rest API",
+                           "author": "Nam Nguyen Poly Lab"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU",
                            "title": "Lập trình Android với Kotlin",
                            "author": "Khoa Phạm"
@@ -65222,6 +65257,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr",
                            "title": "Lập trình Android với new Firebase",
                            "author": "Khoa Phạm"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL6aoXCbsHwIayYCo9aDuzZ3dMC9oShs1u",
+                           "title": "Tự học Lập Trình Android từ A đến Z",
+                           "author": "Kênh Công nghệ"
                         }
                      ],
                      "subsections": []
@@ -65230,7 +65270,22 @@
                      "section": "ASP",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLE5Bje814fYbhdwSHiHN9rlwJlwJ2YD3t",
+                           "title": "ASP.NET Core Web API",
+                           "author": "HIENLTH Channel"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiNjao7yG415y_J0G21QUc40akV2vRntP",
+                           "title": "C.51 - .NET Core - Angular 12 - Quản Lý Nhà Hàng",
+                           "author": "Code là Ghiền"
+                        },
+                        {
                            "url": "https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html",
+                           "title": "Làm dự án với ASP.NET Core 3.1",
+                           "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWsyN_FiVQrDWMtHix_E2A_UD",
                            "title": "Làm dự án với ASP.NET Core 3.1",
                            "author": "TEDU"
                         },
@@ -65240,9 +65295,85 @@
                            "author": "TEDU"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLwJr0JSP7i8DXGzj8NgnhOApBMRhWD4J-",
+                           "title": "Lập trình ASP.NET MVC Core",
+                           "author": "XuanThuLab"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWsxSup77UnO2pWEkr4ahTohJ",
+                           "title": "Lập trình ASP.NET MVC Core cơ bản",
+                           "author": "TEDU"
+                        },
+                        {
                            "url": "https://tedu.com.vn/khoa-hoc/lap-trinh-du-an-website-ban-hang-aspnet-mvc-4-1.html",
                            "title": "Lập trình dự án Website bán hàng ASP.NET MVC 4",
                            "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWTu87GngvNzYGOXJnXQwlkdhV6_RWs1b",
+                           "title": "Web bán hàng ASP.NET Core 6 to 8 EF MVC",
+                           "author": "Hiếu Tutorial with live project"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE5Bje814fYbtRxvDgmWJ6fUpIZXtbNrb",
+                           "title": "Website Thương mại Điện tử với ASP.NET Core MVC",
+                           "author": "HIENLTH Channel"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=hNoCIW4iM10",
+                           "title": "Xây dựng Backend ứng dụng chứng khoán với ASP .NET Core 7 Api và Websocket",
+                           "author": "Nguyen Duc Hoang"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWsyP9PB1yrhNAYI7LC6yr4tZ",
+                           "title": "Xây dựng ứng dụng web với ASP.NET Core",
+                           "author": "TEDU"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Assembly",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc",
+                           "title": "Asembly, lập trình hợp ngữ trên emu 8086",
+                           "author": "Huy Init"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqNgXeR4XrjBgFcjPV46Nb2k4D23alTK_",
+                           "title": "Assembly - Lập trình hợp ngữ",
+                           "author": "KienThucTin"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLGZ_RWetU5HJLQmSNExog6Wiws-tCDxh0",
+                           "title": "Lập Trình ARM Assembly",
+                           "author": "Lập Trình Nhúng A-Z"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_5qWES7xEtCt5z3Fi4rKh71xBKSXzNzv",
+                           "title": "Lập trình Assembly",
+                           "author": "Ky Nguyen IoT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE9xJNSB3lTFBf2zj0Mp4gBhGqSDJxj0z",
+                           "title": "Lập Trình ASSEMBLY ARM",
+                           "author": "HuLa Embedded"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9sn2M__GrF--BchVjp9msnEniq3hWw1k",
+                           "title": "Lập trình hợp ngữ",
+                           "author": "K.Huynh."
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLBlxAM4UiXxQ2Vz7C-z1voTjDmsRqEEd1",
+                           "title": "Lập trình hợp ngữ Assembly 8051",
+                           "author": "Vũ Minh Đức"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLGZ_RWetU5HInf6eYocQXXAaikHbvZI81",
+                           "title": "Lập Trình x86 Assembly",
+                           "author": "Lập Trình Nhúng A-Z"
                         }
                      ],
                      "subsections": []
@@ -65251,8 +65382,43 @@
                      "section": "AutoIt",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLlhlxkw8o0Ga8Vg3Sw5iXHubFxoOvV6aq",
+                           "title": "Auto Game Tutorial",
+                           "author": "Tool By Autoit"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNeDQQ_ukvRpn7NfdLvtQ9PgVJfkNEsAr",
+                           "title": "AutoIT - Cách làm Auto Chuột và Bàn Phím",
+                           "author": "LeeSai"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYi1bpA-AvSC7cGGZTTwLXP4azlMaUVKN",
+                           "title": "Học AutoIT",
+                           "author": "nghịch máy tính"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMz2PqxT4j96uqILfWfypxsUPz9UiZZOM",
+                           "title": "Học AutoIT - Auto game BoomOnline",
+                           "author": "Triển IS Official"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNeDQQ_ukvRrPcOXOQW47aalcFM9T8wIw",
+                           "title": "Học Cheat Engine với AutoIT",
+                           "author": "LeeSai"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLAFIcN_lkOfDP78ug2IhgO0heMJ9N2Kxl",
+                           "title": "Học lập trình Auto game bằng AutoIT",
+                           "author": "LongHai Auto"
+                        },
+                        {
                            "url": "https://j2team.teachable.com/p/hoc-lap-trinh-autoit",
                            "title": "Học lập trình AutoIt",
+                           "author": "J2TEAM"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRqrlsp_0RPWgxqRv5vlXFFpa3s4VA7zZ",
+                           "title": "Học lập trình AutoIt từ cơ bản đến nâng cao",
                            "author": "J2TEAM"
                         }
                      ],
@@ -65264,6 +65430,16 @@
                         {
                            "url": "https://nguyenvanhieu.vn/hoc-bash-shell-co-ban",
                            "title": "Khóa học Bash Shell cơ bản cho người mới"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLcW6QFb7l0G7ukw6LBcPJbvxbFhgfX9-S",
+                           "title": "Lập trình Bash Shell Script cơ bản",
+                           "author": "Curry"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL1HxRSJMOMPKOJhefnyfYLICczYTiUGaK",
+                           "title": "SHELL/BASH",
+                           "author": "Toan Nguyen"
                         }
                      ],
                      "subsections": []
@@ -65309,6 +65485,11 @@
                            "author": "Dạy Nhau Học"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaBq4VFzTYrhzCiPvCoI8JDv",
+                           "title": "Học lập trình C",
+                           "author": "thân triệu"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLh91SaQgRYnpj1GqVmVMq4acSAHtSKKwR",
                            "title": "Học lập trình C cho người mới bắt đầu (2019)",
                            "author": "Lập Trình Không Khó"
@@ -65324,6 +65505,26 @@
                            "author": "Lập Trình Không Khó"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F7487Nh-ib25lcLEzhL5mgZkFJ",
+                           "title": "Lập trình C",
+                           "author": "TITV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLux-_phi0Rz3XyMk0JHqeN2DM69XDAyyo",
+                           "title": "Lập Trình C | Xâu Ký Tự | Chuỗi",
+                           "author": "28tech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzQuu4-Qxlh7lfDpA2lhuBHMNMskLE2QZ",
+                           "title": "Lập trình C cho người mới bắt đầu học lập trình",
+                           "author": "Học Công Nghệ"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL6h8VcmH2PuJzGN8UFhMAoAsPcHg2uepd",
+                           "title": "Lập Trình C Từ Cơ Bản Đến Nâng Cao",
+                           "author": "Full House"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM",
                            "title": "Lập trình C++ cơ bản - HowKteam",
                            "author": "K team"
@@ -65332,6 +65533,31 @@
                            "url": "https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l",
                            "title": "Ngôn Ngữ Lập Trình C",
                            "author": "Dạy Nhau Học"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND",
+                           "title": "Ngôn Ngữ Lập Trình C",
+                           "author": "28tech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOWHQCkFdTueoPoil-FTma3-q-_uxsvhR",
+                           "title": "Ngôn Ngữ Lập Trình C |IUH",
+                           "author": "Jerry Thắng"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdgLBTCcFWkfWhf3qSPX-pNGyLOj8IA3w",
+                           "title": "Ngôn ngữ lập trình C-GV. Nguyễn Văn Phúc",
+                           "author": "CCE- eLEARN"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLQj93CJe0N72nRYDYEdVpV3ZzGHMJvgqt",
+                           "title": "Nhập môn lập trình C cơ bản",
+                           "author": "Đỗ Phúc Hảo"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLayYhLZuuO9t9F8tIKR5RE7HQbDwNtnSV",
+                           "title": "Nhập môn LẬP TRÌNH CĂN BẢN với C",
+                           "author": "giáo.làng"
                         },
                         {
                            "url": "http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp",
@@ -65355,6 +65581,21 @@
                            "author": "Kteam"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaANYwZJweIuzceWHCJI8mnE",
+                           "title": "Học Lập Trình C# Cơ Bản",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1w4-G4wujhFVZGTlFkooCck",
+                           "title": "HttpRequest - Crawl data từ website",
+                           "author": "K team"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLm5N2Ku5IP9eZPS20m8AEpdzYNB-lQ7Dp",
+                           "title": "Hướng dẫn code Game Server Basic & Game Client",
+                           "author": "Code Phủi"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLwJr0JSP7i8BERdErX9Ird67xTflZkxb-",
                            "title": "Lập trình C# - NET Core",
                            "author": "XuanThuLab"
@@ -65363,6 +65604,11 @@
                            "url": "https://tedu.com.vn/khoa-hoc/lap-trinh-c-toan-tap-cho-nguoi-moi-bat-dau-46.html",
                            "title": "Lập trình C# cho người mới bắt đầu",
                            "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK",
+                           "title": "Lập trình C# cơ bản",
+                           "author": "K team"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1y2T7yK--YZJHCsU7LZVzBS",
@@ -65398,6 +65644,82 @@
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1zfGzpSGQN7CUoHKS6OQbJc",
                            "title": "Lập trình ứng dụng Lập Lịch với C# Winform",
                            "author": "Kteam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1ywgHcDF2aB8YBxwtj1_Rjk",
+                           "title": "Lập trình WPF cơ bản",
+                           "author": "K team"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"cpp\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZEIt444jqpD6NUtMg5X6Y3T4lYqcudO9",
+                           "title": "Học C++ cơ bản | Học lập trình C++ cơ bản",
+                           "author": "Son Nguyen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaB3x2P8vAob9V1BIEp9VYwp",
+                           "title": "Học lập trình C++ (CŨ Cmnr)",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr",
+                           "title": "Học lập trình C++ cho người mới bắt đầu",
+                           "author": "Lập Trình Không Khó"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaD7sejCSC8ivSueeesNFyov",
+                           "title": "Khoá học lập trình C++ từ cơ bản đến nâng cao",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzQuu4-Qxlh6xm5_uswCkfkudKs00dsNK",
+                           "title": "Khóa học Lập trình C++ từ cơ bản đến nâng cao",
+                           "author": "Học Công Nghệ"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM",
+                           "title": "Lập trình C++ cơ bản - HowKteam",
+                           "author": "K team"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5",
+                           "title": "Lập trình C++ cơ bản 2023 | Tự học lập trình C++ siêu dễ hiểu cho người mới",
+                           "author": "Gà Lại Lập Trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqfkD788zZGCmOyQaymJv4G-au94QqBLj",
+                           "title": "LẬP TRÌNH C++ TỪ CƠ BẢN ĐẾN NÂNG CAO",
+                           "author": "Tờ Mờ Sáng học Lập trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_-VfJajZj0Uo72G_6tSY4NRLpmffeXSA",
+                           "title": "Lập trình C++ từ cơ bản tới nâng cao",
+                           "author": "F8 Official"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjnaYcKy3HzOq4SkNVvXQ1FaXk9QlEkaq",
+                           "title": "Lập trình C++ từ cơ bản tới nâng cao",
+                           "author": "Minh Quang"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLimFJKGsbn1lG2-vNW57FyESDlT-_F2QQ",
+                           "title": "Lập trình căn bản C/C++",
+                           "author": "Thien Tam Nguyen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C",
+                           "title": "Lập Trình Game C++ SDL",
+                           "author": "Phát Triển Phần Mềm 123A-Z"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLux-_phi0Rz0Hq9fDP4TlOulBl8APKp79",
+                           "title": "Ngôn Ngữ Lập trình C++",
+                           "author": "28tech"
                         }
                      ],
                      "subsections": []
@@ -65409,6 +65731,83 @@
                            "url": "https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L",
                            "title": "Cấu trúc dữ liệu và Giải thuật",
                            "author": "Ông Dev"
+                        },
+                        {
+                           "url": "https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan",
+                           "title": "Danh sách những tài liệu hay về Thuật toán và Lập trình thi đấu",
+                           "author": "Tờ Mờ Sáng học Lập trình"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Dart",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRoAKls-7kksChE3OhiE2iAeCa7h1kk5k",
+                           "title": "Lập trình Dart",
+                           "author": "Migolab"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLanHRxSQZoQEs0ApO55id4KGyXUjPReQA",
+                           "title": "Lập trình Dart",
+                           "author": "Coder Studio"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRnNjVSYDePhLyD_bKgQnEGyL6R2-fKU1",
+                           "title": "Lập trình ngôn ngữ Dart | Flutter cơ bản",
+                           "author": "Tùng Sugar"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "ExpressJS",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy",
+                           "title": "[FULL STACK] MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả",
+                           "author": "TrungQuanDev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLodO7Gi1F7R1GMefX_44suLAaXnaNYMyC",
+                           "title": "ExpressJS & NodeJS - Xây dựng hệ thống server chuẩn RESTFUL, xác thực phân quyền làm blog cá nhân",
+                           "author": "Nodemy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwJIrGynFq9BZto5VvKw7OEDNxN6plq_3",
+                           "title": "Học Nodejs cùng F8",
+                           "author": "Tech Mely"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI",
+                           "title": "Khóa học Fullstack SERN (SQL, Express.js, React.js, Node.js)",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWsz4IwOpkEmtgwAom3Puw8rx",
+                           "title": "Khóa học Xây dựng Rest API với Nodejs, Express và MongoDB",
+                           "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_QEvEi9neNSOGrmYOZSYFk9DpYr-Zd9p",
+                           "title": "MERN Stack (MongoDB, Express, React, Node.js)- Lập trình web bán hàng fullstack",
+                           "author": "Lập trình thật dễ"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3",
+                           "title": "NodeJS & ExpressJS",
+                           "author": "F8 Official"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwRuTV6YR6x1_CzgvKEDEPH1Czl6Mmu6h",
+                           "title": "React Native EventHub Fullstack với NodeJS ExpressJS MongoDB",
+                           "author": "Đào Quang"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3",
+                           "title": "UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)",
+                           "author": "Hỏi Dân IT"
                         }
                      ],
                      "subsections": []
@@ -65420,6 +65819,51 @@
                            "url": "https://tedu.com.vn/khoa-hoc/xay-dung-ung-dung-mobile-voi-flutter-can-ban-31.html",
                            "title": "Flutter căn bản",
                            "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFcgubjtcw5U-Y6z1gpR02ebF-jyLoyga",
+                           "title": "Flutter Tutorial 2021 for Beginners: English App | Flutter Lab",
+                           "author": "200Lab"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaAmSo-tC02ugcyttOcsK7C9",
+                           "title": "Flutter Từ Cơ Bản Đến Nâng Cao 2024 - 2025",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZqHbMxF8mzbcMAjOtClkRcEIkhvV3ZtL",
+                           "title": "Lập trình di động Flutter (Mobile Development Flutter)",
+                           "author": "Dummy Fresher"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355AsxyLjGVkpOmN8DUbcPdIBv",
+                           "title": "Lập trình di động với Flutter",
+                           "author": "ZendVN - Học Lập Trình Online"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWsxWhGA4jTr0oGeNs7xYyDPW",
+                           "title": "Lập trình di động với Flutter căn bản",
+                           "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F7484qhNw1K08o8kDn8ecCpA_j",
+                           "title": "Lập trình Flutter - thiết bị di động",
+                           "author": "TITV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWBrqglnjNl3DzS2RHds5KlanGqQ1uLNQ",
+                           "title": "Tự học Flutter 2020",
+                           "author": "Nguyen Duc Hoang"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL3Ob3F0T-08brnWfs8np2ROjICeT-Pr6T",
+                           "title": "Tự học lập trình Flutter 2023",
+                           "author": "TinCoder"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFDupNa8166hj4TEZcq3_za4GirSiawzN",
+                           "title": "Xây dựng ứng dụng Flutter thực tế.",
+                           "author": "Chàng Dev Mobile"
                         }
                      ],
                      "subsections": []
@@ -65438,9 +65882,24 @@
                            "author": "CodersX"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT6nWS9MRjSnt6Z-9Rj0pAlo",
+                           "title": "Git Siêu Căn Bản Cho Người Mới Bắt Đầu Từ Z Đến A với Hỏi Dân IT",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485",
+                           "title": "Học Git và Github",
+                           "author": "TITV"
+                        },
+                        {
                            "url": "https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html",
                            "title": "Quản lý source code trong dự án với GIT",
                            "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=vQgcl8VouLU",
+                           "title": "Tóm tắt toàn diện về việc sử dụng Git và quy trình làm việc của GitFlow và sếp yêu cầu tôi phải học",
+                           "author": "Tips Javascript"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=1JuYQgpbrW0",
@@ -65457,14 +65916,49 @@
                      "section": "Go",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLw0w5s5b9NK6qiL9Xzki-mGbq_V8dBQkY",
+                           "title": "Course - Go Backend Architecture",
+                           "author": "Tips Javascript"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0Pnqmz-onB5Xk2o46BpvGHa-c8Toe0YP",
+                           "title": "Go - Con đường lập trình",
+                           "author": "Tips Golang"
+                        },
+                        {
                            "url": "https://github.com/zalopay-oss/go-advanced",
                            "title": "Go Language Advanced Programming",
                            "author": "Zalopay"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLw-L1SGSvTEco7QvKTEd39wrMoTCPNUuN",
+                           "title": "Golang cơ bản - Playlist",
+                           "author": "Yuh lập trình viên"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLVDJsRQrTUz4bQDHCElBG2AsJzCwonqKs",
+                           "title": "Golang thực chiến cho người mới",
+                           "author": "Code4Func"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOsM_3jFFQRnzp7jWU3WLmQ1sF4IX45zr",
+                           "title": "Lập trình Go cơ bản",
+                           "author": "Việt Trần"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k",
                            "title": "Lập trình Golang",
                            "author": "Code4Func"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOsM_3jFFQRl3tAqDVU-nPJOHBfXJVnaM",
+                           "title": "Lập Trình REST API cơ bản với Golang",
+                           "author": "Việt Trần"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLC4c48H3oDRwlxVzOv2L8CXF7tZmtPHkn",
+                           "title": "Tự học Golang trong 5 giờ. Học xong kiếm lương ngàn đô!",
+                           "author": "The Funzy Dev"
                         }
                      ],
                      "subsections": []
@@ -65503,6 +65997,16 @@
                            "author": "Thạch Phạm"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLPt6-BtUI22oveeGAyckbAXRSmTBGLZP4",
+                           "title": "HTML, CSS cơ bản dễ hiểu- học lập trình online miễn phí",
+                           "author": "Gà Lại Lập Trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz",
+                           "title": "HTML, CSS từ Zero Tới Hero",
+                           "author": "F8 Official"
+                        },
+                        {
                            "url": "https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68",
                            "title": "HTML Dành Cho Lập Trình Viên Web",
                            "author": "Nguyen Van Linh",
@@ -65527,14 +66031,84 @@
                            "author": "Thân Triệu"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaA6-6So-knCgNNq3vNbCRD6",
+                           "title": "Học Lập trình Java với Netbeans IDE",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLmGP0M1IXtjXnqg-GdVmLZcinnt6aXvW3",
+                           "title": "Khóa học Java Core",
+                           "author": "Lê Vũ Nguyên Vlog"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsfLgp1K1xQ4ukX-Y7w5i76eJkApL641w",
+                           "title": "Khóa Học Java Cơ Bản",
+                           "author": "JMaster IO"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMPBVRu4TjAxXA5KuqKFU7gwGiucyif_r",
+                           "title": "Khoá Học Java Nâng Cao",
+                           "author": "Trần Văn Điệp Official"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsfLgp1K1xQ51TV6pCyS9yNQvstVk_le_",
+                           "title": "Khóa học Java Nâng Cao (Java EE)",
+                           "author": "JMaster IO"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsfLgp1K1xQ53rzo7vo2dKamBu0bj7lkv",
+                           "title": "Khóa học Java Web Servlet/Jsp",
+                           "author": "JMaster IO"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPCCr-MyxGncORR0AX73cVlz_WGQhKn4e",
+                           "title": "Khóa học lập trình Backend Java Spring(28tech)",
+                           "author": "khangmoihocit"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1yGrOutFR03OZoqm91TSsvs",
+                           "title": "Khóa học lập trình Java cơ bản đến hướng đối tượng",
+                           "author": "K team"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2xsxmVse9IaxzE8Mght4CFltGOqcG6FC",
+                           "title": "Khóa học lập trình Java Spring boot 3 miễn phí cho người mới (2024)",
+                           "author": "Devteria"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j",
                            "title": "Khóa học lập trình JavaFX",
                            "author": "Kteam"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F748401hWFgJ8gKMnN6MM8QQ7F",
+                           "title": "Lập trình Java",
+                           "author": "TITV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPt6-BtUI22rxpe6PZc5H6XAgPusA6fDQ",
+                           "title": "Lập trình java | Tự học java siêu tốc",
+                           "author": "Gà Lại Lập Trình"
+                        },
+                        {
                            "url": "https://tedu.com.vn/video/bai-1-gioi-thieu-tong-quan-ve-java-520.html",
                            "title": "Lập trình Java căn bản",
                            "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLAv1wIkQKlEt3RIZuS50MKOZwxLrSyR-c",
+                           "title": "Tự học Java cho người mới bắt đầu 2025",
+                           "author": "Tập Làm Mentor"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT5EVkhKoJmzOytHY39Mrf_o",
+                           "title": "Tự Học Java Core Từ A tới Z Dành cho Beginners",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355Av6u60DTCvrUe6aXror_bdE",
+                           "title": "Tự học Lập trình JAVA",
+                           "author": "ZendVN"
                         }
                      ],
                      "subsections": []
@@ -65542,6 +66116,31 @@
                   {
                      "section": "JavaScript",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLeS7aZkL6GOtpuqMKVTfS37RNTlkolLCk",
+                           "title": "🔥 Javascript cho người mới bắt đầu 🚀",
+                           "author": "Easy Frontend"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLq3KxntIWWrJ-YMciMrAqgXWjZIJyje1b",
+                           "title": "Cafedev - Series tự học Javascript từ cơ bản tới nâng cao",
+                           "author": "cafedev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqQ6Lvascx2tbLuhCg3E1nC1qcHrckpue",
+                           "title": "Học JavaScript",
+                           "author": "HoleTex"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaDd2AiY_FkSJ2TVyuDal_k8",
+                           "title": "Học JavaScript",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwJIrGynFq9APduetgi3l9xehOCZCTZEG",
+                           "title": "Học Javascript cùng F8",
+                           "author": "Tech Mely"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-",
                            "title": "JavaScript A-Z 2020",
@@ -65556,6 +66155,44 @@
                            "url": "https://www.codehub.com.vn/JavaScript-Co-Ban",
                            "title": "JavaScript Cơ Bản",
                            "author": "Codehub"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5",
+                           "title": "Javascript Cơ Bản",
+                           "author": "F8 Official"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPt6-BtUI22pYwpfmkP4EuJkf6GRe63KU",
+                           "title": "JavaScript siêu tốc - Khóa học lập trình JavaScript từ cơ bản đến nâng cao",
+                           "author": "Gà Lại Lập Trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_QEvEi9neNS1rdD8jeQR0xP0EZEiSELT",
+                           "title": "Khóa học Javascript siêu dễ 2023 - Lập trình thật dễ",
+                           "author": "Lập trình thật dễ"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZdbOLxIxNPCw1ljJRlpBTEFtbNPpvKsP",
+                           "title": "Tutorial học Javascript cơ bản thông qua dự án",
+                           "author": "Thầy Hoàng JS",
+                           "notes": [
+                              "phecode"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355AvAl13CUVcVvWu0hOZnpfW8",
+                           "title": "Tự học Javascript - Lập trình Javascript",
+                           "author": "ZendVN"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo",
+                           "title": "Tự Học Javascript Cơ Bản Từ A đến Z Cho Người Mới Bắt Đầu với Hỏi Dân IT",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT4eGJ__iQv6BrvL_YnZLHyX",
+                           "title": "Tự Học JavaScript Nâng Cao -  Modern JavaScript Từ A đến Z Cho Beginners",
+                           "author": "Hỏi Dân IT"
                         },
                         {
                            "url": "https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-CSS-va-JavaScript/Tao-Hieu-Ung-Accordion",
@@ -65588,20 +66225,65 @@
                            "section": "jQuery",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLJz8fm2GRwfX6F-Ed8BFH7NH5K5Z4b02f",
+                                 "title": "Học Jquery",
+                                 "author": "Tiến Nguyễn"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL75xdq9Y-GaQly0pFP2pFO8xYYfLQXjtG",
+                                 "title": "Học jQuery cơ bản",
+                                 "author": "CiOne eLearning"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLuEp4OGUFN9s2Lw4msL-5xevemYEPcLCS",
+                                 "title": "Học jQuery từ cơ bản đến nâng cao",
+                                 "author": "Học online"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLjjB_k3ljmLRu_Xvtq7pxOEhgikS6xonm",
+                                 "title": "Học jQuery từ cơ bản đến nâng cao",
+                                 "author": "Ngọc Hoàng IT"
+                              },
+                              {
                                  "url": "https://www.codehub.com.vn/jQuery-Co-Ban",
                                  "title": "jQuery Cơ Bản",
                                  "author": "Codehub"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLttNL2ipMblsb9w03TUDAInwnH-bXaTft",
+                                 "title": "Khóa Học Lập Trình Jquery Với Project Thực Tế",
+                                 "author": "Coding Is Life"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm",
                                  "title": "Lập trình jQuery từ cơ bản đến nâng cao",
                                  "author": "TEDU"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLepCFdNQOPNfY15_XAp-cRN3XrKYCvT-h",
+                                 "title": "Tự Học JQuery",
+                                 "author": "T.A.N"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLJz8fm2GRwfX7ZbZGuOSpsdQ1BBdzsPeN",
+                                 "title": "Tự học Jquery",
+                                 "author": "Tiến Nguyễn"
                               }
                            ]
                         },
                         {
                            "section": "Vue.js",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL7akNQhSmpsYTQsV6jqZmmlLEu37IWA7f",
+                                 "title": "Demo Dự án Vue JS 3!",
+                                 "author": "Tips Web Hay"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F",
+                                 "title": "Học Vue JS 2 cơ bản",
+                                 "author": "RHP Team"
+                              },
                               {
                                  "url": "https://www.youtube.com/watch?v=j97QtHf0CHY",
                                  "title": "Học Vue js trong một video duy nhất",
@@ -65611,27 +66293,108 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLwJIrGynFq9B_BQJZJi-ikWDDkYKVUpM5",
+                                 "title": "Khoá học Vuejs từ cơ bản đến nâng cao",
+                                 "author": "Tech Mely"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf",
                                  "title": "Lập trình VueJS",
                                  "author": "ZendVN - Học Lập Trình Online"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLieV0Y7g-FFy_hVCs3lf973Yo8_rsRGc0",
+                                 "title": "Series Tự học Vuejs 3 A - Z",
+                                 "author": "Tự học lập trình từ A đến Z"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL7akNQhSmpsZUB7aP-ttyYVHHaKjn0W7P",
+                                 "title": "Vue js 3 Cơ Bản",
+                                 "author": "Tips Web Hay"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F",
                                  "title": "Vue JS cơ bản",
                                  "author": "RHP Team"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLnRJxWEhhmzrtVhPAzNCv4DbQk1R7_fS4",
+                                 "title": "VueJS Dành Cho Người Mới Bắt Đầu 2024",
+                                 "author": "Ninedev"
                               }
                            ]
                         }
                      ]
                   },
                   {
+                     "section": "Kotlin",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPt6-BtUI22qf3KE1V1PyAm1v8M2qqwL5",
+                           "title": "Android với kolin cho người mới",
+                           "author": "Gà Lại Lập Trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpgD-OxlvlqFNyyaFlan2-WTtSaBkWllm",
+                           "title": "Học Android + Kotlin cơ bản",
+                           "author": "Xin chào, mình là Sữa"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU",
+                           "title": "Lập trình Android với Kotlin full tại Khoa Phạm",
+                           "author": "Khoa Phạm"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLn9lhDYvf_3E_5JZ-1jlk67o9101Lu9N6",
+                           "title": "Lập trình Kotlin từ cơ bản đến nâng cao",
+                           "author": "Anh Nguyen Ngoc"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Machine-Learning",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZEIt444jqpBPoqtW2ARJp9ICnF3c7vJC",
+                           "title": "Khóa tự học machine learning cơ bản",
+                           "author": "Son Nguyen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1zLDVHXW_YUJxhxBFap-vm_",
+                           "title": "Lập trình Machine learning cơ bản với Python",
+                           "author": "K team"
+                        },
                         {
                            "url": "https://machinelearningcoban.com",
                            "title": "Machine learing cơ bản",
                            "author": "Vũ Hữu Tiệp",
                            "accessNotes": ":construction: in process"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsWjY--3QXFWE1Nk6erXuTSf3QLC161pm",
+                           "title": "Machine Learning",
+                           "author": "Son Tran"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu-LVHS6JzYjoUuPAwcE9sff2NMrEH6KD",
+                           "title": "Machine Learning Cơ Bản",
+                           "author": "Học Lập Trình cùng Phát"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpDNYPX7w1RYeDSr3q0EJA978jjuMz4TX",
+                           "title": "Machine learning cơ bản (Học máy thống kê)",
+                           "author": "Bài Học 10 Phút"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDpRz2wA0qZzTcDLeXP5PSCfmQ96l9-Qr",
+                           "title": "Machine learning vietsub",
+                           "author": "Lân ở Đức"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLaKukjQCR56ZRh2cAkweftiZCF2sTg11_",
+                           "title": "Tự học Machine Learning",
+                           "author": "Thân Quang Khoát"
                         }
                      ],
                      "subsections": []
@@ -65645,6 +66408,21 @@
                            "author": "ZendVN"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLimFJKGsbn1lQlDQW3A5yb2CdVJ8MqqG8",
+                           "title": "Học lập trình Web BackEnd NodeJS và MongoDB thực chiến",
+                           "author": "Thien Tam Nguyen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=8Nx7cdwT86c",
+                           "title": "Học MongoDB trọn vẹn trong 1 giờ 30 phút",
+                           "author": "Trần Quốc Huy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLEnECmpTzvQO-1tEWazRmPNV02vkUhU0R",
+                           "title": "Khóa học lập trình backend Nodejs và MongoDB",
+                           "author": "Kênh Tổng Hợp Source Code Website"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8",
                            "title": "Mongo DB cơ bản",
                            "author": "RHP Team"
@@ -65653,6 +66431,83 @@
                            "url": "https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vgHI_wNWPHKdiRwlgQXaTR",
                            "title": "MongoDB 2020",
                            "author": "CodersX"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLP6tw4Zpj-RIMgUPYxhLBVCpaBs94D73V",
+                           "title": "Thực chiến Back-end NodeJS + MongoDB",
+                           "author": "TrungQuanDev"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "MySQL",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=TslBGnENTFw",
+                           "title": "Hiểu toàn bộ MySQL Database trong 1 giờ 42 phút",
+                           "author": "Trần Quốc Huy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoI3zgRgTJKbmTPE2em22aqed3412CO17",
+                           "title": "Học MySQL, học Database",
+                           "author": "Nguyễn Danh Tú"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDYXQL9eThN4fvrP8J0ASHnxSKJFtkU-Q",
+                           "title": "Học nhanh cơ sở dữ liệu (trên Mysql Workbench)",
+                           "author": "Huy Init"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F7487f2BrlHKg87WlUEennWOKu",
+                           "title": "Học SQL (sử dụng MySQL)",
+                           "author": "TITV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB",
+                           "title": "Học SQL Cơ Bản",
+                           "author": "thân triệu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLmGP0M1IXtjULXD1KUAf7Snkq9O0RMsYT",
+                           "title": "Khóa học cơ sở dữ liệu Mysql",
+                           "author": "Lê Vũ Nguyên Vlog"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1",
+                           "title": "Khoá học PHP & MYSQL bài bản từ A-Z",
+                           "author": "Hienu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL01fPqVNMdrmtcb_Yui_Oh23X_3laoZoO",
+                           "title": "Tự Học SQL cùng Vịt - Khóa Cơ Bản cho Người Mới Bắt Đầu",
+                           "author": "Vịt làm Data"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Next.js",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFfVmM19UNqn1ZIWvxn1artfz-C6dgAFb",
+                           "title": "[2024] Học Next.js 14 miễn phí | Khóa học NextJs TypeScript siêu chi tiết | Được Dev",
+                           "author": "Được Dev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355AvWAQv4or-RE2RAFFXaI3Jz",
+                           "title": "Lập trình NextJS",
+                           "author": "ZendVN - Học Lập Trình Online"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLeS7aZkL6GOuMvDYcyW9VVLCvKnNhm4It",
+                           "title": "NextJS cơ bản 🎉",
+                           "author": "Easy Frontend"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT6zw4JiFOE1z90ghnyrFl5B",
+                           "title": "Tự Học Next.JS Cơ Bản (với React và TypeScript) | Hỏi Dân IT",
+                           "author": "Hỏi Dân IT"
                         }
                      ],
                      "subsections": []
@@ -65661,14 +66516,39 @@
                      "section": "NodeJS",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8",
+                           "title": "Course - Node.js Backend Architecture",
+                           "author": "Tips Javascript"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwJIrGynFq9BZto5VvKw7OEDNxN6plq_3",
+                           "title": "Học Nodejs cùng F8",
+                           "author": "Tech Mely"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI",
+                           "title": "Khóa học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
                            "url": "https://tedu.com.vn/khoa-hoc/khoa-hoc-nodejs-can-ban-20.html",
                            "title": "Khóa học NodeJS căn bản",
                            "author": "TEDU"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLqnlyu33Xy-6g7IqU5-3BXOfewcJKoL08",
+                           "title": "Khóa học NodeJs trọn bộ",
+                           "author": "TK Vlogs"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-",
                            "title": "Lập Trình Nodejs Cơ Bản Tại Khoa Phạm",
                            "author": "Trung Tâm Đào Tạo Tin Học Khoa Phạm"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3",
+                           "title": "NodeJS & ExpressJS",
+                           "author": "F8 Official"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLU4OBh9yHE950LJR6uH_MqcgUC0-NCV2k",
@@ -65681,9 +66561,34 @@
                            "author": "Ide Academy"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLnRJxWEhhmzrN03mUHESraIva5Ppi1FaG",
+                           "title": "NodeJS Mới Nhất 2024",
+                           "author": "Ninedev"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU",
                            "title": "NodeJS Web Server Sử Dụng Express 2020",
                            "author": "CodersX"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLP6tw4Zpj-RIMgUPYxhLBVCpaBs94D73V",
+                           "title": "Thực chiến Back-end NodeJS + MongoDB",
+                           "author": "TrungQuanDev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT4smWdJceM0bDg4YUF3yqLu",
+                           "title": "Tự Học Node.JS Cơ Bản Từ A Đến Z Cho Người Mới Bắt Đầu",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3",
+                           "title": "UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWBrqglnjNl271vpuIiKZtn-xrAZcX92a",
+                           "title": "Xây dựng Backend ứng dụng ShopApp với NodeJS, MySQL, Google Firebase",
+                           "author": "Nguyen Duc Hoang"
                         }
                      ],
                      "subsections": []
@@ -65708,9 +66613,29 @@
                      "section": "PHP",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLaevEBkXyvnXEMoe6ZHFJGjPDb_eCCVNc",
+                           "title": "Học Lập Trình PHP + Mysql",
+                           "author": "Hoàng Thương Official"
+                        },
+                        {
                            "url": "https://www.codehub.com.vn/PHP",
                            "title": "Học PHP qua các hàm thông dụng",
                            "author": "Codehub"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLSMUwja5VsJWoq5VmD5cW2Xoy52FILBV3",
+                           "title": "Học php từ cơ bản đến nâng cao - web bán hàng",
+                           "author": "gv cybersoft"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1",
+                           "title": "Khoá học PHP & MYSQL bài bản từ A-Z",
+                           "author": "Học Lập Trình - Hienu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLieAxB9_noZlWuur0Hxw7BIYVbGJ-hS0N",
+                           "title": "Lập trình PHP1 - SU22",
+                           "author": "Thầy Hộ Fpoly"
                         },
                         {
                            "url": "https://www.codehub.com.vn/Lap-Trinh-Website-Voi-PHP-va-MySQL",
@@ -65728,6 +66653,11 @@
                            "author": "RHP Team"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1",
+                           "title": "Tự Học Lập trình PHP",
+                           "author": "ZendVN - Học Lập Trình Online"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy",
                            "title": "Tự học PHP - Các đối tượng khác trong PHP",
                            "author": "ZendVN"
@@ -65741,6 +66671,32 @@
                            "url": "https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28",
                            "title": "Tự học PHP - Làm việc với ASNT",
                            "author": "ZendVN"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsVJaIeVT78qJEPWJ9rIwgPCcmuVI-r4k",
+                           "title": "Tự học PHP  Laravel Framework cho người mới bắt đầu",
+                           "author": "Đặng Kim Thi"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "PostgreSQL",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=OUlLQK_gN8k",
+                           "title": "Hiểu toàn bộ PostgreSQL trong 1h30p - 2023",
+                           "author": "Trần Quốc Huy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMbuMydSxMKxfg0OeJJoNsdRTnTIEcqmg",
+                           "title": "Học PostgreSQL qua ví dụ || PostgreSQL Tutorial",
+                           "author": "Lập Trình B2A"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRoAKls-7kksI-BbBn_ihFB9sRjSrDrs4",
+                           "title": "Postgresql cơ bản",
+                           "author": "Migolab"
                         }
                      ],
                      "subsections": []
@@ -65748,6 +66704,46 @@
                   {
                      "section": "Python",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzQuu4-Qxlh47gX_HnqKSJIycFNekP79m",
+                           "title": "Khóa học Lập trình Game với Python",
+                           "author": "Học Công Nghệ"
+                        },
+                        {
+                           "url": "https://youtu.be/cZQ6m3W4OU4?si=p0sZRZfvW-YygFrp",
+                           "title": "Khóa học Lập trình Python cơ bản cho người mới bắt đầu",
+                           "author": "Tờ Mờ Sáng học Lập trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLzQuu4-Qxlh44nsjdQH2quvfKePtAaI3_",
+                           "title": "Khóa học Lập trình Python từ Cơ bản đến Nâng cao",
+                           "author": "Học Công Nghệ"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLSpCQre3PzmWlodvqNcr0lg_10Bil8oF7",
+                           "title": "Khóa học Python cơ bản và nâng cao",
+                           "author": "Lập trình Python"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKzXIbeO5pQ0J2boMB4btE7VDs7gP8vdl",
+                           "title": "Lập Trình Python",
+                           "author": "Dũng Lại Lập Trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqfkD788zZGDjIctPlbff9doS_KTXOyDc",
+                           "title": "LẬP TRÌNH PYTHON CƠ BẢN",
+                           "author": "Tờ Mờ Sáng học Lập trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F7486SaHaQayPdKJUScVFh1UwA",
+                           "title": "Lập trình Python cơ bản cho người mới bắt đầu",
+                           "author": "TITV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLux-_phi0Rz0Ngc01o_GYe0JUGjL1yIAm",
+                           "title": "LẬP TRÌNH PYTHON TỪ CƠ BẢN TỚI NÂNG CAO",
+                           "author": "28tech"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P",
                            "title": "Lập trình website với Python Django",
@@ -65767,6 +66763,57 @@
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg",
                            "title": "Python Cơ Bản",
                            "author": "Kteam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPt6-BtUI22oGqQwAEF6xwrFL6aOjtHWl",
+                           "title": "Tự học lập trình python",
+                           "author": "Gà Lại Lập Trình"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLUocOGc7RDEJAH2152KaiY9H8S-C8TvT-",
+                           "title": "Tự học python cơ bản",
+                           "author": "Gà Python"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "R",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLbRKZL7ww3qj1f1FjDE7Wl6tkZebPPrf2",
+                           "title": "Bài giảng về ngôn ngữ R",
+                           "author": "Nguyễn Văn Tuấn"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLCKFKYBfLgPV07MhYMoOMlazOSS7KwKuA",
+                           "title": "HỌC R SIÊU NHANH QUA CASE STUDY | R CRASH COURSE",
+                           "author": "DUC NGUYEN"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMIaO-u3S5-jO2rMt8r8HD5ifiZv_Sd9O",
+                           "title": "Hướng dẫn học R",
+                           "author": "SciEco"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpDNYPX7w1RYuBxWT0blVTrmxyb9KfJMg",
+                           "title": "Hướng dẫn phần mềm thống kê R và R-studio",
+                           "author": "Bài Học 10 Phút"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLCKFKYBfLgPU4mSgJ-5MhGDcki2UTBr2H",
+                           "title": "HƯỚNG DẪN SỬ DỤNG R ĐỂ XỬ LÝ DỮ LIỆU",
+                           "author": "DUC NGUYEN"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLteVqnBNrrGWr8qmCJienB1ySL93aiIpW",
+                           "title": "Phân tích dữ liệu bằng ngôn ngữ R",
+                           "author": "Chiến Tiên Nhân"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9XZJEFXvG9E9HJn2n1Gu_TLAsVPc1MkJ",
+                           "title": "Thống kê trong R-Studio",
+                           "author": "Học một chút"
                         }
                      ],
                      "subsections": []
@@ -65778,6 +66825,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow",
                            "title": "Học lập trình React JS - Redux - NodeJS qua dự án thực tế",
                            "author": "Thầy Nguyễn Đức Việt"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m",
+                           "title": "Học React Hooks cơ bản (2020)",
+                           "author": "Easy Frontend"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m",
@@ -65833,6 +66885,42 @@
                            "url": "https://www.udemy.com/course/hoc-ruby-on-rails-can-ban",
                            "title": "Học Ruby on Rails Căn Bản",
                            "author": "Udemy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFoXG6w6FhAp8WtQ7GicFWfILjdegaNET",
+                           "title": "Học Ruby on Rails Căn Bản",
+                           "author": "Luân Nguyễn Thành"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2hl9DVcc5u1f2uhSYko6Ea3bdaI_BGeB",
+                           "title": "Từ ruby tới rails 2022",
+                           "author": "Lupca"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Rust",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOB8_oGJl40SPgVOMJ6ivoEgmSvTiSdNQ",
+                           "title": "Lập trình cơ bản Rust",
+                           "author": "Nguyen Tuan Dung"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFnEYduGTiXE2ejxmzTIraP2feI-pmeuw",
+                           "title": "LẬP TRÌNH RUST",
+                           "author": "Jayden Dang"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLbVzvoeVj6gTQvZq46tqqvDQ8d5WZbBPT",
+                           "title": "Rust",
+                           "author": "Nỡm"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFnEYduGTiXEPQ1pVCcg5zxgBS4RwM6wd",
+                           "title": "Rust Back-End - Microservices | Server High Performance",
+                           "author": "Jayden Dang"
                         }
                      ],
                      "subsections": []
@@ -65840,6 +66928,26 @@
                   {
                      "section": "Sass",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1wstoZNI8szds9s0ESVbuqs",
+                           "title": "Khóa học lập trình CSS và SASS nâng cao cho website Landing Page 2019",
+                           "author": "K team"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLIRbquK6vGyf7sCUAGAYFOrS-kgbBc-O1",
+                           "title": "Khóa Học Lập Trình SASS",
+                           "author": "IT News"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLJ5qtRQovuEMWzLVs3iuwcNsWeElizTwF",
+                           "title": "Khóa Học Lập Trình SCSS Từ Căn Bản Đến Nâng Cao",
+                           "author": "Nghiep Phan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLw_erwgZq4-EGs9VEEKROpDbjCuzgx01W",
+                           "title": "SASS",
+                           "author": "ZenDvn"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q",
                            "title": "Sass Cơ Bản",
@@ -65854,8 +66962,94 @@
                      "subsections": []
                   },
                   {
+                     "section": "Security",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLLHcUwF4MJE2nZhxQtXCk2bpYi4ZtCZIg",
+                           "title": "AN NINH MẠNG CHO NGƯỜI MỚI",
+                           "author": "Trung tâm đào tạo an ninh mạng - Cybersecurity"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLLHcUwF4MJE1xHr5tuBvyLUxu09dGInRm",
+                           "title": "Cyber Security",
+                           "author": "Trung tâm đào tạo an ninh mạng - Cybersecurity"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu9yx0lLtsRhWd2ZQsaM881HXbxZ0dgkS",
+                           "title": "Giải thích lỗ hổng Web phổ biến và cách khai thác",
+                           "author": "Cookie Han Hoan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLijX7E_0LDO-UFu2KluCfxbFZE-NS3TQ_",
+                           "title": "HỌC BẢO MẬT CÙNG CYBERJUTSU",
+                           "author": "CyberJutsuTV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu9yx0lLtsRgpVspJJeZ_CfcsDY-onsCo",
+                           "title": "Hướng dẫn Bug Bounty cho người mới",
+                           "author": "Cookie Han Hoan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu9yx0lLtsRiWkLUlOyQg-U4Gu0VTPMe_",
+                           "title": "Introduction to Web Application Security",
+                           "author": "Cookie Han Hoan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRSnr8eajoQyUdyywoUOvDRd9FLoovfg3",
+                           "title": "Khoá học an ninh mạng của Cisco về CyberSecurity",
+                           "author": "VQT Network"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLSzZlHir9jJSSygXLtqkhPQNIYkYqGTAU",
+                           "title": "Khóa Học Hacker Mũ Trắng-AEH",
+                           "author": "Trung Tam Athena"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLggwtzPh_8VkV50VGVpvybnnqCdgIBCVb",
+                           "title": "Khóa Học Hacker Mũ Trắng Và Bảo Mật Thông Tin",
+                           "author": "Nguyễn Thế Lợi"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLijX7E_0LDO_-v_UhGNujj_NBTysTwzkC",
+                           "title": "NHẬP MÔN AN TOÀN THÔNG TIN",
+                           "author": "CyberJutsuTV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu9yx0lLtsRiaeIQ-yn0huBD3YKgJ6wzC",
+                           "title": "OWASP Top 10 Vulnerabilities",
+                           "author": "Cookie Han Hoan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOBQKf6CISRQK4laM3VLug8wweoMv0iz4",
+                           "title": "Quản trị An ninh mạng Cisco CCNA Security",
+                           "author": "Giai Phap Mang H3T"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFJBtgskuhZYoOqwnRNLbUvFadA6ApqjH",
+                           "title": "Quản trị mạng máy tính Cisco CCNA",
+                           "author": "An ninh mạng"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu9yx0lLtsRhM3QN-R6tzMbLr7gBmD6c-",
+                           "title": "Tìm kiếm lỗ hổng Web",
+                           "author": "Cookie Han Hoan"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLu9yx0lLtsRi3rG11n0fl0H_-3jkSBZk3",
+                           "title": "Web Hacking Techniques",
+                           "author": "Cookie Han Hoan"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "SQL",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=TslBGnENTFw",
+                           "title": "Hiểu toàn bộ MySQL Database trong 1 giờ 42 phút",
+                           "author": "Trần Quốc Huy"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB",
                            "title": "Học SQL Cơ Bản",
@@ -65865,6 +67059,11 @@
                            "url": "https://www.codehub.com.vn/Hoc-SQL",
                            "title": "Học SQL Cơ Bản",
                            "author": "Codehub"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=XQbBW4atzr8",
+                           "title": "Hướng dẫn học SQL siêu dễ hiểu",
+                           "author": "Maz Học Data"
                         },
                         {
                            "url": "https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html",
@@ -65880,6 +67079,52 @@
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw",
                            "title": "SQL Cơ Bản",
                            "author": "Kteam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355AtXdxv1WLgxmorw3OMesoS7",
+                           "title": "Tự học SQL - Ngôn ngữ SQL",
+                           "author": "ZendVN"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLavGKPtOxApM2hfcLdIU3mVWIo5G2ZX2a",
+                           "title": "Tự Học SQL Cơ Bản Đến Nâng Cao",
+                           "author": "Test Mentor"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL01fPqVNMdrmtcb_Yui_Oh23X_3laoZoO",
+                           "title": "Tự Học SQL cùng Vịt - Khóa Cơ Bản cho Người Mới Bắt Đầu",
+                           "author": "Vịt làm Data"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "SQL Server",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw",
+                           "title": "[SQL Server] Khóa học sử dụng SQL server",
+                           "author": "K team"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=alqEF4I23nw",
+                           "title": "Học SQL Server trong 60 phút - 2023",
+                           "author": "Trần Quốc Huy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F7484deka_j1czssCiHygV6oF-",
+                           "title": "Khóa học SQL Server cho người mới (2023)",
+                           "author": "TITV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNJklplv9g14lsZqtDd879kdyrs02NlBx",
+                           "title": "Tự học Microsoft SQL Server",
+                           "author": "1Click2beDBA"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyOUYAtDpqrfVUnjw5h0kG5a2-b9sHNKd",
+                           "title": "Tự Học SQL Server Cơ Bản",
+                           "author": "Học Viện Công nghệ MCI"
                         }
                      ],
                      "subsections": []
@@ -65893,14 +67138,34 @@
                            "author": "Ide Academy"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLRb-vAn1juPSOsB7sUhs6QYLkMg1mYawl",
+                           "title": "Hướng dẫn lập trình Swift iOS từ A đến Z",
+                           "author": "Thạch Phạm Dev"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGKBD6EVZXqPZr_YUbxXBMM",
                            "title": "Kỹ thuật làm app camera scan QR code",
                            "author": "Ide Academy"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLBgIyLVk3GlT07wf1UPCDg6duV2iDKVbu",
+                           "title": "Lập trình iOS - Swift",
+                           "author": "laptrinh0kho"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riSlAocQR3BvHCtEhcKa204E",
                            "title": "Lập trình iOS cơ bản với Swift 3 và Xcode 8",
                            "author": "Khoa Phạm"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLBgIyLVk3GlSGQ68t3Qvfqg_x_RacLXje",
+                           "title": "Lập trình iOS với SwiftUI",
+                           "author": "laptrinh0kho"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR1-CgtL7hK6bbuXUSgAKZveZsKa2tehl",
+                           "title": "Swift - Tổng quan",
+                           "author": "Dev Step by Step"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4VEtQ6PTTQFCBxdxUIS3h6h7wSTEHrPu",
@@ -65921,6 +67186,16 @@
                            "url": "https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEsxWUwqkwbjZfXGTdMpb6T",
                            "title": "Tổng hợp kỹ thuật làm app với Swift 3.x và XCode 8",
                            "author": "Ide Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOxRl_MBrBg9plgHWtA2R62CRzRPW7Pvq",
+                           "title": "Tự Học Swift iOS",
+                           "author": "Học Lập Trình Cho Người Mới"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLw0_ti13tferyQFB7pJpqbk5mFOjJsyU9",
+                           "title": "Tự học và xây dựng 10 ứng dụng IOS với SWIFT",
+                           "author": "Thích Code"
                         }
                      ],
                      "subsections": []
@@ -65928,6 +67203,31 @@
                   {
                      "section": "TypeScript",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWswObIX8HNCSHWOpgvjMiMe2",
+                           "title": "ES6 & TypeScript cho người mới bắt đầu",
+                           "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnRJxWEhhmzpneEcZIZY_fs18OANMlxhA",
+                           "title": "ReactJS và Typescript Cho Người Mới Bắt Đầu",
+                           "author": "Ninedev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT5009M5nlo_un6wlIHM-0HS",
+                           "title": "Tự Học Fullstack Next.js/Nest.js (TypeScript)",
+                           "author": "Hỏi Dân IT"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vTdKt2QdlCqoIKEFrWHx9l",
+                           "title": "Tự học TypeScript 2021",
+                           "author": "CodersX"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT5emvXmG6kgeGkrQjRqxsb4",
+                           "title": "Tự Học TypeScript Cơ Bản Từ A đến Z Cho Người Mới Bắt Đầu",
+                           "author": "Hỏi Dân IT"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb",
                            "title": "TypeScript căn bản",
@@ -65937,6 +67237,11 @@
                            "url": "https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html",
                            "title": "TypeScript căn bản (ES6)",
                            "author": "TEDU"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLeS7aZkL6GOtUGTQ81kfm3iGlRTycKjrZ",
+                           "title": "Typescript cơ bản",
+                           "author": "Easy Frontend"
                         }
                      ],
                      "subsections": [
@@ -65944,9 +67249,19 @@
                            "section": "Angular",
                            "entries": [
                               {
-                                 "url": "https://tedu.com.vn/khoa-hoc/khoa-hoc-angular-2-can-ban-10.html",
-                                 "title": "Angular 2 căn bản",
-                                 "author": "TEDU"
+                                 "url": "https://www.youtube.com/playlist?list=PLMTyi4Bfd5pW73uXw-6jgRxDwdPYqwk0r",
+                                 "title": "100 Days Of Angular (from Angular Vietnam)",
+                                 "author": "Angular Vietnam"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLiNjao7yG417iy0SwSuaGDZ7GBJs654ME",
+                                 "title": "Angular 12 - Hướng dẫn từ căn bản",
+                                 "author": "Code là Ghiền"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLFWDoeAHRLTYaOhywzqEOwYk9sCVbIBB-",
+                                 "title": "Angular 16 - 2023",
+                                 "author": "Lửng Code"
                               },
                               {
                                  "url": "https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html",
@@ -65957,6 +67272,21 @@
                                  "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC",
                                  "title": "Angular 4 Cơ Bản",
                                  "author": "Khoa Phạm"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWswOJnLxzotd7MgqaRrBlZOG",
+                                 "title": "Angular căn bản 2023",
+                                 "author": "TEDU"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLlahAO-uyDzJ2tRFJ8hFkiPf6xuSg9IQa",
+                                 "title": "Học Angular 8+ qua các ví dụ thực tế",
+                                 "author": "TechMaster Vietnam"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLnRJxWEhhmzrta5bu4gJsZX_kdDff3Y4R",
+                                 "title": "Khóa học Angular Mới Nhất 2024",
+                                 "author": "Ninedev"
                               },
                               {
                                  "url": "https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-angular-2-web-api-13.html",
@@ -65981,9 +67311,49 @@
                      "section": "Unity",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD",
-                           "title": "Học Lập Trình Game Unity3D - Cơ Bản",
-                           "author": "K team"
+                           "url": "https://www.youtube.com/playlist?list=PL9YFzEkTXjbMlVFT3AtHiaARHoZgAP8sm",
+                           "title": "C0: Cơ bản Unity C#",
+                           "author": "Sai Game"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9YFzEkTXjbM7gq3QVkb5rC4dO8JdIsdj",
+                           "title": "C2: Cơ bản Unity 3D",
+                           "author": "Sai Game"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9YFzEkTXjbOUFE0wCrSa4SAjJN7Nz6yq",
+                           "title": "C3: Học Làm Game Unity2D",
+                           "author": "Sai Game"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9YFzEkTXjbNa2vGgWFCBkNaNCzAFRSQ1",
+                           "title": "C4 - Cơ bản Unity 3D C#",
+                           "author": "Sai Game"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLE5Rxh1l0Qs5zorOJMa777FzSYoTNreJH",
+                           "title": "Free Unity - Zitga",
+                           "author": "Unity3d Việt Nam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9YFzEkTXjbPJLYHlMQ4oxrqdXYVc8t9G",
+                           "title": "G1: Hướng Dẫn Unity 3D - City Building",
+                           "author": "Sai Game"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9YFzEkTXjbMkbjtjdxHFySO5rhPN1uMx",
+                           "title": "G2: Cách làm Game 2D và Tower Defense",
+                           "author": "Sai Game"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9YFzEkTXjbP7XXmElG-bRc5R84Hxifes",
+                           "title": "G3: Cách làm game thẻ bài - Game Card",
+                           "author": "Sai Game"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLw2nfWzUTIAkZGD8r2jPjVw-sSCIIV1wa",
+                           "title": "Học làm game 2D trên Unity",
+                           "author": "Tech Lap"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riS2khouy_siPTcR0ajoS8a6",
@@ -66021,9 +67391,24 @@
                            "author": "K team"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL4voWW1tQT6qfAR8XTD6VcYglb8Kvdw5F",
+                           "title": "Khóa học lập trình Game Unity",
+                           "author": "CodeGym"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8",
                            "title": "Lập Trình Game 2D Trên Unity3D",
                            "author": "U DEV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD",
+                           "title": "Unity 3D",
+                           "author": "K team"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLRz-2ltlXLUKYiFcSG1ME0G5-ukGCHtc_",
+                           "title": "Unity Azure Cloud Game",
+                           "author": "Coding Reshape Future"
                         }
                      ],
                      "subsections": []
@@ -66058,6 +67443,46 @@
                      "section": "Wordpress",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLSYhjar46cY7AAFWKqXfilAHfhdizCoAQ",
+                           "title": "Học thiết kế web bằng wordpress",
+                           "author": "Richard Quang"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFsfDLNKS58x01diBZc-jrRWukDdSWI4z",
+                           "title": "Học thiết kế Website Wordpress từ A đến Z",
+                           "author": "Học WordPress"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLl4nkmb3a8w3EEFbxkPjd6snE11eAPh5e",
+                           "title": "Học WordPress 4 cơ bản (2015)",
+                           "author": "Thạch Phạm"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL8tBvUxXM0tww5FCbQcCuKVlDxEjlyiau",
+                           "title": "Học WordPress cơ bản cho người mới bắt đầu tự làm website",
+                           "author": "Digital Marketing IMTA"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0-Cg8lpmCm3lBsQ6dciJGU4e7oNs-S5w",
+                           "title": "Lập trình WordPress 2023",
+                           "author": "Quảng Trị Coder"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoNIfk8yyjz6Z-r6s8oksoB0xo4NUsMQN",
+                           "title": "Tự học làm website WordPress 2023 (Module nền tảng + làm blog cá nhân)",
+                           "author": "Võ Thanh Duy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLyxSzL3F7487-LYICz9nzlbQ5XJxFQPoI",
+                           "title": "Tự học Wordpress",
+                           "author": "TITV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355As7yY0I6-fDZOHKatBjq9jI",
+                           "title": "Tự học WordPress Online - Cài đặt và sử dụng WordPress CMS",
+                           "author": "ZendVN"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU",
                            "title": "WordPress Cơ Bản",
                            "author": "Thạch Phạm"
@@ -66065,6 +67490,11 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU",
                            "title": "WordPress Nâng Cao",
+                           "author": "Thạch Phạm"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLl4nkmb3a8w2Z_sEJv_0xoXIHWMfhEw76",
+                           "title": "WordPress Tinh Gọn 2024",
                            "author": "Thạch Phạm"
                         },
                         {
