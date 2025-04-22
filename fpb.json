@@ -65872,11 +65872,6 @@
                      "section": "Git",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/watch?v=O5uT6p6VWjY",
-                           "title": "Cách sử dụng Git trong THỰC TẾ | Github",
-                           "author": "Ông Dev"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q",
                            "title": "Git - from Zero to Hero",
                            "author": "CodersX"
@@ -65895,19 +65890,6 @@
                            "url": "https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html",
                            "title": "Quản lý source code trong dự án với GIT",
                            "author": "TEDU"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=vQgcl8VouLU",
-                           "title": "Tóm tắt toàn diện về việc sử dụng Git và quy trình làm việc của GitFlow và sếp yêu cầu tôi phải học",
-                           "author": "Tips Javascript"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=1JuYQgpbrW0",
-                           "title": "Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc",
-                           "author": "Phạm Huy Hoàng",
-                           "notes": [
-                              "toidicodedao"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -67059,11 +67041,6 @@
                            "url": "https://www.codehub.com.vn/Hoc-SQL",
                            "title": "Học SQL Cơ Bản",
                            "author": "Codehub"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=XQbBW4atzr8",
-                           "title": "Hướng dẫn học SQL siêu dễ hiểu",
-                           "author": "Maz Học Data"
                         },
                         {
                            "url": "https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html",
