@@ -11397,11 +11397,6 @@
                            "url": "https://en.wikibooks.org/wiki/X86_Disassembly",
                            "title": "x86 Disassembly",
                            "author": "Wikibooks"
-                        },
-                        {
-                           "url": "http://www.jagregory.com/abrash-zen-of-asm/",
-                           "title": "Zen of Assembly Language: Volume I, Knowledge (1990)",
-                           "author": "Michael Abrash"
                         }
                      ],
                      "subsections": [
@@ -28300,11 +28295,6 @@
                            "notes": [
                               "HTML"
                            ]
-                        },
-                        {
-                           "url": "https://turtleappstore.com/book/",
-                           "title": "Coding With Minecraft",
-                           "author": "Al Sweigart"
                         },
                         {
                            "url": "https://mud.co.uk/richard/DesigningVirtualWorlds.pdf",
