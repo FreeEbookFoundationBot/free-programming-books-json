@@ -41629,6 +41629,22 @@
                      "subsections": []
                   },
                   {
+                     "section": "Rust",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLald6EODoOJU0GMuYHlkS9MLhTPE7HiaT",
+                           "title": "Rust-‏ للغلابة",
+                           "author": "Ahmed Farghal‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLald6EODoOJWcSXfix8tgr5aVS76IU11M",
+                           "title": "Rust and chill-‏ بالعربي",
+                           "author": "Ahmed Farghal‏"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Software Architecture",
                      "entries": [
                         {
