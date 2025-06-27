@@ -19988,6 +19988,14 @@
                            ]
                         },
                         {
+                           "url": "https://enriquegit.github.io/behavior-free/",
+                           "title": "Behavior Analysis with Machine Learning Using R",
+                           "author": "Enrique Garcia Ceja",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://bookdown.org/roback/bookdown-BeyondMLR",
                            "title": "Beyond Multiple Linear Regression",
                            "author": "Paul Roback, Julie Legler"
