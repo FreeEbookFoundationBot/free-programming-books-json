@@ -31395,9 +31395,9 @@
                         {
                            "url": "https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns",
                            "title": "Architectural Metapatterns: The Pattern Language of Software Architecture",
-                           "author": "Denys Poltorak",
+                           "author": "Denys Poltorak,",
                            "notes": [
-                              "PDF, EPUB, DOCX",
+                              "PDF, EPUB, ODT",
                               "CC BY"
                            ]
                         },
