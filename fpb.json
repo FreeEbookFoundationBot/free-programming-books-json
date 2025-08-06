@@ -30652,6 +30652,14 @@
                            ]
                         },
                         {
+                           "url": "http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration",
+                           "title": "Linux Kernel in a Nutshell",
+                           "author": "Greg Kroah-Hartman",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work",
                            "title": "Making Servers Work: A Practical Guide to Linux System Administration",
                            "author": "Jamon Camisso",
@@ -53287,6 +53295,11 @@
                            "author": "CodeHelp by Babbar"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=z6DY_YSdyww",
+                           "title": "Complete DAA Design and Analysis of Algorithm in one shot | Semester Exam | Hindi",
+                           "author": "KnowledgeGATE by Sanchit Sir"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
                            "title": "Data Structures and Algorithms Course in Hindi",
                            "author": "CodeWithHarry"
@@ -53808,6 +53821,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi",
                            "title": "Chai aur C++",
                            "author": "Chai aur Code"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLQEaRBV9gAFujcBWJhBT2XXsuMlIfETBy",
+                           "title": "Object Oriented Programming in C++",
+                           "author": "Coder Army"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF",
@@ -54704,6 +54722,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D",
                            "title": "Microservice Tutorial in Hindi 2023",
                            "author": "Learn Code With Durgesh"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk",
+                           "title": "Object Oriented Programming with Java",
+                           "author": "Kunal Kushwaha"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR",
