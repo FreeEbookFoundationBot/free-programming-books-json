@@ -27771,6 +27771,14 @@
                            "author": "Torben Mogensen"
                         },
                         {
+                           "url": "https://github.com/mmj-the-fighter/slang_for_dot_net_revision/blob/main/bookA4Desk.pdf",
+                           "title": "Compiler Construction using C# (SLANGFOR.NET)",
+                           "author": "Praseed Pai",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://holub.com/goodies/compiler/compilerDesignInC.pdf",
                            "title": "Compiler Design in C (1990)",
                            "author": "Allen Holub, Prentice Hall",
