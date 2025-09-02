@@ -5086,17 +5086,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Coq",
-                     "entries": [
-                        {
-                           "url": "http://www.labri.fr/perso/casteran/CoqArt/",
-                           "title": "Le Coq'Art (V8)",
-                           "author": "Yves Bertot, Pierre Castéran"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Fortran",
                      "entries": [
                         {
@@ -5532,6 +5521,17 @@
                            "notes": [
                               "PDF"
                            ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Rocq Prover",
+                     "entries": [
+                        {
+                           "url": "http://www.labri.fr/perso/casteran/CoqArt/",
+                           "title": "Le Coq'Art (V8)",
+                           "author": "Yves Bertot, Pierre Castéran"
                         }
                      ],
                      "subsections": []
@@ -8882,17 +8882,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Coq",
-                     "entries": [
-                        {
-                           "url": "http://proofcafe.org/sf",
-                           "title": "ソフトウェアの基礎",
-                           "author": "Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey,"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "D",
                      "entries": [
                         {
@@ -9908,6 +9897,17 @@
                            "url": "http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html",
                            "title": "無料統計ソフトRで心理学",
                            "author": "奥村泰之"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Rocq Prover",
+                     "entries": [
+                        {
+                           "url": "http://proofcafe.org/sf",
+                           "title": "ソフトウェアの基礎",
+                           "author": "Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey,"
                         }
                      ],
                      "subsections": []
@@ -12949,16 +12949,7 @@
                   },
                   {
                      "section": "Coq",
-                     "entries": [
-                        {
-                           "url": "http://adam.chlipala.net/cpdt/html/toc.html",
-                           "title": "Certified Programming with Dependent Types"
-                        },
-                        {
-                           "url": "http://www.cis.upenn.edu/~bcpierce/sf/",
-                           "title": "Software Foundations"
-                        }
-                     ],
+                     "entries": [],
                      "subsections": []
                   },
                   {
@@ -20692,6 +20683,20 @@
                            ]
                         }
                      ]
+                  },
+                  {
+                     "section": "Rocq Prover",
+                     "entries": [
+                        {
+                           "url": "http://adam.chlipala.net/cpdt/html/toc.html",
+                           "title": "Certified Programming with Dependent Types"
+                        },
+                        {
+                           "url": "http://www.cis.upenn.edu/~bcpierce/sf/",
+                           "title": "Software Foundations"
+                        }
+                     ],
+                     "subsections": []
                   },
                   {
                      "section": "Rust",
