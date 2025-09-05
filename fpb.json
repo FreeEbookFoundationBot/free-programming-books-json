@@ -19824,7 +19824,7 @@
                            "section": "Flask",
                            "entries": [
                               {
-                                 "url": "https://exploreflask.com",
+                                 "url": "https://explore-flask.readthedocs.io",
                                  "title": "Explore Flask",
                                  "author": "Robert Picard"
                               },
@@ -28312,7 +28312,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.cs.indiana.edu/~geobrown/book.pdf",
+                           "url": "https://web.archive.org/web/20250112021837/https://legacy.cs.indiana.edu/~geobrown/book.pdf",
                            "title": "Discovering the STM32 Microcontroller",
                            "notes": [
                               "PDF",
