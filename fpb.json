@@ -12676,7 +12676,10 @@
                         {
                            "url": "https://clojure-book.gitlab.io",
                            "title": "Clojure",
-                           "author": "Karthikeyan A K"
+                           "author": "Karthikeyan A K",
+                           "notes": [
+                              "GFDL"
+                           ]
                         },
                         {
                            "url": "http://java.ociweb.com/mark/clojure/article.html",
@@ -12694,7 +12697,10 @@
                         },
                         {
                            "url": "https://github.com/clojure-cookbook/clojure-cookbook",
-                           "title": "Clojure Cookbook"
+                           "title": "Clojure Cookbook",
+                           "notes": [
+                              "CC BY-NC-ND"
+                           ]
                         },
                         {
                            "url": "http://yogthos.github.io/ClojureDistilled.html",
@@ -12754,7 +12760,12 @@
                         },
                         {
                            "url": "http://www.sicpdistilled.com",
-                           "title": "SICP Distilled - An idiosyncratic tour of SICP in Clojure"
+                           "title": "SICP Distilled - An idiosyncratic tour of SICP in Clojure",
+                           "author": "Tom Hall",
+                           "notes": [
+                              "HTML",
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://github.com/bbatsov/clojure-style-guide",
