@@ -10402,10 +10402,6 @@
                            "title": "Go 문서 한글 번역"
                         },
                         {
-                           "url": "https://thebook.io/006806/",
-                           "title": "Go 언어 웹 프로그래밍 철저 입문"
-                        },
-                        {
                            "url": "https://github.com/byounghoonkim/the-little-go-book/",
                            "title": "The Little Go Book. 리틀 고 책입니다",
                            "author": "Karl Seguin,",
@@ -10545,20 +10541,6 @@
                            "author": "William Stein",
                            "notes": [
                               "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "OpenStack",
-                     "entries": [
-                        {
-                           "url": "https://thebook.io/006881",
-                           "title": "오픈스택을 다루는 기술",
-                           "author": "장현정",
-                           "notes": [
-                              "HTML"
                            ]
                         }
                      ],
@@ -10795,10 +10777,6 @@
                      "section": "Rust",
                      "entries": [
                         {
-                           "url": "https://coding-insight.com/docs/category/rust",
-                           "title": "러스트 코딩인사이트"
-                        },
-                        {
                            "url": "https://rinthel.github.io/rust-lang-book-ko/",
                            "title": "러스트 프로그래밍 언어",
                            "author": "스티브 클라브닉, 캐롤 니콜스"
@@ -10832,7 +10810,7 @@
                      "section": "Scratch",
                      "entries": [
                         {
-                           "url": "http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P",
+                           "url": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/480150000247P",
                            "title": "창의컴퓨팅(Creative Computing) 가이드북"
                         }
                      ],
