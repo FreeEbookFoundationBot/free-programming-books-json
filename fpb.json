@@ -16454,19 +16454,6 @@
                            ]
                         },
                         {
-                           "section": "Remix",
-                           "entries": [
-                              {
-                                 "url": "https://remix.run/docs/en/v1/tutorials/blog",
-                                 "title": "Developer Blog Tutorial"
-                              },
-                              {
-                                 "url": "https://remix.run/docs/en/v1/tutorials/jokes",
-                                 "title": "Jokes App Tutorial"
-                              }
-                           ]
-                        },
-                        {
                            "section": "Svelte",
                            "entries": [
                               {
