@@ -53283,33 +53283,8 @@
                "index": {},
                "sections": [
                   {
-                     "section": "Algorithms",
+                     "section": "Algorithms and Data Structures",
                      "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY",
-                           "title": "All Sorting algorithms and Programs",
-                           "author": "Saurabh Shukla"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2",
-                           "title": "Binary Search | Interview Questions | Coding | Tutorials | Algorithm",
-                           "author": "Aditya Verma"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner",
-                           "title": "Binary Trees - by LoveBabbar",
-                           "author": "CodeHelp - by Babbar"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4",
-                           "title": "Binary Trees - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe",
-                           "title": "Bit Manipulation - Level 2",
-                           "author": "Pepcoding"
-                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt",
                            "title": "Complete C++ DSA Course | Data Structures & Algorithms Playlist",
@@ -53319,11 +53294,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
                            "title": "Complete C++ Placement DSA Course",
                            "author": "CodeHelp by Babbar"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=z6DY_YSdyww",
-                           "title": "Complete DAA Design and Analysis of Algorithm in one shot | Semester Exam | Hindi",
-                           "author": "KnowledgeGATE by Sanchit Sir"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
@@ -53341,87 +53311,192 @@
                            "author": "Jovian"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
-                           "title": "Design And Analysis Of Algorithms",
-                           "author": "Gate Smashers"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm",
-                           "title": "Design and Analysis of Algorithms",
-                           "author": "The Gatehub"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx",
                            "title": "DS & Algorithms Course Using Javascript",
                            "author": "Technical Suneja"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go",
-                           "title": "Dynamic Programming Playlist | Coding | Interview Questions | Tutorials | Algorithm",
-                           "author": "Aditya Verma"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL",
-                           "title": "Dynamic Programming Workshop",
-                           "author": "Vivek Gupta"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_",
-                           "title": "Generic Trees - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt",
-                           "title": "Graph Theory",
-                           "author": "Gate Smashers"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v",
-                           "title": "Graphs - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ",
-                           "title": "Graphs - Level 2",
-                           "author": "Pepcoding"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8",
                            "title": "Hindi Data Structures And Algorithms Tutorial Python",
                            "author": "codebasics Hindi"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_",
-                           "title": "Linked List - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs",
-                           "title": "Recursion & Backtracking - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0",
-                           "title": "Recursion & Backtracking - Level 2",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY",
-                           "title": "Recursion Playlist | Coding | Interview Questions | Algorithm | Tutorials",
-                           "author": "Aditya Verma"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj",
-                           "title": "Sliding Window Algorithm - Face to Face Interviews",
-                           "author": "Aditya Verma"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f",
-                           "title": "Time and Space - Level 1",
-                           "author": "Pepcoding"
                         }
                      ],
                      "subsections": [
+                        {
+                           "section": "Algorithms",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY",
+                                 "title": "All Sorting algorithms and Programs",
+                                 "author": "Saurabh Shukla"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2",
+                                 "title": "Binary Search | Interview Questions | Coding | Tutorials | Algorithm",
+                                 "author": "Aditya Verma"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=z6DY_YSdyww",
+                                 "title": "Complete DAA Design and Analysis of Algorithm in one shot | Semester Exam | Hindi",
+                                 "author": "KnowledgeGATE by Sanchit Sir"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+                                 "title": "Design And Analysis Of Algorithms",
+                                 "author": "Gate Smashers"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm",
+                                 "title": "Design and Analysis of Algorithms",
+                                 "author": "The Gatehub"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go",
+                                 "title": "Dynamic Programming Playlist | Coding | Interview Questions | Tutorials | Algorithm",
+                                 "author": "Aditya Verma"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL",
+                                 "title": "Dynamic Programming Workshop",
+                                 "author": "Vivek Gupta"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt",
+                                 "title": "Graph Theory",
+                                 "author": "Gate Smashers"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY",
+                                 "title": "Recursion Playlist | Coding | Interview Questions | Algorithm | Tutorials",
+                                 "author": "Aditya Verma"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj",
+                                 "title": "Sliding Window Algorithm - Face to Face Interviews",
+                                 "author": "Aditya Verma"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Data Structures",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH",
+                                 "title": "2-D Arrays - Level 1",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3",
+                                 "title": "All Data Structure Concepts | Hindi",
+                                 "author": "Saurabh Shukla"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner",
+                                 "title": "Binary Trees - by LoveBabbar",
+                                 "author": "CodeHelp - by Babbar"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4",
+                                 "title": "Binary Trees - Level 1",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe",
+                                 "title": "Bit Manipulation - Level 2",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9",
+                                 "title": "Data Structure And Algorithms Course | DSA Tutorial in Hindi",
+                                 "author": "ScoreShala"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm",
+                                 "title": "Data Structure Programs | Hindi",
+                                 "author": "Saurabh Shukla"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su",
+                                 "title": "Data Structure using Java",
+                                 "author": "ForMyScholars"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
+                                 "title": "DSA-One Course- The Complete Data Structure and Algorithms Course",
+                                 "author": "Anuj Bhaiya"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r",
+                                 "title": "Functions and Arrays - Level 1",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_",
+                                 "title": "Generic Trees - Level 1",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-",
+                                 "title": "Graph Data Structure & Algorithms Full Course In Hindi",
+                                 "author": "Hello World"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v",
+                                 "title": "Graphs - Level 1",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ",
+                                 "title": "Graphs - Level 2",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9",
+                                 "title": "Heap Playlist Interview Questions Coding Tutorials Data Structures",
+                                 "author": "Aditya Verma"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
+                                 "title": "Java + Data Structures + Algorithms",
+                                 "author": "Apni Kaksha"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
+                                 "title": "Java + DSA",
+                                 "author": "Apna College"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_",
+                                 "title": "Linked List - Level 1",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs",
+                                 "title": "Recursion & Backtracking - Level 1",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0",
+                                 "title": "Recursion & Backtracking - Level 2",
+                                 "author": "Pepcoding"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLKZaSt2df1gy75J3irj89a2vSGqeQdtDA",
+                                 "title": "Simplified DSA with FRAZ",
+                                 "author": "Fraz"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd",
+                                 "title": "Stack Playlist | Interview Questions | Coding | Tutorials | Data Structures",
+                                 "author": "Aditya Verma"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f",
+                                 "title": "Time and Space - Level 1",
+                                 "author": "Pepcoding"
+                              }
+                           ]
+                        },
                         {
                            "section": "Soft Computing",
                            "entries": [
@@ -54049,97 +54124,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH",
                            "title": "Python Data Science and Big Data Tutorials In Hindi",
                            "author": "CodeWithHarry"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Data Structures",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH",
-                           "title": "2-D Arrays - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3",
-                           "title": "All Data Structure Concepts | Hindi",
-                           "author": "Saurabh Shukla"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
-                           "title": "C++ Full Course | C++ Tutorial | Data Structures & Algorithms",
-                           "author": "Apna College"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
-                           "title": "Complete C++ Placement DSA Course",
-                           "author": "CodeHelp by Babbar"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9",
-                           "title": "Data Structure And Algorithms Course | DSA Tutorial in Hindi",
-                           "author": "ScoreShala"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm",
-                           "title": "Data Structure Programs | Hindi",
-                           "author": "Saurabh Shukla"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su",
-                           "title": "Data Structure using Java",
-                           "author": "ForMyScholars"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi",
-                           "title": "Data Structures and Algorithms Course in Hindi",
-                           "author": "CodeWithHarry"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
-                           "title": "DSA-One Course- The Complete Data Structure and Algorithms Course",
-                           "author": "Anuj Bhaiya"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r",
-                           "title": "Functions and Arrays - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-",
-                           "title": "Graph Data Structure & Algorithms Full Course In Hindi",
-                           "author": "Hello World"
-                        },
-                        {
-                           "url": "https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9",
-                           "title": "Heap Playlist Interview Questions Coding Tutorials Data Structures",
-                           "author": "Aditya Verma"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
-                           "title": "Java + Data Structures + Algorithms",
-                           "author": "Apni Kaksha"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
-                           "title": "Java + DSA",
-                           "author": "Apna College"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_",
-                           "title": "Linked Lists - Level 1",
-                           "author": "Pepcoding"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLKZaSt2df1gy75J3irj89a2vSGqeQdtDA",
-                           "title": "Simplified DSA with FRAZ",
-                           "author": "Fraz"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd",
-                           "title": "Stack Playlist | Interview Questions | Coding | Tutorials | Data Structures",
-                           "author": "Aditya Verma"
                         }
                      ],
                      "subsections": []
