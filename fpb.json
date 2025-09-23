@@ -10673,6 +10673,11 @@
                            ]
                         },
                         {
+                           "url": "https://thebook.io/080251",
+                           "title": "Let's Get IT 파이썬 프로그래밍",
+                           "author": "안지혜"
+                        },
+                        {
                            "url": "https://wikidocs.net/book/2165",
                            "title": "PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램",
                            "author": "Dardao",
@@ -30445,6 +30450,14 @@
                               "HTML"
                            ],
                            "accessNotes": ":construction: in process"
+                        },
+                        {
+                           "url": "https://linux-training.be/linuxnet.pdf",
+                           "title": "Linux Networking",
+                           "author": "Paul Cobbaut",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://mininet.org/walkthrough/",
