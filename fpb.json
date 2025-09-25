@@ -16896,11 +16896,43 @@
                            ]
                         },
                         {
+                           "url": "https://linux-training.be/linuxsec.pdf",
+                           "title": "Linux Security",
+                           "author": "Paul Cobbaut",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://linux-training.be/linuxsrv.pdf",
+                           "title": "Linux Servers",
+                           "author": "Paul Cobbaut",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://linux-training.be/linuxsto.pdf",
+                           "title": "Linux Storage",
+                           "author": "Paul Cobbaut",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/linux",
                            "title": "Linux Succinctly, Syncfusion",
                            "notes": [
                               "PDF, Kindle",
                               "email address *requested*, not required"
+                           ]
+                        },
+                        {
+                           "url": "https://linux-training.be/linuxsys.pdf",
+                           "title": "Linux System Administration",
+                           "author": "Paul Cobbaut",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
