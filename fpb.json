@@ -307,7 +307,7 @@
                            "url": "https://web.archive.org/web/20241214000729/https://ilkaddimlar.com/ders/c-proqramlasdirma-dili",
                            "title": "C Proqramlaşdırma Dili",
                            "notes": [
-                              ":card_file_box: archived"
+                              " :card_file_box: archived"
                            ]
                         }
                      ],
@@ -320,7 +320,7 @@
                            "url": "https://web.archive.org/web/20241214005042/https://ilkaddimlar.com/ders/html",
                            "title": "HTML",
                            "notes": [
-                              ":card_file_box: archived"
+                              " :card_file_box: archived"
                            ]
                         }
                      ],
@@ -333,7 +333,7 @@
                            "url": "https://web.archive.org/web/20241214095624/https://ilkaddimlar.com/ders/linux",
                            "title": "Linux",
                            "notes": [
-                              ":card_file_box: archived"
+                              " :card_file_box: archived"
                            ]
                         }
                      ],
@@ -656,7 +656,7 @@
                            "url": "https://web.archive.org/web/20201024204437/https://sl3.app",
                            "title": "SL3 Framework - Code For Brain",
                            "author": "Stack Learners",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -1136,7 +1136,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               }
                            ]
                         }
@@ -1248,7 +1248,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf",
@@ -1541,7 +1541,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -1996,7 +1996,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: in Bearbeitung"
+                                 "accessNotes": " :construction: in Bearbeitung"
                               }
                            ]
                         }
@@ -2026,7 +2026,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf",
@@ -3536,7 +3536,7 @@
                                  "notes": [
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: en proceso"
+                                 "accessNotes": " :construction: en proceso"
                               }
                            ]
                         },
@@ -3999,7 +3999,7 @@
                            "url": "https://github.com/ErunamoJAZZ/ScalaByExample-es",
                            "title": "Scala con Ejemplos",
                            "author": "Martin Odersky,",
-                           "accessNotes": ":construction: en proceso"
+                           "accessNotes": " :construction: en proceso"
                         }
                      ],
                      "subsections": []
@@ -4200,7 +4200,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": [
@@ -4476,7 +4476,7 @@
                                  "url": "https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html",
                                  "title": "سیمفونی ۵: سریع‌ترین مسیر‏",
                                  "author": "",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -4663,7 +4663,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -4718,7 +4718,7 @@
                            "url": "https://fi.wikibooks.org/wiki/OpenGL",
                            "title": "OpenGL",
                            "author": "Wikikirjasto",
-                           "accessNotes": ":construction: keskeneräinen"
+                           "accessNotes": " :construction: keskeneräinen"
                         }
                      ],
                      "subsections": []
@@ -4928,7 +4928,7 @@
                                  "author": "Wikibooks contributors, Zhuo Jia Dai,",
                                  "notes": [
                                     "HTML",
-                                    ":construction: *in process*"
+                                    " :construction: *in process*"
                                  ]
                               }
                            ]
@@ -5259,7 +5259,7 @@
                                  "url": "https://web.archive.org/web/20220121031527/geekographie.maieul.net/95",
                                  "title": "(Xe)LaTeX appliqué aux sciences humaines",
                                  "author": "Maïeul Rouquette",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://framabook.org/koma-script/",
@@ -5408,7 +5408,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": [
@@ -5556,7 +5556,7 @@
                                  "url": "https://web.archive.org/web/20210801160026/french.railstutorial.org/chapters/beginning",
                                  "title": "Tutoriel Ruby on Rails : Apprendre Rails par l'exemple",
                                  "author": "Michael Hartl",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -6078,7 +6078,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -6215,7 +6215,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -6393,7 +6393,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               }
                            ]
                         }
@@ -6466,7 +6466,7 @@
                            "url": "https://www.petanikode.com/tutorial/c/",
                            "title": "Belajar Pemrograman C untuk Pemula",
                            "author": "Ahmad Muhardian",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/",
@@ -6581,7 +6581,7 @@
                            "notes": [
                               "Petani Kode"
                            ],
-                           "accessNotes": ":construction: dalam proses"
+                           "accessNotes": " :construction: dalam proses"
                         },
                         {
                            "url": "https://www.petanikode.com/tutorial/html/",
@@ -6711,7 +6711,7 @@
                         {
                            "url": "https://www.petanikode.com/tutorial/javascript/",
                            "title": "Tutorial Dasar Javascript untuk Pemula",
-                           "accessNotes": ":construction: dalam proses"
+                           "accessNotes": " :construction: dalam proses"
                         },
                         {
                            "url": "https://id.javascript.info",
@@ -7002,7 +7002,7 @@
                            "notes": [
                               "Petani Kode"
                            ],
-                           "accessNotes": ":construction: dalam proses"
+                           "accessNotes": " :construction: dalam proses"
                         }
                      ],
                      "subsections": [
@@ -7042,7 +7042,7 @@
                               {
                                  "url": "https://www.petanikode.com/tutorial/codeigniter/",
                                  "title": "Tutorial CodeIgniter 3 & 4",
-                                 "accessNotes": ":construction: dalam proses"
+                                 "accessNotes": " :construction: dalam proses"
                               },
                               {
                                  "url": "http://mfikri.com/artikel/tutorial-codeigniter4",
@@ -7432,7 +7432,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf",
@@ -7992,7 +7992,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               }
                            ]
                         }
@@ -8073,7 +8073,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -10298,10 +10298,6 @@
                            "author": "나도코딩"
                         },
                         {
-                           "url": "https://blogofscience.com/Socket_Programming-KLDP.html",
-                           "title": "BeeJ's Guide to Network Programming - 인터넷 소켓 활용"
-                        },
-                        {
                            "url": "https://wikidocs.net/book/2494",
                            "title": "C 프로그래밍: 현대적 접근",
                            "author": "K.N.King,"
@@ -10502,7 +10498,7 @@
                         {
                            "url": "https://web.archive.org/web/20220107111504/https://thebook.io/006718/",
                            "title": "리눅스 서버를 다루는 기술",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://sites.google.com/site/gnomekr/home/learning_gnome",
@@ -10570,10 +10566,6 @@
                         {
                            "url": "https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md",
                            "title": "Perl 객체지향프로그래밍(OOP)"
-                        },
-                        {
-                           "url": "http://advent.perl.kr/2014/",
-                           "title": "Seoul.pm 펄 크리스마스 달력 #2014 | Seoul.pm Perl Advent Calendar 2014"
                         }
                      ],
                      "subsections": []
@@ -10582,8 +10574,9 @@
                      "section": "PHP",
                      "entries": [
                         {
-                           "url": "https://www.lesstif.com/pages/viewpage.action?pageId=24445740",
-                           "title": "PHP5 의 주요 기능"
+                           "url": "https://wikidocs.net/book/17209",
+                           "title": "숏텀 PHP",
+                           "author": "디지털감성"
                         }
                      ],
                      "subsections": [
@@ -10593,10 +10586,6 @@
                               {
                                  "url": "https://github.com/appkr/l5essential",
                                  "title": "라라벨 (Laravel) 5 입문 및 실전 강좌"
-                              },
-                              {
-                                 "url": "https://www.lesstif.com/display/laravelprog",
-                                 "title": "쉽게 배우는 라라벨 5 프로그래밍"
                               }
                            ]
                         }
@@ -10697,7 +10686,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               },
                               {
                                  "url": "https://wikidocs.net/book/4223",
@@ -10744,15 +10733,7 @@
                            "author": "DoublekPark 외 1명"
                         },
                         {
-                           "url": "http://r4pda.co.kr",
-                           "title": "R을 이용한 데이터 처리 & 분석 실무",
-                           "author": "서민구",
-                           "notes": [
-                              "HTML, PDF - 이전 버젼"
-                           ]
-                        },
-                        {
-                           "url": "http://www.openstatistics.net",
+                           "url": "http://www.openstatistics.net/ko.html",
                            "title": "The R Manuals (translated in Korean)"
                         }
                      ],
@@ -10798,11 +10779,6 @@
                         {
                            "url": "https://google.github.io/comprehensive-rust/ko/index.html",
                            "title": "Comprehensive Rust"
-                        },
-                        {
-                           "url": "https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps",
-                           "title": "Rust로 첫 번째 단계 수행",
-                           "author": "마이크로소프트에서 제공하는 러스트 강의"
                         },
                         {
                            "url": "https://doc.rust-kr.org/title-page.html",
@@ -10873,7 +10849,7 @@
                         {
                            "url": "https://heropy.blog/2020/01/27/typescript",
                            "title": "한눈에 보는 타입스크립트",
-                           "author": "HEROPY\nTech"
+                           "author": "HEROPY Tech"
                         },
                         {
                            "url": "https://radlohead.gitbook.io/typescript-deep-dive",
@@ -10888,23 +10864,6 @@
                         {
                            "url": "http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/",
                            "title": "번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Unity3d",
-                     "entries": [
-                        {
-                           "url": "https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries",
-                           "title": "번역 Unity Graphics Programming Series",
-                           "author": "",
-                           "otherLinks": [
-                              {
-                                 "title": "Indie Visual Lab",
-                                 "url": "https://github.com/IndieVisualLab"
-                              }
-                           ]
                         }
                      ],
                      "subsections": []
@@ -11104,7 +11063,7 @@
                            "notes": [
                               "PDF, HTML, IPYNB"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://romilly.github.io/o-x-o",
@@ -11113,7 +11072,7 @@
                            "notes": [
                               "PDF, HTML, IPYNB"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -11151,7 +11110,7 @@
                            "author": "Brian Evans",
                            "notes": [
                               "PDF",
-                              ":card_file_box: *archived at unglue.it*"
+                              " :card_file_box: *archived at unglue.it*"
                            ]
                         },
                         {
@@ -11182,7 +11141,7 @@
                            "url": "https://www.arduino.cc/en/Guide",
                            "title": "Getting Started with Arduino products",
                            "author": "Official Arduino Documentation",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "http://playground.arduino.cc/Main/ManualsAndCurriculum",
@@ -11232,7 +11191,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "http://mvcmusicstore.codeplex.com",
@@ -11347,7 +11306,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "http://www.davidsalomon.name/assem.advertis/asl.pdf",
@@ -11394,7 +11353,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://grain-lang.org/docs/",
@@ -11414,7 +11373,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.egr.unlv.edu/~ed/x86.html",
@@ -11602,7 +11561,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://mywiki.wooledge.org/BashGuide",
@@ -11846,7 +11805,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.ime.usp.br/~pf/algorithms/",
@@ -11896,7 +11855,7 @@
                            "author": "build-your-own.org",
                            "notes": [
                               "HTML",
-                              ":construction: *in process*"
+                              " :construction: *in process*"
                            ]
                         },
                         {
@@ -12090,7 +12049,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.crasseux.com/books/ctut.pdf",
@@ -12199,13 +12158,13 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/",
                            "title": "Data Structures and Algorithms with Object-Oriented Design Patterns in C#",
                            "author": "Bruno Preiss",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop",
@@ -12325,7 +12284,7 @@
                               "PDF, LaTeX",
                               "CC BY-NC-SA"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://darrenyao.com/usacobook/cpp.pdf",
@@ -12453,7 +12412,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://gameprogrammingpatterns.com/contents.html",
@@ -12623,7 +12582,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -12648,7 +12607,7 @@
                         {
                            "url": "http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial",
                            "title": "Chapel Tutorial for Programmers",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -12700,10 +12659,10 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived",
+                           "accessNotes": " :card_file_box: archived",
                            "otherLinks": [
                               {
-                                 "title": "(:card_file_box: ",
+                                 "title": "( :card_file_box: ",
                                  "url": "https://unglue.it/work/489419/"
                               }
                            ]
@@ -12966,7 +12925,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20181228130113/https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf",
@@ -12975,7 +12934,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf",
@@ -13213,7 +13172,7 @@
                                  "url": "https://github.com/radar/joyofelixir"
                               }
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "http://learningelixir.joekain.com",
@@ -13279,7 +13238,7 @@
                                  "notes": [
                                     "PDF"
                                  ],
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -13369,7 +13328,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details",
@@ -13470,7 +13429,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://developerforce.s3.amazonaws.com/books/Force.com_Fundamentals.pdf",
@@ -13489,7 +13448,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf",
@@ -13497,7 +13456,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://res.cloudinary.com/hy4kyit2a/image/upload/workbook_text_Heroku.pdf",
@@ -13512,7 +13471,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://res.cloudinary.com/hy4kyit2a/image/upload/s1_mobile_woorkbook_v3-21.pdf",
@@ -13527,7 +13486,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -13539,7 +13498,7 @@
                            "url": "https://web.archive.org/web/20180919061255/http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm",
                            "title": "A Beginner's Guide to Forth",
                            "author": "J.V. Noble",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://ficl.sourceforge.net/pdf/Forth_Primer.pdf",
@@ -13851,7 +13810,7 @@
                            "author": "Herman Schaaf and Shawn Smith",
                            "notes": [
                               "EPUB, HTML, PDF",
-                              ":construction: *in process*"
+                              " :construction: *in process*"
                            ],
                            "accessNotes": "Leanpub account or valid email requested for EPUB or PDF"
                         },
@@ -14007,7 +13966,7 @@
                                  "url": "https://web.archive.org/web/20210519053040/http://grails.asia/grails-tutorial-for-beginners/",
                                  "title": "Grails Tutorial for Beginners",
                                  "author": "grails.asia",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://grails.github.io/grails-doc/latest/",
@@ -14103,7 +14062,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.yesodweb.com/book",
@@ -14292,7 +14251,7 @@
                         {
                            "url": "https://web.archive.org/web/20160505010319/http://learnjs.io/canvassing/read/",
                            "title": "Canvassing",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://mdo.github.io/code-guide/",
@@ -14383,7 +14342,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://joshondesign.com/p/books/canvasdeepdive/toc.html",
@@ -14474,7 +14433,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "http://maintainablecss.com",
@@ -14497,7 +14456,7 @@
                            "url": "https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html",
                            "title": "Pro HTML5 Programming",
                            "author": "Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://resilientwebdesign.com/#Resilientweb%20design",
@@ -14517,7 +14476,7 @@
                            "url": "https://web.archive.org/web/20191116073929/http://smacss.com/",
                            "title": "Scalable and Modular Architecture for CSS",
                            "author": "Jonathan Snook",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
@@ -14858,7 +14817,7 @@
                            "url": "https://web.archive.org/web/20210126062450/https://pdf.coreservlets.com/",
                            "title": "Core Servlets and JavaServer Pages, 2nd Ed. (2003)",
                            "author": "Marty Hall, Larry Brown",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf",
@@ -14867,7 +14826,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf",
@@ -14876,7 +14835,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.programming-books.io/essential/java/",
@@ -15512,7 +15471,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/javascript",
@@ -15557,7 +15516,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://leanpub.com/leaflet-tips-and-tricks/read",
@@ -15635,7 +15594,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://addyosmani.com/largescalejavascript/",
@@ -15889,7 +15848,7 @@
                               {
                                  "url": "https://singlepagebook.supportbee.com",
                                  "title": "Building Single Page Web Apps with Backbone.js",
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               },
                               {
                                  "url": "http://addyosmani.github.io/backbone-fundamentals/",
@@ -16042,7 +16001,7 @@
                                  "url": "https://web.archive.org/web/20140621124403/https://leanpub.com/express/read",
                                  "title": "Express.js Guide",
                                  "author": "Azat Mardanov",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://flaviocopes.com/page/express-handbook/",
@@ -16130,7 +16089,7 @@
                                  "notes": [
                                     "HTML"
                                  ],
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         },
@@ -17854,7 +17813,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://johnwhitington.net/ocamlfromtheverybeginning/",
@@ -17868,7 +17827,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://dev.realworldocaml.org/toc.html",
@@ -18188,7 +18147,7 @@
                            "url": "https://phpapprentice.com",
                            "title": "PHP Apprentice",
                            "author": "Andrew Davis",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://phpbestpractices.org",
@@ -18378,7 +18337,7 @@
                                  "notes": [
                                     "PDF"
                                  ],
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://symfony.com/doc/2.8/index.html",
@@ -18870,7 +18829,7 @@
                               "PDF",
                               "2.6"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.thedigitalcatbooks.com/pycabook-introduction/",
@@ -18885,7 +18844,7 @@
                            "url": "https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html",
                            "title": "Code Like a Pythonista: Idiomatic Python",
                            "author": "David Goodger",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://composingprograms.com",
@@ -18917,7 +18876,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/",
@@ -18954,7 +18913,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://geographicdata.science/book/intro.html",
@@ -19112,7 +19071,7 @@
                            "url": "https://archive.org/details/learn-python-visually_compress/mode/2up",
                            "title": "Learn Python Visually",
                            "author": "Ivelin Demirov",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf",
@@ -19121,7 +19080,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.alan-g.me.uk",
@@ -19253,7 +19212,7 @@
                               "PDF",
                               "2.6"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://pysdr.org",
@@ -19287,7 +19246,7 @@
                               "PDF",
                               "2.7"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://docs.python.org/3/download.html",
@@ -19492,7 +19451,7 @@
                            "notes": [
                               "3.7"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://third-bit.com/sdxpy/",
@@ -19598,7 +19557,7 @@
                            "url": "https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/",
                            "title": "The Standard Python Library",
                            "author": "Fredrik Lundh",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://greenteapress.com/wp/think-complexity-2e/",
@@ -19800,7 +19759,7 @@
                                  "notes": [
                                     "1.5"
                                  ],
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://www.tangowithdjango.com/book17/",
@@ -19988,7 +19947,7 @@
                            "notes": [
                               "HTML, PDF, ePub"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.qt.io/product/qt6/qml-book/preface-preface",
@@ -19997,7 +19956,7 @@
                            "notes": [
                               "HTML, PDF"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -20321,7 +20280,7 @@
                         {
                            "url": "https://github.com/perl6/book/",
                            "title": "Using Perl 6",
-                           "accessNotes": ":construction: project is dead"
+                           "accessNotes": " :construction: project is dead"
                         },
                         {
                            "url": "https://learnxinyminutes.com/docs/raku/",
@@ -20462,7 +20421,7 @@
                         {
                            "url": "https://web.archive.org/web/20180321101922/http://www.humblelittlerubybook.com/book/html/index.html",
                            "title": "Mr. Neighborly's Humble Little Ruby Book",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://launchschool.com/books/oo_ruby",
@@ -20568,7 +20527,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://poignant.guide",
@@ -20622,7 +20581,7 @@
                                  "url": "https://web.archive.org/web/20190319201525/http://objectsonrails.com/",
                                  "title": "Objects on Rails",
                                  "author": "Avdi Grimm",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://guides.railsgirls.com",
@@ -20784,7 +20743,7 @@
                            "url": "https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book",
                            "title": "Rust for Rubyists",
                            "author": "Steve Klabnik",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://github.com/nrc/r4cppp",
@@ -20866,7 +20825,7 @@
                            "url": "https://web.archive.org/web/20190629103826/http://naildrivin5.com/scalatour/",
                            "title": "Another tour of Scala",
                            "author": "David Copeland",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://underscore.io/books/creative-scala/",
@@ -22064,7 +22023,7 @@
                            "url": "https://web.archive.org/web/20210912091852/https://cb.vu/unixtoolbox.xhtml",
                            "title": "Unix Toolbox",
                            "author": "Colin Barschel",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.ee.surrey.ac.uk/Teaching/Unix/",
@@ -22187,7 +22146,7 @@
                                  "url": "https://github.com/bwasty/vulkan-tutorial-rs",
                                  "title": "Vulkan Tutorial RS",
                                  "author": "Benjamin Wasty, et al.",
-                                 "accessNotes": ":construction: in process",
+                                 "accessNotes": " :construction: in process",
                                  "notes": [
                                     "Rust"
                                  ]
@@ -22228,7 +22187,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -22242,7 +22201,7 @@
                            "author": "MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma",
                            "notes": [
                               "PDF",
-                              ":card_file_box: *archived*"
+                              " :card_file_box: *archived*"
                            ]
                         },
                         {
@@ -22281,7 +22240,7 @@
                         {
                            "url": "https://web.archive.org/web/20190516192814/http://www.ousob.com/ng/clguide/",
                            "title": "CA-Clipper 5.2 Norton Guide",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper(s)",
@@ -22798,7 +22757,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-pl.pdf",
@@ -22878,7 +22837,7 @@
                            "notes": [
                               "tar.gz"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.arturpyszczuk.pl/files/bash/bash.pdf",
@@ -22906,7 +22865,7 @@
                            "url": "https://web.archive.org/web/20220910113443/https://kurs-c.manifo.com/konfiguracja-srodowiska-298-547",
                            "title": "Kurs języka C",
                            "author": "Mateusz Piaszczak",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf",
@@ -22995,7 +22954,7 @@
                            "url": "https://web.archive.org/web/20230504051926/http://xion.org.pl/productions/texts/coding/megatutorial",
                            "title": "Megatutorial \"Od zera do gier kodera\"",
                            "author": "Karol Kuczmarski",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://mst.mimuw.edu.pl/wyklady/poc/wyklad.pdf",
@@ -23095,7 +23054,7 @@
                         {
                            "url": "https://web.archive.org/web/20220910115336/https://bonsaiden.github.io/JavaScript-Garden/pl",
                            "title": "JavaScript Garden",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://shebang.pl/kursy/wszystko-jasne/",
@@ -23221,7 +23180,7 @@
                            "url": "https://web.archive.org/web/20230329101049/http://pwlzo.pl/",
                            "title": "Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe",
                            "author": "Antoni Niederliński",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -23323,7 +23282,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.sqlpedia.pl/kurs-sql",
@@ -23464,7 +23423,7 @@
                                     "PDF",
                                     "CC BY-NC-SA"
                                  ],
-                                 "accessNotes": ":construction: em contínuo desenvolvimento"
+                                 "accessNotes": " :construction: em contínuo desenvolvimento"
                               }
                            ]
                         }
@@ -23863,7 +23822,7 @@
                            "url": "https://www.tsouanas.org/fmcbook/",
                            "title": "Matemática Fundacional para Computação - Em progresso",
                            "author": "Thanos Tsouanas",
-                           "accessNotes": ":construction: em contínuo desenvolvimento"
+                           "accessNotes": " :construction: em contínuo desenvolvimento"
                         },
                         {
                            "url": "https://www.ime.usp.br/~pf/livrinho-AA/",
@@ -24726,7 +24685,7 @@
                            "author": "Blau Araújo",
                            "notes": [
                               "PDF",
-                              ":construction: *in process*"
+                              " :construction: *in process*"
                            ]
                         },
                         {
@@ -24931,7 +24890,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -25133,7 +25092,7 @@
                                  "url": "http://networksciencebook.com",
                                  "title": "Наука о Сетях",
                                  "author": "Альберто Лазло-Барабаси",
-                                 "accessNotes": ":construction: в процессе написания"
+                                 "accessNotes": " :construction: в процессе написания"
                               },
                               {
                                  "url": "https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true",
@@ -25485,7 +25444,7 @@
                         {
                            "url": "https://web.archive.org/web/20210727024101/https://gobyexample.ru",
                            "title": "Go в примерах",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://pahanini.gitbooks.io/golang-for-php-developers/content/",
@@ -25963,7 +25922,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -26203,7 +26162,7 @@
                         {
                            "url": "https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html",
                            "title": "Вглубь языка Python",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://dfedorov.spb.ru/python3",
@@ -26286,7 +26245,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: в процессе написания"
+                                 "accessNotes": " :construction: в процессе написания"
                               }
                            ]
                         },
@@ -26395,7 +26354,7 @@
                                  "url": "https://web.archive.org/web/20181124010958/railstutorial.ru/chapters/4_0/beginning",
                                  "title": "Ruby on Rails Tutorial. Изучение Rails на Примерах",
                                  "author": "Майкл Хартл",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -26790,7 +26749,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               }
                            ]
                         }
@@ -26815,7 +26774,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -27080,7 +27039,7 @@
                               "PDF",
                               "CC BY-NC-ND"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF",
@@ -27199,7 +27158,7 @@
                            "url": "https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx",
                            "title": "Data Structures and Algorithms: Annotated Reference with Examples",
                            "author": "G. Barnett, L. Del Tongo",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1",
@@ -27302,7 +27261,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm",
@@ -27368,7 +27327,7 @@
                            "url": "https://aisafety.dance",
                            "title": "AI Safety for Fleshy Humans",
                            "author": "Nicky Case and Hack Club",
-                           "accessNotes": ":construction: in process",
+                           "accessNotes": " :construction: in process",
                            "notes": [
                               "CC BY-NC"
                            ]
@@ -27520,7 +27479,7 @@
                            "url": "https://web.archive.org/web/20220127020549/https://chain.courses/",
                            "title": "chain.courses",
                            "author": "James Gan, Rishub Kumar",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.ibm.com/downloads/cas/RYWXAR0M",
@@ -27652,7 +27611,7 @@
                            "url": "https://cloud4scieng.org/chapters/",
                            "title": "Cloud Computing for Science and Engineering",
                            "author": "Ian Foster, Dennis B. Gannon",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://docs.microsoft.com/en-us/azure/architecture/patterns/",
@@ -27773,7 +27732,7 @@
                            "url": "https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html",
                            "title": "An Introduction to GCC",
                            "author": "Brian Gough",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.diku.dk/~torbenm/Basics/",
@@ -27803,7 +27762,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf",
@@ -27812,7 +27771,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf",
@@ -28130,7 +28089,7 @@
                            "author": "Jiawei Han, Micheline Kamber, Jian Pei",
                            "notes": [
                               "PDF",
-                              ":card_file_box: archived"
+                              " :card_file_box: archived"
                            ]
                         },
                         {
@@ -28211,7 +28170,7 @@
                            "author": "Siva Athreya, Deepayan Sarkar, Steve Tanner",
                            "notes": [
                               "HTML",
-                              ":construction: *in process*"
+                              " :construction: *in process*"
                            ]
                         },
                         {
@@ -28445,7 +28404,7 @@
                            "url": "http://gabrielgambetta.com/computer-graphics-from-scratch",
                            "title": "Computer Graphics from scratch",
                            "author": "Gabriel Gambetta",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "http://user.xmission.com/~legalize/book/download/index.html",
@@ -28488,7 +28447,7 @@
                            "url": "https://www.scratchapixel.com",
                            "title": "Learn Computer Graphics From Scratch!",
                            "author": "Scratchapixel",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://learnopengl.com",
@@ -28499,7 +28458,7 @@
                            "url": "https://github.com/bwasty/learn-opengl-rs",
                            "title": "Learn OpenGL RS",
                            "author": "Benjamin Wasty, et al.",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html",
@@ -28508,7 +28467,7 @@
                            "notes": [
                               "draft"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://dokumen.tips/documents/computer-grafics-notes.html",
@@ -28642,7 +28601,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://danielmiessler.com/study/vim/",
@@ -28690,7 +28649,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://learnbyexample.github.io/vim_reference/",
@@ -28807,7 +28766,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://arxiv.org/abs/1904.05526",
@@ -29086,7 +29045,7 @@
                            "url": "https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart",
                            "title": "The Python Game Book",
                            "author": "Horst Jens",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.dezyre.com/article/top-10-machine-learning-algorithms/202",
@@ -29618,7 +29577,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.poritz.net/jonathan/share/ldlos.pdf",
@@ -30202,7 +30161,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.corral.tacc.utexas.edu/CompEdu/pdf/isp/EijkhoutIntroSciProgramming-book.pdf",
@@ -30481,7 +30440,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://linux-training.be/linuxnet.pdf",
@@ -30712,7 +30671,7 @@
                            "url": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
                            "title": "How to Make a Computer Operating System",
                            "author": "Samy Pesse",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://mikeos.sourceforge.net/write-your-own-os.html",
@@ -30752,7 +30711,7 @@
                            "author": "Tu, Ho Doang",
                            "notes": [
                               "PDF",
-                              ":construction: *in process*"
+                              " :construction: *in process*"
                            ]
                         },
                         {
@@ -30916,7 +30875,7 @@
                         {
                            "url": "https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details",
                            "title": "Clean Code Developer: An initiative for more professionalism in software development",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.red-gate.com/library/confessions-of-an-it-manager",
@@ -30966,7 +30925,7 @@
                            "url": "https://softwareconcepts.vercel.app",
                            "title": "Software Environment Concepts",
                            "author": "Amr Elmohamady",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://github.com/succeedinsoftware/book",
@@ -31080,7 +31039,7 @@
                            "notes": [
                               "PDF, HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://greenteapress.com/wp/think-complexity-2e/",
@@ -31348,7 +31307,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://unglue.it/work/141611/",
@@ -31424,7 +31383,7 @@
                            "author": "Svetlin Nakov",
                            "notes": [
                               "GitBook",
-                              ":construction: *in process*"
+                              " :construction: *in process*"
                            ]
                         },
                         {
@@ -31583,7 +31542,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/",
@@ -31811,7 +31770,7 @@
                            "url": "https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/",
                            "title": "Principles of Programming Languages",
                            "author": "Scott F. Smith",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.cse.chalmers.se/research/group/logic/book/",
@@ -31940,7 +31899,7 @@
                            "url": "https://web.archive.org/web/20170602211147/http://gitref.org/",
                            "title": "Git Reference",
                            "author": "The GitHub team",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.syncfusion.com/resources/techportal/ebooks/git",
@@ -31968,7 +31927,7 @@
                            "url": "https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book",
                            "title": "Git Workflows",
                            "author": "Yan Pritzker",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://happygitwithr.com",
@@ -32038,7 +31997,7 @@
                            "url": "https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index",
                            "title": "Ry's Git Tutorial",
                            "author": "Ryan Hodson",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf",
@@ -32081,7 +32040,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://hpbn.co",
@@ -32163,7 +32122,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -33060,12 +33019,12 @@
                                  "url": "https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html",
                                  "title": "Django",
                                  "author": "Python Dersleri",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/",
                                  "title": "Django Egitimi",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://tutorial.djangogirls.org/tr",
@@ -33074,7 +33033,7 @@
                                     "1.11",
                                     "HTML"
                                  ],
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               }
                            ]
                         }
@@ -33447,7 +33406,7 @@
                         {
                            "url": "https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml",
                            "title": "UNIX TOOLBOX",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -33503,7 +33462,7 @@
                         {
                            "url": "https://web.archive.org/web/20200415002735/https://es.xiaoleilu.com/",
                            "title": "Elasticsearch 权威指南（中文版）",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://kibana.logstash.es",
@@ -33950,7 +33909,7 @@
                         {
                            "url": "https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C&CPP/c/",
                            "title": "Linux C 编程一站式学习",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -33979,14 +33938,14 @@
                         {
                            "url": "https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c",
                            "title": "简单易懂的C魔法",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://hackmd.io/@lumynou5/CppTutorial-zh-tw",
                            "title": "現代 C++ 101",
                            "author": "Lumynous",
                            "notes": [
-                              ":construction: *in process*"
+                              " :construction: *in process*"
                            ]
                         },
                         {
@@ -34071,7 +34030,7 @@
                         {
                            "url": "https://web.archive.org/web/20200415002731/dart.lidian.info/wiki/Language_Tour",
                            "title": "Dart 语言导览",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -34228,7 +34187,7 @@
                         {
                            "url": "https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html",
                            "title": "Revel 框架手册",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://github.com/kevingo/the-little-go-book",
@@ -34438,7 +34397,7 @@
                            "url": "https://github.com/qibaoguang/Spring-Boot-Reference-Guide",
                            "title": "Spring Boot参考指南",
                            "notes": [
-                              ":construction: *翻译中*"
+                              " :construction: *翻译中*"
                            ]
                         },
                         {
@@ -34486,7 +34445,7 @@
                         {
                            "url": "https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html",
                            "title": "Google JavaScript 代码风格指南",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://javascript.ruanyifeng.com",
@@ -34542,7 +34501,7 @@
                                  "author": "Yan Qing, Hou Zhenyu, 速冻沙漠",
                                  "notes": [
                                     "HTML",
-                                    ":card_file_box: *archived*"
+                                    " :card_file_box: *archived*"
                                  ]
                               },
                               {
@@ -34572,7 +34531,7 @@
                               {
                                  "url": "https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/",
                                  "title": "Backbone.js中文文档",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         },
@@ -34624,7 +34583,7 @@
                               {
                                  "url": "https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery",
                                  "title": "简单易懂的JQuery魔法",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html",
@@ -34735,7 +34694,7 @@
                               {
                                  "url": "https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/",
                                  "title": "Zepto.js 中文文档",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -34871,7 +34830,7 @@
                         {
                            "url": "https://web.archive.org/web/20210624143822/https://codeigniter.org.tw/userguide3/",
                            "title": "CodeIgniter 使用手冊",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://docs.phpcomposer.com",
@@ -34880,7 +34839,7 @@
                         {
                            "url": "https://web.archive.org/web/20220330065727/myleftstudio.com/",
                            "title": "Phalcon7中文文档",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://wulijun.github.io/php-the-right-way/",
@@ -34939,7 +34898,7 @@
                               {
                                  "url": "https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html",
                                  "title": "Symfony 5 快速开发",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         },
@@ -34995,7 +34954,7 @@
                               "翻译",
                               "翻译"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.cnblogs.com/derek1184405959/p/8579428.html",
@@ -35062,7 +35021,7 @@
                            "url": "https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/",
                            "title": "Python之旅",
                            "author": "Ethan",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.osgeo.cn/tornado/",
@@ -35135,7 +35094,7 @@
                            "notes": [
                               "《Building 'Shiny' Applications with R》中文版"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf",
@@ -39892,7 +39851,7 @@
                            "title": "Data Structures and Algorithms‏",
                            "author": "Tarek Alabd‏",
                            "notes": [
-                              ":construction: *in process*‏"
+                              " :construction: *in process*‏"
                            ]
                         },
                         {
@@ -39920,7 +39879,7 @@
                            "title": "Problems Solving With C++ Level Two‏",
                            "author": "Elzero Web School‏",
                            "notes": [
-                              ":construction: *in process*‏"
+                              " :construction: *in process*‏"
                            ]
                         },
                         {
@@ -40162,7 +40121,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP",
                            "title": "Modern c++‎‏",
                            "author": "Moatasem El Sayed‏",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow",
@@ -40282,13 +40241,13 @@
                            "url": "https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w",
                            "title": "Cs50 In Arabic 2022 |‏ كورس cs50‏ بالعربي كامل",
                            "author": "Abdelrahman Gamal‏",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk6ssRA-8LzMpep1MrqocFiY",
                            "title": "Distributed Systems Design Patterns‏",
                            "author": "Mahmoud Youssef -‏ محمود يوسف",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -41254,7 +41213,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk5kALJAZKVAqjcJpG6ngsFq",
                            "title": "Building Microservices‏",
                            "author": "Mahmoud Youssef - ‏محمود يوسف",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLZd2bo_SbAm-LKJ_x_OuOZtuwEFqbJ5B7",
@@ -41744,7 +41703,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j",
                            "title": "Behavioral Design Patterns‏ بالعربى",
                            "author": "Mohammed Reda‏",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX",
@@ -41765,19 +41724,19 @@
                            "url": "https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM",
                            "title": "Design patterns‏",
                            "author": "Nehal Elsamoly‏",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR",
                            "title": "Design Patterns‏",
                            "author": "Passionate Coders | ‏محمد المهدي",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos",
                            "title": "Design Patterns -‏ بالعربي",
                            "author": "Omar Ahmed‏",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC",
@@ -41788,7 +41747,7 @@
                            "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug",
                            "title": "SOLID Principles‏",
                            "author": "Mahmoud Youssef -‏ محمود يوسف",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq",
@@ -41819,13 +41778,13 @@
                            "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy",
                            "title": "Tennis Game Refactoring Kata‏",
                            "author": "Mahmoud Youssef - ‏محمود يوسف",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLZafHDYyxnk5h31weDexEeNtchOgqR2ji",
                            "title": "Write Better Code With Refactoring‏",
                            "author": "Mahmoud Youssef - ‏محمود يوسف",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -43958,7 +43917,7 @@
                            "url": "https://course.dyalog.com",
                            "title": "APL Course",
                            "author": "Dyalog",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://aplwiki.com/wiki/APL_Cultivation",
@@ -44710,7 +44669,7 @@
                            "author": "Microsoft",
                            "notes": [
                               "edX",
-                              ":card_file_box: *archived*"
+                              " :card_file_box: *archived*"
                            ]
                         },
                         {
@@ -49264,7 +49223,7 @@
                            "title": "FindLectures.com",
                            "author": "Index of conference talks by language / topic",
                            "notes": [
-                              ":card_file_box: *archived*"
+                              " :card_file_box: *archived*"
                            ]
                         },
                         {
@@ -51140,7 +51099,7 @@
                            "url": "https://web.archive.org/web/20150213035325/http://channel9.msdn.com/Series/Windows-Phone-8-1-Development-for-Absolute-Beginners",
                            "title": "Windows Phone 8.1 Development for Absolute Beginners",
                            "author": "Bob Tabor, Matthias Shapiro, Larry Lieberman",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -51719,7 +51678,7 @@
                         {
                            "url": "https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949",
                            "title": "Compiladores e Intérpretes (2012)",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html",
@@ -51728,7 +51687,7 @@
                         {
                            "url": "https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180",
                            "title": "Procesadores de Lenguaje (2012)",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://campusvirtual.ull.es/ocw/course/view.php?id=45",
@@ -59025,7 +58984,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":construction: in process - 번역 진행 중"
+                           "accessNotes": " :construction: in process - 번역 진행 중"
                         },
                         {
                            "url": "https://www.boostcourse.org/ai214",
@@ -60560,7 +60519,7 @@
                         {
                            "url": "https://web.archive.org/web/20220326010054/http://programowaniejava.pl/edukacja/darmowe-szkolenia.html",
                            "title": "Darmowe kursy z Javy dla początkujących",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw",
@@ -60618,7 +60577,7 @@
                               {
                                  "url": "https://web.archive.org/web/20221004101108/https://frontandback.pl/tags/kurs-vue-w-praktyce/",
                                  "title": "FrontAndBack.pl - Kurs Vue w praktyce",
-                                 "accessNotes": ":card_file_box: archived"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -65130,7 +65089,7 @@
                         {
                            "url": "http://web.archive.org/web/20201026152235/https://sites.google.com/site/pythonukr/vstup",
                            "title": "Програмування на мові Python (3.x). Початковий курс",
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://ela.kpi.ua/handle/123456789/25111",
@@ -66489,7 +66448,7 @@
                            "url": "https://machinelearningcoban.com",
                            "title": "Machine learing cơ bản",
                            "author": "Vũ Hữu Tiệp",
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLsWjY--3QXFWE1Nk6erXuTSf3QLC161pm",
@@ -68080,7 +68039,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/",
@@ -68097,7 +68056,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://github.com/wsargent/docker-cheat-sheet",
@@ -68154,7 +68113,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://devhints.io/docker",
@@ -68273,7 +68232,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e",
@@ -68583,7 +68542,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://cheatography.com/gelicia/cheat-sheets/sublime-text-2-shortcuts-verbose-mac/",
@@ -68669,7 +68628,7 @@
                            "notes": [
                               "HTML"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -68684,7 +68643,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.geeksforgeeks.org/java-cheat-sheet",
@@ -69786,7 +69745,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":construction: in process"
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://secretdatascientist.com/tensor-flow-cheat-sheet/",
@@ -69803,7 +69762,7 @@
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": ":card_file_box: archived"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -70750,7 +70709,7 @@
                                  "url": "https://github.com/s-matyukevich/raspberry-pi-os",
                                  "title": "Learning operating system development using Linux kernel and Raspberry Pi",
                                  "author": "Sergey Matyukevich",
-                                 "accessNotes": ":construction: in process"
+                                 "accessNotes": " :construction: in process"
                               },
                               {
                                  "url": "https://linuxjourney.com",
