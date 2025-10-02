@@ -13815,6 +13815,11 @@
                            "accessNotes": "Leanpub account or valid email requested for EPUB or PDF"
                         },
                         {
+                           "url": "https://blasrodri.github.io/spaceship-go-gh-pages/",
+                           "title": "Spaceship Go - A Journey to the Standard Library",
+                           "author": "Blas Rodriguez Irizar"
+                        },
+                        {
                            "url": "http://tour.golang.org",
                            "title": "The Go Tutorial"
                         },
@@ -18120,14 +18125,6 @@
                      "section": "PHP",
                      "entries": [
                         {
-                           "url": "https://codeahoy.com/learn/php/toc/",
-                           "title": "An Introduction to the PHP Programming Language",
-                           "author": "CodeAhoy",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
                            "url": "https://github.com/jupeter/clean-code-php",
                            "title": "Clean Code PHP"
                         },
@@ -18197,20 +18194,8 @@
                            ]
                         },
                         {
-                           "url": "http://phpsec.org/projects/guide/",
-                           "title": "PHP Security Guide"
-                        },
-                        {
                            "url": "http://www.phptherightway.com",
                            "title": "PHP: The Right Way"
-                        },
-                        {
-                           "url": "https://phpunit.de/manual/current/en/phpunit-book.pdf",
-                           "title": "PHPUnit Manual",
-                           "author": "Sebastian Bergmann",
-                           "notes": [
-                              "PDF"
-                           ]
                         },
                         {
                            "url": "http://www.hackingwithphp.com",
@@ -24016,6 +24001,14 @@
                               "PDF",
                               "CC BY-SA"
                            ]
+                        },
+                        {
+                           "url": "https://educapes.capes.gov.br/bitstream/capes/747555/1/Internet%20das%20Coisas.pdf",
+                           "title": "Internet Das Coisas Uma Breve Introdução E Perspectivas Na Área Da Saúde",
+                           "author": "Adriana Camargo Ferrasi, et al.",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -27938,6 +27931,15 @@
                            ]
                         },
                         {
+                           "url": "https://openstax.org/details/books/introduction-computer-science",
+                           "title": "Introduction to Computer Science",
+                           "author": "Jean Claude Franchitti et al.",
+                           "notes": [
+                              "PDF, HTML",
+                              "CC BY"
+                           ]
+                        },
+                        {
                            "url": "https://scs.tl/book-pr",
                            "title": "Pull Requests and Code Review"
                         },
@@ -28715,11 +28717,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "https://rosenlaw.com/oslbook/",
-                           "title": "Open Source Licensing Software Freedom and Intellectual Property Law",
-                           "author": "Lawrence Rosen"
                         },
                         {
                            "url": "https://www.thepublicdomain.org/download/",
@@ -31499,6 +31496,15 @@
                            "url": "http://dslbook.org",
                            "title": "DSL Engineering: Designing, Implementing and Using Domain-Specific Languages",
                            "author": "Markus Voelter"
+                        },
+                        {
+                           "url": "https://e.saasbook.info",
+                           "title": "Engineering Software as a Service: An Agile Approach Using Cloud Computing",
+                           "author": "Armando Fox, David Patterson",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-ND"
+                           ]
                         },
                         {
                            "url": "http://knosof.co.uk/ESEUR",
@@ -38488,7 +38494,7 @@
                            ]
                         },
                         {
-                           "url": "https://devenv.pl/podcast",
+                           "url": "https://devenv.pl/podcast/",
                            "title": "Dev Env",
                            "author": "Adrian Piętka, Bartłomiej Michalski, Mateusz Konieczny",
                            "notes": [
@@ -38497,10 +38503,14 @@
                         },
                         {
                            "url": "https://devstyle.pl/category/podcast",
-                           "title": "DevTalk"
+                           "title": "DevTalk",
+                           "author": "Maciej Aniserowicz",
+                           "notes": [
+                              "podcast"
+                           ]
                         },
                         {
-                           "url": "https://piatkipodeployu.pl",
+                           "url": "https://www.youtube.com/playlist?list=PLLewE5KdsaqWFXAcVN1F4MUCuJxyt5I5E",
                            "title": "Piątki po deployu",
                            "author": "Mateusz Anioła, Miłosz Kusiciel",
                            "notes": [
@@ -38516,9 +38526,17 @@
                            ]
                         },
                         {
-                           "url": "https://anchor.fm/przeprogramowani",
+                           "url": "https://przeprogramowani.pl/podcast",
                            "title": "Przeprogramowani",
                            "author": "Przemek Smyrdek, Marcin Czarkowski",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://cloudowski.com/podcast/",
+                           "title": "Rozchmurzony",
+                           "author": "Tomasz Cholewa",
                            "notes": [
                               "podcast"
                            ]
@@ -44084,6 +44102,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLPedo-T7QiNsIji329HyTzbKBuCAHwNFC",
                            "title": "Assembly Language Programming",
                            "author": "Rasmurtech"
+                        },
+                        {
+                           "url": "https://alison.com/course/assembly-language-programming",
+                           "title": "Assembly Language Programming",
+                           "author": "Alison",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN",
@@ -59062,16 +59088,6 @@
                            "url": "http://ocw.kookmin.ac.kr/?course=15329",
                            "title": "운영체제",
                            "author": "이시윤"
-                        },
-                        {
-                           "url": "http://www.kocw.net/home/search/kemView.do?kemId=1194929",
-                           "title": "운영체제",
-                           "author": "최린"
-                        },
-                        {
-                           "url": "http://socw.skku.edu/Lectures/Regular/Detail.do",
-                           "title": "운영체제론",
-                           "author": "엄영익"
                         }
                      ],
                      "subsections": []
@@ -59232,24 +59248,9 @@
                            "author": "골드메달"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x",
-                           "title": "유니티 기초 벡서라이크 언데드서바이벌",
-                           "author": "골드메달"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLMsa_0kAjjrdcdM4RcpGni9OLv-xy8FiB",
                            "title": "유니티 초보 강의 + 실전 프로젝트",
                            "author": "나도코딩"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Unreal Engine",
-                     "entries": [
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL9kzervdzKxyIPMBHt26wkaAvCv6JkHQV",
-                           "title": "실전 게임 제작으로 배우는 언리얼엔진"
                         }
                      ],
                      "subsections": []
