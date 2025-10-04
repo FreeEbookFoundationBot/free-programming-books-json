@@ -24690,23 +24690,6 @@
                            ]
                         },
                         {
-                           "url": "https://blauaraujo.com/downloads/cipb-guia.pdf",
-                           "title": "Curso Intensivo de Programação do Bash - Guia de Estudos",
-                           "author": "Blau Araújo",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://blauaraujo.com/downloads/curso-shell-gnu.pdf",
-                           "title": "Curso Shell GNU",
-                           "author": "Blau Araújo",
-                           "notes": [
-                              "PDF",
-                              " :construction: *in process*"
-                           ]
-                        },
-                        {
                            "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
                            "title": "Introdução ao Shell Script",
                            "author": "Aurelio Marinho Jargas",
@@ -53504,6 +53487,11 @@
                                  "author": "ForMyScholars"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLPzfPcir5uPQ6LrB421cvMvcF3EcsGrr5",
+                                 "title": "Data Structures by Nargish Gupta",
+                                 "author": "NG Tutorials"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
                                  "title": "DSA-One Course- The Complete Data Structure and Algorithms Course",
                                  "author": "Anuj Bhaiya"
@@ -53928,6 +53916,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA",
                            "title": "ASP.NET Course 2023",
                            "author": "Coder Baba"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLp_RsiLZjwQS1FNXy0neuYgRGKNYPWpPk",
+                           "title": "ASP.NET Web Forms Tutorial",
+                           "author": "Programentor"
                         }
                      ],
                      "subsections": []
@@ -54031,6 +54024,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKqNsrDogCpHsul3UHMC0Wdq",
                            "title": "Cloud Computing",
                            "author": "Abdul Bari"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHRHVUtR-O52MsrdUSrzuy4",
+                           "title": "Cloud Computing (Complete Course)",
+                           "author": "Gate Smashers"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=lae0mfHBSjk",
@@ -54740,6 +54738,11 @@
                   {
                      "section": "Java",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr",
+                           "title": "Complete Java Programming Course 2025",
+                           "author": "Engineering Digest"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV",
                            "title": "Complete Java Programming in Hindi",
@@ -62203,6 +62206,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs",
                            "title": "Curso de Shell Scripting - Programação no Linux",
                            "author": "Bóson Treinamentos"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLXoSGejyuQGr53w4IzUzbPCqR4HPOHjAI",
+                           "title": "Curso intensivo de programação em Bash",
+                           "author": "debxp"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO",
