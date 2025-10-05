@@ -5355,13 +5355,20 @@
                      "section": "Lua",
                      "entries": [
                         {
-                           "url": "http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html",
-                           "title": "Introduction à la programmation Lua"
+                           "url": "https://web.archive.org/web/20240109085639/https://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html",
+                           "title": "Introduction à la programmation Lua",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/",
+                           "url": "https://wxlua.developpez.com/tutoriels/lua/general/cours-complet/",
                            "title": "Lua : le tutoriel",
-                           "author": "Claude Urban"
+                           "author": "Claude Urban,",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -5372,7 +5379,12 @@
                         {
                            "url": "https://mquandalle.gitbooks.io/apprendre-meteor/content/",
                            "title": "Apprendre Meteor",
-                           "author": "Maxime Quandalle"
+                           "author": "Maxime Quandalle",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ],
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -19067,6 +19079,14 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
+                           "url": "https://www.learnpythonwithjupyter.com/assets/book/learn_python_with_jupyter.pdf",
+                           "title": "Learn Python With Jupyter",
+                           "author": "Serena Bonaretti",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf",
                            "title": "Learn to Program Using Python",
                            "author": "Cody Jackson",
@@ -23865,6 +23885,11 @@
                      "section": "Git",
                      "entries": [
                         {
+                           "url": "https://github.com/badtuxx/DescomplicandoGit",
+                           "title": "Descomplicando Git",
+                           "author": "Linuxtips"
+                        },
+                        {
                            "url": "https://rogerdudler.github.io/git-guide/index.pt_BR.html",
                            "title": "Git - guia prático",
                            "author": "Roger Dudler",
@@ -27387,6 +27412,15 @@
                            ]
                         },
                         {
+                           "url": "https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton",
+                           "title": "Generative AI in Higher Education: The ChatGPT Effect",
+                           "author": "Cecilia Ka Yuk Chan, Tom Colloton",
+                           "notes": [
+                              "PDF",
+                              "CC BY"
+                           ]
+                        },
+                        {
                            "url": "https://www.ibm.com/downloads/cas/OJ6WX73V",
                            "title": "Getting Started with Artificial Intelligence , 2nd Edition",
                            "author": "Tom Markiewicz, Josh Zheng",
@@ -27412,6 +27446,14 @@
                            "url": "https://www.ibm.com/downloads/cas/GB8ZMQZ3",
                            "title": "Machine Learning For Dummies®, IBM Limited Edition",
                            "author": "Daniel Kirsch, Judith Hurwitz",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf",
+                           "title": "Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists",
+                           "author": "Data Science Horizons",
                            "notes": [
                               "PDF"
                            ]
@@ -31138,6 +31180,30 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book",
+                           "title": "LLM Prompt Engineering Simplified Book",
+                           "author": "Katikapalli Subramanyam Kalyan",
+                           "notes": [
+                              "GitHub"
+                           ]
+                        },
+                        {
+                           "url": "https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf",
+                           "title": "Prompt Engineering",
+                           "author": "Lee Boonstra",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://learnprompting.org/docs/introduction",
+                           "title": "Prompt Engineering Guide",
+                           "author": "LearnPrompting",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.promptingguide.ai",
                            "title": "Prompt Engineering Guide",
                            "author": "DAIR.AI",
@@ -31428,6 +31494,15 @@
                            "url": "https://leastauthority.com/community-matters/moonmath-manual/",
                            "title": "The MoonMath Manual to zk-SNARKs",
                            "author": "Least Authority"
+                        },
+                        {
+                           "url": "https://github.com/SELinuxProject/selinux-notebook",
+                           "title": "The SELinux Notebook",
+                           "author": "Richard Haines, Paul Moore, SELinux Community",
+                           "notes": [
+                              "HTML, PDF, EPUB, azw3",
+                              "GFDL"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -38160,6 +38235,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.mangocast.net",
+                           "title": "Mangocast",
+                           "author": "Luis Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://masalladelainnovacion.com/todos-los-podcasts/",
                            "title": "Más allá de la innovación",
                            "author": "Philippe Lardy, Rosa Cano, Jose Miguel Parella, Paco Estrada, Mónica del Valle, Beatriz Ferrolasa",
@@ -38827,6 +38910,13 @@
                      "section": "Language Agnostic",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLHlHvK2lnJneed8g24W1e0Zz9q1uvD7wg",
+                           "title": "Baltacast - Podcast do balta.io",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "http://castalio.info",
                            "title": "Castálio Podcast",
                            "notes": [
@@ -38836,6 +38926,13 @@
                         {
                            "url": "http://devnaestrada.com.br",
                            "title": "DevNaEstrada",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ",
+                           "title": "Experience Podcast - Curso em Vídeo",
                            "notes": [
                               "podcast"
                            ]
@@ -38871,6 +38968,13 @@
                         {
                            "url": "https://anchor.fm/osprogramadores",
                            "title": "OsProgramadores",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLylCwvNCtoanRxj-mOOyC9PnD5Yb2P1-j",
+                           "title": "Papinho Tech [Episódios Completos]",
                            "notes": [
                               "podcast"
                            ]
@@ -44114,7 +44218,42 @@
                            "author": "Stanford Online"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Generative AI",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8",
+                                 "title": "CS236: Deep Generative Models",
+                                 "author": "Stefano Ermon",
+                                 "notes": [
+                                    "Stanford Online"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B",
+                                 "title": "Deep Generative Models",
+                                 "author": "Volodymyr Kuleshov"
+                              },
+                              {
+                                 "url": "https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024",
+                                 "title": "Foundation Models and Generative AI",
+                                 "author": "Rickard Gabrielsson",
+                                 "notes": [
+                                    "MIT OpenCourseWare"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe",
+                                 "title": "Understanding Large Language Models — Foundations and Safety (CS 194/294-267)",
+                                 "author": "Responsible Decentralized Intelligence",
+                                 "notes": [
+                                    "UC Berkeley EECS"
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "Assembly",
@@ -45331,6 +45470,14 @@
                            "author": "Christopher Brooks",
                            "notes": [
                               "Coursera"
+                           ]
+                        },
+                        {
+                           "url": "https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python",
+                           "title": "Introduction to Data Science with python",
+                           "author": "Pavlos Protopapas",
+                           "notes": [
+                              "edX HarvardX"
                            ]
                         },
                         {
@@ -49094,6 +49241,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning",
+                           "title": "Machine Learning with Python: from Linear Models to Deep Learning",
+                           "author": "",
+                           "notes": [
+                              "edX MITx"
+                           ]
+                        },
+                        {
                            "url": "https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms",
                            "title": "Machine Learning with Python: Zero to GBMs",
                            "notes": [
@@ -50880,6 +51035,14 @@
                            "title": "Intro to Theoretical Computer Science",
                            "notes": [
                               "Udacity"
+                           ]
+                        },
+                        {
+                           "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020",
+                           "title": "Theory of Computation",
+                           "author": "Michael Sipser",
+                           "notes": [
+                              "MIT OpenCourseWare"
                            ]
                         },
                         {
@@ -52893,7 +53056,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ",
                            "title": "Algorithmie - Cours",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         }
                      ],
                      "subsections": []
@@ -52936,12 +53099,12 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j",
                            "title": "Apprendre le langage C",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ",
                            "title": "Apprendre le langage C - Exercices",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         },
                         {
                            "url": "https://zestedesavoir.com/tutoriels/755/le-langage-c-1/",
@@ -52967,7 +53130,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7",
                            "title": "C# - Cours",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         }
                      ],
                      "subsections": []
@@ -53048,12 +53211,12 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb",
                            "title": "HTML/CSS - Exercices",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL",
                            "title": "HTML/CSS - Tutoriels",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLWVp8WUGheSrGnmEWIMk9H6",
@@ -53084,7 +53247,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv",
                            "title": "Cours Java",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         }
                      ],
                      "subsections": []
@@ -53105,7 +53268,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_",
                            "title": "Cours JavaScript",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLWWXgsHpfCLHJ1Oq4YnE08e",
@@ -53178,7 +53341,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC",
                            "title": "Apprendre Python",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         }
                      ],
                      "subsections": []
@@ -53194,7 +53357,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc",
                            "title": "Apprendre PHP",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDv-ceONHM_C19dPW1MAMD",
@@ -53256,7 +53419,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg",
                            "title": "SQL - Cours",
-                           "author": "Formation Video"
+                           "author": "EvoluNoob"
                         }
                      ],
                      "subsections": []
@@ -54272,6 +54435,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10",
                            "title": "DevOps Tutorials in Hindi/Urdu | Devops सीखने का सबसे आसान तरीका | Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes",
                            "author": "Bhupinder Rajput, Technical Guftgu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLlfy9GnSVerQzwhT644uP14iqZa0ZC4pn",
+                           "title": "Free Terraform Course",
+                           "author": "TrainWithShubham"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC",
@@ -58012,6 +58180,11 @@
                      "section": "Java",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLoZNHBEyxFQHFkgxYwri50YEmbiRADl-O",
+                           "title": "Corso Base Spring Boot",
+                           "author": "Giovanni Pace"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA",
                            "title": "Corso di Java Spring Framework",
                            "author": "Mauro Cicolella"
@@ -61429,6 +61602,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLNCSWIsR6ADLpv3kir5rOX07nE3LXAPya",
+                           "title": "Curso Javacript do Zero",
+                           "author": "Fernanda Kipper"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=i6Oi-YtXnAU",
                            "title": "Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos",
                            "author": "Jhonatan de Souza"
@@ -62301,6 +62479,21 @@
                            "section": "Angular",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw",
+                                 "title": "Angular",
+                                 "author": "Matheus Battisti"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__",
+                                 "title": "Angular 17 - 2024",
+                                 "author": "Ralf Lima"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/live/OmkmeBOAg44",
+                                 "title": "Aprenda Angular Do Zero - primeiro passos",
+                                 "author": "Fernanda Kipper"
+                              },
+                              {
                                  "url": "https://balta.io/cursos/comecando-com-angular",
                                  "title": "Começando com Angular",
                                  "author": "Andre Baltieri",
@@ -62317,6 +62510,16 @@
                                  "url": "https://loiane.training/curso/angular/",
                                  "title": "Curso de Angular",
                                  "author": "Loiane Groner"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu",
+                                 "title": "Curso de Angular 17",
+                                 "author": "Code Dimension"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLhna1crYw0SOFqiss05ybqJCc6fvGn6BF",
+                                 "title": "Curso gratuito de Angular",
+                                 "author": "Café com Bug"
                               }
                            ]
                         }
