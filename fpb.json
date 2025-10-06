@@ -11984,7 +11984,7 @@
                            ]
                         },
                         {
-                           "url": "https://archive.org/download/let-us-c/LET%20US%20C.pdf",
+                           "url": "https://books.google.co.in/books?id=Ce6gAAAACAAJ&printsec=frontcover#v=onepage&q&f=false",
                            "title": "Let us C",
                            "author": "Yashavant Kanetkar",
                            "notes": [
@@ -12613,6 +12613,10 @@
                      "section": "Chapel",
                      "entries": [
                         {
+                           "url": "https://chapel-lang.org/docs/",
+                           "title": "Chapel Language Specification"
+                        },
+                        {
                            "url": "http://faculty.knox.edu/dbunde/teaching/chapel/",
                            "title": "Chapel Tutorial"
                         },
@@ -12923,6 +12927,10 @@
                         {
                            "url": "http://www.crystalforrubyists.com",
                            "title": "Crystal for Rubyists"
+                        },
+                        {
+                           "url": "https://crystal-lang.org/reference/",
+                           "title": "Crystal Programming Language Documentation"
                         }
                      ],
                      "subsections": []
@@ -18900,6 +18908,14 @@
                            "url": "https://www.programming-books.io/essential/python/",
                            "title": "Essential Python",
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                        },
+                        {
+                           "url": "https://lyz-code.github.io/blue-book/fastapi/",
+                           "title": "FastAPI — The Blue Book",
+                           "author": "Luis López",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.fullstackpython.com",
@@ -30019,6 +30035,14 @@
                            ]
                         },
                         {
+                           "url": "https://google.github.io/building-secure-and-reliable-systems/raw/toc.html",
+                           "title": "Build Secure & Reliable System - Best Practice for Designing, Implementing and Maintaining Systems",
+                           "author": "Heather Adkins, Betsy Beyer, Paul Plankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.wisdom.weizmann.ac.il/~playbook/",
                            "title": "Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts",
                            "author": "David Harel, Rami Marelly"
@@ -30344,6 +30368,14 @@
                            ]
                         },
                         {
+                           "url": "https://sre.google/sre-book/table-of-contents/",
+                           "title": "Site Reliability Engineering - How Google run production systems",
+                           "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://smallmemory.charlesweir.com/book.html",
                            "title": "Small Memory Software",
                            "author": "Charles Weir, James Noble",
@@ -30357,6 +30389,14 @@
                            "author": "James Gallagher",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://sre.google/workbook/table-of-contents/",
+                           "title": "The Site Reliability Workbook - Practical Ways to Implement SRE",
+                           "author": "Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -31494,6 +31534,15 @@
                            "url": "https://leastauthority.com/community-matters/moonmath-manual/",
                            "title": "The MoonMath Manual to zk-SNARKs",
                            "author": "Least Authority"
+                        },
+                        {
+                           "url": "https://github.com/mairin/selinux-coloring-book",
+                           "title": "The SELINUX Coloring Book",
+                           "author": "Daniel J Walsh, Máirín Duffy",
+                           "notes": [
+                              "PDF",
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://github.com/SELinuxProject/selinux-notebook",
@@ -44089,6 +44138,11 @@
                      "section": "Artificial Intelligence",
                      "entries": [
                         {
+                           "url": "https://huggingface.co/learn/agents-course/unit0/introduction",
+                           "title": "Agents Course",
+                           "author": "Hugging Face"
+                        },
+                        {
                            "url": "https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html",
                            "title": "AI Courses",
                            "author": "Intel Corporation"
@@ -44188,6 +44242,16 @@
                            "notes": [
                               "Coursera"
                            ]
+                        },
+                        {
+                           "url": "https://huggingface.co/learn/llm-course/chapter0/1",
+                           "title": "LLM Course",
+                           "author": "Hugging Face"
+                        },
+                        {
+                           "url": "https://huggingface.co/learn/mcp-course/unit0/introduction",
+                           "title": "MCP Course",
+                           "author": "Hugging Face"
                         },
                         {
                            "url": "https://deeplearning.mit.edu",
@@ -48459,6 +48523,14 @@
                                  "author": "The Net Ninja"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c",
+                                 "title": "React Native Mastery with 10 apps",
+                                 "author": "Hitesh Choudary",
+                                 "notes": [
+                                    "Youtube"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ",
                                  "title": "React Native Tutorial (2021)",
                                  "author": "Programming with Mash, MAhdi SHarifimehr"
@@ -49305,6 +49377,11 @@
                         {
                            "url": "https://www.coursera.org/learn/machine-learning",
                            "title": "Stanford University Machine Learning"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx",
+                           "title": "Statistics and Machine Learning in R",
+                           "author": "StatQuest by Josh Starmer"
                         },
                         {
                            "url": "https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/",
@@ -50296,6 +50373,19 @@
                                  "url": "https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL",
                                  "title": "Try Django 3.2 - Python Web Development Tutorial Series",
                                  "author": "Justin Mitchel, CodingEntrepreneurs"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "FastAPI",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/watch?v=7t2alSnE2-I",
+                                 "title": "FastAPI - A Python Framework | Full Course",
+                                 "author": "Bitfumes",
+                                 "notes": [
+                                    "YouTube"
+                                 ]
                               }
                            ]
                         },
@@ -54024,6 +54114,11 @@
                            "author": "College Wallah"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e",
+                           "title": "C Programming for Beginners",
+                           "author": "Programiz"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l",
                            "title": "C Programming Tutorials",
                            "author": "Vikas Pandey, easytuts4you"
@@ -54404,6 +54499,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU",
                            "title": "DBMS Placements Series 2022",
                            "author": "CodeHelp - by Babbar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbysebQ-yBd7ZHYGPMuFvvyD",
+                           "title": "MongoDB Tutorial Course for Beginners to Advanced in Hindi / Urdu",
+                           "author": "Yahu Baba"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw",
@@ -55995,6 +56095,11 @@
                                  "author": "Chai aur Code"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLtjl3y2jZEeVEROmLDT7sjziUR4gb4N5G",
+                                 "title": "Complete Django Tutorial in Hindi (Beginner to Advanced)",
+                                 "author": "Moh Technology, Mohshin Mansuri"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6",
                                  "title": "Django (Hindi)",
                                  "author": "Rajesh Kumar, Geeky Shows"
@@ -56013,11 +56118,6 @@
                                  "url": "https://www.youtube.com/playlist?list=PLgPJX9sVy92yWUMgLpWrXtegKxrWLRnRv",
                                  "title": "Django Tutorial for Beginners(Hindi)",
                                  "author": "Vijay Manral, CS Geeks"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6",
-                                 "title": "Django(Hindi)",
-                                 "author": "Rajesh Kumar, GeekyShows"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9",
@@ -58459,6 +58559,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh",
                                  "title": "Corso Git 2017",
                                  "author": "POuL Politecnico di Milano"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLoZNHBEyxFQFc2fn3raEjovUK_BLWS0kO",
+                                 "title": "Dominare GIT - La Guida Completa per Principianti e Professionisti",
+                                 "author": "Giovanni Pace"
                               }
                            ]
                         },
@@ -60108,6 +60213,11 @@
                            "url": "https://youtube.com/playlist?list=PLd_rdeTABMgQgZj2g9IyWqA2bnkHDUyof&feature=shared",
                            "title": "Python Tutorial Malayalam | Full videos Playlist",
                            "author": "Safeonnet"
+                        },
+                        {
+                           "url": "https://youtube.com/playlist?list=PL1pQFrHyimJTUk2w27AU1n3jzxJjycZFc&si=64k_-OQrN000-_I9",
+                           "title": "Python FastAPI Tutorial Malayalam",
+                           "author": "by Build From Zero"
                         }
                      ],
                      "subsections": [
@@ -61174,6 +61284,56 @@
                            "url": "https://www.youtube.com/watch?v=np_vyd7QlXk",
                            "title": "Curso de Docker para iniciantes - aprenda Docker em 1 hora",
                            "author": "Matheus Battisti"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLXzx948cNtr8N5zLNJNVYrvIG6hk0Kxl-",
+                           "title": "Curso de Introdução ao Docker",
+                           "author": "Insight Lab"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNCSWIsR6ADKRq-XBvAcRd4XtqLj3f_mf",
+                           "title": "Curso Gratuito de Docker",
+                           "author": "Fernanda Kipper"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR",
+                           "title": "Descomplicando o Docker",
+                           "author": "LINUXtips"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZfrXScDmaiNw3k2-TdfML9GhpsmOlhM3",
+                           "title": "Docker",
+                           "author": "Fabricio Veronez"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL5aY_NrL1rjsvaRqv_0HOFA_91lqJGRWe",
+                           "title": "Docker",
+                           "author": "Full Cycle"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZTjHbp2Y78013IcGa-vCAcqQUwGt_MW6",
+                           "title": "Docker",
+                           "author": "AlgaWorks"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZfrXScDmaiPb8hegiJTqKI8aDUJpo-IJ",
+                           "title": "Docker",
+                           "author": "Fabricio Veronez"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N",
+                           "title": "Docker Essencial: Primeiros Passos",
+                           "author": "TechEduca"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR8JXremim5BWiO-MCaAffQYwFZrD11-j",
+                           "title": "Docker na prática",
+                           "author": "Thiago Veigah"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPqoPgWuohm6eTyf2_yczUDN0wpHpsjf1",
+                           "title": "Minicurso Docker",
+                           "author": "Iago Ferreira TI - Aprenda Cloud e DevOps do ZERO"
                         }
                      ],
                      "subsections": []
@@ -61242,9 +61402,24 @@
                            "author": "Gustavo Guanabara"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ",
+                           "title": "Curso de Versionamento com Git",
+                           "author": "Angelo Luz"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHbGjxRVA_FmFRF1-OqWaWwqhIiS9Cg0w",
                            "title": "Curso Git e Github 2024",
                            "author": "Carlos Uchoa"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU",
+                           "title": "Curso gratuito Git e GitHub",
+                           "author": "Tiago Matos"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk",
+                           "title": "Git",
+                           "author": "Rocketseat"
                         },
                         {
                            "url": "https://www.udemy.com/course/git-e-github/",
@@ -61253,6 +61428,11 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg",
+                           "title": "Git e Github na Vida Real",
+                           "author": "Willian Justen"
                         },
                         {
                            "url": "https://www.udemy.com/git-e-github-para-iniciantes/",
@@ -61282,6 +61462,21 @@
                            "author": "NBK Mundo Tech"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg",
+                           "title": "Aprenda Go 🇧🇷",
+                           "author": "Aprenda Go"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLcF8UVYja9nacMX3sXbOV1Kqyc-GdaJTu",
+                           "title": "Aprendendo Go",
+                           "author": "Lais Lima"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLm-xZWCprwYSlEHjZDvhaq9izo3AVbiRO",
+                           "title": "Aprendendo GoLang",
+                           "author": "HunCoding"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI",
                            "title": "Curso de Introdução a Linguagem Go (Golang)",
                            "author": "EuProgramador"
@@ -61290,6 +61485,16 @@
                            "url": "https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9",
                            "title": "Curso Golang",
                            "author": "Universo Mainframe"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLm-xZWCprwYTEKad8bM1H0kxHxDMlzXeO",
+                           "title": "Estruturas de  Dados em GoLang (DSA in Go)",
+                           "author": "HunCoding"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLHPgIIn9ls69DRXLaYHu4pKYDB_8H_05i",
+                           "title": "Estruturas de Dados em Go",
+                           "author": "Tiago Temporin"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg",
@@ -61305,6 +61510,16 @@
                            "url": "https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg",
                            "title": "Golang do Zero",
                            "author": "Full Cycle"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ",
+                           "title": "Golang do Zero",
+                           "author": "Stephanie Cardoso"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLm-xZWCprwYQ3gyCxJ8TR1L2ZnUOPvOpr",
+                           "title": "Meu Primeiro CRUD em GoLang",
+                           "author": "HunCoding"
                         }
                      ],
                      "subsections": []
@@ -61435,6 +61650,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Inteligência Artificial",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S",
+                           "title": "Curso Grátis de Inteligência Artificial",
+                           "author": "Gustavo Guanabara",
+                           "notes": [
+                              "Curso em Vídeo"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Ionic",
                      "entries": [
                         {
@@ -61465,6 +61694,11 @@
                      "section": "Java",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi",
+                           "title": "Aulões Spring Boot",
+                           "author": "Giuliana Bezerra"
+                        },
+                        {
                            "url": "https://loiane.training/curso/java-basico",
                            "title": "Curso de Java Básico",
                            "author": "Loiane Groner"
@@ -61480,6 +61714,11 @@
                            "author": "Gustavo Guanabara"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb",
+                           "title": "Curso de Java, Spring COMPLETO e GRATUITO",
+                           "author": "Fernanda Kipper"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY",
                            "title": "Curso de Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado",
                            "author": "Gustavo Guanabara"
@@ -61488,6 +61727,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S",
                            "title": "Curso de Spring Boot - Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk",
                            "author": "Michelli Brito"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS3_4VvGYqcyTUI6xRasK_QF",
+                           "title": "Demos Spring",
+                           "author": "Giuliana Bezerra"
                         },
                         {
                            "url": "https://www.udemy.com/desenvolvedor-funcional-com-java-8/",
@@ -61519,6 +61763,16 @@
                            "author": "Loiane Groner"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLCUSYmPGwekcXnzf6_UtgRM0OsOEGoiG_",
+                           "title": "Estrutura de Dados com Java",
+                           "author": "Matheus Leandro Ferreira"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf",
+                           "title": "Fundamentos do Java para Iniciantes",
+                           "author": "Giuliana Bezerra"
+                        },
+                        {
                            "url": "https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/",
                            "title": "Introdução à Interfaces Gráficas em Java com o NetBeans",
                            "author": "Cezar Augusto Crummenauer",
@@ -61527,12 +61781,22 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLCUSYmPGwekfDhQHllAkUZ30vOsxhVfhM",
+                           "title": "Introdução a Programação Linguagem Java",
+                           "author": "Matheus Leandro Ferreira"
+                        },
+                        {
                            "url": "https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/",
-                           "title": "Introdução ao Java e Orientação a objetos",
+                           "title": "Introdução ao Java e Orientação a Objetos",
                            "author": "Helder Guimaraes Aragao",
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU",
+                           "title": "Java Avançado",
+                           "author": "Giuliana Bezerra"
                         },
                         {
                            "url": "https://www.udemy.com/java-se-polimorfismo/",
@@ -61541,6 +61805,21 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW",
+                           "title": "Maratona Java Virado no Jiraya",
+                           "author": "DevDojo"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL8iIphQOyG-Dp037UnFG0x8aduelvZZWE",
+                           "title": "MicroServices com Java Spring",
+                           "author": "Michelli Brito"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS2pgvdO2W7s6HEGhNojtk0F",
+                           "title": "Microsserviços",
+                           "author": "Giuliana Bezerra"
                         },
                         {
                            "url": "https://www.coursera.org/learn/orientacao-a-objetos-com-java",
@@ -61567,6 +61846,26 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLCUSYmPGwekfNNbgSBsepDqAk1fktpgpf",
+                           "title": "Programação Orientada a Objetos",
+                           "author": "Matheus Leandro Ferreira"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS0ENOAIL2NiqNNV0FmUKZH-",
+                           "title": "Spring Boot",
+                           "author": "Giuliana Bezerra"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL3HEMC6Di0YwaP7p4G2CVkU9pGtmr47--",
+                           "title": "Spring Boot",
+                           "author": "Daniele Leão"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3",
+                           "title": "Spring Cloud",
+                           "author": "Giuliana Bezerra"
+                        },
+                        {
                            "url": "https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes",
                            "title": "TDD – Desenvolvimento de software guiado por testes",
                            "author": "Eduardo Guerra e Clovis Fernandes - ITA",
@@ -61581,6 +61880,16 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze",
+                           "title": "Tutoriais Spring",
+                           "author": "Giuliana Bezerra"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiFLtuN04BS07Yw7rnoz1ytWCLu8yteVv",
+                           "title": "Tutoriais Spring Batch",
+                           "author": "Giuliana Bezerra"
                         }
                      ],
                      "subsections": []
@@ -61642,6 +61951,21 @@
                                  "author": "Canal Brainn Co."
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC",
+                                 "title": "Curso de React",
+                                 "author": "CFBCursos"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO",
+                                 "title": "Curso de React",
+                                 "author": "Matheus Battisti"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLx4x_zx8csUhxQHo-w0xAIMrmt8WgAowL",
+                                 "title": "Curso de React Next JS",
+                                 "author": "CFBCursos"
+                              },
+                              {
                                  "url": "https://www.cod3r.com.br/courses/curso-intensivo-next-react",
                                  "title": "Curso Intensivo de Next.js & React",
                                  "author": "Leonardo Leitão",
@@ -61651,8 +61975,18 @@
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V",
-                                 "title": "Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui",
+                                 "title": "Next.js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui",
                                  "author": "DeveloperDeck101"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLm-VCNNTu3LlQ3APFZeUn-9JztCM4_c28",
+                                 "title": "React & Node.js",
+                                 "author": "Felipe Rocha"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p",
+                                 "title": "ReactJS - Básico",
+                                 "author": "Ralf Lima"
                               }
                            ]
                         },
@@ -61951,6 +62285,14 @@
                            "url": "https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV",
                            "title": "Curso de CodeIgniter para iniciantes",
                            "author": "RBtech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_",
+                           "title": "Curso de PHP Moderno",
+                           "author": "Gustavo Guanabara",
+                           "notes": [
+                              "Curso em Vídeo"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k",
@@ -69664,6 +70006,19 @@
                            ]
                         },
                         {
+                           "section": "FastAPI",
+                           "entries": [
+                              {
+                                 "url": "https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf",
+                                 "title": "FastAPI Cheat Sheet",
+                                 "author": "CheatsheetsHero",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
                            "section": "Flask",
                            "entries": [
                               {
@@ -69693,6 +70048,19 @@
                                  "author": "Data Camp",
                                  "notes": [
                                     "HTML site with PDF links"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Matplotlib",
+                           "entries": [
+                              {
+                                 "url": "https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python",
+                                 "title": "Matplotlib Cheat Sheet: Plotting in Python",
+                                 "author": "Data Camp",
+                                 "notes": [
+                                    "HTML"
                                  ]
                               }
                            ]
