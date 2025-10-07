@@ -2273,6 +2273,15 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/bitstream/11419/6443/3/00_master_document-KOY.pdf",
+                           "title": "Προγραμματισμός με τη γλώσσα C++",
+                           "author": "Θεόδωρος Αλεβίζος",
+                           "notes": [
+                              "PDF",
+                              "CC BY-NC-SA"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -11248,7 +11257,8 @@
                            "title": ".NET Framework Notes for Professionals",
                            "author": "Compiled from StackOverflow Documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         }
                      ],
@@ -14902,7 +14912,8 @@
                            "title": "Introduction to Programming Using Java",
                            "author": "David J. Eck",
                            "notes": [
-                              "HTML, PDF, ePUB + exercises"
+                              "HTML, PDF, ePUB + exercises",
+                              "CC BY"
                            ]
                         },
                         {
@@ -15009,7 +15020,8 @@
                            "title": "Open Data Structures (in Java)",
                            "author": "Pat Morin",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY"
                            ]
                         },
                         {
@@ -15063,7 +15075,8 @@
                            "title": "Think Data Structures: Algorithms and Information Retrieval in Java",
                            "author": "Allen B. Downey",
                            "notes": [
-                              "PDF, HTML"
+                              "PDF, HTML",
+                              "CC"
                            ]
                         },
                         {
@@ -15071,7 +15084,8 @@
                            "title": "Think Java: How to Think Like a Computer Scientist, 2nd Edition",
                            "author": "Allen B. Downey, Chris Mayfield",
                            "notes": [
-                              "HTML, PDF"
+                              "HTML, PDF",
+                              "CC BY-NC-SA"
                            ],
                            "otherLinks": [
                               {
@@ -16770,7 +16784,7 @@
                            "author": "Wikibooks"
                         },
                         {
-                           "url": "https://mentorembedded.github.io/advancedlinuxprogramming/",
+                           "url": "https://sourcerytools.github.io/advancedlinuxprogramming/",
                            "title": "Advanced Linux Programming",
                            "notes": [
                               "PDF"
@@ -16827,6 +16841,15 @@
                            "author": "Ramesh Natarajan",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf",
+                           "title": "Linux Administration II : Linux as a Network Client",
+                           "author": "Anselm Lingnau,Tobias Elsner",
+                           "notes": [
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -18743,7 +18766,8 @@
                            "title": "A Byte of Python",
                            "notes": [
                               "3.x",
-                              "HTML, PDF, EPUB, Mobi"
+                              "HTML, PDF, EPUB, Mobi",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -18901,7 +18925,8 @@
                            "title": "Dive into Python 3",
                            "author": "Mark Pilgrim",
                            "notes": [
-                              "3.0"
+                              "3.0",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -19128,7 +19153,8 @@
                            "title": "Making Games with Python & Pygame",
                            "author": "Al Sweigart",
                            "notes": [
-                              "3.2"
+                              "3.2",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -19576,7 +19602,7 @@
                         {
                            "url": "https://inventwithpython.com/recursion/",
                            "title": "The Recursive Book of Recursion",
-                           "author": "Al Swigart",
+                           "author": "Al Sweigart",
                            "notes": [
                               "HTML",
                               "3.x"
@@ -21351,6 +21377,14 @@
                            "url": "https://www.programming-books.io/essential/sql",
                            "title": "Essential SQL",
                            "author": "Krzysztof Kowalczyk and  Stack Overflow Documentation project",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/",
+                           "title": "How to Design Structured Database Systems Using SQL",
+                           "author": "Daniel García Solla, freeCodeCamp",
                            "notes": [
                               "HTML"
                            ]
@@ -43508,16 +43542,16 @@
                            "title": "Hyperskill"
                         },
                         {
-                           "url": "https://www.iitbombayx.in",
-                           "title": "IITBombayX (IITBX)"
-                        },
-                        {
                            "url": "https://www.khanacademy.org",
                            "title": "Khan Academy"
                         },
                         {
                            "url": "https://labex.io",
                            "title": "LabEx"
+                        },
+                        {
+                           "url": "https://learning.sap.com",
+                           "title": "Learning SAP"
                         },
                         {
                            "url": "https://learnweb3.io",
@@ -43538,10 +43572,6 @@
                         {
                            "url": "https://open.hpi.de",
                            "title": "openHPI"
-                        },
-                        {
-                           "url": "https://open.sap.com",
-                           "title": "openSAP"
                         },
                         {
                            "url": "https://courses.platzi.com",
@@ -43765,14 +43795,6 @@
                            "title": "IIT Bombay Foundation of Data Structures (CS213.1x)"
                         },
                         {
-                           "url": "https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513",
-                           "title": "Intro to Data Structures and Algorithms",
-                           "author": "Brynn Claypoole, Horatio Thomas",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP",
                            "title": "JavaScript Algorithms and Data Structures",
                            "author": "Codevolution"
@@ -43880,13 +43902,6 @@
                      "section": "Android",
                      "entries": [
                         {
-                           "url": "https://www.udacity.com/course/advanced-android-app-development--ud855",
-                           "title": "Advanced Android App Development",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl",
                            "title": "Android App Development for Beginners Playlist",
                            "author": "Bucky Roberts",
@@ -43898,41 +43913,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLwhVruPHD9rz2MwQuYSenQ0WK1IGP5rYM",
                            "title": "Android App Development Tutorial for Beginners (2020) | Complete Guides and Courses",
                            "author": "tutorialsEU"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/android-basics-data-storage--ud845",
-                           "title": "Android Basics: Data Storage",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/android-basics-multiscreen-apps--ud839",
-                           "title": "Android Basics: Multiscreen Apps",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/android-basics-networking--ud843",
-                           "title": "Android Basics: Networking",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/android-basics-user-input--ud836",
-                           "title": "Android Basics: User Input",
-                           "notes": [
-                              "Udacity"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/android-basics-user-interface--ud834",
-                           "title": "Android Basics: User Interface",
-                           "notes": [
-                              "Udacity"
-                           ]
                         },
                         {
                            "url": "https://developer.android.com/courses/android-basics-compose/course",
@@ -44049,13 +44029,6 @@
                         {
                            "url": "https://material.io/guidelines/",
                            "title": "Material design"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/material-design-for-android-developers--ud862",
-                           "title": "Material Design for Android Developers",
-                           "notes": [
-                              "Udacity"
-                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED",
@@ -44568,6 +44541,11 @@
                            "url": "https://www.alchemy.com/university/courses/ethereum",
                            "title": "Ethereum Developer Bootcamp",
                            "author": "Alchemy University"
+                        },
+                        {
+                           "url": "https://learnweb3.io/courses/flow-course",
+                           "title": "Flow Course",
+                           "author": "LearnWeb3"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY",
@@ -45089,6 +45067,16 @@
                                  "author": "freeCodeCamp"
                               },
                               {
+                                 "url": "https://www.youtube.com/live/Pb25WCwFHGQ",
+                                 "title": "Azure Full Course",
+                                 "author": "Intellipaat"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=-pX5PjIYTJs",
+                                 "title": "Azure Fundamentals",
+                                 "author": "Tech Tutorial with Piyush"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM",
                                  "title": "Microsoft Azure Fundamentals",
                                  "author": "Adam Marczak"
@@ -45107,6 +45095,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL",
                                  "title": "Google Cloud Essentials",
                                  "author": "Google Cloud Tech"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=fZOz13joN0o",
+                                 "title": "Google Cloud Platform Full Course",
+                                 "author": "Scalar"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLBRBRV08tHh1e9oqTsONC5AuhFd-SUXWq",
@@ -45317,13 +45310,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK",
                            "title": "CUDA Tutorials",
                            "author": "Creel"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/intro-to-parallel-programming--cs344",
-                           "title": "Intro to Parallel Programming Using CUDA to Harness the Power of GPUs",
-                           "notes": [
-                              "Udacity"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -45511,11 +45497,6 @@
                         {
                            "url": "https://www.udacity.com/course/intro-to-data-analysis--ud170",
                            "title": "Intro to Data Analysis",
-                           "author": "Udacity"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
-                           "title": "Intro to Data Science",
                            "author": "Udacity"
                         },
                         {
@@ -45980,13 +45961,6 @@
                         {
                            "url": "http://deeplearning.stanford.edu/tutorial",
                            "title": "Unsupervised Feature Learning and Deep Learning"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/deep-learning--ud730",
-                           "title": "What is Deep Learning",
-                           "notes": [
-                              "Udacity"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -46018,14 +45992,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE",
                            "title": "DevOps Tutorial for Beginners",
                            "author": "Intellipaat"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/intro-to-devops--ud611",
-                           "title": "Intro to DevOps",
-                           "author": "Karl Krueger, Dwayne Lessner, Gundega Dekena",
-                           "notes": [
-                              "Udacity"
-                           ]
                         }
                      ],
                      "subsections": [
@@ -46338,14 +46304,6 @@
                            "url": "https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO",
                            "title": "Flutter State Management Course",
                            "author": "Vandad Nahavandipoor"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905",
-                           "title": "Flutter Tutorial",
-                           "author": "Matt Sullivan, James Williams, Mary Xia",
-                           "notes": [
-                              "Udacity"
-                           ]
                         },
                         {
                            "url": "https://www.udemy.com/course/learn-flutter-beginners-course",
@@ -46671,13 +46629,6 @@
                            "author": "Moshfegh Hamedani",
                            "notes": [
                               "Programming with Mosh"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/how-to-use-git-and-github--ud775",
-                           "title": "How to Use Git and GitHub",
-                           "notes": [
-                              "Udacity"
                            ]
                         },
                         {
@@ -47547,13 +47498,6 @@
                         {
                            "url": "https://www.coursera.org/course/algs4partI",
                            "title": "Princeton Algorithms, Part 1"
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/intro-to-java-programming--cs046",
-                           "title": "Problem Solving With Java",
-                           "notes": [
-                              "Udacity"
-                           ]
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=OuBUUkQfBYM",
@@ -48807,6 +48751,11 @@
                            "section": "Webpack",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/watch?v=MpGLUVbqoYQ",
+                                 "title": "Learn Webpack - Full Tutorial for Beginners",
+                                 "author": "freeCodeCamp"
+                              },
+                              {
                                  "url": "https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom",
                                  "title": "Learn Webpack Course",
                                  "author": "Colt Steele"
@@ -50051,13 +50000,6 @@
                            "author": "Duane Szafron, Paul Lu",
                            "notes": [
                               "Coursera"
-                           ]
-                        },
-                        {
-                           "url": "https://www.udacity.com/course/programming-foundations-with-python--ud036",
-                           "title": "Programming Foundations with Python",
-                           "notes": [
-                              "Udacity"
                            ]
                         },
                         {
@@ -52069,6 +52011,11 @@
                            "notes": [
                               "Píldoras informáticas"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNdFk2_brsRcrVO-C915sjog0WclPgxHb",
+                           "title": "Curso de Python",
+                           "author": "Brias Moure \"MoureDev\""
                         },
                         {
                            "url": "https://edutin.com/curso-de-python-4276",
@@ -54724,6 +54671,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdIVmcu5nfgE68jANQetnOX",
                            "title": "Git Complete Tutorials for Beginners in Hindi (A to Z)",
                            "author": "WsCube Tech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL6XT0grm_TfjgDZ_shvnNvxHu0SGeR2ge",
+                           "title": "Git Step-by-Step: Git Tutorials For Beginners  - In Hindi ",
+                           "author": "Gaurav Sharma"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=77b2lVHHZqI",
@@ -58190,6 +58142,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E",
                            "title": "Corso DevOps",
                            "author": "Michele Ferracin"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoZNHBEyxFQHOR8EiAD_tQnRAP49_Ev24",
+                           "title": "DevOps con GitHub Actions",
+                           "author": "Giovanni Pace"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e",
@@ -62218,6 +62175,11 @@
                            "author": "Victor Lima Guia do Programador"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLmY5AEiqDWwAY8AyeNy1zv-n4LEdGz1iE",
+                           "title": "Curso de Node.js",
+                           "author": "Celke"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh",
                            "title": "Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript",
                            "author": "Waldemar Neto Dev Lab"
@@ -62229,6 +62191,26 @@
                            "notes": [
                               "Teachable"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpdAy0tYrnKxtfd_aI9ZGmnHfZHveudsh",
+                           "title": "Minicurso de NodeJS",
+                           "author": "Hashtag Programação"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsFVybaG4mOARbjw1gfUKiYMYh3PsxDFp",
+                           "title": "Node",
+                           "author": "DevClub Programação"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLbIBj8vQhvm39CsidhA5SJBBu7-hPbuwy",
+                           "title": "NodeJS",
+                           "author": "Otávio Miranda"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDqnSpzNKDvkgJdaBT14ll07yXCbuMucM",
+                           "title": "NodeJS/Express",
+                           "author": "Angelo Luz"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF",
@@ -62383,9 +62365,49 @@
                            "author": "Bruno Ribas"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W",
+                           "title": "Como Computadores Funcionam?",
+                           "author": "Fabio Akita"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z",
+                           "title": "Conceitos de Programação",
+                           "author": "Fabio Akita"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=iF2MdbrTiBM",
                            "title": "Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática",
                            "author": "Jonathan de Souza"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsGmTzb4NxK2sGY3KqKmg1UTxNTcPPK1Z",
+                           "title": "Frontend para Iniciantes",
+                           "author": "LuizTools"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdsnXVqbHDUeowsAO0sChHDY4D65T5s1U",
+                           "title": "Inteligência Artificial",
+                           "author": "Fabio Akita"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki",
+                           "title": "Programação para Iniciantes",
+                           "author": "Fabio Akita"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm",
+                           "title": "Programação para Iniciantes",
+                           "author": "LuizTools"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLsGmTzb4NxK0DmRwEO4IBRjuCRyRZ8FnQ",
+                           "title": "Scrum para Iniciantes",
+                           "author": "LuizTools"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLdsnXVqbHDUd17xLINVEXhJ32RxbzCEWV",
+                           "title": "Sistemas Operacionais",
+                           "author": "Fabio Akita"
                         }
                      ],
                      "subsections": []
@@ -70009,6 +70031,14 @@
                            "section": "FastAPI",
                            "entries": [
                               {
+                                 "url": "https://github.com/Vasu-Devs/fastapi-cheatsheet",
+                                 "title": "FastAPI Cheat Sheet",
+                                 "author": "Vasudev Siddh",
+                                 "notes": [
+                                    "Markdown"
+                                 ]
+                              },
+                              {
                                  "url": "https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf",
                                  "title": "FastAPI Cheat Sheet",
                                  "author": "CheatsheetsHero",
@@ -71789,6 +71819,14 @@
                            "url": "https://www.w3schools.com/MySQL/",
                            "title": "MySQL Tutorial",
                            "author": "W3Schools"
+                        },
+                        {
+                           "url": "https://selectstarsql.com",
+                           "title": "Select Star SQL",
+                           "author": "Zi Chong Kao",
+                           "notes": [
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://www.codecademy.com/courses/learn-sql",
