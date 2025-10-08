@@ -2260,6 +2260,30 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/handle/11419/11683",
+                           "title": "Μια σύγχρονη προσέγγιση στη γλώσσα C",
+                           "author": "Αλέξανδρος Τζάλλας, Χρήστος Γκόγκος, Ιωάννης Τσούλος",
+                           "notes": [
+                              "PDF",
+                              "CC BY-NC-SA"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"csharp\">",
+                     "entries": [
+                        {
+                           "url": "https://repository.kallipos.gr/handle/11419/9349",
+                           "title": "Επίλυση προβλημάτων με τη γλώσσα C#",
+                           "author": "Νικόλαος Ζάχαρης",
+                           "notes": [
+                              "PDF",
+                              "CC BY-NC-SA"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -2359,6 +2383,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Matlab",
+                     "entries": [
+                        {
+                           "url": "https://repository.kallipos.gr/handle/11419/8671",
+                           "title": "Εισαγωγή στον προγραμματισμό",
+                           "notes": [
+                              "PDF",
+                              "CC BY-NC-SA"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Python",
                      "entries": [
                         {
@@ -2374,6 +2412,20 @@
                            "title": "Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python",
                            "notes": [
                               "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "R",
+                     "entries": [
+                        {
+                           "url": "https://repository.kallipos.gr/handle/11419/5699",
+                           "title": "Εισαγωγή στην Επιχειρησιακή Έρευνα και στον Γραμμικό Προγραμματισμό",
+                           "notes": [
+                              "EPUB, PDF",
+                              "CC BY-NC-SA"
                            ]
                         }
                      ],
@@ -5986,6 +6038,29 @@
                            "url": "https://www.learnhindituts.com/php",
                            "title": "PHP Tutorials In Hindi",
                            "author": "LearnHindiTuts.com"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "python",
+                     "entries": [
+                        {
+                           "url": "https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/",
+                           "title": "Python Notes | Hindi",
+                           "author": "Yugal Joshi",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :construction: in process"
+                        },
+                        {
+                           "url": "https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf",
+                           "title": "Python Tutorial in Hindi (Full Python Course) | Hindi",
+                           "author": "TutorialInHindi.com",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -16791,6 +16866,15 @@
                            ]
                         },
                         {
+                           "url": "https://www.tuxcademy.org/download/en/grd2/grd2-en-manual.pdf",
+                           "title": "Advanced Linux :The Linux Shell And Toolkit",
+                           "author": "Tobias Elsner, Anselm Lingnau",
+                           "notes": [
+                              "PDF",
+                              "CC BY-SA"
+                           ]
+                        },
+                        {
                            "url": "http://linuxcommand.org/lc3_adventures.php",
                            "title": "Adventures with the Linux Command Line",
                            "author": "William E. Shotts Jr."
@@ -20931,6 +21015,10 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/handsonscala/handsonscala",
+                           "title": "Hands-on Scala"
+                        },
+                        {
                            "url": "https://alvinalexander.com/photos/hello-scala-free-pdf-preview",
                            "title": "Hello, Scala",
                            "author": "Alvin Alexander",
@@ -21163,6 +21251,11 @@
                         {
                            "url": "http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/",
                            "title": "Introduction to Scilab"
+                        },
+                        {
+                           "url": "https://www.tutorialspoint.com/php/",
+                           "title": "PHP tutorial",
+                           "author": "Tutorialspoint"
                         },
                         {
                            "url": "http://forge.scilab.org/index.php/p/docprogscilab/downloads/",
@@ -23562,6 +23655,14 @@
                   {
                      "section": "Banco de Dados",
                      "entries": [
+                        {
+                           "url": "https://www.ime.usp.br/~jef/apostila.pdf",
+                           "title": "Introdução a Banco de Dados",
+                           "author": "Osvaldo Kotaro Takai, Isabel Cristina Italiano, João Eduardo Ferreira",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf",
                            "title": "Introdução a Banco de Dados",
@@ -45276,13 +45377,6 @@
                            "author": "NPTEL  Indian Institute of Science, Bengaluru"
                         },
                         {
-                           "url": "https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography",
-                           "title": "Introduction to Cryptography",
-                           "notes": [
-                              "Christof Paar"
-                           ]
-                        },
-                        {
                            "url": "https://www.coursera.org/course/crypto",
                            "title": "Stanford Cryptography I",
                            "author": "Dan Boneh"
@@ -53211,22 +53305,31 @@
                      "subsections": []
                   },
                   {
-                     "section": "HTML and CSS",
+                     "section": "HTML / CSS",
                      "entries": [
                         {
                            "url": "https://www.pierre-giraud.com/html-css-apprendre-coder-cours/",
                            "title": "Apprendre à coder en HTML et CSS | Cours complet (2020)",
-                           "author": "Pierre Giraud"
+                           "author": "Pierre Giraud",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.pierre-giraud.com/bootstrap-apprendre-cours/",
                            "title": "Apprendre à utiliser le framework Bootstrap | Cours complet (2020)",
-                           "author": "Pierre Giraud"
+                           "author": "Pierre Giraud",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.pierre-giraud.com/sass-apprendre-cours-complet/",
                            "title": "Apprendre à utiliser Sass | Cours Complet (2020)",
-                           "author": "Pierre Giraud"
+                           "author": "Pierre Giraud",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
@@ -53237,13 +53340,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj",
                            "title": "Découvrir CSS",
                            "author": "Grafikart"
-                        },
-                        {
-                           "url": "https://developer.mozilla.org/fr/",
-                           "title": "Documentation du MDN",
-                           "notes": [
-                              "MDN Mozilla"
-                           ]
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb",
@@ -53261,19 +53357,36 @@
                            "author": "Grafikart"
                         },
                         {
-                           "url": "http://fr.html.net/tutorials/css/",
-                           "title": "Tutoriel CSS",
-                           "author": ""
+                           "url": "https://developer.mozilla.org/fr/docs/Web",
+                           "title": "MDN Web Docs",
+                           "author": "Mozilla",
+                           "notes": [
+                              "HTML",
+                              "CC-BY-SA"
+                           ]
                         },
                         {
-                           "url": "http://fr.html.net/tutorials/html/",
+                           "url": "https://web.archive.org/web/20240807215319/http://fr.html.net/tutorials/css/",
+                           "title": "Tutoriel CSS",
+                           "author": "",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
+                        },
+                        {
+                           "url": "https://web.archive.org/web/20240910145639/http://fr.html.net/tutorials/html/",
                            "title": "Tutoriel HTML",
-                           "author": ""
+                           "author": "",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-",
                            "title": "TUTOS HTML et CSS",
-                           "author": "PrimFX"
+                           "author": "Boris 'PrimFX'"
                         }
                      ],
                      "subsections": []
@@ -54489,9 +54602,19 @@
                            "author": "TrainWithShubham"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL6XT0grm_Tfi21F8O0TvHmb78P2uEmhDq",
+                           "title": "Jenkins For Beginners In Hindi",
+                           "author": "Gaurav Sharma"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC",
                            "title": "Server Configuration, Deployment & VPS Tutorials For Beginners",
                            "author": "CodeWithHarry"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm",
+                           "title": "Terraform Tutorials For Beginners In Hindi",
+                           "author": "Gaurav Sharma"
                         }
                      ],
                      "subsections": []
@@ -62041,9 +62164,59 @@
                      "section": "Kubernetes",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL9wKVHxY5DoNy-D4errvry9sVktl9YNcA",
+                           "title": "Curso Completo de Kubernetes",
+                           "author": "Marcones Nunes"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnOICPAPShyTwuLit7vP6In9kETQ0BSnQ",
+                           "title": "Curso Completo de Kubernetes Para Devs",
+                           "author": "Lucas Santos"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs",
+                           "title": "Curso De Introdução ao Kubernetes",
+                           "author": "Insight Lab"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S",
+                           "title": "Descomplicando o Kubernetes",
+                           "author": "LinuxTips"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9wKVHxY5DoN9MfK7_iJcLDI75POJoRUL",
+                           "title": "Kubernetes",
+                           "author": "Marcones Nunes"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL18bbNo7xuh8pIU-odMSjd_r8TyD7_jb7",
+                           "title": "Kubernetes (K8s): Minicurso Gratuito",
+                           "author": "Erudito"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLAbYWcQD84aPfGZNaf8Pa35eGy_ywcR7V",
+                           "title": "Kubernetes Dicas e Truques Para O Dia A Dia",
+                           "author": "Canal dotNet"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZfrXScDmaiPF9EH1Uyh8kZdZ612h5eSz",
+                           "title": "Kubernetes Em Drops",
+                           "author": "Fabricio Veronez"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLf-O3X2-mxDm9d-RJSpjut6qDuGqRMsY2",
+                           "title": "Kubernetes Geral",
+                           "author": "LinuxTips"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel",
                            "title": "Maratona Kubernetes",
                            "author": "Microsoft Brasil"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLf-O3X2-mxDli3suNEnRquFyKYdrFLm3t",
+                           "title": "Mutirão Kubernetes",
+                           "author": "LinuxTips"
                         }
                      ],
                      "subsections": []
@@ -62455,6 +62628,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr",
+                           "title": "Curso de Python",
+                           "author": "Otávio Miranda"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
                            "title": "Curso de Python 3 - Mundo 1: Fundamentos",
                            "author": "Gustavo Guanabara",
@@ -62477,6 +62655,11 @@
                            "notes": [
                               "Curso em Vídeo"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLbIBj8vQhvm04EuddtleOAoEmfU9vwQlN",
+                           "title": "Curso de Type Hints no Python do Básico",
+                           "author": "Otávio Miranda"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0",
@@ -62564,6 +62747,21 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLbIBj8vQhvm28qR-yvWP3JELGelWxsxaI",
+                           "title": "Logging no Python",
+                           "author": "Otávio Miranda"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNrCFUZ3vPIKs41hveecygsm",
+                           "title": "Matemática com Python",
+                           "author": "Otávio Miranda"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNqj--UUSn16yfDp3xcZi40t",
+                           "title": "Orientação a Objetos",
+                           "author": "Otávio Miranda"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2",
                            "title": "Programação em Python",
                            "author": "Bóson Treinamentos"
@@ -62601,9 +62799,19 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLucm8g_ezqNp7ECP-fidzdgeVDufBTYDV",
+                           "title": "Python Com Bancos de Dados",
+                           "author": "Bóson Treinamentos"
+                        },
+                        {
                            "url": "https://www.datascienceacademy.com.br/course?courseid=python-fundamentos",
                            "title": "Python Fundamentos para Análise de Dados",
                            "author": "Data Science Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7",
+                           "title": "Python Orientado a Objetos Python POO",
+                           "author": "Otávio Miranda"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p",
@@ -62624,7 +62832,63 @@
                            "author": "Eduardo Mendes"
                         }
                      ],
-                     "subsections": []
+                     "subsections": [
+                        {
+                           "section": "Django",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C",
+                                 "title": "Curso de Django Aprenda a Desenvolver Aplicações Web Do Zero",
+                                 "author": "Jefferson Lobato"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLLVddSbilcunGg0IJ4zP05Z91yrEaIiQh",
+                                 "title": "Curso de Django To-Do-List",
+                                 "author": "Jefferson Lobato"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL3gEA6Xsr_el-1m_ew_kwPVGgDiG1nwY-",
+                                 "title": "Django",
+                                 "author": "Pythonando"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "FastAPI",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLJHVw_wMqnI-eX95g9U_W941l_yWsIDIL",
+                                 "title": "Criando uma API com FastAPI",
+                                 "author": "Anderson Rocha"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLOQgLBuj2-3KT9ZWvPmaGFQ0KjIez0403",
+                                 "title": "Curso de FastAPI 2025",
+                                 "author": "Eduardo Mendes"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLpdAy0tYrnKy3TvpCT-x7kGqMQ5grk1Xq",
+                                 "title": "Curso de FastAPI Rest API com Python ",
+                                 "author": "HashTag Programação"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP",
+                                 "title": "Curso de FastAPI Sincrono",
+                                 "author": "Eduardo Mendes"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Flask",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLyOx5V4KUjDf3-flamHYkJ2ygYmdRDdE9",
+                                 "title": "Flask",
+                                 "author": "Lan Code"
+                              }
+                           ]
+                        }
+                     ]
                   },
                   {
                      "section": "R",
@@ -62993,6 +63257,26 @@
                         {
                            "url": "https://www.electrofun.pt/blog/curso-raspberry-pi-1-introducao-indice/",
                            "title": "Curso Raspberry Pi"
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
+                  "code": "ro",
+                  "name": "Moldovan, Moldavian, Romanian"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://lectii.utm.md/courses/bazele-programarii-calculatoarelor/",
+                           "title": "Bazele programării calculatoarelor",
+                           "author": "Universitatea Tehnică a Moldovei"
                         }
                      ],
                      "subsections": []
@@ -65770,6 +66054,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL9fcHFJHtFaZ6DuInqORqFUaKiZO1XCmb",
                            "title": "Mobile App Development Tutorial Series using React Native in Urdu / Hindi",
                            "author": "Perfect Web Solutions‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFyjjoCMAPtxq8V9fuVmgsYKLNIKqSEV4",
+                           "title": "Flutter App Development Tutorial in Urdu / Hindi",
+                           "author": "The Tech Brothers‏"
                         }
                      ],
                      "subsections": []
@@ -71310,6 +71599,10 @@
                                  "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux",
                                  "title": "Front End Development Libraries: Redux",
                                  "author": "freeCodeCamp"
+                              },
+                              {
+                                 "url": "https://redux.js.org/introduction/getting-started",
+                                 "title": "Redux Official Documentation"
                               }
                            ]
                         },
@@ -71566,6 +71859,11 @@
                         {
                            "url": "https://www.postgresqltutorial.com",
                            "title": "PostgreSQL Tutorial"
+                        },
+                        {
+                           "url": "https://www.w3schools.com/postgresql/",
+                           "title": "PostgreSQL Tutorial",
+                           "author": "W3Schools"
                         }
                      ],
                      "subsections": []
