@@ -2397,6 +2397,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Prolog",
+                     "entries": [
+                        {
+                           "url": "https://repository.kallipos.gr/handle/11419/777",
+                           "title": "Τεχνικές Λογικού Προγραμματισμού",
+                           "notes": [
+                              "EPUB, PDF",
+                              "CC BY-NC-SA"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Python",
                      "entries": [
                         {
@@ -2423,6 +2437,14 @@
                         {
                            "url": "https://repository.kallipos.gr/handle/11419/5699",
                            "title": "Εισαγωγή στην Επιχειρησιακή Έρευνα και στον Γραμμικό Προγραμματισμό",
+                           "notes": [
+                              "EPUB, PDF",
+                              "CC BY-NC-SA"
+                           ]
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/handle/11419/2601",
+                           "title": "Εισαγωγή στον προγραμματισμό και στη στατιστική ανάλυση με R",
                            "notes": [
                               "EPUB, PDF",
                               "CC BY-NC-SA"
@@ -11496,7 +11518,7 @@
                            "section": "Non-X86",
                            "entries": [
                               {
-                                 "url": "http://www.avr-asm-download.de/beginner_en.pdf",
+                                 "url": "https://kitsandparts.com/tutorials/assemblers/BeginnersAVRasm.pdf",
                                  "title": "Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors",
                                  "author": "Gerhard Schmidt",
                                  "notes": [
@@ -11685,7 +11707,7 @@
                            "author": "Sundeep Agarwal"
                         },
                         {
-                           "url": "https://magpi.raspberrypi.org/books/command-line-second-edition/pdf/download",
+                           "url": "https://www.mclibre.org/descargar/docs/revistas/magpi-books/the-magpi-essentials-bash-02-en-201902.pdf",
                            "title": "Conquer the Command Line",
                            "author": "Richard Smedley",
                            "notes": [
@@ -12093,8 +12115,9 @@
                            ]
                         },
                         {
-                           "url": "http://www.planetpdf.com/codecuts/pdfs/ooc.pdf",
+                           "url": "https://www.cs.rit.edu/~ats/books/ooc.pdf",
                            "title": "Object-Oriented Programming With ANSI-C",
+                           "author": "Axel-Tobias Schreiner",
                            "notes": [
                               "PDF"
                            ]
@@ -15000,12 +15023,14 @@
                            ]
                         },
                         {
-                           "url": "https://petrucci.dev/java23.html",
+                           "url": "https://web.archive.org/web/20241213171851/https://petrucci.dev/java23.html",
                            "title": "Java 23 - Key Concepts in Brief",
                            "author": "Sergio Petrucci",
                            "notes": [
-                              "PDF"
-                           ]
+                              "PDF",
+                              "CC BY"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf",
@@ -21839,9 +21864,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/en/manual.xhtml",
+                           "url": "https://smlsharp.github.io/en/documents/4.0.0/manual.pdf",
                            "title": "SML# Document",
-                           "author": "Atsushi Ohori, Katsuhiro Ueno"
+                           "author": "Atsushi Ohori, Katsuhiro Ueno",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://sml-family.org/sml97-defn.pdf",
@@ -22163,9 +22191,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.cs.bu.edu/teaching/unix/reference/",
+                           "url": "https://www.uwyo.edu/data-science/_files/docs/unix.pdf",
                            "title": "UNIX Commands and Concepts",
-                           "author": "Robert I. Pitts"
+                           "author": "",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf",
@@ -22244,8 +22275,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html",
-                           "title": "VHDL Tutorial"
+                           "url": "http://www.pldworld.com/_hdl/2/-seas.upenn.edu/_ese201/vhdl/vhdl_primer.html",
+                           "title": "VHDL Tutorial",
+                           "author": "",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://esd.cs.ucr.edu/labs/tutorial/",
@@ -24247,6 +24282,14 @@
                            "url": "http://www.caelum.com.br/apostila-java-web/",
                            "title": "Java para Desenvolvimento Web",
                            "author": "Caelum"
+                        },
+                        {
+                           "url": "https://www.faeterj-rio.edu.br/downloads/bbv/0031.pdf",
+                           "title": "Programação em JAVA",
+                           "author": "Daniela Barreiro Claro, João Bosco Mangueira Sobral",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf",
@@ -27093,6 +27136,10 @@
                            "title": "Bitsavers.org"
                         },
                         {
+                           "url": "https://github.com/codecrafters-io/build-your-own-x",
+                           "title": "Build your own X"
+                        },
+                        {
                            "url": "https://codecatalog.org",
                            "title": "Code Catalog: A Collection of Code Examples from Prominent Open Source Projects"
                         },
@@ -27377,7 +27424,8 @@
                            "title": "Learning Algorithm",
                            "author": "Compiled from StackOverflow documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -29005,6 +29053,14 @@
                            ]
                         },
                         {
+                           "url": "https://link.springer.com/book/10.1007/978-3-030-05318-5",
+                           "title": "Automated Machine Learning - Methods, Systems, Challenges",
+                           "author": "Frank Hutter, Lars Kotthoff, Joaquin Vanschoren",
+                           "notes": [
+                              "PDF, EPUB"
+                           ]
+                        },
+                        {
                            "url": "http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage",
                            "title": "Bayesian Reasoning and Machine Learning"
                         },
@@ -30527,6 +30583,38 @@
                            ]
                         },
                         {
+                           "url": "https://theartofhpc.com/istc/index.html",
+                           "title": "The Art of High Perfomance Computing - Volume 1: The Science of Computing",
+                           "author": "Victor Eijkhout",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://theartofhpc.com/pcse/index.html",
+                           "title": "The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering",
+                           "author": "Victor Eijkhout",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf",
+                           "title": "The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming",
+                           "author": "Victor Eijkhout",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf",
+                           "title": "The Art of High Perfomance Computing - Volume 4: HPC Carpentry",
+                           "author": "Victor Eijkhout",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://sre.google/workbook/table-of-contents/",
                            "title": "The Site Reliability Workbook - Practical Ways to Implement SRE",
                            "author": "Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne",
@@ -31612,6 +31700,14 @@
                         {
                            "url": "https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf",
                            "title": "Intrusion Detection Systems with Snort",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.open.edu/openlearn/digital-computing/network-security/altformat-printable",
+                           "title": "Network Security",
+                           "author": "OpenLearn",
                            "notes": [
                               "PDF"
                            ]
@@ -38077,7 +38173,7 @@
                      "section": "Ciencia de Datos",
                      "entries": [
                         {
-                           "url": "https://bigdateame.com",
+                           "url": "https://open.spotify.com/show/0aikWOJmQMglEmbmbHqv4q",
                            "title": "BigDateame",
                            "author": "Iker Gómez García",
                            "notes": [
@@ -38154,7 +38250,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.danielprimo.io/podcast",
+                           "url": "https://www.webreactiva.com/podcast",
                            "title": "Web Reactiva",
                            "author": "Daniel Primo",
                            "notes": [
@@ -38191,10 +38287,10 @@
                      "section": "Juegos",
                      "entries": [
                         {
-                           "url": "https://aquelarreofgames.com.ar/podcast/",
+                           "url": "https://www.youtube.com/playlist?list=PLeUTAd8xaJJlW8xHQn000F2vg6OSQlH9i",
                            "title": "Aquelarre of Games",
                            "notes": [
-                              "podcast"
+                              "screencast"
                            ]
                         },
                         {
@@ -38276,7 +38372,8 @@
                            "author": "Juan José Meroño Sanchez, Alexandre Ballesté Crevillén",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Junio 2020"
                         }
                      ],
                      "subsections": []
@@ -38293,12 +38390,13 @@
                            ]
                         },
                         {
-                           "url": "https://compilando.audio",
+                           "url": "https://podcasts.apple.com/es/podcast/compilando-podcast/id1215384401",
                            "title": "Compilando Podcast",
                            "author": "Paco Estrada",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Septiembre 2023"
                         },
                         {
                            "url": "https://www.mangocast.net",
@@ -38352,7 +38450,8 @@
                            "author": "Víctor Velázquez, Mariana Ruiz",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Noviembre 2021"
                         },
                         {
                            "url": "https://anchor.fm/mimacom",
@@ -38368,7 +38467,8 @@
                            "author": "Bel Rey",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Marzo 2021"
                         },
                         {
                            "url": "https://educandogeek.github.io",
@@ -38376,7 +38476,8 @@
                            "author": "Juanjo Gurillo",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Diciembre 2021"
                         },
                         {
                            "url": "https://www.entredevyops.es",
@@ -38400,7 +38501,8 @@
                            "author": "Hector Trejo, Juan José Gutierrez, Óscar Miranda",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Marzo 2020"
                         },
                         {
                            "url": "https://www.ivoox.com/podcast-icharlas-podcast_sq_f155400_1.html",
@@ -38408,7 +38510,8 @@
                            "author": "Manuel Terrón, Philippe Rochette",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Enero 2020"
                         },
                         {
                            "url": "https://tecnologeria.com",
@@ -38432,7 +38535,8 @@
                            "author": "Philippe Lardy, Rosa Cano, Jose Miguel Parella, Paco Estrada, Mónica del Valle, Beatriz Ferrolasa",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Julio 2021"
                         },
                         {
                            "url": "https://mixx.io/podcasts",
@@ -38443,7 +38547,7 @@
                            ]
                         },
                         {
-                           "url": "https://podcast.carlosble.com",
+                           "url": "https://savvily.es/podcasts/ni-cero-ni-uno/",
                            "title": "Ni cero, ni uno - Habilidades esenciales en un mundo tecnológico",
                            "author": "Carlos Blé Jurado",
                            "notes": [
@@ -38456,7 +38560,8 @@
                            "author": "Diana Aceves, Félix López, Katia Aresti, Jorge Barrachina",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Octubre 2021"
                         },
                         {
                            "url": "https://www.ivoox.com/podcast-red-sospechosos-habituales_sq_f1564393_1.html",
@@ -38491,12 +38596,13 @@
                            ]
                         },
                         {
-                           "url": "https://webificando.com",
+                           "url": "https://podcasts.apple.com/co/podcast/webificando-el-podcast-de-side-projects/id1547290552",
                            "title": "Webificando - El podcast de side projects",
                            "author": "Abel Fernandez, Robert Menetray",
                            "notes": [
                               "podcast"
-                           ]
+                           ],
+                           "accessNotes": "Última Actualización: Junio 2021"
                         }
                      ],
                      "subsections": []
@@ -43496,6 +43602,14 @@
                         {
                            "url": "https://www.elementsofai.de",
                            "title": "Elements of AI"
+                        },
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/de",
+                           "title": "Generative AI für Anfänger .NET - Ein Kurs",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -44382,6 +44496,14 @@
                                  ]
                               },
                               {
+                                 "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
+                                 "title": "Generative AI for Beginners (.NET Edition)",
+                                 "author": "Microsoft",
+                                 "notes": [
+                                    "GitHub"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe",
                                  "title": "Understanding Large Language Models — Foundations and Safety (CS 194/294-267)",
                                  "author": "Responsible Decentralized Intelligence",
@@ -44875,6 +44997,11 @@
                   {
                      "section": "<a id=\"cpp\">",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+                           "title": "Algorithms",
+                           "author": "Abdul Bari"
+                        },
                         {
                            "url": "https://www.udemy.com/course/an-introduction-to-cpp-programming/",
                            "title": "An Introduction to C++ Programming",
@@ -53063,6 +53190,11 @@
                      "section": "Web Development",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLh9zdkDdmi81Cu_4HGlXoq2mvtyu7t8Fn",
+                           "title": "آموزش ‎0 تا ‎100 طراحی سایت با وردپرس",
+                           "author": "Ali Karbasi‏"
+                        },
+                        {
                            "url": "https://holosen.net/inspect-element-1/",
                            "title": "آموزش اینسپکت المنت",
                            "author": "Hossein Badrnezhad‏"
@@ -53300,6 +53432,20 @@
                            "url": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
                            "title": "Formation Git en vidéo, Cours Complet",
                            "author": "Grafikart"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Intelligence Artificielle",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/fr",
+                           "title": "Générative AI pour Débutants .NET - Un Cours",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -57205,6 +57351,11 @@
                            "author": "Nauval, Array Id"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F",
+                           "title": "Belajar Java Bahasa Indonesia (Dasar)",
+                           "author": "Kelas Terbuka"
+                        },
+                        {
                            "url": "https://alwaysngoding.com/belajar-javascript/teori",
                            "title": "Belajar JavaScript",
                            "author": "Muhammad Saleh Solahudin, Always Ngoding",
@@ -57216,6 +57367,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et",
                            "title": "Belajar JavaScript Async",
                            "author": "Eko Kurniawan Khannedy, Programmer Zaman Now"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZS-MHyEIRo6rAu3mYVNs2_y-fbJaOH5R",
+                           "title": "Belajar JavaScript Dasar",
+                           "author": "Kelas Terbuka"
                         },
                         {
                            "url": "https://app.sko.dev/kelas/belajar-javascript-untuk-website",
@@ -57875,6 +58031,11 @@
                            "accessNotes": "Dalam Proses"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E",
+                           "title": "Tutorial Belajar Machine Learning Dasar | Python Scikit-Learn",
+                           "author": "Indonesia Belajar"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5",
                            "title": "Tutorial Belajar Python Pandas",
                            "author": "Indonesia Belajar"
@@ -58445,6 +58606,17 @@
                      ]
                   },
                   {
+                     "section": "Julia",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL4GzWsD6ECaWvDCPuPB9OxdIye8IZXCuE",
+                           "title": "Corso di linguaggio Julia",
+                           "author": "Leonardo Boselli"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Machine Learning",
                      "entries": [
                         {
@@ -58523,6 +58695,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F",
                            "title": "Videocorso Pascal (Turbo e FPC)",
                            "author": "Fabrizio Camuso"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Php",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLP5MAKLy8lP_zqdyjNaPjh95NG40Op8he",
+                           "title": "Corso PHP Completo 2023",
+                           "author": "Edoardo Midali"
                         }
                      ],
                      "subsections": []
@@ -58764,6 +58947,20 @@
                            "author": "Grow with Google プログラム",
                            "notes": [
                               "Google/Scratch アカウントが*必要* ※必須ではない"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "人工知能",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ja",
+                           "title": "初心者向け 生成 AI .NET コース",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
                            ]
                         }
                      ],
@@ -60787,6 +60984,26 @@
             },
             {
                "language": {
+                  "code": "pa",
+                  "name": "Panjabi, Punjabi"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "C",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLV_K8gHBuQuL8KAMgJZtBaEWUhpHVDsc4",
+                           "title": "C ਪ੍ਰੋਗਰਾਮਿੰਗ ਪੰਜਾਬੀ ਵਿੱਚ,C Programming Language in Punjabi",
+                           "author": "CJ Singh"
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "pl",
                   "name": "Polish"
                },
@@ -62273,6 +62490,11 @@
                            "author": "Data ICMC"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLFE-LjWAAP9QEC8KhIBWxM_tquU8UmuYW",
+                           "title": "Curso de Machine Learning",
+                           "author": "Data ICMC"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB",
                            "title": "Curso Deep Learning",
                            "author": "Deep Learning Brasil"
@@ -63270,6 +63492,17 @@
                },
                "index": {},
                "sections": [
+                  {
+                     "section": "<a id=\"cpp\">",
+                     "entries": [
+                        {
+                           "url": "https://lectii.utm.md/courses/programarea-orientata-pe-obiecte/",
+                           "title": "Programarea Orientată pe Obiecte",
+                           "author": "Universitatea Tehnică a Moldovei"
+                        }
+                     ],
+                     "subsections": []
+                  },
                   {
                      "section": "Python",
                      "entries": [
@@ -64991,6 +65224,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLJSrGkRNEDAgmq4kKkPuh8aFJs-zxVbWK",
                            "title": "Data Structures",
                            "author": "Lab Mug"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9",
+                           "title": "Java + DSA Course From scratch in Telugu",
+                           "author": "engineering animuthyam"
                         }
                      ],
                      "subsections": []
