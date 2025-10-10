@@ -779,6 +779,11 @@
                ]
             },
             {
+               "language": {},
+               "index": {},
+               "sections": []
+            },
+            {
                "language": {
                   "code": "cs",
                   "name": "Czech"
@@ -2447,6 +2452,14 @@
                            "title": "Εισαγωγή στον προγραμματισμό και στη στατιστική ανάλυση με R",
                            "notes": [
                               "EPUB, PDF",
+                              "CC BY-NC-SA"
+                           ]
+                        },
+                        {
+                           "url": "https://repository.kallipos.gr/handle/11419/8588",
+                           "title": "Προγραμματισμός σε R",
+                           "notes": [
+                              "PDF",
                               "CC BY-NC-SA"
                            ]
                         }
@@ -5555,31 +5568,31 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "http://inforef.be/swi/python.htm",
+                           "url": "https://inforef.be/swi/python.htm",
                            "title": "Apprendre à programmer avec Python",
-                           "author": "Gerard Swinnen"
-                        },
-                        {
-                           "url": "https://self-learning.info.ucl.ac.be/index/info1-exercises",
-                           "title": "Introduction à la programmation",
+                           "author": "Gerard Swinnen,",
                            "notes": [
-                              "Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. "
+                              "HTML, PDF, EPUB, ODT",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
                            "url": "https://python-guide-fr.readthedocs.io/fr/latest/",
                            "title": "Le guide de l’auto-stoppeur pour Python!",
-                           "author": "Kenneth Reitz"
+                           "author": "Kenneth Reitz",
+                           "notes": [
+                              "HTML, PDF",
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G",
-                           "title": "Python Programming in French",
-                           "author": "Data Scientist Nigeria"
-                        },
-                        {
-                           "url": "https://perso.limsi.fr/pointal/python:courspython3",
+                           "url": "https://web.archive.org/web/20250204070442if_/https://perso.limsi.fr/pointal/python:courspython3",
                            "title": "Une introduction à Python 3",
-                           "author": "Bob Cordeau, Laurent Pointal"
+                           "author": "Bob Cordeau, Laurent Pointali",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": [
@@ -6681,6 +6694,14 @@
                      "section": "HTML and CSS",
                      "entries": [
                         {
+                           "url": "https://gilacoding.com/upload/file/Mahir-menguasai-CSS-Part%201.pdf",
+                           "title": "Cara Cepat dan Mudah Menguasai CSS Rule",
+                           "author": "Rudy Devianto",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/",
                            "title": "Ebook Belajar HTML Dan CSS Dasar"
                         },
@@ -6690,6 +6711,14 @@
                            "author": "Muhammad Danish Naufal",
                            "notes": [
                               "PDF, DOCX"
+                           ]
+                        },
+                        {
+                           "url": "https://gilacoding.com/upload/file/Mahir-menguasai-CSS-Part%202.pdf",
+                           "title": "Mahir Menguasai CSS - Tutorial & Praktek",
+                           "author": "Rudy Devianto",
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
@@ -17534,7 +17563,8 @@
                            "title": "Scientific Computing",
                            "author": "Jeffrey R. Chasnov",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY"
                            ]
                         }
                      ],
@@ -17553,7 +17583,10 @@
                         },
                         {
                            "url": "http://books.sonatype.com/mvnref-book/reference/public-book.html",
-                           "title": "Maven: The Complete Reference"
+                           "title": "Maven: The Complete Reference",
+                           "notes": [
+                              "CC BY-NC-ND"
+                           ]
                         },
                         {
                            "url": "http://books.sonatype.com/nexus-book/reference/",
@@ -18194,9 +18227,9 @@
                            "title": "Exploring Programming Language Architecture in Perl"
                         },
                         {
-                           "url": "http://www.extremeperl.org/bk/home",
+                           "url": "https://www.extremeperl.org",
                            "title": "Extreme Perl",
-                           "author": "R. Nagier",
+                           "author": "Robert Nagler",
                            "notes": [
                               "HTML, PDF"
                            ]
@@ -27813,7 +27846,11 @@
                         {
                            "url": "https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/",
                            "title": "Introduction to the Modeling and Analysis of Complex Systems",
-                           "author": "Hiroki Sayama"
+                           "author": "Hiroki Sayama",
+                           "notes": [
+                              "PDF",
+                              "CC BY-NC-SA"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -33089,6 +33126,14 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://avesis.kayseri.edu.tr/resume/lessonmaterieldownload/kayaalti?key=a9b67077-3132-489c-a460-53cb34d3afc3",
+                           "title": "Veri Yapıları Ders Notları",
+                           "author": "Aybars UGUR",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -33375,6 +33420,14 @@
                         {
                            "url": "http://www.belgeler.org/sag/sag.html",
                            "title": "Linux Sistem Yöneticisinin Kılavuzu"
+                        },
+                        {
+                           "url": "https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf",
+                           "title": "Linux Sistem Yönetimi",
+                           "author": "Linux Kullanıcıları Derneği, Burak DAYIOĞLU, Berk DEMİR",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -33490,6 +33543,20 @@
                            "url": "https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf",
                            "title": "Rust'a Giriş",
                            "author": "Mahmut Bulut",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"yapay-zeka\">",
+                     "entries": [
+                        {
+                           "url": "https://tr.d2l.ai/d2l-tr-pytorch.pdf",
+                           "title": "Derin Öğrenmeye Dalış",
+                           "author": "Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola",
                            "notes": [
                               "PDF"
                            ]
@@ -38623,6 +38690,14 @@
                            "url": "https://anchor.fm/codemy",
                            "title": "پادکست کافه برنامه نویس",
                            "author": "CafeCodemy‏",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://roocket.ir/podcast/",
+                           "title": "راکت کست",
+                           "author": "",
                            "notes": [
                               "podcast"
                            ]
@@ -44105,6 +44180,11 @@
                                  "author": "Computer Science and Engineering"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PL5cGuSxneHHd7X4ZbHs8DPbRnoiYixpBA",
+                                 "title": "Introduction To Soft Computing",
+                                 "author": "Introduction To Soft Computing - IITKGP"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PL_kjqgSKrEaA8RDh56AeTOrcGj-nMDkSS",
                                  "title": "Learn and Grow",
                                  "author": "Learn and Grow"
@@ -44501,6 +44581,14 @@
                                  "author": "Microsoft",
                                  "notes": [
                                     "GitHub"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development",
+                                 "title": "LangChain for LLM Application Development",
+                                 "author": "Harrison Chase, Andrew Ng",
+                                 "notes": [
+                                    "DeepLearning.AI"
                                  ]
                               },
                               {
@@ -50842,8 +50930,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm",
+                           "title": "PySpark - Zero to Hero | PySpark Tutorial 2025 | Spark Tutorial 2025 | Learn from Basics to Advanced Performance Optimization",
+                           "author": "Ease With Data"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=zC9cnh8rJd0",
-                           "title": "Spark Tutorial | Spark Tutorial for Beginners | Apache Spark Full Course - Learn Apache Spark 2020"
+                           "title": "Spark Tutorial | Spark Tutorial for Beginners | Apache Spark Full Course - Learn Apache Spark 2020",
+                           "author": "Great Learning"
                         }
                      ],
                      "subsections": []
@@ -53638,6 +53732,20 @@
                            "url": "https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC",
                            "title": "Apprendre Python",
                            "author": "EvoluNoob"
+                        },
+                        {
+                           "url": "https://self-learning.info.ucl.ac.be/index/info1-exercises",
+                           "title": "Introduction à la programmation",
+                           "author": "Tanguy De Bels, Kim Mens, Siegfried Nijssen, Charles Pecheur",
+                           "notes": [
+                              "HTML",
+                              "CC BY-SA"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G",
+                           "title": "Python Programming in French",
+                           "author": "Data Science Nigeria"
                         }
                      ],
                      "subsections": []
@@ -54186,6 +54294,11 @@
                            "author": "CodeWithHarry"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty",
+                           "title": "LangChain",
+                           "author": "Krish Naik Hindi"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA",
                            "title": "Playlist to Artificial Intelligence ",
                            "author": "Perfect Computer Engineer"
@@ -54228,6 +54341,11 @@
                            "author": "Noob Coders"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD",
+                           "title": "Bash Scripting | Complete Course In Hindi",
+                           "author": "ENCODERSPRO"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO",
                            "title": "Bash Scripting tutorial",
                            "author": "Fortify Solutions"
@@ -54241,6 +54359,16 @@
                            "url": "https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL",
                            "title": "shell scripting complete tutorial in hindi",
                            "author": "Cybersploit"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr",
+                           "title": "Shell Scripting Linux Beginners to Advanced in Hindi | Shell Scripting Tutorials for Beginner to Advanced in Hindi",
+                           "author": "Cloud Tech Burner"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd",
+                           "title": "SHELL SCRIPTING Tutorial For Beginners",
+                           "author": "M Prashant"
                         }
                      ],
                      "subsections": []
@@ -54370,6 +54498,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL",
                            "title": "ASP .Net in Hindi",
                            "author": "ComputerHindiNotes"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLx8RMTm-T9mq86-hvog8fHjJS1pBsPurS",
+                           "title": "ASP.NET C# Web Form Tutorial In Hindi",
+                           "author": "IT Tech Hindi Hub World"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB",
@@ -60544,9 +60677,9 @@
                            "author": "RootSaid - Robotics, Technology & Cyber Security"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI",
-                           "title": "Security Fundamentals",
-                           "author": "Cyber Security Malayalam"
+                           "url": "https://www.youtube.com/playlist?list=PLLPuX9XQz1lU_ZNcTWcMn9CZOhgT6yjyZ",
+                           "title": "Ethical Hacking",
+                           "author": "Scratch Media"
                         }
                      ],
                      "subsections": []
@@ -63495,6 +63628,11 @@
                   {
                      "section": "<a id=\"cpp\">",
                      "entries": [
+                        {
+                           "url": "https://lectii.utm.md/courses/programarea-calculatoarelor/",
+                           "title": "Programarea calculatoarelor",
+                           "author": "Universitatea Tehnică a Moldovei"
+                        },
                         {
                            "url": "https://lectii.utm.md/courses/programarea-orientata-pe-obiecte/",
                            "title": "Programarea Orientată pe Obiecte",
@@ -71008,6 +71146,14 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/SAYOUNCDR/TS-CheatSheet",
+                           "title": "TypeScript Cheatsheet",
+                           "author": "Sayoun Parui",
+                           "notes": [
+                              "Markdown"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -73777,6 +73923,11 @@
                         {
                            "url": "https://atcoder.jp",
                            "title": "AtCoder"
+                        },
+                        {
+                           "url": "https://atcoder.jp/contests/dp",
+                           "title": "Atcoder DP Contest",
+                           "author": "Atcoder"
                         },
                         {
                            "url": "https://www.beecrowd.com.br",
