@@ -11475,14 +11475,18 @@
                         {
                            "url": "http://pacman128.github.io/pcasm/",
                            "title": "PC Assembly Language",
-                           "author": "P. A. Carter"
+                           "author": "P. A. Carter",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf",
                            "title": "Programming from the Ground Up",
                            "author": "Jonathan Bartlett",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "GFDL"
                            ]
                         },
                         {
@@ -11528,7 +11532,8 @@
                            "title": "x86-64 Assembly Language Programming with Ubuntu",
                            "author": "Ed Jorgensen",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -18005,6 +18010,14 @@
                            "author": "Michael R. Clarkson"
                         },
                         {
+                           "url": "https://usr.lmf.cnrs.fr/lpo/lpo.pdf",
+                           "title": "Learn Programming with OCaml: Algorithms and Data Structures",
+                           "author": "Sylvain Conchon, Jean-Christophe Filliâtre - trl.: Urmila Nair",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://ocamlbook.org",
                            "title": "OCaml From the Ground Up",
                            "author": "Daniil Baturin",
@@ -18947,11 +18960,11 @@
                            ]
                         },
                         {
-                           "url": "https://automatetheboringstuff.com/2e/chapter0/",
-                           "title": "Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners",
+                           "url": "https://automatetheboringstuff.com/3e/",
+                           "title": "Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners",
                            "author": "Al Sweigart",
                            "notes": [
-                              "3.8"
+                              "HTML"
                            ]
                         },
                         {
@@ -28449,6 +28462,15 @@
                            "author": "Jeffrey Stanton"
                         },
                         {
+                           "url": "https://juliadatascience.io",
+                           "title": "Julia Data Science",
+                           "author": "Jose Storopoli, Rik Huijzer, Lazaro Alonso",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA 4.0"
+                           ]
+                        },
+                        {
                            "url": "http://infolab.stanford.edu/~ullman/mmds/book.pdf",
                            "title": "Mining of Massive Datasets",
                            "author": "Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman",
@@ -32950,6 +32972,28 @@
                            "url": "https://www.computerintelugu.com/2012/11/cmenu.html",
                            "title": "Introduction to C | Telugu",
                            "author": "Sivanaadh Baazi Karampudi"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"java\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy",
+                           "title": "Core Java in Telugu | Java Programming",
+                           "author": "H Y R Tutorials"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"mern\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2Kd-KQLppEFbfdJHywOu6b_GAjn3LxE1",
+                           "title": "Web Development Full Course in Telugu (MERN)",
+                           "author": "Dodagatta Nihar"
                         }
                      ],
                      "subsections": []
@@ -44584,12 +44628,30 @@
                                  ]
                               },
                               {
+                                 "url": "https://learn.activeloop.ai/courses/langchain",
+                                 "title": "LangChain & Vector Databases in Production",
+                                 "author": "Activeloop",
+                                 "accessNotes": "account required"
+                              },
+                              {
                                  "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development",
                                  "title": "LangChain for LLM Application Development",
                                  "author": "Harrison Chase, Andrew Ng",
                                  "notes": [
                                     "DeepLearning.AI"
                                  ]
+                              },
+                              {
+                                 "url": "https://learn.activeloop.ai/courses/rag",
+                                 "title": "Retrieval Augmented Generation for Production with LangChain & LlamaIndex",
+                                 "author": "Activeloop",
+                                 "accessNotes": "account required"
+                              },
+                              {
+                                 "url": "https://learn.activeloop.ai/courses/llms",
+                                 "title": "Training & Fine-Tuning LLMs for Production",
+                                 "author": "Activeloop",
+                                 "accessNotes": "account required"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe",
@@ -48256,6 +48318,11 @@
                      "section": "Astro",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLMZnTut8a7icI97DDc2izk6nOoNlHyXgw",
+                           "title": "Astro",
+                           "author": "Stefan Rows"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF",
                            "title": "Astro Blog Course",
                            "author": "Coding in Public"
@@ -48320,6 +48387,11 @@
                                  "author": "coderJeet"
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=fP-371MN0Ck",
+                                 "title": "Electron Course - Code Desktop Applications (inc. React and Typescript)",
+                                 "author": "freeCodeCamp.org"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW",
                                  "title": "Electron js Tutorials",
                                  "author": "Codevolution"
@@ -48371,9 +48443,19 @@
                      "section": "Nest.js",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2",
+                           "title": "Comprehensive Nest JS Course: From Beginner to Expert",
+                           "author": "procademy"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=sFnAHC9lLaw",
                            "title": "Learn NestJS – Complete Course",
                            "author": "freeCodeCamp"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr",
+                           "title": "Nest JS Advanced Course [Latest]",
+                           "author": "Code with tkssharma"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr",
@@ -48384,6 +48466,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB",
                            "title": "NestJs",
                            "author": "Marius Espejo"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR",
+                           "title": "NestJS Full Course 2024",
+                           "author": "Sakura Dev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr",
+                           "title": "NestJS Tutorials for Beginners",
+                           "author": "Dave Gray"
                         }
                      ],
                      "subsections": [
@@ -48700,6 +48792,11 @@
                                  "author": "The Net Ninja"
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+                                 "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+                                 "author": "SuperSimpleDev"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC",
                                  "title": "React Tutorials",
                                  "author": "freeCodeCamp"
@@ -48818,6 +48915,21 @@
                            ]
                         },
                         {
+                           "section": "Remix",
+                           "entries": [
+                              {
+                                 "url": "https://www.youtube.com/watch?v=5yIivwrvH6w",
+                                 "title": "Remix and Strapi Crash Course – Full Stack Development",
+                                 "author": "freeCodeCamp.org"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/live/hsIWJpuxNj0",
+                                 "title": "Remix Tutorial with Kent",
+                                 "author": "Remix"
+                              }
+                           ]
+                        },
+                        {
                            "section": "Svelte",
                            "entries": [
                               {
@@ -48885,6 +48997,14 @@
                         {
                            "section": "Three.js",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/watch?v=tPkJLnDqAKk",
+                                 "title": "JavaScript Tutorial with Three.js - 5 Projects for Beginners",
+                                 "author": "Bobby Roe",
+                                 "notes": [
+                                    "freeCodeCamp"
+                                 ]
+                              },
                               {
                                  "url": "https://www.youtube.com/watch?v=rxTb9ys834w",
                                  "title": "Three.js Advanced Tutorial",
@@ -49627,6 +49747,11 @@
                            "url": "https://pytorch.org/tutorials",
                            "title": "PyTorch tutorials",
                            "author": "PyTorch.org"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk",
+                           "title": "Random Forests",
+                           "author": "StatQuest by Josh Starmer"
                         },
                         {
                            "url": "https://see.stanford.edu/Course/CS229",
@@ -52107,6 +52232,20 @@
                            "author": "Justin Mitchel, Karlita K",
                            "notes": [
                               "Udemy"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Inteligencia Artificial",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es",
+                           "title": "Generative AI para Principiantes .NET - Un Curso",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
                            ]
                         }
                      ],
@@ -55458,6 +55597,11 @@
                      "section": "Spring Boot",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLX1XVaZeuvXfDHGqgYF6WBZsBjpA-hCCa",
+                           "title": "Spring Boot complete course in Hindi",
+                           "author": "Bits And Bytes"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC",
                            "title": "Spring Boot In Hindi",
                            "author": "ekumeed help"
@@ -57307,6 +57451,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLZS-MHyEIRo5iBPtg3ovrj25C1Wsu4O3I",
+                           "title": "Belajar CSS Layout",
+                           "author": "Kelas Terbuka"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k",
                            "title": "Belajar FLEXBOX",
                            "author": "Web Programming UNPAS"
@@ -58697,6 +58846,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLhlcRDRHVUzTruZmXalUSJAK26pouP8ST",
                            "title": "Programmazione ad Oggetti - Java",
                            "author": "Nicola Bicocchi"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoZNHBEyxFQGdNvr_5mMikHxuv2YHPjDz",
+                           "title": "Spring Boot su Docker",
+                           "author": "Giovanni Pace"
                         }
                      ],
                      "subsections": []
@@ -59562,6 +59716,20 @@
                            "url": "https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe",
                            "title": "Flutter 중급",
                            "author": "오준석의 생존코딩"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Generative AI",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ko",
+                           "title": "초보자를 위한 Generative AI .NET - 강좌",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -62088,6 +62256,14 @@
                            "author": "Gustavo Guanabara",
                            "notes": [
                               "Curso em Vídeo"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/pt",
+                           "title": "IA Generativa para Iniciantes .NET - Um Curso",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
                            ]
                         }
                      ],
@@ -66440,12 +66616,22 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"c\">",
+                     "section": "C",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL0yiR-15Ytq8ro6SA-0JWkdyihxxVc_cB",
+                           "title": "C Language Tutorials (Urdu/Hindi)",
+                           "author": "AssadUllahCh"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa",
                            "title": "C language tutorial for beginners Urdu/Hindi",
-                           "author": "Fahad Hussain‏"
+                           "author": "Fahad Hussain"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLezGSay-CjmxobCUsJnIelVG5kM12qKY_",
+                           "title": "C Programming for Beginners Urdu/Hindi",
+                           "author": "Super Learning"
                         }
                      ],
                      "subsections": []
@@ -68911,6 +69097,14 @@
                      "section": "AI",
                      "entries": [
                         {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/zh",
+                           "title": "初学者的生成式 AI .NET - 一门课程",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
+                        },
+                        {
                            "url": "https://zh.d2l.ai/index.html",
                            "title": "动手学深度学习",
                            "author": "d2lzh"
@@ -68973,6 +69167,26 @@
                            "url": "https://www.youtube.com/playlist?list=PLVyDH2ns1F75k1hvD2apA0DwI3XMiSDqp",
                            "title": "最新Python编程教程19天从入门到精通",
                            "author": "知知识改变命运"
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {},
+               "index": {},
+               "sections": [
+                  {
+                     "section": "AI",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/tw",
+                           "title": "初學者的生成式 AI .NET 課程",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
                         }
                      ],
                      "subsections": []
