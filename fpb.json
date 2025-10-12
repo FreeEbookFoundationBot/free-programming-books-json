@@ -18001,6 +18001,14 @@
                      "section": "OCaml",
                      "entries": [
                         {
+                           "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-8853-5.pdf",
+                           "title": "Architecture of Advanced Numerical Analysis Systems: Designing a Scientific Computing System using OCaml",
+                           "author": "Liang Wang, Jianxin Zhao",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://caml.inria.fr/pub/docs/oreilly-book/",
                            "title": "Developing Applications With Objective Caml"
                         },
@@ -20190,7 +20198,7 @@
                            "author": "David M. Smith, William N. Venables"
                         },
                         {
-                           "url": "https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.view-in-google.html",
+                           "url": "https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf",
                            "title": "An Introduction to Statistical Learning with Applications in R",
                            "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
                            "notes": [
@@ -29189,6 +29197,14 @@
                            "author": "Amnon Shashua"
                         },
                         {
+                           "url": "https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf",
+                           "title": "Introduction to Machine Learning Systems",
+                           "author": "Vijay Janapa Reddi",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.syncfusion.com/ebooks/keras-succinctly",
                            "title": "Keras Succinctly",
                            "author": "James McCaffrey"
@@ -29274,6 +29290,14 @@
                            "url": "https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
                            "title": "Pattern Recognition and Machine Learning",
                            "author": "Christopher M. Bishop",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://mlstory.org/pdf/patterns.pdf",
+                           "title": "Patterns, Predictions, And Actions: A story about machine learning",
+                           "author": "Moritz Hardt,  Benjamin Recht",
                            "notes": [
                               "PDF"
                            ]
@@ -29390,11 +29414,6 @@
                      "section": "Mathematics",
                      "entries": [
                         {
-                           "url": "https://shoup.net/ntb/",
-                           "title": "A Computational Introduction to Number Theory and Algebra",
-                           "author": "Victor Shoup"
-                        },
-                        {
                            "url": "https://www.cs.utexas.edu/users/boyer/acl.pdf",
                            "title": "A Computational Logic (1979)",
                            "author": "Robert S. Boyer, J Strother Moore",
@@ -29419,11 +29438,6 @@
                            ]
                         },
                         {
-                           "url": "http://linear.ups.edu",
-                           "title": "A First Course in Linear Algebra",
-                           "author": "Rob Beezer"
-                        },
-                        {
                            "url": "https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/",
                            "title": "A Friendly Introduction to Mathematical Logic",
                            "author": "Christopher C. Leary, Lars Kristiansen"
@@ -29437,61 +29451,6 @@
                            "url": "https://pimbook.org",
                            "title": "A Programmer's Introduction to Mathematics",
                            "author": "Jeremy Kun"
-                        },
-                        {
-                           "url": "http://stephendavies.org/quick.pdf",
-                           "title": "A Quick Steep Climb Up Linear Algebra",
-                           "author": "Stephen Davies",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "http://abstract.ups.edu",
-                           "title": "Abstract Algebra: Theory and Applications",
-                           "author": "Tom Judson"
-                        },
-                        {
-                           "url": "https://scholarworks.gvsu.edu/books/20/",
-                           "title": "Active Calculus",
-                           "author": "Matt Boelkins"
-                        },
-                        {
-                           "url": "https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf",
-                           "title": "Advanced Algebra",
-                           "author": "Anthony W. Knapp",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html",
-                           "title": "Algebra: Abstract and Concrete",
-                           "author": "Frederick Goodman"
-                        },
-                        {
-                           "url": "http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf",
-                           "title": "Algebra: An Elementary Text-Book, Part I (1904)",
-                           "author": "G. Chrystal",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf",
-                           "title": "Algebra: An Elementary Text-Book, Part II (1900)",
-                           "author": "G. Chrystal",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://pi.math.cornell.edu/~hatcher/AT/ATpage.html",
-                           "title": "Algebraic Topology",
-                           "author": "Allen Hatcher",
-                           "notes": [
-                              "PDF"
-                           ]
                         },
                         {
                            "url": "https://infinitedescent.xyz/dl/infdesc.pdf",
@@ -29518,11 +29477,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.apexcalculus.com",
-                           "title": "APEX Calculus",
-                           "author": "Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar"
-                        },
-                        {
                            "url": "https://rellek.net/book/app-comb.html",
                            "title": "Applied Combinatorics",
                            "author": "Mitchel T. Keller, William T. Trotter"
@@ -29533,34 +29487,14 @@
                            "author": "Alan Doerr, Kenneth Levasseur"
                         },
                         {
-                           "url": "https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf",
-                           "title": "Basic Algebra",
-                           "author": "Anthony W. Knapp",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://www.jirka.org/ra/",
                            "title": "Basic Analysis: Introduction to Real Analysis",
                            "author": "Jiří Lebl"
                         },
                         {
-                           "url": "https://www.cis.upenn.edu/~jean/math-basics.pdf",
-                           "title": "Basics of Algebra, Topology, and Differential Calculus",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
                            "title": "Bayesian Methods for Hackers",
                            "author": "Cameron Davidson-Pilon"
-                        },
-                        {
-                           "url": "http://www.wallace.ccfaculty.org/book/book.html",
-                           "title": "Beginning and Intermediate Algebra",
-                           "author": "Tyler Wallace"
                         },
                         {
                            "url": "https://www.people.vcu.edu/~rhammack/BookOfProof/",
@@ -29574,56 +29508,6 @@
                            ]
                         },
                         {
-                           "url": "https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/",
-                           "title": "Calculus",
-                           "author": "Gilbert Strang",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://resolver.caltech.edu/CaltechBOOK:1985.001",
-                           "title": "Calculus I",
-                           "author": "Jerrold E. Marsden, Alan Weinstein"
-                        },
-                        {
-                           "url": "http://www.math.smith.edu/~callahan/intromine.html",
-                           "title": "Calculus in Context",
-                           "author": "James Callahan"
-                        },
-                        {
-                           "url": "https://www.gutenberg.org/ebooks/33283",
-                           "title": "Calculus Made Easy",
-                           "author": "Silvanus P. Thompson",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://openstax.org/details/books/calculus-volume-1",
-                           "title": "Calculus Volume 1",
-                           "author": "Edwin Herman, Gilbert Strang",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://openstax.org/details/books/calculus-volume-2",
-                           "title": "Calculus Volume 2",
-                           "author": "Edwin Herman, Gilbert Strang",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://openstax.org/details/books/calculus-volume-3",
-                           "title": "Calculus Volume 3",
-                           "author": "Edwin Herman, Gilbert Strang",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://math.mit.edu/~dspivak/CT4S.pdf",
                            "title": "Category Theory for the Sciences",
                            "author": "David I. Spivak",
@@ -29634,26 +29518,6 @@
                         {
                            "url": "https://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/",
                            "title": "CK-12 Probability and Statistics - Advanced"
-                        },
-                        {
-                           "url": "https://www.math.ubc.ca/~CLP/CLP1/",
-                           "title": "CLP-1 Differential Calculus",
-                           "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
-                        },
-                        {
-                           "url": "https://www.math.ubc.ca/~CLP/CLP2/",
-                           "title": "CLP-2 Integral Calculus",
-                           "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
-                        },
-                        {
-                           "url": "https://www.math.ubc.ca/~CLP/CLP3/",
-                           "title": "CLP-3 Multivariable Calculus",
-                           "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
-                        },
-                        {
-                           "url": "https://www.math.ubc.ca/~CLP/CLP4/",
-                           "title": "CLP-4 Vector Calculus",
-                           "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
                         },
                         {
                            "url": "https://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9",
@@ -29712,14 +29576,6 @@
                            ]
                         },
                         {
-                           "url": "https://arxiv.org/pdf/math/0405323",
-                           "title": "Course Of Linear Algebra And Multidimensional Geometry",
-                           "author": "Ruslan Sharipov",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "http://tutorial.math.lamar.edu/Classes/DE/DE.aspx",
                            "title": "Differential Equations",
                            "author": "Paul Dawkins",
@@ -29769,30 +29625,9 @@
                            "author": "Brian S. Thomson, Judith B. Bruckner, Andrew M. Bruckner"
                         },
                         {
-                           "url": "https://www.math.miami.edu/~ec/book/",
-                           "title": "Elements of Abstract and Linear Algebra",
-                           "author": "E. H. Connell"
-                        },
-                        {
-                           "url": "http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf",
-                           "title": "Elements of Differential and Integral Calculus (1911)",
-                           "author": "William Anthony Granville",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://cs.gmu.edu/~sean/book/metaheuristics/",
                            "title": "Essentials of Metaheuristics",
                            "author": "Sean Luke"
-                        },
-                        {
-                           "url": "http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf",
-                           "title": "First Course in Algebra (1910)",
-                           "author": "Herbert E. Hawkes, William A. Luby, Frank C. Touton",
-                           "notes": [
-                              "PDF"
-                           ]
                         },
                         {
                            "url": "https://www.math.ucsd.edu/~ebender/CombText/",
@@ -29880,57 +29715,12 @@
                            "author": "Silvano Martello, Paolo Toth"
                         },
                         {
-                           "url": "https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html",
-                           "title": "Lecture Notes of Linear Algebra",
-                           "author": "P. Shunmugaraj, IIT Kanpur",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf",
-                           "title": "Lecture Notes on Linear Algebra",
-                           "author": "Dr. Arbind K Lal, Sukant Pati",
-                           "notes": [
-                              "PDF"
-                           ],
-                           "accessNotes": " :construction: in process"
-                        },
-                        {
                            "url": "https://www.poritz.net/jonathan/share/ldlos.pdf",
                            "title": "Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics",
                            "author": "Jonathan A. Poritz",
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "https://www.math.ucdavis.edu/~linear/linear-guest.pdf",
-                           "title": "Linear Algebra",
-                           "author": "David Cherney et al.",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "http://joshua.smcvt.edu/linearalgebra/",
-                           "title": "Linear Algebra",
-                           "author": "Jim Hefferon"
-                        },
-                        {
-                           "url": "https://linear.axler.net",
-                           "title": "Linear Algebra Done Right",
-                           "author": "Sheldon Axler"
-                        },
-                        {
-                           "url": "https://www.math.brown.edu/streil/papers/LADW/LADW.html",
-                           "title": "Linear Algebra Done Wrong",
-                           "author": "Sergei Treil"
-                        },
-                        {
-                           "url": "https://people.math.gatech.edu/~herod/Hspace/Hspace.html",
-                           "title": "Linear Algebra, Infinite Dimensions, and Maple",
-                           "author": "James Herod"
                         },
                         {
                            "url": "http://www.mathphysics.com/pde",
@@ -29978,11 +29768,6 @@
                            "author": "P. Shunmugaraj, IIT Kanpur"
                         },
                         {
-                           "url": "https://people.math.gatech.edu/~cain/notes/calculus.html",
-                           "title": "Multivariable Calculus",
-                           "author": "George Cain, James Herod"
-                        },
-                        {
                            "url": "http://luc.devroye.org/rnbookindex.html",
                            "title": "Non-Uniform Random Variate Generation",
                            "author": "Luc Devroye",
@@ -30024,19 +29809,9 @@
                            "author": "David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel"
                         },
                         {
-                           "url": "https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944",
-                           "title": "ORCCA: Open Resources for Community College Algebra",
-                           "author": "Portland Community College"
-                        },
-                        {
                            "url": "https://en.wikibooks.org/wiki/Ordinary_Differential_Equations",
                            "title": "Ordinary Differential Equations",
                            "author": "Wikibooks"
-                        },
-                        {
-                           "url": "https://tutorial.math.lamar.edu",
-                           "title": "Paul's Online Notes: Algebra, Calculus I-III and Differential Equations",
-                           "author": "Paul Dawkins @ Lamar University"
                         },
                         {
                            "url": "http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf",
@@ -30052,17 +29827,6 @@
                            "author": "George Wentworth, David Eugene Smith",
                            "notes": [
                               "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://stitz-zeager.com",
-                           "title": "Precalculus",
-                           "author": "Carl Stitz, Jeff Zeager",
-                           "otherLinks": [
-                              {
-                                 "title": "PDF",
-                                 "url": "https://stitz-zeager.com/szprecalculus07042013.pdf"
-                              }
                            ]
                         },
                         {
@@ -30095,14 +29859,6 @@
                            "url": "http://www.gregorybard.com/books.html",
                            "title": "Sage for Undergraduates",
                            "author": "Gregory Bard"
-                        },
-                        {
-                           "url": "http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf",
-                           "title": "Second Course in Algebra",
-                           "author": "Herbert E. Hawkes, William A. Luby, Frank C. Touton",
-                           "notes": [
-                              "PDF"
-                           ]
                         },
                         {
                            "url": "https://arxiv.org/pdf/1803.05316.pdf",
@@ -30154,11 +29910,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.mecmath.net",
-                           "title": "Vector Calculus",
-                           "author": "Michael Corral"
-                        },
-                        {
                            "url": "https://www.poritz.net/jonathan/share/yaintt.pdf",
                            "title": "Yet Another Introductory Number Theory Textbook",
                            "author": "Jonathan A. Poritz",
@@ -30167,62 +29918,357 @@
                            ]
                         }
                      ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Mathematics For Computer Science",
-                     "entries": [
+                     "subsections": [
                         {
-                           "url": "https://archive.org/details/bstj27-4-623",
-                           "title": "A Mathematical Theory of Communication",
-                           "author": "Claude E.Shannon"
-                        },
-                        {
-                           "url": "https://archive.org/details/in.ernet.dli.2015.141538/",
-                           "title": "Combinatorial Problems And Exercises (1979)",
-                           "author": "L. Lovasz"
-                        },
-                        {
-                           "url": "https://cglab.ca/~michiel/DiscreteStructures/",
-                           "title": "Discrete Structures for Computer Science: Counting, Recursion, and Probability",
-                           "author": "Michiel Smid"
-                        },
-                        {
-                           "url": "https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/",
-                           "title": "Exploring Math for Programmers and Data Scientists",
-                           "author": "Paul Orland"
-                        },
-                        {
-                           "url": "https://www.ime.usp.br/~pf/graph-exercises/",
-                           "title": "Graph Theory Exercises",
-                           "author": "Paulo Feofiloff",
-                           "notes": [
-                              "PDF"
+                           "section": "Algebra",
+                           "entries": [
+                              {
+                                 "url": "https://shoup.net/ntb/",
+                                 "title": "A Computational Introduction to Number Theory and Algebra",
+                                 "author": "Victor Shoup"
+                              },
+                              {
+                                 "url": "http://linear.ups.edu",
+                                 "title": "A First Course in Linear Algebra",
+                                 "author": "Rob Beezer"
+                              },
+                              {
+                                 "url": "http://stephendavies.org/quick.pdf",
+                                 "title": "A Quick Steep Climb Up Linear Algebra",
+                                 "author": "Stephen Davies",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "http://abstract.ups.edu",
+                                 "title": "Abstract Algebra: Theory and Applications",
+                                 "author": "Tom Judson"
+                              },
+                              {
+                                 "url": "https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf",
+                                 "title": "Advanced Algebra",
+                                 "author": "Anthony W. Knapp",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html",
+                                 "title": "Algebra: Abstract and Concrete",
+                                 "author": "Frederick Goodman"
+                              },
+                              {
+                                 "url": "http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf",
+                                 "title": "Algebra: An Elementary Text-Book, Part I (1904)",
+                                 "author": "G. Chrystal",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf",
+                                 "title": "Algebra: An Elementary Text-Book, Part II (1900)",
+                                 "author": "G. Chrystal",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://pi.math.cornell.edu/~hatcher/AT/ATpage.html",
+                                 "title": "Algebraic Topology",
+                                 "author": "Allen Hatcher",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf",
+                                 "title": "Basic Algebra",
+                                 "author": "Anthony W. Knapp",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.cis.upenn.edu/~jean/math-basics.pdf",
+                                 "title": "Basics of Algebra, Topology, and Differential Calculus",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "http://www.wallace.ccfaculty.org/book/book.html",
+                                 "title": "Beginning and Intermediate Algebra",
+                                 "author": "Tyler Wallace"
+                              },
+                              {
+                                 "url": "https://arxiv.org/pdf/math/0405323",
+                                 "title": "Course Of Linear Algebra And Multidimensional Geometry",
+                                 "author": "Ruslan Sharipov",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.math.miami.edu/~ec/book/",
+                                 "title": "Elements of Abstract and Linear Algebra",
+                                 "author": "E. H. Connell"
+                              },
+                              {
+                                 "url": "http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf",
+                                 "title": "First Course in Algebra (1910)",
+                                 "author": "Herbert E. Hawkes, William A. Luby, Frank C. Touton",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html",
+                                 "title": "Lecture Notes of Linear Algebra",
+                                 "author": "P. Shunmugaraj, IIT Kanpur",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf",
+                                 "title": "Lecture Notes on Linear Algebra",
+                                 "author": "Dr. Arbind K Lal, Sukant Pati",
+                                 "notes": [
+                                    "PDF"
+                                 ],
+                                 "accessNotes": " :construction: in process"
+                              },
+                              {
+                                 "url": "https://www.math.ucdavis.edu/~linear/linear-guest.pdf",
+                                 "title": "Linear Algebra",
+                                 "author": "David Cherney et al.",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "http://joshua.smcvt.edu/linearalgebra/",
+                                 "title": "Linear Algebra",
+                                 "author": "Jim Hefferon"
+                              },
+                              {
+                                 "url": "https://linear.axler.net",
+                                 "title": "Linear Algebra Done Right",
+                                 "author": "Sheldon Axler"
+                              },
+                              {
+                                 "url": "https://www.math.brown.edu/streil/papers/LADW/LADW.html",
+                                 "title": "Linear Algebra Done Wrong",
+                                 "author": "Sergei Treil"
+                              },
+                              {
+                                 "url": "https://people.math.gatech.edu/~herod/Hspace/Hspace.html",
+                                 "title": "Linear Algebra, Infinite Dimensions, and Maple",
+                                 "author": "James Herod"
+                              },
+                              {
+                                 "url": "https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944",
+                                 "title": "ORCCA: Open Resources for Community College Algebra",
+                                 "author": "Portland Community College"
+                              },
+                              {
+                                 "url": "https://tutorial.math.lamar.edu",
+                                 "title": "Paul's Online Notes: Algebra, Calculus I-III and Differential Equations",
+                                 "author": "Paul Dawkins @ Lamar University"
+                              },
+                              {
+                                 "url": "http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf",
+                                 "title": "Second Course in Algebra",
+                                 "author": "Herbert E. Hawkes, William A. Luby, Frank C. Touton",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
                            ]
                         },
                         {
-                           "url": "https://github.com/liuxinyu95/unplugged",
-                           "title": "Isomorphism -- Mathematics of Programming",
-                           "author": "Larry LIU Xinyu"
-                        },
-                        {
-                           "url": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
-                           "title": "Mathematics for Computer Science",
-                           "author": "Eric Lehman, F. Thomson Leighton, Albert R. Meyer",
-                           "notes": [
-                              "PDF"
+                           "section": "Calculus",
+                           "entries": [
+                              {
+                                 "url": "https://scholarworks.gvsu.edu/books/20/",
+                                 "title": "Active Calculus",
+                                 "author": "Matt Boelkins"
+                              },
+                              {
+                                 "url": "https://www.apexcalculus.com",
+                                 "title": "APEX Calculus",
+                                 "author": "Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar"
+                              },
+                              {
+                                 "url": "https://www.cis.upenn.edu/~jean/math-basics.pdf",
+                                 "title": "Basics of Algebra, Topology, and Differential Calculus",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/",
+                                 "title": "Calculus",
+                                 "author": "Gilbert Strang",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://resolver.caltech.edu/CaltechBOOK:1985.001",
+                                 "title": "Calculus I",
+                                 "author": "Jerrold E. Marsden, Alan Weinstein"
+                              },
+                              {
+                                 "url": "http://www.math.smith.edu/~callahan/intromine.html",
+                                 "title": "Calculus in Context",
+                                 "author": "James Callahan"
+                              },
+                              {
+                                 "url": "https://www.gutenberg.org/ebooks/33283",
+                                 "title": "Calculus Made Easy",
+                                 "author": "Silvanus P. Thompson",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://openstax.org/details/books/calculus-volume-1",
+                                 "title": "Calculus Volume 1",
+                                 "author": "Edwin Herman, Gilbert Strang",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://openstax.org/details/books/calculus-volume-2",
+                                 "title": "Calculus Volume 2",
+                                 "author": "Edwin Herman, Gilbert Strang",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://openstax.org/details/books/calculus-volume-3",
+                                 "title": "Calculus Volume 3",
+                                 "author": "Edwin Herman, Gilbert Strang",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.math.ubc.ca/~CLP/CLP1/",
+                                 "title": "CLP-1 Differential Calculus",
+                                 "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
+                              },
+                              {
+                                 "url": "https://www.math.ubc.ca/~CLP/CLP2/",
+                                 "title": "CLP-2 Integral Calculus",
+                                 "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
+                              },
+                              {
+                                 "url": "https://www.math.ubc.ca/~CLP/CLP3/",
+                                 "title": "CLP-3 Multivariable Calculus",
+                                 "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
+                              },
+                              {
+                                 "url": "https://www.math.ubc.ca/~CLP/CLP4/",
+                                 "title": "CLP-4 Vector Calculus",
+                                 "author": "Joel Feldman, Andrew Rechnitzer, Elyse Yeager"
+                              },
+                              {
+                                 "url": "http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf",
+                                 "title": "Elements of Differential and Integral Calculus (1911)",
+                                 "author": "William Anthony Granville",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://people.math.gatech.edu/~cain/notes/calculus.html",
+                                 "title": "Multivariable Calculus",
+                                 "author": "George Cain, James Herod"
+                              },
+                              {
+                                 "url": "https://tutorial.math.lamar.edu",
+                                 "title": "Paul's Online Notes: Algebra, Calculus I-III and Differential Equations",
+                                 "author": "Paul Dawkins @ Lamar University"
+                              },
+                              {
+                                 "url": "https://stitz-zeager.com",
+                                 "title": "Precalculus",
+                                 "author": "Carl Stitz, Jeff Zeager",
+                                 "otherLinks": [
+                                    {
+                                       "title": "PDF",
+                                       "url": "https://stitz-zeager.com/szprecalculus07042013.pdf"
+                                    }
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.mecmath.net",
+                                 "title": "Vector Calculus",
+                                 "author": "Michael Corral"
+                              }
                            ]
                         },
                         {
-                           "url": "https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf",
-                           "title": "PROGRAM = PROOF",
-                           "author": "Samuel Mimram",
-                           "notes": [
-                              "PDF"
+                           "section": "Mathematics For Computer Science",
+                           "entries": [
+                              {
+                                 "url": "https://archive.org/details/bstj27-4-623",
+                                 "title": "A Mathematical Theory of Communication",
+                                 "author": "Claude E.Shannon"
+                              },
+                              {
+                                 "url": "https://archive.org/details/in.ernet.dli.2015.141538/",
+                                 "title": "Combinatorial Problems And Exercises (1979)",
+                                 "author": "L. Lovasz"
+                              },
+                              {
+                                 "url": "https://cglab.ca/~michiel/DiscreteStructures/",
+                                 "title": "Discrete Structures for Computer Science: Counting, Recursion, and Probability",
+                                 "author": "Michiel Smid"
+                              },
+                              {
+                                 "url": "https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/",
+                                 "title": "Exploring Math for Programmers and Data Scientists",
+                                 "author": "Paul Orland"
+                              },
+                              {
+                                 "url": "https://www.ime.usp.br/~pf/graph-exercises/",
+                                 "title": "Graph Theory Exercises",
+                                 "author": "Paulo Feofiloff",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://github.com/liuxinyu95/unplugged",
+                                 "title": "Isomorphism -- Mathematics of Programming",
+                                 "author": "Larry LIU Xinyu"
+                              },
+                              {
+                                 "url": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
+                                 "title": "Mathematics for Computer Science",
+                                 "author": "Eric Lehman, F. Thomson Leighton, Albert R. Meyer",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf",
+                                 "title": "PROGRAM = PROOF",
+                                 "author": "Samuel Mimram",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              }
                            ]
                         }
-                     ],
-                     "subsections": []
+                     ]
                   },
                   {
                      "section": "Misc",
@@ -31494,12 +31540,13 @@
                            ]
                         },
                         {
-                           "url": "https://codeahoy.com/learn/promptengineering/toc",
+                           "url": "https://web.archive.org/web/20241107021929/https://codeahoy.com/learn/promptengineering/toc/",
                            "title": "Guide to Prompt Engineering",
                            "author": "CodeAhoy",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book",
@@ -33490,6 +33537,14 @@
                      "section": "Python",
                      "entries": [
                         {
+                           "url": "https://pitonca.com/haluktanrikulu/kitap/Python%20Programlama%20_%20Haluk%20Tanr%C4%B1kulu.pdf",
+                           "title": "Python ile Programlamaya Giriş",
+                           "author": "Haluk Tanrıkulu - Python 3",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://python-istihza.yazbel.com",
                            "title": "Python Programlama Dili",
                            "author": "YazBel Yazılım Belgelendirme Projesi - Python 3"
@@ -33518,6 +33573,14 @@
                                     "HTML"
                                  ],
                                  "accessNotes": " :construction: in process"
+                              },
+                              {
+                                 "url": "https://www.djangoturkiye.com/static/django.pdf",
+                                 "title": "Django için Türkçe Kılavuz",
+                                 "author": "Muslu Yüksektepe",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         }
@@ -42587,6 +42650,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Cloud Computing",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te",
+                           "title": "(Bangla) Cloud computing tutorial series : Learn and enjoy AWS Azure and other cloud technologies like never before",
+                           "author": "Foyzul Karim"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Competitive Programming",
                      "entries": [
                         {
@@ -43315,10 +43389,26 @@
                                  "url": "https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff",
                                  "title": "laravel 10 bangla tutorial latest version | laravel basic to advanced from official documentation",
                                  "author": "Learn Hunter"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X",
+                                 "title": "Laravel Queue Tutorial | Basic to Advanced ",
+                                 "author": "Programming with CodeSteps"
                               }
                            ]
                         }
                      ]
+                  },
+                  {
+                     "section": "PostgreSQL",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5",
+                           "title": "PostgreSQL Full Course In Bangla 2025",
+                           "author": "Nexist"
+                        }
+                     ],
+                     "subsections": []
                   },
                   {
                      "section": "Programming paradigms",
@@ -46298,6 +46388,11 @@
                            "author": "Alfredo Canziani"
                         },
                         {
+                           "url": "https://opencv.org/university/free-opencv-course/",
+                           "title": "OpenCV Bootcamp",
+                           "author": "OpenCV University"
+                        },
+                        {
                            "url": "http://www.fast.ai",
                            "title": "Practical Deep Learning For Coders taught",
                            "author": "Jeremy Howard"
@@ -46305,6 +46400,11 @@
                         {
                            "url": "https://course.fast.ai",
                            "title": "Practical Deep Learning for Coders, v3 (using fastai library)"
+                        },
+                        {
+                           "url": "https://opencv.org/university/free-pytorch-course/",
+                           "title": "PyTorch Bootcamp",
+                           "author": "OpenCV University"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr",
@@ -46328,6 +46428,11 @@
                            "notes": [
                               "Stanford Online"
                            ]
+                        },
+                        {
+                           "url": "https://opencv.org/university/free-tensorflow-keras-course/",
+                           "title": "TensorFlow Bootcamp",
+                           "author": "OpenCV University"
                         },
                         {
                            "url": "http://deeplearning.stanford.edu/tutorial",
@@ -46355,14 +46460,27 @@
                            "author": "Kunal Kushwaha"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=H5FAxTBuNM8",
+                           "title": "DevOps from Zero to Hero: Build and Deploy a Production API",
+                           "author": "Adrian Hajdin",
+                           "notes": [
+                              "JavaScript Mastery"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=lpk7VpGqkKw",
-                           "title": "DevOps Full Course ",
+                           "title": "DevOps Full Course",
                            "author": "Simplilearn"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE",
                            "title": "DevOps Tutorial for Beginners",
                            "author": "Intellipaat"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=hQcFE0RD0cQ",
+                           "title": "DevOps Tutorial for Beginners | Learn DevOps in 7 Hours - Full Course | DevOps Training | Edureka",
+                           "author": "Edureka"
                         }
                      ],
                      "subsections": [
@@ -46661,6 +46779,16 @@
                            "author": "The Net Ninja"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=SDk_GldOtK8",
+                           "title": "Flutter Bloc Tutorial For Beginners | BLoC Architecture/Pattern & State Management Explained",
+                           "author": "Rivaan Ranawat"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=ELFORM9fmss",
+                           "title": "Flutter Clean Architecture Full Course For Beginners - Bloc, Supabase, Hive, GetIt",
+                           "author": "Rivaan Ranawat"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=VPvVD8t02U8",
                            "title": "Flutter Course for Beginners - 37 hour",
                            "author": "freeCodeCamp.org"
@@ -46708,6 +46836,11 @@
                            "url": "https://10pearlsuniversity.org/courses/getting-started-with-flutter/",
                            "title": "Getting Started With Flutter",
                            "author": "Muhammad Noman"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=CzRQ9mnmh44",
+                           "title": "The Complete Dart & Flutter Developer Course | Full Tutorial For Beginners to Advanced",
+                           "author": "Rivaan Ranawat"
                         }
                      ],
                      "subsections": []
@@ -49640,11 +49773,6 @@
                            "author": "StatQuest with Josh Starmer"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN",
-                           "title": "Machine Learning — Andrew Ng, Stanford University",
-                           "author": "Andrew Ng"
-                        },
-                        {
                            "url": "https://www.youtube.com/watch?v=NWONeJKn6kc",
                            "title": "Machine Learning Course for Beginners",
                            "author": "freeCodeCamp.org"
@@ -50497,6 +50625,11 @@
                            ]
                         },
                         {
+                           "url": "https://opencv.org/university/python-for-beginners/",
+                           "title": "Python for Beginners",
+                           "author": "OpenCV University"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK",
                            "title": "Python for Beginners",
                            "author": "Alex The Analyst"
@@ -50761,6 +50894,14 @@
                                  "author": "Bitfumes",
                                  "notes": [
                                     "YouTube"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLEt8Tae2spYnHy378vMlPH--87cfeh33P",
+                                 "title": "FastAPI Beyond CRUD FastAPI Course",
+                                 "author": "Ssali Jonathan",
+                                 "notes": [
+                                    "Youtube"
                                  ]
                               }
                            ]
@@ -54907,9 +55048,24 @@
                      "section": "Computer Organization and Architecture",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLo4m8hx3sbb9SGSZy2Os7K4sAr53K9m-W",
+                           "title": "Computer Organisation and Architecture | Coa Complete Course in Hindi | True Engineer",
+                           "author": "True Engineer"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX",
                            "title": "Computer Organization and Architecture",
                            "author": "Gate Smashers"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL3eEXnCBViH8OS7fH0uQdre5YGCIOhCBH",
+                           "title": "Computer Organization and Architecture ( COA ) | CS & IT | GATE 2025 Crash Course",
+                           "author": "GATE Wallah - EE, EC, CS & IN"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL9zFgBale5fsVaOVUqXA1cJ22ePKpDEim",
+                           "title": "Computer Organization and Architecture GATE (Hindi) | Computer Organization GATE | Computer Organization and Architecture Tutorials",
+                           "author": "Well Academy"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3",
@@ -54917,7 +55073,7 @@
                            "author": "Easy Engineering Classes"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc",
+                           "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc",
                            "title": "Introduction to Computer Organization and Architecture",
                            "author": "Neso Academy"
                         }
@@ -55918,6 +56074,11 @@
                                  "author": "6 Pack Programmer"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLrdDvCsCDu0Gdr-E7NlcFYaNPw29t7xmq",
+                                 "title": "React JS Tutorial For Beginners in Hindi 2024 | React JS Tutorial",
+                                 "author": "CODE with Sufyan Shaikh"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh",
                                  "title": "React JS Tutorial in Hindi | React JS for Beginner to Advanced | Step by Step Video Tutorials",
                                  "author": "WsCubeTech"
@@ -55948,7 +56109,7 @@
                                  "author": "Anurag Singh ProCodrr"
                               },
                               {
-                                 "url": "https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w",
+                                 "url": "https://www.youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w",
                                  "title": "ReactJS Tutorial for Beginners to Advanced",
                                  "author": "Technical Suneja"
                               },
@@ -56032,6 +56193,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn",
                                  "title": "Vue js tutorial in Hindi",
                                  "author": "Code Step By Step"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLWxTHN2c_6cZpCJBULGoubyWsbfI0gDGW",
+                                 "title": "Vue JS Tutorial in Hindi (Learning from documentation)",
+                                 "author": "Touseef Jamal"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui",
@@ -57224,6 +57390,11 @@
                            "url": "https://www.youtube.com/watch?v=ALGVV5cGUtc",
                            "title": "Pengembangan Microservice Dengan Docker Compose",
                            "author": "Imre Nagi"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLZS-MHyEIRo6A7ODX8EWghd0r4HgKjJvy",
+                           "title": "Tutorial Docker",
+                           "author": "Kelas Terbuka"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao",
@@ -63802,6 +63973,17 @@
                "index": {},
                "sections": [
                   {
+                     "section": "<a id=\"algoritmi-structuri-date\">",
+                     "entries": [
+                        {
+                           "url": "https://lectii.utm.md/courses/structuri-de-date-si-algoritmi/",
+                           "title": "Structuri de Date și Algoritmi",
+                           "author": "Universitatea Tehnică a Moldovei"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "<a id=\"cpp\">",
                      "entries": [
                         {
@@ -63813,6 +63995,17 @@
                            "url": "https://lectii.utm.md/courses/programarea-orientata-pe-obiecte/",
                            "title": "Programarea Orientată pe Obiecte",
                            "author": "Universitatea Tehnică a Moldovei"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Javascript",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL7aWL1nkGk0ytE-fV1pApIdKI2ZwIyw-5",
+                           "title": "Curs JavaScript în limba română pentru începători",
+                           "author": "DevSchool"
                         }
                      ],
                      "subsections": []
@@ -69651,6 +69844,14 @@
                            ]
                         },
                         {
+                           "url": "https://devhints.io/docker-compose",
+                           "title": "Docker Compose Cheatsheet",
+                           "author": "DevHints",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4",
                            "title": "Docker Free Cheatsheet",
                            "author": "Denny Zhang",
@@ -70838,6 +71039,14 @@
                         {
                            "url": "https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners",
                            "title": "Python for Data Science - A Cheat Sheet for Beginners",
+                           "author": "DataCamp",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://media.datacamp.com/legacy/image/upload/v1676360378/Marketing/Blog/Matplotlib_Cheat_Sheet.pdf",
+                           "title": "Python for Data Science - Matplotlib Cheat Sheet",
                            "author": "DataCamp",
                            "notes": [
                               "PDF"
@@ -74004,6 +74213,29 @@
                            "title": "Extends Class"
                         },
                         {
+                           "url": "https://www.programiz.com/sql/online-compiler",
+                           "title": "Online SQL Editor",
+                           "author": "Programiz"
+                        },
+                        {
+                           "url": "https://www.tutorialspoint.com/compilers/online-sql-editor.htm",
+                           "title": "Online SQL Editor",
+                           "author": "Tutorialspoint"
+                        },
+                        {
+                           "url": "https://livesql.oracle.com",
+                           "title": "Oracle Live SQL"
+                        },
+                        {
+                           "url": "https://www.sql-practice.com",
+                           "title": "Practice SQL"
+                        },
+                        {
+                           "url": "https://onecompiler.com/sqlserver",
+                           "title": "SQL Server Online Editor & Compiler",
+                           "author": "OneCompiler"
+                        },
+                        {
                            "url": "http://sqlfiddle.com",
                            "title": "SQLFiddle"
                         },
@@ -74411,6 +74643,10 @@
                         {
                            "url": "https://www.crowdanalytix.com/community",
                            "title": "CrowdANALYTIX"
+                        },
+                        {
+                           "url": "https://www.deep-ml.com/problems",
+                           "title": "Deep-ML"
                         },
                         {
                            "url": "https://www.drivendata.org",
