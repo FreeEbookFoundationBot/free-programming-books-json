@@ -7456,6 +7456,14 @@
                                  ]
                               },
                               {
+                                 "url": "https://github.com/matteobaccan/CorsoAIBook",
+                                 "title": "Guida pratica all'uso delle Intelligenze Artificiali",
+                                 "author": "M. Baccan, D. Ferrero",
+                                 "notes": [
+                                    "MD, PDF"
+                                 ]
+                              },
+                              {
                                  "url": "http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale",
                                  "title": "La storia dell'informatica in Mondo Digitale",
                                  "notes": [
@@ -31036,7 +31044,7 @@
                         },
                         {
                            "url": "https://www.aosabook.org/en/index.html",
-                           "title": "The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks"
+                           "title": "The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Fearless Hacks"
                         },
                         {
                            "url": "https://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf",
@@ -57685,6 +57693,11 @@
                            "author": "Web Programming UNPAS"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLZS-MHyEIRo7FTCFuVfsbpllsoAs53xDn",
+                           "title": "HTML Dasar",
+                           "author": "Kelas Terbuka"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE",
                            "title": "HTML5 Canvas",
                            "author": "Idr Corner"
@@ -66843,6 +66856,11 @@
                            "author": "CodeMite‏"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJicg4QtoI8gFkoefyCLvEq",
+                           "title": "Object Oriented Programming with C++ (Urdu)",
+                           "author": "Recluze‏"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh",
                            "title": "Programming Fundamentals With C++ Complete Course In urdu | Hindi",
                            "author": "Kacs Learnings‏"
@@ -69655,6 +69673,14 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://www.datacamp.com/cheat-sheet/conda-cheat-sheet",
+                           "title": "Conda Cheatsheet",
+                           "author": "DataCamp",
+                           "notes": [
+                              "HTML/PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -70875,36 +70901,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "PyTorch",
-                     "entries": [
-                        {
-                           "url": "https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch",
-                           "title": "Deep Learning with PyTorch Cheat Sheet",
-                           "author": "Richie Cotton",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf",
-                           "title": "PyTorch Framework Cheat Sheet",
-                           "author": "Simon Wenkel",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://pytorch.org/tutorials/beginner/ptcheat.html",
-                           "title": "PyTorch Official Cheat Sheet",
-                           "author": "PyTorch",
-                           "notes": [
-                              "HTML"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "PHP",
                      "entries": [
                         {
@@ -70933,6 +70929,28 @@
                            "author": "Zsolt Nagy",
                            "notes": [
                               "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Powershell",
+                     "entries": [
+                        {
+                           "url": "https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf",
+                           "title": "Powershell 7.0 - Quick References",
+                           "author": "PracticalPowershell",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf",
+                           "title": "SANS Powershell Cheatsheet",
+                           "author": "SANS",
+                           "notes": [
+                              "PDF"
                            ]
                         }
                      ],
@@ -71209,6 +71227,14 @@
                                  "notes": [
                                     "HTML"
                                  ]
+                              },
+                              {
+                                 "url": "https://media.datacamp.com/legacy/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf",
+                                 "title": "Python for Data Science - Pandas Basics Cheat Sheet",
+                                 "author": "DataCamp",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         },
@@ -71227,6 +71253,35 @@
                                  "url": "https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python",
                                  "title": "PySpark Cheat Sheet: Spark in Python",
                                  "author": "DataCamp",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "PyTorch",
+                           "entries": [
+                              {
+                                 "url": "https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch",
+                                 "title": "Deep Learning with PyTorch Cheat Sheet",
+                                 "author": "Richie Cotton",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf",
+                                 "title": "PyTorch Framework Cheat Sheet",
+                                 "author": "Simon Wenkel",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://pytorch.org/tutorials/beginner/ptcheat.html",
+                                 "title": "PyTorch Official Cheat Sheet",
+                                 "author": "PyTorch",
                                  "notes": [
                                     "HTML"
                                  ]
@@ -71266,6 +71321,14 @@
                            "url": "http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf",
                            "title": "Colors in R",
                            "author": "Ying Wei",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://posit.co/wp-content/uploads/2022/10/data-transformation-1.pdf",
+                           "title": "Data transformation with dplyr - Cheat sheet",
+                           "author": "Posit",
                            "notes": [
                               "PDF"
                            ]
