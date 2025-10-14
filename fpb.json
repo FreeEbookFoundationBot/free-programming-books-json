@@ -11891,9 +11891,10 @@
                            ]
                         },
                         {
-                           "url": "http://www.jes.com/pb/",
+                           "url": "https://web.archive.org/web/20240302002321/http://www.jes.com/",
                            "title": "Pick/Basic: A Programmer's Guide",
-                           "author": "Jonathan E. Sisk"
+                           "author": "Jonathan E. Sisk",
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -12447,6 +12448,15 @@
                               "CC BY-NC-SA"
                            ],
                            "accessNotes": " :construction: in process"
+                        },
+                        {
+                           "url": "https://open.umn.edu/opentextbooks/textbooks/144",
+                           "title": "A Modular Structured Approach using C++",
+                           "author": "Kenneth Leroy Busbee",
+                           "notes": [
+                              "PDF",
+                              "CC BY"
+                           ]
                         },
                         {
                            "url": "https://darrenyao.com/usacobook/cpp.pdf",
@@ -33820,6 +33830,43 @@
             },
             {
                "language": {
+                  "code": "ur",
+                  "name": "Urdu"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "<a id=\"cplusplus\">",
+                     "entries": [
+                        {
+                           "url": "https://archive.org/details/CSikhiyeiUrduByAjnabiii",
+                           "title": "C++ Sikhiyei (Urdu)",
+                           "author": "Ajnabiii",
+                           "notes": [
+                              "PDF, HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "HTML",
+                     "entries": [
+                        {
+                           "url": "https://www.eislamicbook.com/html-in-urdu-complete-tutorial-learning-book/",
+                           "title": "HTML In Urdu Complete Tutorial Learning Book",
+                           "author": "Abid Bashir",
+                           "notes": [
+                              "Translated"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "vi",
                   "name": "Vietnamese"
                },
@@ -39404,9 +39451,26 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLFaao6abyD0cQp47BzJSQmeTegM2NLl_i",
+                           "title": "Cultura DevOps",
+                           "author": "Objective",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "http://devnaestrada.com.br",
                            "title": "DevNaEstrada",
                            "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLJ_lIzJ_Nd1TZ6i4HjMuBycyhwhUqlxtI",
+                           "title": "Engineering Sessions S01",
+                           "author": "Carlos Nogueira",
+                           "notes": [
+                              "DevOps",
                               "podcast"
                            ]
                         },
@@ -43255,6 +43319,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x",
                                  "title": "Vue JS 3 Bangla Tutorial",
                                  "author": "Mamunur Rashid"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P",
+                                 "title": "Vue js in Bangla. Latest Version with Projects  (বাংলায় Vue js শিখুন)",
+                                 "author": "Rafee Amin"
                               }
                            ]
                         }
@@ -43574,6 +43643,11 @@
                   {
                      "section": "Software Architecture",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLEYpvDF6qy8YyX2dQX93C88mQ5alaWFXJ",
+                           "title": "বাংলায় মাইক্রোসার্ভিস | Microservices in Bangla - What are the building blocks of a good Microservices System",
+                           "author": "Foyzul Karim"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO",
                            "title": "Career in Backend Workshop",
@@ -44667,6 +44741,14 @@
                            "url": "https://deeplearning.mit.edu",
                            "title": "MIT Deep Learning and Artificial Intelligence Lectures",
                            "author": "Lex Fridman, et al."
+                        },
+                        {
+                           "url": "https://www.futureofai.mit.edu",
+                           "title": "MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI",
+                           "author": "Rickard Gabrielsson",
+                           "notes": [
+                              "MIT OpenCourseWare"
+                           ]
                         },
                         {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/",
@@ -45955,6 +46037,11 @@
                            "url": "https://www.youtube.com/watch?v=MLDcapDQba4",
                            "title": "Hive Tutorial",
                            "author": "Great Learning"
+                        },
+                        {
+                           "url": "https://jovian.com/learn/how-to-build-an-ai",
+                           "title": "How to Build an AI: The Chronicles of Jobot",
+                           "author": "Jovian"
                         },
                         {
                            "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
@@ -64776,6 +64863,28 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "Rust",
+                     "entries": [
+                        {
+                           "url": "https://stepik.org/course/228001",
+                           "title": "Введение в Rust",
+                           "author": "Stepik",
+                           "notes": [
+                              "BEG"
+                           ]
+                        },
+                        {
+                           "url": "https://stepik.org/course/195449",
+                           "title": "Rust: Начальный уровень",
+                           "author": "Stepik",
+                           "notes": [
+                              "BEG"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -66822,6 +66931,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Assembly",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1",
+                           "title": "Assembly Language Programming Tutorials in Urdu / Hindi",
+                           "author": "Programology‏"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "C",
                      "entries": [
                         {
@@ -66854,6 +66974,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLt4rWC_3rBbWnDrIv4IeC4Vm7PN1wvrNg",
                            "title": "C++ Free Course for Beginners in (Urdu /Hindi)",
                            "author": "CodeMite‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLduM7bkxBdOekXfkEqIBAivzG99V2LrAS",
+                           "title": "Object Oriented Programming (OOP) Using C++ [Full Course]",
+                           "author": "Safdar Dogar‏"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJicg4QtoI8gFkoefyCLvEq",
@@ -66945,6 +67070,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI",
                            "title": "Python_ka_chilla (python in 40 days in urdu/Hindi)",
                            "author": "Codeanics‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLejKBGxF74J7pEMNf4hAJkssDSef73H7c",
+                           "title": "Python Tutorial For Beginners",
+                           "author": "Cyber Warriors - Urdu‏"
                         }
                      ],
                      "subsections": []
@@ -70951,6 +71081,14 @@
                            "author": "SANS",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.stationx.net/powershell-cheat-sheet/",
+                           "title": "The Most Helpful PowerShell Cheat Sheet You’ll Ever Find",
+                           "author": "Cassandra Lee",
+                           "notes": [
+                              "HTML"
                            ]
                         }
                      ],
