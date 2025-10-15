@@ -26869,6 +26869,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Symbian",
+                     "entries": [
+                        {
+                           "url": "https://github.com/trufanov-nok/SymbianBook_ru",
+                           "title": "Symbian C++",
+                           "author": "А. Н Труфанов"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "TypeScript",
                      "entries": [
                         {
