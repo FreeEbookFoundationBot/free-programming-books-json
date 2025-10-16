@@ -18990,7 +18990,8 @@
                            "title": "Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners",
                            "author": "Al Sweigart",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -19347,7 +19348,8 @@
                            "title": "Modeling and Simulation in Python",
                            "author": "Allen B. Downey",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC"
                            ]
                         },
                         {
@@ -19809,7 +19811,8 @@
                            "title": "Think DSP - Digital Signal Processing in Python",
                            "author": "Allen B. Downey",
                            "notes": [
-                              "PDF, HTML"
+                              "PDF, HTML",
+                              "CC BY-NC"
                            ]
                         },
                         {
@@ -20481,6 +20484,14 @@
                            "author": "Andrew Shitov",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://docs.raku.org",
+                           "title": "Raku Documentation",
+                           "author": "Raku Documentation",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -22545,6 +22556,18 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://zig.guide",
+                           "title": "Zig Guide",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://devdocs.io/zig",
+                           "title": "Zig Language Reference",
+                           "author": "DevDocs"
                         },
                         {
                            "url": "https://ziglang.org/documentation/master",
@@ -27450,14 +27473,6 @@
                            "author": "Wikibooks"
                         },
                         {
-                           "url": "https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf",
-                           "title": "Data Structures (Into Java)",
-                           "author": "Paul N. Hilfinger",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf",
                            "title": "Data Structures and Algorithm Analysis in C++",
                            "author": "Clifford A. Shaffer",
@@ -29928,14 +29943,18 @@
                         {
                            "url": "https://www.greenteapress.com/thinkbayes/",
                            "title": "Think Bayes: Bayesian Statistics Made Simple",
-                           "author": "Allen B. Downey"
+                           "author": "Allen B. Downey",
+                           "notes": [
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://greenteapress.com/thinkstats/",
                            "title": "Think Stats: Probability and Statistics for Programmers",
                            "author": "Allen B. Downey",
                            "notes": [
-                              "using Python"
+                              "using Python",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -31501,10 +31520,11 @@
                         {
                            "url": "https://greenteapress.com/wp/think-complexity-2e/",
                            "title": "Think Complexity",
-                           "author": "- Allen B. Downey",
+                           "author": "Allen B. Downey",
                            "notes": [
                               "2nd Edition",
-                              "PDF, HTML"
+                              "PDF, HTML",
+                              "CC BY-NC-SA"
                            ]
                         }
                      ],
@@ -33610,6 +33630,16 @@
                                  "notes": [
                                     "PDF"
                                  ]
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Flask",
+                           "entries": [
+                              {
+                                 "url": "https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri",
+                                 "title": "Temelden İleriye Türkçe Flask Dersleri",
+                                 "author": "İsmet BALAT"
                               }
                            ]
                         }
@@ -39486,6 +39516,15 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLJ_lIzJ_Nd1RWTc9uSrl-5rprIQp6GIOZ",
+                           "title": "Engineering Sessions S02",
+                           "author": "Carlos Nogueira",
+                           "notes": [
+                              "DevOps",
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ",
                            "title": "Experience Podcast - Curso em Vídeo",
                            "notes": [
@@ -43437,6 +43476,11 @@
                   {
                      "section": "Operating Systems",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU",
+                           "title": "Operating System",
+                           "author": "Farhan Hossan"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT",
                            "title": "Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)",
@@ -56767,6 +56811,11 @@
                            "author": "Apni Kaksha"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7",
+                           "title": "Complete Python Tutorial for Beginners to Advanced in Hindi",
+                           "author": "WsCube Tech"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLmRclvVt5DtmcLF3ywxKg692lhfD6SUOr",
                            "title": "Complete Python tutorial in Hindi",
                            "author": "codeitup"
@@ -56805,11 +56854,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF",
                            "title": "Python",
                            "author": "Computer Gyan Guruji"
-                        },
-                        {
-                           "url": "https://www.youtube.com/watch?v=6R8knl-5r6M",
-                           "title": "Python Crash Course for Beginners! In just 1 hour",
-                           "author": "Ghosty"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9",
@@ -56900,11 +56944,6 @@
                            "section": "Flask",
                            "entries": [
                               {
-                                 "url": "https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl",
-                                 "title": "[Hindi] Flask Tutorial For Beginners 2020",
-                                 "author": "Knowledge Shelf"
-                              },
-                              {
                                  "url": "https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC",
                                  "title": "Flask (Python) In Hindi",
                                  "author": "HindiSiksha"
@@ -56916,6 +56955,11 @@
                                  "notes": [
                                     "CampusX"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLQ623tNax05w6xydSxUSWpBuIUDe_SBNb",
+                                 "title": "Flask Tutorial in Hindi",
+                                 "author": "Knowledge Gainer"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf",
@@ -63032,6 +63076,11 @@
                   {
                      "section": "Linux",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH",
+                           "title": "Curso de Linux",
+                           "author": "Matheus Battisti"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV",
                            "title": "Curso de Linux - Primeiros Passos",
@@ -69567,6 +69616,14 @@
                            "title": "Angular Cheat Sheet"
                         },
                         {
+                           "url": "https://zerotomastery.io/cheatsheets/angular-cheat-sheet/",
+                           "title": "Angular Cheat Sheet",
+                           "author": "ZeroToMastery.io",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/",
                            "title": "Angular Cheat Sheet – A Basic Guide to Angular",
                            "author": "GeeksforGeeks"
@@ -69728,6 +69785,14 @@
                            "author": "THECODINGGUYS",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/",
+                           "title": "C# Cheat Sheet",
+                           "author": "ZeroToMaster.io",
+                           "notes": [
+                              "HTML/PDF"
                            ]
                         }
                      ],
@@ -71241,6 +71306,14 @@
                            "author": "Jeremy Stretch",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://rstudio.github.io/cheatsheets/html/shiny-python.html",
+                           "title": "Shiny for Python Cheat Sheet",
+                           "author": "Posit",
+                           "notes": [
+                              "HTML/PDF"
                            ]
                         }
                      ],
