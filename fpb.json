@@ -22614,6 +22614,15 @@
                      "section": "Web Services",
                      "entries": [
                         {
+                           "url": "https://mashupguide.net/1.0/html/",
+                           "title": "Pro Web 2.0 Mashups: Remixing Data and Web Services (2008)",
+                           "author": "Raymond Yee",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ]
+                        },
+                        {
                            "url": "http://restfulwebapis.org/RESTful_Web_Services.pdf",
                            "title": "RESTful Web Services",
                            "notes": [
@@ -24990,6 +24999,14 @@
                         {
                            "url": "http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf",
                            "title": "Introdução a Visão Computacional com Python e OpenCV",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf",
+                           "title": "Introdução ao Python",
+                           "author": "Rafael Divino Ferreira Feitosa",
                            "notes": [
                               "PDF"
                            ]
@@ -27895,12 +27912,35 @@
                            "author": "William L. Hamilton"
                         },
                         {
+                           "url": "https://www.deeplearning.ai/short-courses/how-transformer-llms-work/",
+                           "title": "How Transformer LLMs Work",
+                           "author": "Jay Alammar, Maarten Grootendorst",
+                           "notes": [
+                              "DeepLearning.AI"
+                           ]
+                        },
+                        {
+                           "url": "https://huggingface.co/learn/llm-course/en/chapter1/1",
+                           "title": "Hugging Face LLM Course",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://github.com/correll/Introduction-to-Autonomous-Robots/releases",
                            "title": "Introduction to Autonomous Robots",
                            "author": "Nikolaus Correll",
                            "notes": [
                               "PDF",
                               "CC BY-NC-ND"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=lnA9DMvHtfI",
+                           "title": "Large Language Models from Scratch",
+                           "author": "freeCodeCamp",
+                           "notes": [
+                              "YouTube"
                            ]
                         },
                         {
@@ -27938,6 +27978,14 @@
                            "author": "Cam Davidson-Pilon",
                            "notes": [
                               "HTML, Jupyter Notebook"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+                           "title": "Stanford CS224N: Natural Language Processing with Deep Learning",
+                           "author": "Christopher Manning",
+                           "notes": [
+                              "Stanford Online"
                            ]
                         },
                         {
@@ -28609,14 +28657,19 @@
                            "title": "Data Mining Concepts and Techniques",
                            "author": "Jiawei Han, Micheline Kamber, Jian Pei",
                            "notes": [
-                              "PDF",
-                              " :card_file_box: archived"
-                           ]
+                              "PDF"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://datascienceatthecommandline.com/2e/",
                            "title": "Data Science at the Command Line",
                            "author": "Jeroen Janssens"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=LHBE6Q9XlzI",
+                           "title": "Data Science with Python",
+                           "author": "freeCodeCamp"
                         },
                         {
                            "url": "https://allendowney.github.io/ElementsOfDataScience/README.html",
@@ -28678,6 +28731,15 @@
                            "author": "Jeffrey Stanton"
                         },
                         {
+                           "url": "https://www.coursera.org/learn/python-data-analysis",
+                           "title": "Introduction to Data Science in Python",
+                           "author": "Christopher Brooks",
+                           "notes": [
+                              "University of Michigan",
+                              "Coursera"
+                           ]
+                        },
+                        {
                            "url": "https://juliadatascience.io",
                            "title": "Julia Data Science",
                            "author": "Jose Storopoli, Rik Huijzer, Lazaro Alonso",
@@ -28699,8 +28761,16 @@
                            "title": "Probability and Statistics with Examples using R",
                            "author": "Siva Athreya, Deepayan Sarkar, Steve Tanner",
                            "notes": [
-                              "HTML",
-                              " :construction: *in process*"
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=vaMMLLf0wLM",
+                           "title": "Python for Data Science – Hands-on Projects",
+                           "author": "LunarTech",
+                           "notes": [
+                              "freeCodeCamp",
+                              "YouTube"
                            ]
                         },
                         {
@@ -29340,6 +29410,14 @@
                            "title": "Bayesian Reasoning and Machine Learning"
                         },
                         {
+                           "url": "https://cs50.harvard.edu/ai/",
+                           "title": "CS50's Introduction to Artificial Intelligence with Python",
+                           "author": "David Malan",
+                           "notes": [
+                              "Harvard"
+                           ]
+                        },
+                        {
                            "url": "https://www.deeplearningbook.org",
                            "title": "Deep Learning",
                            "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville"
@@ -29355,6 +29433,11 @@
                         {
                            "url": "https://d2l.ai",
                            "title": "Dive into Deep Learning"
+                        },
+                        {
+                           "url": "https://www.elementsofai.com",
+                           "title": "Elements of AI",
+                           "author": "MinnaLearn, University of Helsinki"
                         },
                         {
                            "url": "https://web.stanford.edu/group/pdplab/pdphandbook",
@@ -29435,6 +29518,14 @@
                            "title": "Machine Learning"
                         },
                         {
+                           "url": "https://developers.google.com/machine-learning/crash-course",
+                           "title": "Machine Learning Crash Course",
+                           "author": "Google",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://github.com/Microsoft/ML-For-Beginners",
                            "title": "Machine Learning for Beginners",
                            "author": "Microsoft"
@@ -29505,7 +29596,7 @@
                         {
                            "url": "https://mlstory.org/pdf/patterns.pdf",
                            "title": "Patterns, Predictions, And Actions: A story about machine learning",
-                           "author": "Moritz Hardt,  Benjamin Recht",
+                           "author": "Moritz Hardt, Benjamin Recht",
                            "notes": [
                               "PDF"
                            ]
@@ -29695,6 +29786,14 @@
                            "author": "Alan Doerr, Kenneth Levasseur"
                         },
                         {
+                           "url": "http://inis.jinr.ru/sl/M_Mathematics/MV_Probability/MVspf_Stochastics%20in%20finance/Haerdle%20et%20al.%20Applied%20Quantitative%20Finance%20(Springer)(423s).pdf",
+                           "title": "Applied Quantitative Finance: Theory and Computational Tools",
+                           "author": "Wolfgang K. Hardle, Nikolaus Hautsch, Ludger Overbeck",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.jirka.org/ra/",
                            "title": "Basic Analysis: Introduction to Real Analysis",
                            "author": "Jiří Lebl"
@@ -29848,6 +29947,15 @@
                            "author": "Yuen-Kwok Chan",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://psyteachr.github.io/quant-fun-v3/",
+                           "title": "Fundamentals of Quantitative Analysis",
+                           "author": "Danielle Zhu",
+                           "notes": [
+                              "GitHub",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -64072,6 +64180,11 @@
                      "section": "Raspberry Pi",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLx4x_zx8csUj1PvvXekoDwuUyL0pljiU1",
+                           "title": "Curso de Raspberry Pi",
+                           "author": "CFBCursos"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy",
                            "title": "Curso de Raspberry Pi: primeiros passos",
                            "author": "Gustavo Guanabara"
@@ -64164,6 +64277,16 @@
                            "author": "Vida FullStack"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo",
+                           "title": "Curso de SASS",
+                           "author": "BUSSOLA DEV"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J",
+                           "title": "Curso Sass",
+                           "author": "Amanda Vilela"
+                        },
+                        {
                            "url": "https://www.udemy.com/course/sass-placeholders-o-jeito-certo/",
                            "title": "Sass placeholders: o jeito certo",
                            "author": "Tárcio Zemel",
@@ -64246,6 +64369,10 @@
                            "notes": [
                               "Udemy"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLprgbdnzrDkHjUr2mFq0ypg-v6RNChKA8",
+                           "title": "Curso de introdução ao desenvolvimento iOS"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-",
@@ -64422,6 +64549,11 @@
                            "notes": [
                               "Agência Klens"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLqDfVio-YDgtfPuoYe1Ps_y9Ds1RU444_",
+                           "title": "Curso de SEO (Iniciante)",
+                           "author": "Caio Rodrigues"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90",
@@ -69975,52 +70107,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Ansible",
-                     "entries": [
-                        {
-                           "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet",
-                           "title": "Ansible Basic Cheat Sheet",
-                           "author": "Intellipaat",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet",
-                           "title": "Ansible Cheat Sheet",
-                           "author": "Mrxpalmeiras",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0",
-                           "title": "Ansible Cheat Sheet — A DevOps Quick Start Guide",
-                           "author": "edureka",
-                           "notes": [
-                              "HTML, PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://opensource.com/article/20/11/ansible-cheat-sheet",
-                           "title": "Automate your tasks with this Ansible cheat sheet",
-                           "author": "Opensource",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide",
-                           "title": "How to Use Ansible: A Reference Guide",
-                           "author": "DigitalOcean",
-                           "notes": [
-                              "HTML"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "APL",
                      "entries": [
                         {
@@ -70333,8 +70419,90 @@
                      "subsections": []
                   },
                   {
+                     "section": "Devops",
+                     "entries": [
+                        {
+                           "url": "https://cheatography.com/hapuchu/cheat-sheets/devops/",
+                           "title": "Devops Cheat Sheet",
+                           "author": "hapachu",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Ansible",
+                     "entries": [
+                        {
+                           "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet",
+                           "title": "Ansible Basic Cheat Sheet",
+                           "author": "Intellipaat",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet",
+                           "title": "Ansible Cheat Sheet",
+                           "author": "Mrxpalmeiras",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0",
+                           "title": "Ansible Cheat Sheet — A DevOps Quick Start Guide",
+                           "author": "edureka",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://opensource.com/article/20/11/ansible-cheat-sheet",
+                           "title": "Automate your tasks with this Ansible cheat sheet",
+                           "author": "Opensource",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide",
+                           "title": "How to Use Ansible: A Reference Guide",
+                           "author": "DigitalOcean",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Chef",
+                     "entries": [
+                        {
+                           "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/chef-cheat-sheet/",
+                           "title": "Chef Cheat Sheet",
+                           "author": "Intellipaat",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Docker",
                      "entries": [
+                        {
+                           "url": "https://github.com/SAYOUNCDR/Docker-CheetSheet/blob/main/docker-cheatsheet.md",
+                           "title": "Docker Cheat Sheet",
+                           "author": "Sayoun Parui",
+                           "notes": [
+                              "Markdown"
+                           ]
+                        },
                         {
                            "url": "https://low-orbit.net/docker-cheat-sheet",
                            "title": "Docker Cheat Sheet",
@@ -70494,6 +70662,72 @@
                            "url": "https://dockerlabs.collabnix.com/docker/cheatsheet/",
                            "title": "The Ultimate Docker Cheat Sheet",
                            "author": "Sangam Biradar, Collabnix DockerLabs",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Jenkins",
+                     "entries": [
+                        {
+                           "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/",
+                           "title": "Jenkins Cheat Sheet",
+                           "author": "Intellipaat",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Kubernetes",
+                     "entries": [
+                        {
+                           "url": "https://kubernetes.io/docs/reference/kubectl/cheatsheet/",
+                           "title": "Handy Cheat Sheet for Kubernetes Beginners",
+                           "author": "Kubernetes Documentation: kubectl Cheat Sheet",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.mirantis.com/blog/kubernetes-cheat-sheet/",
+                           "title": "Kubernetes Cheat Sheet",
+                           "author": "Nick Chase",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://spacelift.io/blog/kubernetes-cheat-sheet",
+                           "title": "Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects",
+                           "author": "Spacelift",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/kubernetes-cheat-sheet/",
+                           "title": "Kubernetes Cheat Sheet with KubeCtl",
+                           "author": "Intellipath",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Puppet",
+                     "entries": [
+                        {
+                           "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/",
+                           "title": "Puppet Cheat Sheet",
+                           "author": "Intellipaat",
                            "notes": [
                               "HTML"
                            ]
@@ -71289,36 +71523,6 @@
                            "author": "Ray Wenderlich",
                            "notes": [
                               "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Kubernetes",
-                     "entries": [
-                        {
-                           "url": "https://kubernetes.io/docs/reference/kubectl/cheatsheet/",
-                           "title": "Handy Cheat Sheet for Kubernetes Beginners",
-                           "author": "Kubernetes Documentation: kubectl Cheat Sheet",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://www.mirantis.com/blog/kubernetes-cheat-sheet/",
-                           "title": "Kubernetes Cheat Sheet",
-                           "author": "Nick Chase",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
-                           "url": "https://spacelift.io/blog/kubernetes-cheat-sheet",
-                           "title": "Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects",
-                           "author": "Spacelift",
-                           "notes": [
-                              "HTML"
                            ]
                         }
                      ],
@@ -72661,6 +72865,14 @@
                            "author": "Dan Margalit, Joseph Rabinoff",
                            "notes": [
                               "HTML, PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://poloclub.github.io/transformer-explainer/",
+                           "title": "LLM Transformer Model Visually Explained",
+                           "author": "Georgia Tech",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -74398,6 +74610,10 @@
                         {
                            "url": "https://www.jdoodle.com/online-java-compiler/",
                            "title": "JDoodle - Online Java Compiler IDE"
+                        },
+                        {
+                           "url": "https://onecompiler.com/java",
+                           "title": "OneCompiler"
                         },
                         {
                            "url": "https://labex.io/tutorials/java-online-java-playground-372914",
