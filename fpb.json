@@ -254,7 +254,11 @@
                         },
                         {
                            "url": "https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/",
-                           "title": "دليل الأمان الرقمي"
+                           "title": "دليل الأمان الرقمي",
+                           "author": "محمد هاني صباغ‏",
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -11051,8 +11055,9 @@
                      "section": "Ada",
                      "entries": [
                         {
-                           "url": "http://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf",
+                           "url": "https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf",
                            "title": "A Guide to Ada for C and C++ Programmers",
+                           "author": "Simon Johnston",
                            "notes": [
                               "PDF"
                            ]
@@ -11060,6 +11065,7 @@
                         {
                            "url": "http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf",
                            "title": "Ada Distilled",
+                           "author": "Richard Riehle",
                            "notes": [
                               "PDF"
                            ]
@@ -11087,15 +11093,27 @@
                         },
                         {
                            "url": "https://learn.adacore.com/courses/intro-to-ada/index.html",
-                           "title": "Introduction To Ada"
+                           "title": "Introduction To Ada",
+                           "author": "Raphaël Amiard, Gustavo A. Hoffmann",
+                           "notes": [
+                              "HTML, PDF, EPUB"
+                           ]
                         },
                         {
                            "url": "https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html",
-                           "title": "Introduction To SPARK"
+                           "title": "Introduction To SPARK",
+                           "author": "Yannick Moy, Ben Brosgol",
+                           "notes": [
+                              "HTML, PDF, EPUB"
+                           ]
                         },
                         {
-                           "url": "http://www.pegasoft.ca/resources/boblap/book.html",
-                           "title": "The Big Online Book of Linux Ada Programming"
+                           "url": "https://www.pegasoft.ca/resources/boblap/book.html",
+                           "title": "The Big Online Book of Linux Ada Programming",
+                           "author": "Ken O. Burtch",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -11265,7 +11283,8 @@
                            "author": "Brian Evans",
                            "notes": [
                               "PDF",
-                              " :card_file_box: *archived at unglue.it*"
+                              " :card_file_box: *archived at unglue.it*",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -11312,7 +11331,8 @@
                            "title": "Learn Arduino",
                            "author": "Compiled from StackOverflow documentation",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -13030,6 +13050,12 @@
                            "url": "https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown",
                            "title": "CFML In 100 Minutes",
                            "author": "J. Casimir"
+                        },
+                        {
+                           "url": "https://en.wikibooks.org/wiki/ColdFusion_Programming",
+                           "title": "ColdFusion Programming",
+                           "author": "Wikibooks",
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "http://learncfinaweek.com",
@@ -18630,6 +18656,14 @@
                                  "notes": [
                                     "PDF"
                                  ]
+                              },
+                              {
+                                 "url": "https://github.com/LarryUllman/yiibook2/blob/main/e-books/yiibook2.pdf",
+                                 "title": "The Yii Book",
+                                 "author": "Larry Ullman",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         },
@@ -21174,6 +21208,12 @@
                   {
                      "section": "Sage",
                      "entries": [
+                        {
+                           "url": "https://en.wikibooks.org/wiki/Sage",
+                           "title": "Sage",
+                           "author": "Wikibooks",
+                           "accessNotes": " :construction: in process"
+                        },
                         {
                            "url": "http://wstein.org/books/sagebook/sagebook.pdf",
                            "title": "Sage for Power Users",
@@ -25578,6 +25618,16 @@
                                  "url": "https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-ru/README.md",
                                  "title": "Рефакторинг на максималках",
                                  "author": "Александр Беспоясов"
+                              }
+                           ]
+                        },
+                        {
+                           "section": "Производительность",
+                           "entries": [
+                              {
+                                 "url": "https://optimization.guide",
+                                 "title": "Продуманная оптимизация",
+                                 "author": "Карлос Буэно"
                               }
                            ]
                         },
@@ -31113,7 +31163,7 @@
                            ]
                         },
                         {
-                           "url": "http://cnp3book.info.ucl.ac.be/1st/html/index.html",
+                           "url": "https://www.computer-networking.info",
                            "title": "Computer Networking : Principles, Protocols and Practice",
                            "notes": [
                               "HTML, ePub, PDF, Kindle"
@@ -45687,6 +45737,14 @@
                            "author": "Jimmy Bogard"
                         },
                         {
+                           "url": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft",
+                           "title": "Foundational C# with Microsoft Certification",
+                           "author": "freeCodeCamp, Microsoft",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.udemy.com/course/understandingc/",
                            "title": "Fundamentals of Programming: Understanding C#",
                            "author": "Jesse Dietrichson",
@@ -46249,6 +46307,30 @@
                      "subsections": []
                   },
                   {
+                     "section": "Cypress",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb",
+                           "title": "Cypress Course Playlist",
+                           "author": "JoanMedia"
+                        },
+                        {
+                           "url": "https://learn.cypress.io",
+                           "title": "Cypress Official Course - Best Documnetation",
+                           "author": "Cypress.io"
+                        },
+                        {
+                           "url": "https://testautomationu.applitools.com/cypress-tutorial/",
+                           "title": "Test Automation - Cypress Tutorial",
+                           "author": "Elliot Arledge",
+                           "notes": [
+                              "FreeCodeCamp"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Dart",
                      "entries": [
                         {
@@ -46636,6 +46718,11 @@
                                  "author": "Satish C J"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLsyeobzWxl7r0bn6dzVA8bQNxcx7DRl5F",
+                                 "title": "NoSQL Tutorial for Beginners",
+                                 "author": "by Telusko"
+                              },
+                              {
                                  "url": "https://university.redis.com",
                                  "title": "Redis University",
                                  "author": "Redis Inc.",
@@ -46777,7 +46864,7 @@
                            "url": "https://www.coursera.org/specializations/deep-learning",
                            "title": "Deep Learning Specialization",
                            "notes": [
-                              "coursera"
+                              "Coursera"
                            ]
                         },
                         {
@@ -46787,7 +46874,7 @@
                         },
                         {
                            "url": "https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans",
-                           "title": "Deep Learning with Pytorch: Zero tp GANs",
+                           "title": "Deep Learning with PyTorch: Zero to GANs",
                            "notes": [
                               "Jovian"
                            ]
@@ -46863,7 +46950,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI",
-                           "title": "NYU Deep Learning SP21"
+                           "title": "NYU Deep Learning SP21",
+                           "author": "Alfredo Canziani"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT",
@@ -46913,9 +47001,14 @@
                            ]
                         },
                         {
-                           "url": "https://opencv.org/university/free-tensorflow-keras-course/",
-                           "title": "TensorFlow Bootcamp",
-                           "author": "OpenCV University"
+                           "url": "https://web.stanford.edu/class/cs234",
+                           "title": "Stanford CS234: Reinforcement Learning",
+                           "author": "Emma Brunskill"
+                        },
+                        {
+                           "url": "http://ai.berkeley.edu",
+                           "title": "UC Berkeley CS 188: Introduction to Artificial Intelligence",
+                           "author": "Dan Klein"
                         },
                         {
                            "url": "http://deeplearning.stanford.edu/tutorial",
@@ -51062,13 +51155,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.sololearn.com/Course/Python/",
-                           "title": "Python 3",
-                           "notes": [
-                              "SoloLearn"
-                           ]
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0",
                            "title": "Python 3 Programming Tutorials for Beginners",
                            "author": "Codebasics"
@@ -51287,8 +51373,10 @@
                            "author": "freeCodeCamp.org"
                         },
                         {
-                           "url": "https://www.sololearn.com/Course/Python/",
-                           "title": "SoloLearn"
+                           "url": "https://www.sololearn.com/en/learn/courses/python-developer",
+                           "title": "Python Tutorials",
+                           "author": "SoloLearn",
+                           "accessNotes": "registration required"
                         },
                         {
                            "url": "https://docs.python.org/3/tutorial/",
@@ -51629,6 +51717,11 @@
                            "author": "Tensor Programming"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLO5VPQH6OWdXR8NlZt0jRbC39W_IyzS-v",
+                           "title": "Learn Rust",
+                           "author": "Smart Contract Programmer"
+                        },
+                        {
                            "url": "https://www.educative.io/courses/learn-rust-from-scratch",
                            "title": "Learn Rust from scratch",
                            "author": "Educative.io"
@@ -51649,9 +51742,19 @@
                            "author": "Traversy Media"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs",
+                           "title": "Rust Crash Course Tutorial for Beginners",
+                           "author": "Francesco Ciulla"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x",
                            "title": "Rust for Beginners",
                            "author": "Microsoft Developer"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL",
+                           "title": "Rust Programming Tutorial",
+                           "author": "Trevor Sullivan"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ",
@@ -51734,6 +51837,14 @@
                            "author": "Nickolai Zeldovich",
                            "notes": [
                               "MIT OpenCourseWare"
+                           ]
+                        },
+                        {
+                           "url": "https://cs50.harvard.edu/cybersecurity/",
+                           "title": "CS50's Introduction to Cybersecurity",
+                           "author": "David J. Malan",
+                           "notes": [
+                              "OpenCourseWare"
                            ]
                         },
                         {
@@ -52078,6 +52189,11 @@
                   {
                      "section": "Terraform",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=7xngnjfIlK4",
+                           "title": "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)",
+                           "author": "DevOps Directive"
+                        },
                         {
                            "url": "https://www.udemy.com/course/terraform-aws",
                            "title": "terraform + AWS",
@@ -52907,6 +53023,11 @@
                   {
                      "section": "Markdown",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ",
+                           "title": "Curso de Markdown",
+                           "author": "ProgramaTutos"
+                        },
                         {
                            "url": "https://www.markdowntutorial.com/es/",
                            "title": "Tutorial de Markdown"
@@ -70157,6 +70278,36 @@
                      "subsections": []
                   },
                   {
+                     "section": "Blockchain",
+                     "entries": [
+                        {
+                           "url": "https://pupuweb.com/blockchain-bitcoin-cheat-sheet/",
+                           "title": "101 Blockchain Cheat Sheet, Jargon, Glossary and Terminology",
+                           "author": "Alex Lim",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://intellipaat.com/blog/tutorial/blockchain-tutorial/blockchain-cheat-sheet/",
+                           "title": "Blockchain Cheat Sheet",
+                           "author": "Arpit",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.dummies.com/article/technology/information-technology/data-science/general-data-science/blockchain-dummies-cheat-sheet-237567/",
+                           "title": "Blockchain For Dummies Cheat Sheet",
+                           "author": "Tiana Laurence",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "C",
                      "entries": [
                         {
@@ -70200,6 +70351,14 @@
                   {
                      "section": "<a id=\"csharp\">",
                      "entries": [
+                        {
+                           "url": "https://roadmap.sh/aspnet-core",
+                           "title": "C# ASP.NET Roadmap",
+                           "author": "Roadmap.sh",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://simplecheatsheet.com/tag/c-cheat-sheet-1/",
                            "title": "C# Cheat Sheet",
@@ -70674,8 +70833,24 @@
                      "entries": [
                         {
                            "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/",
-                           "title": "Jenkins Cheat Sheet",
+                           "title": "Jenkins CheatSheet",
                            "author": "Intellipaat",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.testautomationstudio.com/cheat-sheet/jenkins/jenkins-cheat-sheet/",
+                           "title": "Jenkins CheatSheet",
+                           "author": "Test A",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.edureka.co/blog/cheatsheets/jenkins-cheat-sheet/",
+                           "title": "Jenkins CheatSheet – A Beginner’s Guide to Jenkins",
+                           "author": "Miss zulekha",
                            "notes": [
                               "HTML"
                            ]
@@ -70725,9 +70900,33 @@
                      "section": "Puppet",
                      "entries": [
                         {
+                           "url": "https://cheatsheetshero.com/user/all/382-puppet-cheatsheet",
+                           "title": "Puppet CheatSheet",
+                           "author": "CSHero",
+                           "notes": [
+                              "HTML/PDF"
+                           ]
+                        },
+                        {
+                           "url": "http://www.datadisk.co.uk/html_docs/puppet/puppet_cheatsheet.html",
+                           "title": "Puppet CheatSheet",
+                           "author": "DataDisk",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/",
-                           "title": "Puppet Cheat Sheet",
+                           "title": "Puppet CheatSheet",
                            "author": "Intellipaat",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://help.puppet.com/core/current/Content/PuppetCore/cheatsheet_module.htm",
+                           "title": "Puppet CheatSheet",
+                           "author": "Pahul",
                            "notes": [
                               "HTML"
                            ]
@@ -70844,6 +71043,14 @@
                            "url": "https://zerotomastery.io/cheatsheets/golang-cheat-sheet/",
                            "title": "Go Programming (Golang) Cheat Sheet",
                            "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/a8m/golang-cheat-sheet",
+                           "title": "Golang Cheat Sheet",
+                           "author": "Ariel Mashraki",
                            "notes": [
                               "HTML"
                            ]
@@ -71198,6 +71405,14 @@
                      "section": "<a id=\"info-sec\">",
                      "entries": [
                         {
+                           "url": "https://zerotomastery.io/cheatsheets/linux-commands-cheat-sheet/",
+                           "title": "Linux Commands Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/",
                            "title": "Nmap Cheat Sheet)",
                            "author": "ZeroToMastery.io",
@@ -71258,6 +71473,14 @@
                   {
                      "section": "JavaScript",
                      "entries": [
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/",
+                           "title": "Advanced JavaScript Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
                         {
                            "url": "https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript",
                            "title": "JavaScript Cheat Sheet – A Basic Guide to JavaScript",
@@ -71458,6 +71681,14 @@
                                  ]
                               },
                               {
+                                 "url": "https://zerotomastery.io/cheatsheets/react-native-cheat-sheet/",
+                                 "title": "React Native Cheat Sheet",
+                                 "author": "ZeroToMastery",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
                                  "url": "https://devhints.io/react-router",
                                  "title": "React-router Cheatsheet",
                                  "author": "Devhints.io",
@@ -71518,9 +71749,25 @@
                      "section": "Kotlin",
                      "entries": [
                         {
+                           "url": "https://devhints.io/kotlin",
+                           "title": "Kotlin Cheat Sheet",
+                           "author": "Devhints",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf",
                            "title": "Kotlin Cheatsheet and Quick Reference",
                            "author": "Ray Wenderlich",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://kotlinlang.org/docs/kotlin-reference.pdf",
+                           "title": "Kotlin Quick Reference",
+                           "author": "JetBrains",
                            "notes": [
                               "PDF"
                            ]
@@ -71767,6 +72014,22 @@
                            ]
                         },
                         {
+                           "url": "https://zerotomastery.io/cheatsheets/business-analytics-cheat-sheet/",
+                           "title": "Business Analytics with Python Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2",
+                           "title": "Comprehensive Python Cheat Sheet for Beginners",
+                           "author": "Rishi Sidhu, Medium",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://gto76.github.io/python-cheatsheet",
                            "title": "Comprehensive Python Cheatsheet",
                            "author": "Jure Šorn",
@@ -71823,6 +72086,14 @@
                            "url": "https://overapi.com/python",
                            "title": "Python Cheat Sheet",
                            "author": "OverAPI"
+                        },
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/python-cheat-sheet/",
+                           "title": "Python Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.geeksforgeeks.org/python-cheat-sheet",
@@ -72358,8 +72629,16 @@
                      "entries": [
                         {
                            "url": "https://www.jrebel.com/blog/spring-annotations-cheat-sheet",
-                           "title": "Spring Boot Cheatsheet",
+                           "title": "Spring Annotations Cheat Sheet",
                            "author": "JRebel"
+                        },
+                        {
+                           "url": "https://github.com/RohanVishwakarma001/Spring-Boot-Complete-Cheat-sheet",
+                           "title": "Spring Boot Complete Cheat Sheet",
+                           "author": "Rohan Vishwakarma",
+                           "notes": [
+                              "Markdown"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -72394,6 +72673,14 @@
                            "author": "Dataquest.io",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/sql-cheat-sheet/",
+                           "title": "SQL Cheat Sheet",
+                           "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -72484,6 +72771,14 @@
                            "url": "https://rmolinamir.github.io/typescript-cheatsheet/",
                            "title": "TypeScript Cheat Sheet",
                            "author": "Robert Molina",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/",
+                           "title": "TypeScript Cheat Sheet",
+                           "author": "ZeroToMastery",
                            "notes": [
                               "HTML"
                            ]
@@ -74352,10 +74647,6 @@
                      "section": "ClojureScript",
                      "entries": [
                         {
-                           "url": "https://clojurescript.io",
-                           "title": "Replumb REPL"
-                        },
-                        {
                            "url": "http://clojurescript.net",
                            "title": "Web REPL"
                         }
@@ -74596,6 +74887,10 @@
                      "section": "Java",
                      "entries": [
                         {
+                           "url": "https://www.adaface.com/online-compiler/online-java-compiler",
+                           "title": "Ada Face"
+                        },
+                        {
                            "url": "https://www.interviewbit.com/online-java-compiler/",
                            "title": "InterviewBit - Online Java Compiler IDE"
                         },
@@ -74610,6 +74905,10 @@
                         {
                            "url": "https://www.jdoodle.com/online-java-compiler/",
                            "title": "JDoodle - Online Java Compiler IDE"
+                        },
+                        {
+                           "url": "https://nextleap.app/online-compiler/java-programming",
+                           "title": "NextLeap"
                         },
                         {
                            "url": "https://onecompiler.com/java",
@@ -75093,8 +75392,20 @@
                      "section": "Rust",
                      "entries": [
                         {
+                           "url": "https://codapi.org/rust",
+                           "title": "Codapi"
+                        },
+                        {
+                           "url": "https://www.rustexplorer.com",
+                           "title": "Rust Explorer"
+                        },
+                        {
                            "url": "https://play.rust-lang.org",
                            "title": "Rust Playground"
+                        },
+                        {
+                           "url": "https://www.rustfinity.com/playground",
+                           "title": "Rustfinity"
                         }
                      ],
                      "subsections": []
