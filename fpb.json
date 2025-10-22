@@ -18187,6 +18187,14 @@
                      "section": "Octave",
                      "entries": [
                         {
+                           "url": "https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf",
+                           "title": "Introduction to GNU Octave",
+                           "author": "jason Lachniet",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://en.wikibooks.org/wiki/Octave_Programming_Tutorial",
                            "title": "Octave Programming",
                            "author": "Wikibooks"
@@ -45787,6 +45795,11 @@
                            "url": "https://www.codecademy.com/learn/learn-c-sharp",
                            "title": "Learn C#",
                            "author": "Codecademy"
+                        },
+                        {
+                           "url": "https://csharp-book.softuni.org",
+                           "title": "Programming Basics with C#",
+                           "author": "Svetlin Nakov, Team"
                         }
                      ],
                      "subsections": []
@@ -48796,6 +48809,14 @@
                            "author": "Tech2 etc"
                         },
                         {
+                           "url": "https://www.javascripttutorial.net",
+                           "title": "JavaScript Tutorial",
+                           "author": "Anthony Pham",
+                           "notes": [
+                              "javascripttutorial.net"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46",
                            "title": "JavaScript Tutorial for Beginners",
                            "author": "ProgrammingWithHarry"
@@ -48850,6 +48871,11 @@
                            "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
                            "title": "Learn JavaScript - Full Course for Beginners",
                            "author": "Beau Carnes, freeCodeCamp.org"
+                        },
+                        {
+                           "url": "https://www.programiz.com/javascript",
+                           "title": "Learn JavaScript - Programiz",
+                           "author": "Programiz"
                         },
                         {
                            "url": "https://scrimba.com/learn/learnjavascript",
@@ -61368,6 +61394,11 @@
                            "url": "https://youtube.com/playlist?list=PLBKJGko2JEdF4irCbI5BdHIEfxEdfMNqA",
                            "title": "javascript tutorial in malayalam",
                            "author": "Tintu Vlogger"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPvjxHx5Kob2xn4eANiHRPSJmfqj3DMeo",
+                           "title": "javaScript tutorial for beginners malayalam",
+                           "author": "Wezlon"
                         }
                      ],
                      "subsections": [
