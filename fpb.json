@@ -1749,9 +1749,10 @@
                            ]
                         },
                         {
-                           "url": "https://java-tutorial.org/index.php",
+                           "url": "https://web.archive.org/web/20230805211306/https://java-tutorial.org/index.php",
                            "title": "Java Tutorial - Java lernen leicht gemacht",
-                           "author": "Björn und Britta Petri"
+                           "author": "Björn und Britta Petri",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf",
@@ -7338,6 +7339,17 @@
                            "notes": [
                               "HTML, PDF"
                            ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Swift",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b",
+                           "title": "Swift Bahasa Indonesia",
+                           "author": "Ipung DEV Academy"
                         }
                      ],
                      "subsections": []
@@ -15218,6 +15230,16 @@
                            ]
                         },
                         {
+                           "url": "https://www.cs.southern.edu/halterman/oopj.pdf",
+                           "title": "Object-Oriented Programming in JavaTM Textbook",
+                           "author": "Richard L. Halterman",
+                           "notes": [
+                              "draft",
+                              "PDF",
+                              "CC"
+                           ]
+                        },
+                        {
                            "url": "http://pub.bruckner.cz/titles/oop",
                            "title": "OOP - Learn Object Oriented Thinking & Programming",
                            "author": "Rudolf Pecinovsky",
@@ -20419,6 +20441,11 @@
                            "url": "https://r.geocompx.org",
                            "title": "Geocomputation with R",
                            "author": "Robin Lovelace, Jakub Nowosad, Jannes Muenchow"
+                        },
+                        {
+                           "url": "https://rstudio-education.github.io/hopr/",
+                           "title": "Hands-On Programming with R",
+                           "author": "Garrett Grolemund"
                         },
                         {
                            "url": "https://github.com/gjkerns/IPSUR",
@@ -32212,6 +32239,16 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://link.springer.com/book/10.1007/978-981-19-0920-7",
+                           "title": "Modern Cryptography Volume 1: A Classical Introduction",
+                           "author": "Zhiyong Zheng, Kun Tian, Fengxia Liu"
+                        },
+                        {
+                           "url": "https://link.springer.com/book/10.1007/978-981-19-7644-5",
+                           "title": "Modern Cryptography Volume 2: A Classical Introduction",
+                           "author": "Zhiyong Zheng, Kun Tian, Fengxia Liu"
                         },
                         {
                            "url": "https://www.open.edu/openlearn/digital-computing/network-security/altformat-printable",
@@ -45254,6 +45291,11 @@
                                  ]
                               },
                               {
+                                 "url": "https://microsoft.github.io/generative-ai-for-beginners/",
+                                 "title": "Generative AI for Beginners",
+                                 "author": "Microsoft"
+                              },
+                              {
                                  "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
                                  "title": "Generative AI for Beginners (.NET Edition)",
                                  "author": "Microsoft",
@@ -46340,7 +46382,12 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU",
                            "title": "CUDA Crash Course",
-                           "author": "CoffeeBeforeArch"
+                           "author": "Nick"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru",
+                           "title": "CUDA Programming Course -- Parallel Computing using Nvidia GPUs",
+                           "author": "Learn Computer Science"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s",
@@ -48015,6 +48062,11 @@
                            "author": "Florin Pop"
                         },
                         {
+                           "url": "https://www.codecademy.com/article/f1-u2-create-first-prj",
+                           "title": "Create Your First Local HTML/CSS Project",
+                           "author": "CodeAcademy"
+                        },
+                        {
                            "url": "https://www.udemy.com/css-flexbox-mastering-the-basics/",
                            "title": "CSS Flexbox - Mastering the Basics",
                            "author": "Vishwas Gopinath",
@@ -48426,6 +48478,12 @@
                            ]
                         },
                         {
+                           "url": "https://www.codecademy.com/learn/java-introduction",
+                           "title": "Intro To Java",
+                           "author": "CodeAcademy",
+                           "accessNotes": "Need to create a CodeAcademy account to access"
+                        },
+                        {
                            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/",
                            "title": "Introduction to Java"
                         },
@@ -48579,6 +48637,12 @@
                            "url": "https://www.learnhowtoprogram.com/java-june-2017",
                            "title": "Learn how to program: Java",
                            "author": "Epicodus Inc."
+                        },
+                        {
+                           "url": "https://www.codecademy.com/learn/learn-java",
+                           "title": "Learn Java",
+                           "author": "CodeAcademy",
+                           "accessNotes": "Need to create a CodeAcademy account to access"
                         },
                         {
                            "url": "https://www.programiz.com/java-programming",
@@ -50260,6 +50324,12 @@
                      "section": "Lua",
                      "entries": [
                         {
+                           "url": "https://www.codecademy.com/learn/learn-lua",
+                           "title": "Learn Lua",
+                           "author": "CodeAcademy",
+                           "accessNotes": "Need to create a CodeAcademy account to access"
+                        },
+                        {
                            "url": "http://tylerneylon.com/a/learn-lua/",
                            "title": "Learn Lua in 15 Minutes",
                            "author": "Tyler Neylon",
@@ -50800,7 +50870,8 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC",
-                           "title": "Perl Tutorial"
+                           "title": "Perl Tutorial",
+                           "author": "The Bad Tutorials"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16",
@@ -55269,11 +55340,6 @@
                      "section": "Bash and Shell",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM",
-                           "title": "Bash Basic Commands",
-                           "author": "Noob Coders"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD",
                            "title": "Bash Scripting | Complete Course In Hindi",
                            "author": "ENCODERSPRO"
@@ -55284,14 +55350,19 @@
                            "author": "Fortify Solutions"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe",
-                           "title": "Bash Shell Scripting (NOOB)",
-                           "author": "Noob Coders"
+                           "url": "https://www.youtube.com/playlist?list=PLZqV_M3p_p10yhNExLIKj497ZkdUz1KuB",
+                           "title": "Shell Scripting and Bash Programming for Beginners In Hindi",
+                           "author": "LogicOps Lab - Hindi"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL",
                            "title": "shell scripting complete tutorial in hindi",
                            "author": "Cybersploit"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLlfy9GnSVerQu-uL0AdI3O5VzUmIv5pPf",
+                           "title": "Shell Scripting For DevOps 2024 (Hindi)",
+                           "author": "TrainWithShubham"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr",
@@ -55302,6 +55373,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd",
                            "title": "SHELL SCRIPTING Tutorial For Beginners",
                            "author": "M Prashant"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL6UwySlcwEYIZGsbXnUxsojD0yeUA67lb",
+                           "title": "Unix Shell Scripting Full Course",
+                           "author": "AmpCode"
                         }
                      ],
                      "subsections": []
@@ -57824,6 +57900,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLCZlgfAG0GXDOP6M6q981yyEG0PDcVyGq",
+                           "title": "Belajar Android Untuk Pemula",
+                           "author": "Sekolah Koding"
+                        },
+                        {
                            "url": "https://www.dicoding.com/academies/14",
                            "title": "Belajar Fundamental Aplikasi Android",
                            "author": "Dicoding, membutuhkan registrasi"
@@ -57890,6 +57971,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL53uJBBtLf5ChsCZp26yEcDQu5ujfhsM8",
                            "title": "Belajar Framework Bootstrap 5",
                            "author": "Ngoding Pintar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLCZlgfAG0GXC5wPjJGj1LvFaVK2cbN2GQ",
+                           "title": "Belajar menggunakan bootstrap",
+                           "author": "Sekolah Koding"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLce3Eyp7oY9-o3JavSawkXcazJSYx7KAf",
@@ -58458,6 +58544,11 @@
                   {
                      "section": "JavaScript",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLCZlgfAG0GXBD2nko3bXRs-JSDNA8tNvq",
+                           "title": "Belajar Angular JS",
+                           "author": "Sekolah Koding"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR",
                            "title": "Belajar es6 - javacsript gaya baru",
@@ -59215,6 +59306,11 @@
                   {
                      "section": "Flask",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL8q4s70ndvwfD1Nbrl5iYsgSWVStCXo5h",
+                           "title": "Belajar Membuat Website Dengan Flask Python",
+                           "author": "Riffa Media"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R",
                            "title": "Membuat website dengan Flask",
@@ -61300,6 +61396,17 @@
                            "url": "https://www.youtube.com/playlist?list=PLQzJEzrRmXOW7pKbwpicijzUdxZmDgqNL",
                            "title": "Git Tutorial - Malayalam",
                            "author": "Code Malayalam"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Go",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=S7Dfsky1bZ4",
+                           "title": "Golang: Complete Tutorial in മലയാളം for Beginners",
+                           "author": "CodeEase with Anu"
                         }
                      ],
                      "subsections": []
@@ -63477,6 +63584,11 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL",
+                                 "title": "Curso de Vue 3",
+                                 "author": "Matheus Battisti - Hora de Codar"
+                              },
+                              {
                                  "url": "https://www.udemy.com/course/introducao-ao-vue-js/",
                                  "title": "Introdução ao Vue JS",
                                  "author": "Rafael Rend",
@@ -64419,6 +64531,11 @@
                            "author": "CodeShow"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLGtFJAmtESz-V5p-svTX34bGQvNuXEpHE",
+                           "title": "Curso Rust Básico",
+                           "author": "Linguagem Rust"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf",
                            "title": "Programando do 0 ao avançado na linguagem de programação Rust",
                            "author": "Lanby 0xff3 λ"
@@ -64538,6 +64655,11 @@
                            "author": "Tiago Aguiar"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLTl7hsEfhCWVx6os_oOHpJF_YrJmRnIQk",
+                           "title": "Curso de Swift Básico",
+                           "author": "Novos Negócios em TIC"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC",
                            "title": "Curso grátis Swift e SwiftUI",
                            "author": "Filipe Deschamps"
@@ -64552,6 +64674,16 @@
                            "url": "https://www.youtube.com/playlist?list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U",
                            "title": "Curso completo de Typescript",
                            "author": "Rincko Dev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm",
+                           "title": "Curso de React com Typescript",
+                           "author": "Lucas Souza Dev"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLx4x_zx8csUhtPMrkiGvFJVE5LX8Qat5s",
+                           "title": "Curso de Typescript",
+                           "author": "CFBCursos"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_",
@@ -64652,12 +64784,22 @@
                            "author": "Descomplicando Sites"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLR9X8pL__UdiA1wMB02jndrD1d2kffu1o",
+                           "title": "Curso de WordPress 2025: Como Criar um do zero",
+                           "author": "Curso WordPress Definitivo"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2",
                            "title": "Curso de WordPress: Criando um site do zero",
                            "author": "Gustavo Guanabara",
                            "notes": [
                               "Curso em Vídeo"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLSAqMrdVsnTabS-6FQPcr3LcF-UzEA7Co",
+                           "title": "Curso WordPress na prática",
+                           "author": "HostGator Brasil"
                         }
                      ],
                      "subsections": []
@@ -70945,6 +71087,14 @@
                            ]
                         },
                         {
+                           "url": "https://helm.sh/docs/intro/cheatsheet/",
+                           "title": "Helm Cheat Sheet for Kubernetes",
+                           "author": "Helm Documentation",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.mirantis.com/blog/kubernetes-cheat-sheet/",
                            "title": "Kubernetes Cheat Sheet",
                            "author": "Nick Chase",
@@ -75718,6 +75868,10 @@
                            "title": "beecrowd"
                         },
                         {
+                           "url": "https://bigfrontend.dev",
+                           "title": "BigFrontEnd.dev"
+                        },
+                        {
                            "url": "https://hsin.hr/coci/",
                            "title": "COCI"
                         },
@@ -75796,6 +75950,10 @@
                         {
                            "url": "http://ipsc.ksp.sk",
                            "title": "Internet Problem Solving Contest"
+                        },
+                        {
+                           "url": "https://jscodebox.com",
+                           "title": "JSCodebox"
                         },
                         {
                            "url": "http://jagc.org",
