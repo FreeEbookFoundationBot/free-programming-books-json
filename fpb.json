@@ -318,6 +318,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://git-scm.com/book/az/v2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub",
+                           "notes": [
+                              "HTML, PDF, EPUB"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "HTML",
                      "entries": [
                         {
@@ -401,6 +415,20 @@
                            "url": "https://cpp-book.softuni.bg",
                            "title": "Основи на програмирането със C++",
                            "author": "Светлин Наков и колектив"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://git-scm.com/book/bg/v2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub",
+                           "notes": [
+                              "HTML, PDF, EPUB"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -2329,6 +2357,20 @@
                            "notes": [
                               "PDF",
                               "CC BY-NC-SA"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://git-scm.com/book/gr/v2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub",
+                           "notes": [
+                              "HTML, PDF, EPUB, MOBI"
                            ]
                         }
                      ],
@@ -12539,6 +12581,14 @@
                            ]
                         },
                         {
+                           "url": "https://automaticaddison.com/cpp-fundamentals-for-robotics",
+                           "title": "C++ Fundamentals for Robotics",
+                           "author": "Automatic Addison",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf",
                            "title": "C++ GUI Programming With Qt 3",
                            "author": "Jasmin Blanchette, Mark Summerfield",
@@ -15940,6 +15990,16 @@
                            ]
                         },
                         {
+                           "url": "https://drops-of-javascript.hi-folks.dev",
+                           "title": "Some drops of JavaScript",
+                           "author": "Roberto Butti",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ],
+                           "accessNotes": " :construction: in process"
+                        },
+                        {
                            "url": "https://exploringjs.com/es5/",
                            "title": "Speaking JavaScript",
                            "author": "Axel Rauschmayer",
@@ -16416,6 +16476,11 @@
                                  "notes": [
                                     "Traversy Media"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/watch?v=1WmNXEVia8I",
+                                 "title": "Next.js for Beginners - Full Course",
+                                 "author": "freeCodeCamp.org"
                               },
                               {
                                  "url": "https://flaviocopes.com/page/nextjs-handbook/",
@@ -17142,6 +17207,14 @@
                            "url": "http://lwn.net/Kernel/LDD3/",
                            "title": "Linux Device Drivers, Third Edition",
                            "author": "Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman"
+                        },
+                        {
+                           "url": "https://learning.lpi.org/en/learning-materials/010-160/",
+                           "title": "Linux Essentials - Version: 1.6",
+                           "author": "Linux Professional Institute",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://www.linuxfromscratch.org/lfs/view/stable/",
@@ -21275,6 +21348,14 @@
                            ]
                         },
                         {
+                           "url": "https://doc.sagemath.org/html/en/tutorial/",
+                           "title": "Sage Tutorial",
+                           "author": "William Stein",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://www.sagemath.org/doc/",
                            "title": "The Sage Manuals"
                         }
@@ -23196,6 +23277,20 @@
                            "url": "https://nl.wikibooks.org/wiki/Programmeren_in_COBOL",
                            "title": "Programmeren in COBOL",
                            "author": "Wikibooks"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://git-scm.com/book/nl/v2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub",
+                           "notes": [
+                              "HTML, PDF, EPUB"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -27365,6 +27460,14 @@
                      ]
                   }
                ]
+            },
+            {
+               "language": {
+                  "code": "sl",
+                  "name": "Slovenian"
+               },
+               "index": {},
+               "sections": []
             },
             {
                "language": {
@@ -39966,6 +40069,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLHA9dlpmDGwJJO2Q6eR60R7tjMidaEFY5",
+                           "title": "M1 Podcast",
+                           "author": "Startup Life",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://jovemnerd.com.br/playlist/nerdtech",
                            "title": "NerdTech (Jovem Nerd)",
                            "notes": [
@@ -49259,9 +49370,19 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB",
+                                 "title": "jQuery - Beau teaches JavaScript",
+                                 "author": "FreeCodeCamp.org"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc",
                                  "title": "jQuery Crash Course",
                                  "author": "Brad Traversy, Traversy Media"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL0eyrZgxdwhy7byLHsVkuhtRV_IpoJU7n",
+                                 "title": "jQuery Tutorials",
+                                 "author": "Dani Krossing"
                               }
                            ]
                         }
@@ -50376,6 +50497,11 @@
                            ]
                         },
                         {
+                           "url": "https://www.codecademy.com/learn/build-ml-pipelines-course",
+                           "title": "Build a Machine Learning Pipeline",
+                           "author": "Codecademy"
+                        },
+                        {
                            "url": "https://work.caltech.edu/telecourse.html",
                            "title": "Caltech's Learning From data"
                         },
@@ -51294,6 +51420,13 @@
                            ]
                         },
                         {
+                           "url": "https://edube.org/study/pe1",
+                           "title": "Python Essentials 1",
+                           "notes": [
+                              "Edube Interactive"
+                           ]
+                        },
+                        {
                            "url": "https://alison.com/course/python-for-beginners",
                            "title": "Python for Beginners",
                            "author": "Merul Dhiman",
@@ -51473,6 +51606,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB",
                            "title": "Python Tutorials",
                            "author": "freeCodeCamp.org"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL8HmoRTjTSlHFhqRC_2iavGUOVnUdfAyl",
+                           "title": "Python: Visually Explained",
+                           "author": "Visually Explained"
                         },
                         {
                            "url": "https://docs.python.org/3/tutorial/",
@@ -66718,6 +66856,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Docker",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLFoX_td1iTj-ATh48yU4qudcsLPi2kzv0",
+                           "title": "Docker Complete Course in Telugu",
+                           "author": "NextOps Videos"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Ethical Hacking",
                      "entries": [
                         {
@@ -74240,6 +74389,14 @@
                            "author": "Scaler Topics"
                         },
                         {
+                           "url": "https://www.pythontutorial.net",
+                           "title": "Python Tutorial",
+                           "author": "Anthony Pham",
+                           "notes": [
+                              "pythontutorial.net"
+                           ]
+                        },
+                        {
                            "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
                            "title": "Scientific Computing with Python Certification",
                            "author": "freeCodeCamp"
@@ -74407,6 +74564,14 @@
                            "url": "https://www.w3schools.com/MySQL/",
                            "title": "MySQL Tutorial",
                            "author": "W3Schools"
+                        },
+                        {
+                           "url": "https://www.mysqltutorial.org",
+                           "title": "MySQL Tutorial",
+                           "author": "Anthony Pham",
+                           "notes": [
+                              "mysqltutorial.org"
+                           ]
                         },
                         {
                            "url": "https://selectstarsql.com",
