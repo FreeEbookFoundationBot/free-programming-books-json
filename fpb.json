@@ -11185,7 +11185,7 @@
                      "section": "Agda",
                      "entries": [
                         {
-                           "url": "http://people.inf.elte.hu/divip/AgdaTutorial/Index.html",
+                           "url": "https://people.inf.elte.hu/divip/AgdaTutorial/Index.html",
                            "title": "Agda Tutorial"
                         },
                         {
@@ -11200,7 +11200,7 @@
                      "section": "Alef",
                      "entries": [
                         {
-                           "url": "http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref",
+                           "url": "https://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref",
                            "title": "Alef Language Reference Manual"
                         }
                      ],
@@ -11224,7 +11224,7 @@
                            "manualReviewRequired": true
                         },
                         {
-                           "url": "http://www.tutorialspoint.com/android/",
+                           "url": "https://www.tutorialspoint.com/android/",
                            "title": "Android Tutorial",
                            "author": "Tutorials Point",
                            "notes": [
@@ -11245,7 +11245,7 @@
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
                         },
                         {
-                           "url": "http://www.vogella.com/tutorials/android.html",
+                           "url": "https://www.vogella.com/tutorials/android.html",
                            "title": "Expert Android and Eclipse development knowledge"
                         },
                         {
@@ -11278,7 +11278,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL",
+                           "url": "https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL",
                            "title": "Introduction to College Mathematics with A Programming Language (1978)",
                            "author": "E. J. LeCuyer",
                            "notes": [
@@ -11294,7 +11294,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.dyalog.com/mastering-dyalog-apl.htm",
+                           "url": "https://www.dyalog.com/mastering-dyalog-apl.htm",
                            "title": "Mastering Dyalog APL",
                            "notes": [
                               "PDF, HTML, IPYNB"
@@ -11385,7 +11385,7 @@
                            "title": "Introduction to Arduino"
                         },
                         {
-                           "url": "http://www.introtoarduino.com",
+                           "url": "https://www.introtoarduino.com",
                            "title": "Introduction to Arduino : A piece of cake!",
                            "author": "Alan G. Smith"
                         },
@@ -11548,7 +11548,7 @@
                            "accessNotes": " :construction: in process"
                         },
                         {
-                           "url": "http://www.davidsalomon.name/assem.advertis/asl.pdf",
+                           "url": "https://www.davidsalomon.name/assem.advertis/asl.pdf",
                            "title": "Assemblers And Loaders (1993)",
                            "author": "David Salomon",
                            "notes": [
@@ -11564,7 +11564,7 @@
                            ]
                         },
                         {
-                           "url": "http://pacman128.github.io/pcasm/",
+                           "url": "https://pacman128.github.io/pcasm/",
                            "title": "PC Assembly Language",
                            "author": "P. A. Carter",
                            "notes": [
@@ -11581,11 +11581,11 @@
                            ]
                         },
                         {
-                           "url": "http://www.ctyme.com/rbrown.htm",
+                           "url": "https://www.ctyme.com/rbrown.htm",
                            "title": "Ralf Brown's Interrupt List"
                         },
                         {
-                           "url": "http://www.agner.org/optimize/",
+                           "url": "https://www.agner.org/optimize/",
                            "title": "Software optimization resources",
                            "author": "A. Fog"
                         },
@@ -11651,7 +11651,7 @@
                                  ]
                               },
                               {
-                                 "url": "http://skilldrick.github.io/easy6502/",
+                                 "url": "https://skilldrick.github.io/easy6502/",
                                  "title": "Easy 6502",
                                  "author": "Nick Morgan"
                               },
@@ -11669,14 +11669,14 @@
                                  ]
                               },
                               {
-                                 "url": "http://chortle.ccsu.edu/AssemblyTutorial/index.html",
+                                 "url": "https://chortle.ccsu.edu/AssemblyTutorial/index.html",
                                  "title": "Programmed Introduction to MIPS Assembly Language",
                                  "notes": [
                                     "CC BY-NC"
                                  ]
                               },
                               {
-                                 "url": "http://www.atariarchives.org/2bml/",
+                                 "url": "https://www.atariarchives.org/2bml/",
                                  "title": "The Second Book of Machine Language"
                               }
                            ]
@@ -11687,7 +11687,7 @@
                      "section": "AutoHotkey",
                      "entries": [
                         {
-                           "url": "http://ahkscript.github.io/ahkbook/index.html",
+                           "url": "https://ahkscript.github.io/ahkbook/index.html",
                            "title": "AHKbook - the book for AutoHotkey"
                         },
                         {
@@ -11721,7 +11721,7 @@
                            "title": "Autotools Mythbuster"
                         },
                         {
-                           "url": "http://sourceware.org/autobook/",
+                           "url": "https://sourceware.org/autobook/",
                            "title": "GNU Autoconf, Automake and Libtool"
                         }
                      ],
@@ -11760,7 +11760,7 @@
                      "section": "Bash",
                      "entries": [
                         {
-                           "url": "http://tldp.org/LDP/abs/html/",
+                           "url": "https://tldp.org/LDP/abs/html/",
                            "title": "Advanced Bash-Scripting Guide",
                            "author": "M. Cooper",
                            "notes": [
@@ -11768,7 +11768,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.tldp.org/LDP/Bash-Beginners-Guide/html/",
+                           "url": "https://www.tldp.org/LDP/Bash-Beginners-Guide/html/",
                            "title": "Bash Guide for Beginners (2008)",
                            "author": "M. Garrels",
                            "notes": [
@@ -11776,7 +11776,7 @@
                            ]
                         },
                         {
-                           "url": "http://goalkicker.com/BashBook/",
+                           "url": "https://goalkicker.com/BashBook/",
                            "title": "Bash Notes for Professionals",
                            "author": "Compiled from StackOverflow documentation",
                            "notes": [
@@ -11784,7 +11784,7 @@
                            ]
                         },
                         {
-                           "url": "http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html",
+                           "url": "https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html",
                            "title": "BASH Programming (2000)",
                            "author": "Mike G.",
                            "notes": [
@@ -11808,7 +11808,7 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://mywiki.wooledge.org/BashGuide",
+                           "url": "https://mywiki.wooledge.org/BashGuide",
                            "title": "BashGuide",
                            "author": "Maarten Billemont",
                            "notes": [
@@ -11853,7 +11853,7 @@
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
                         },
                         {
-                           "url": "http://www.hypexr.org/bash_tutorial.php",
+                           "url": "https://www.hypexr.org/bash_tutorial.php",
                            "title": "Getting Started with BASH",
                            "notes": [
                               "HTML"
@@ -11915,7 +11915,7 @@
                            ]
                         },
                         {
-                           "url": "http://slackbook.org",
+                           "url": "https://slackbook.org",
                            "title": "Slackbook (2005)",
                            "author": "Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson",
                            "notes": [
@@ -11923,7 +11923,7 @@
                            ]
                         },
                         {
-                           "url": "http://guide.bash.academy",
+                           "url": "https://guide.bash.academy",
                            "title": "The Bash Academy",
                            "author": "Maarten Billemont",
                            "notes": [
@@ -11931,7 +11931,7 @@
                            ]
                         },
                         {
-                           "url": "http://linuxcommand.org/tlcl.php",
+                           "url": "https://linuxcommand.org/tlcl.php",
                            "title": "The Linux Command Line",
                            "author": "William E. Shotts Jr.",
                            "notes": [
@@ -11948,7 +11948,7 @@
                            ]
                         },
                         {
-                           "url": "http://linuxcommand.org/lc3_writing_shell_scripts.php",
+                           "url": "https://linuxcommand.org/lc3_writing_shell_scripts.php",
                            "title": "Writing Shell Scripts",
                            "author": "William E. Shotts Jr.",
                            "notes": [
@@ -11962,12 +11962,12 @@
                      "section": "Basic",
                      "entries": [
                         {
-                           "url": "http://10print.org",
+                           "url": "https://10print.org",
                            "title": "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
                            "author": "Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter"
                         },
                         {
-                           "url": "http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf",
+                           "url": "https://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf",
                            "title": "A beginner's guide to Gambas",
                            "author": "John W. Rittinghouse",
                            "notes": [
@@ -11987,7 +11987,7 @@
                      "section": "BeanShell",
                      "entries": [
                         {
-                           "url": "http://www.beanshell.org/manual/bshmanual.pdf",
+                           "url": "https://www.beanshell.org/manual/bshmanual.pdf",
                            "title": "Beanshell Simple Java Scripting Manual",
                            "author": "beanshell.org",
                            "notes": [
@@ -11995,7 +11995,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.beanshell.org/manual/bshmanual.html",
+                           "url": "https://www.beanshell.org/manual/bshmanual.html",
                            "title": "BeanShell User's Manual",
                            "author": "beanshell.org",
                            "notes": [
@@ -12068,12 +12068,12 @@
                            "otherLinks": [
                               {
                                  "title": "PDF",
-                                 "url": "http://umanovskis.se/files/arm-baremetal-ebook.pdf"
+                                 "url": "https://umanovskis.se/files/arm-baremetal-ebook.pdf"
                               }
                            ]
                         },
                         {
-                           "url": "http://beej.us/guide/bgc/",
+                           "url": "https://beej.us/guide/bgc/",
                            "title": "Beej's Guide to C Programming",
                            "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
@@ -12082,7 +12082,7 @@
                            ]
                         },
                         {
-                           "url": "http://beej.us/guide/bggdb/",
+                           "url": "https://beej.us/guide/bggdb/",
                            "title": "Beej's Guide to the GNU Debugger (GDB)",
                            "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
@@ -12110,7 +12110,7 @@
                            "author": "Steve Oualline"
                         },
                         {
-                           "url": "http://www.cburch.com/books/cpy/",
+                           "url": "https://www.cburch.com/books/cpy/",
                            "title": "C for Python Programmers",
                            "author": "Carl Burch"
                         },
@@ -12161,7 +12161,7 @@
                            "author": "B. Venkatesh, L. Angrave, et al."
                         },
                         {
-                           "url": "http://www.slideshare.net/olvemaudal/deep-c",
+                           "url": "https://www.slideshare.net/olvemaudal/deep-c",
                            "title": "Deep C"
                         },
                         {
@@ -12178,8 +12178,12 @@
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
                         },
                         {
-                           "url": "http://boredzo.org/pointers/",
-                           "title": "Everything you need to know about pointers in C - Peter Hosey"
+                           "url": "https://boredzo.org/pointers/",
+                           "title": "Everything you need to know about pointers in C ",
+                           "author": "Peter Hosey",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://research.utwente.nl/files/5128727/book.pdf",
@@ -12274,7 +12278,7 @@
                            ]
                         },
                         {
-                           "url": "http://publications.gbdirect.co.uk/c_book/",
+                           "url": "https://publications.gbdirect.co.uk/c_book/",
                            "title": "The C book",
                            "author": "Mike Banahan, Declan Brady, Mark Doran",
                            "notes": [
@@ -12322,7 +12326,7 @@
                            ]
                         },
                         {
-                           "url": "http://littleosbook.github.io",
+                           "url": "https://littleosbook.github.io",
                            "title": "The little book about OS development",
                            "author": "Erik Helin, Adam Renberg"
                         },
@@ -12335,7 +12339,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.coranac.com/tonc/text/toc.htm",
+                           "url": "https://www.coranac.com/tonc/text/toc.htm",
                            "title": "TONC GBA Programming - Game Boy Advance Development"
                         }
                      ],
@@ -45423,6 +45427,11 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.codecademy.com/learn/intro-to-generative-ai",
+                                 "title": "Intro to Generative AI",
+                                 "author": "Codecademy"
+                              },
+                              {
                                  "url": "https://learn.activeloop.ai/courses/langchain",
                                  "title": "LangChain & Vector Databases in Production",
                                  "author": "Activeloop",
@@ -51255,6 +51264,11 @@
                            "notes": [
                               "GeeksForGeeks"
                            ]
+                        },
+                        {
+                           "url": "https://www.codecademy.com/learn/getting-started-with-python-for-data-science",
+                           "title": "Getting Started with Python for Data Science",
+                           "author": "Codecademy"
                         },
                         {
                            "url": "https://developers.google.com/edu/python/",
@@ -74870,6 +74884,10 @@
                         {
                            "url": "https://algorithm-visualizer.org",
                            "title": "The Algorithm Visualizer"
+                        },
+                        {
+                           "url": "https://visualgo.net/en",
+                           "title": "visualising data structures and algorithms through animation"
                         }
                      ],
                      "subsections": []
@@ -75060,6 +75078,10 @@
                      "section": "ClojureScript",
                      "entries": [
                         {
+                           "url": "https://www.jdoodle.com/execute-clojure-online",
+                           "title": "Online Clojure IDE"
+                        },
+                        {
                            "url": "http://clojurescript.net",
                            "title": "Web REPL"
                         }
@@ -75227,6 +75249,11 @@
                      "section": "HTML and CSS",
                      "entries": [
                         {
+                           "url": "https://build.layoutit.com",
+                           "title": "Bootstrap Builder",
+                           "author": "Layoutit"
+                        },
+                        {
                            "url": "https://codepen.io",
                            "title": "CodePen"
                         },
@@ -75253,6 +75280,15 @@
                            "author": "Codepip"
                         },
                         {
+                           "url": "https://grid.layoutit.com",
+                           "title": "Grid Generator",
+                           "author": "LayoutIt"
+                        },
+                        {
+                           "url": "https://html-css-js.com",
+                           "title": "HTML-CSS-JS"
+                        },
+                        {
                            "url": "https://www.codinguru.online/compiler/html",
                            "title": "HTML, CSS, JavaScript"
                         },
@@ -75270,6 +75306,16 @@
                            "url": "https://livecodes.io",
                            "title": "LiveCode",
                            "author": "LiveCode"
+                        },
+                        {
+                           "url": "https://www.codechef.com/html-online-compiler",
+                           "title": "Online HTML / CSS Editor",
+                           "author": "CodeChef"
+                        },
+                        {
+                           "url": "https://www.programiz.com/html/online-compiler",
+                           "title": "Online HTML Editor",
+                           "author": "Programiz"
                         },
                         {
                            "url": "https://playcode.io",
@@ -75389,6 +75435,11 @@
                         {
                            "url": "https://www.codinguru.online/compiler/javascript",
                            "title": "JavaScript Compiler"
+                        },
+                        {
+                           "url": "https://www.programiz.com/javascript/online-compiler",
+                           "title": "JavaScript Online Compiler",
+                           "author": "Programiz"
                         },
                         {
                            "url": "https://jsbin.com",
