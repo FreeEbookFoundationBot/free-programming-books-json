@@ -8189,6 +8189,14 @@
                            "title": "Pensare da Informatico, Versione Python"
                         },
                         {
+                           "url": "https://github.com/AllenDowney/ThinkPythonItalian",
+                           "title": "Pensare in Python",
+                           "author": "Allen B. Downey,",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf",
                            "title": "Python per tutti: Esplorare dati con Python3",
                            "author": "Charles Russell Severance",
@@ -14830,6 +14838,14 @@
                            "author": "Boris Smus"
                         },
                         {
+                           "url": "https://learning.lpi.org/en/learning-materials/030-100/",
+                           "title": "Web Development Essentials",
+                           "author": "by Linux Professional Institute",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://leanpub.com/web-visual-effects-with-css3/read",
                            "title": "Web Visual Effects with CSS3",
                            "author": "Thomas Mak"
@@ -17214,7 +17230,7 @@
                         },
                         {
                            "url": "https://learning.lpi.org/en/learning-materials/010-160/",
-                           "title": "Linux Essentials - Version: 1.6",
+                           "title": "Linux Essentials",
                            "author": "Linux Professional Institute",
                            "notes": [
                               "PDF"
@@ -28330,6 +28346,14 @@
                            ]
                         },
                         {
+                           "url": "https://people.csail.mit.edu/nhm/cam-book.pdf",
+                           "title": "Cellular Automata Machines",
+                           "author": "Norman Margolus, Tommaso Toffoli",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/",
                            "title": "Introduction to the Modeling and Analysis of Complex Systems",
                            "author": "Hiroki Sayama",
@@ -31548,6 +31572,14 @@
                            "title": "Open Advice: FOSS: What We Wish We Had Known When We Started"
                         },
                         {
+                           "url": "https://learning.lpi.org/en/learning-materials/050-100/",
+                           "title": "Open Source Essentials",
+                           "author": "by Linux Professional Institute",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.oreilly.com/ideas/open-source-in-brazil",
                            "title": "Open source in Brazil",
                            "author": "Andy Oram"
@@ -31951,6 +31983,14 @@
                            "url": "https://cs.brown.edu/~sk/Publications/Books/ProgLangs/",
                            "title": "Programming Languages: Application and Interpretation (2nd Edition)",
                            "author": "Shriram Krishnamurthi"
+                        },
+                        {
+                           "url": "https://www.plai.org/3/5/plai-v325.pdf",
+                           "title": "Programming Languages: Application and Interpretation (3rd Edition)",
+                           "author": "Shiriram Krishnamurthi",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://web.mit.edu/6.001/6.037/sicp.pdf",
@@ -32405,6 +32445,14 @@
                         {
                            "url": "https://www.cl.cam.ac.uk/~rja14/book.html",
                            "title": "Security Engineering"
+                        },
+                        {
+                           "url": "https://learning.lpi.org/en/learning-materials/020-100/",
+                           "title": "Security Essentials",
+                           "author": "by Linux Professional Institute",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://joyofcryptography.com/pdf/book.pdf",
@@ -45385,6 +45433,11 @@
                            "section": "Generative AI",
                            "entries": [
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC",
+                                 "title": "AI Agents for Beginners",
+                                 "author": "Microsoft Developer"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8",
                                  "title": "CS236: Deep Generative Models",
                                  "author": "Stefano Ermon",
@@ -46217,6 +46270,14 @@
                                  ]
                               },
                               {
+                                 "url": "https://www.youtube.com/watch?v=5JTBS09e7ew",
+                                 "title": "AWS CloudOps Engineer Associate Certification Course",
+                                 "author": "Andrew Brown",
+                                 "notes": [
+                                    "FreeCodeCamp"
+                                 ]
+                              },
+                              {
                                  "url": "https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep",
                                  "title": "AWS Power Hour: Architecting",
                                  "author": "AWS"
@@ -46502,7 +46563,7 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU",
                            "title": "CUDA Crash Course",
-                           "author": "Nick"
+                           "author": "CoffeeBeforeArch"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru",
@@ -47243,6 +47304,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak",
                            "title": "DevOps Bootcamp",
                            "author": "Kunal Kushwaha"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs",
+                           "title": "DevOps Courses",
+                           "author": "FreeCodeCamp"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=H5FAxTBuNM8",
@@ -50611,6 +50677,11 @@
                            "author": "Google for Developers"
                         },
                         {
+                           "url": "https://www.udacity.com/course/machine-learning-interview-prep--ud1001",
+                           "title": "Machine Learning Interview Preparation",
+                           "author": "Udacity"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal",
                            "title": "Machine Learning Recipes with Josh Gordon",
                            "author": "Google for Developers"
@@ -51970,6 +52041,11 @@
                            "author": "Google"
                         },
                         {
+                           "url": "https://training.linuxfoundation.org/express-learning/getting-started-with-rust-lfel1002/",
+                           "title": "Getting Started with Rust (LFEL1002)",
+                           "author": "The Linux Foundation"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW",
                            "title": "Intro to Rust",
                            "author": "Tensor Programming"
@@ -51983,6 +52059,11 @@
                            "url": "https://www.educative.io/courses/learn-rust-from-scratch",
                            "title": "Learn Rust from scratch",
                            "author": "Educative.io"
+                        },
+                        {
+                           "url": "https://academy.jetbrains.com/course/16631-learn-rust",
+                           "title": "Learn Rust Programming",
+                           "author": "Jetbrains Academy"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLai5B987bZ9BnS7dBlTF9HRop55vYUL7r",
@@ -55090,6 +55171,11 @@
                            "author": "CodeWithHarry"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLf0LpPWikpPfA_vez2NndnYuQy6WkpTzc",
+                           "title": "Data Structures and Algorithms Course in Hindi using C",
+                           "author": "DataFlair"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy",
                            "title": "Data Structures and Algorithms for GATE — Complete Playlist",
                            "author": "Gate CSE lectures by Amit Khurana"
@@ -55448,6 +55534,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6",
                            "title": "Generative AI Series - Showcasing Generative AI By Building Projects",
                            "author": "CodeWithHarry"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0",
+                           "title": "Generative AI using LangChain",
+                           "author": "CampusX"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty",
@@ -57604,6 +57695,11 @@
                            "author": "Data is Good"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0",
+                           "title": "Python Language Full Course (2025-26)",
+                           "author": "Shradha Khapra"
+                        },
+                        {
                            "url": "https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi",
                            "title": "Python Programming in Hindi",
                            "notes": [
@@ -57973,11 +58069,6 @@
                      "section": "TypeScript",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx",
-                           "title": "Typescript in Hindi",
-                           "author": "Code Step By Step"
-                        },
-                        {
                            "url": "https://www.youtube.com/watch?v=F5pjG-sP0c8",
                            "title": "Typescript in Hindi | Crash Course | Coders Gyan",
                            "author": "Coder's Gyan"
@@ -58181,6 +58272,11 @@
                   {
                      "section": "<a id=\"csharp\">",
                      "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLYMJJHENUMwwiL91VnHhqV_Zy1LANgNVc",
+                           "title": "Belajar C# C-Sharp Lengkap",
+                           "author": "Tech Tawar"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb",
                            "title": "Belajar Pemrograman C#",
@@ -70618,6 +70714,14 @@
                      "section": "Artificial Intelligence",
                      "entries": [
                         {
+                           "url": "https://medium.com/@anushka.datascoop/101-gen-ai-cheat-sheets-831e17f1e6a7",
+                           "title": "101 Gen-AI Cheat Sheets",
+                           "author": "Anushka",
+                           "notes": [
+                              "Medium"
+                           ]
+                        },
+                        {
                            "url": "https://www.theverge.com/24201441/ai-terminology-explained-humans",
                            "title": "AI is confusing — here’s your cheat sheet",
                            "notes": [
@@ -71390,6 +71494,11 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
+                           "url": "https://www.geeksforgeeks.org/git/git-cheat-sheet",
+                           "title": "Git Cheat Sheet",
+                           "author": "Geeksforgeeks"
+                        },
+                        {
                            "url": "https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e",
                            "title": "Git Cheat Sheet (id)",
                            "author": "Reyhan Alhafizal",
@@ -71660,6 +71769,11 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://www.geeksforgeeks.org/html/html-cheat-sheet",
+                           "title": "HTML CheatSheet",
+                           "author": "Geeksforgeeks"
                         },
                         {
                            "url": "https://devhints.io/sass",
@@ -72103,6 +72217,14 @@
                                  "url": "https://devhints.io/react-router",
                                  "title": "React-router Cheatsheet",
                                  "author": "Devhints.io",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://react-typescript-cheatsheet.netlify.app/docs/basic/setup",
+                                 "title": "React TypeScript Cheat Sheet",
+                                 "author": "TypeScript Cheatsheets",
                                  "notes": [
                                     "HTML"
                                  ]
@@ -73365,6 +73487,11 @@
                      "section": "Bash",
                      "entries": [
                         {
+                           "url": "https://www.w3schools.com/bash/",
+                           "title": "Bash Tutorial",
+                           "author": "W3Schools"
+                        },
+                        {
                            "url": "https://explainshell.com",
                            "title": "Help messages will explain everything",
                            "author": "explainshell"
@@ -73946,6 +74073,11 @@
                            "title": "Learn JavaScript"
                         },
                         {
+                           "url": "https://code-basics.com/languages/javascript",
+                           "title": "Learn JavaScript: Online Course for Free",
+                           "author": "Code Basics"
+                        },
+                        {
                            "url": "http://learn.knockoutjs.com",
                            "title": "Learn knockout.js"
                         },
@@ -74279,6 +74411,10 @@
                   {
                      "section": "PHP",
                      "entries": [
+                        {
+                           "url": "https://code-basics.com/languages/php",
+                           "title": "CodeBasics PHP"
+                        },
                         {
                            "url": "https://www.codecademy.com/learn/php",
                            "title": "CodeCademy PHP"
@@ -74632,6 +74768,11 @@
                   {
                      "section": "XML",
                      "entries": [
+                        {
+                           "url": "https://www.tutorialspoint.com/xml/index.htm",
+                           "title": "XML Tutorial",
+                           "author": "TutorialsPoint"
+                        },
                         {
                            "url": "https://www.w3schools.com/xml",
                            "title": "XML Tutorial",
@@ -75060,10 +75201,6 @@
                            "title": "LabStack"
                         },
                         {
-                           "url": "https://www.codinguru.online/compiler/cpp",
-                           "title": "Online C++ Compiler"
-                        },
-                        {
                            "url": "https://www.onlinegdb.com/online_c++_compiler",
                            "title": "OnlineGDB"
                         },
@@ -75207,10 +75344,6 @@
                      "section": "Go",
                      "entries": [
                         {
-                           "url": "https://www.codinguru.online/compiler/go",
-                           "title": "GO Lang Compiler"
-                        },
-                        {
                            "url": "https://play.golang.org",
                            "title": "Go Playground"
                         },
@@ -75289,10 +75422,6 @@
                            "title": "HTML-CSS-JS"
                         },
                         {
-                           "url": "https://www.codinguru.online/compiler/html",
-                           "title": "HTML, CSS, JavaScript"
-                        },
-                        {
                            "url": "https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css",
                            "title": "Learn advanced html and css",
                            "author": "The Odin Project"
@@ -75352,10 +75481,6 @@
                         {
                            "url": "https://www.interviewbit.com/online-java-compiler/",
                            "title": "InterviewBit - Online Java Compiler IDE"
-                        },
-                        {
-                           "url": "https://www.codinguru.online/compiler/java",
-                           "title": "Java Compiler"
                         },
                         {
                            "url": "https://www.jdoodle.com/online-java-compiler-ide/",
@@ -75431,10 +75556,6 @@
                         {
                            "url": "https://www.interviewbit.com/online-javascript-compiler/",
                            "title": "InterviewBit - Online JavaScript Compiler IDE"
-                        },
-                        {
-                           "url": "https://www.codinguru.online/compiler/javascript",
-                           "title": "JavaScript Compiler"
                         },
                         {
                            "url": "https://www.programiz.com/javascript/online-compiler",
@@ -75517,16 +75638,6 @@
                         {
                            "url": "https://labex.io/tutorials/linux-online-linux-playground-372915",
                            "title": "Online Linux Terminal and Playground"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Markdown",
-                     "entries": [
-                        {
-                           "url": "https://www.codinguru.online/compiler/markdown",
-                           "title": "Markdown Editor"
                         }
                      ],
                      "subsections": []
@@ -75633,10 +75744,6 @@
                            "title": "ExtendsClass"
                         },
                         {
-                           "url": "https://www.codinguru.online/compiler/php",
-                           "title": "PHP Online Compiler"
-                        },
-                        {
                            "url": "https://phphub.net/sandbox/",
                            "title": "PHPHub"
                         },
@@ -75685,10 +75792,6 @@
                            "title": "Pynative.com"
                         },
                         {
-                           "url": "https://www.codinguru.online/compiler/python",
-                           "title": "Python Online Compilers"
-                        },
-                        {
                            "url": "https://programiz.pro/ide/python",
                            "title": "Python Playground",
                            "author": "Programiz PRO"
@@ -75731,10 +75834,6 @@
                         {
                            "url": "http://www.r-fiddle.org",
                            "title": "R-Fiddle"
-                        },
-                        {
-                           "url": "https://www.codinguru.online/compiler/R",
-                           "title": "R Online Editors"
                         },
                         {
                            "url": "https://rextester.com/l/r_online_compiler",
