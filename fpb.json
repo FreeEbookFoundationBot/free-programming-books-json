@@ -34570,11 +34570,15 @@
                         },
                         {
                            "url": "http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1",
-                           "title": "Docker入门实战"
+                           "title": "Docker 入门实战"
                         },
                         {
                            "url": "https://github.com/widuu/chinese_docker",
-                           "title": "Docker中文指南"
+                           "title": "Docker 中文指南"
+                        },
+                        {
+                           "url": "https://book.bsdcn.org",
+                           "title": "FreeBSD 从入门到跑路"
                         },
                         {
                            "url": "http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/",
@@ -40864,6 +40868,14 @@
                            "url": "https://ai-podden.se",
                            "title": "AI-Podden",
                            "author": "Ather Gattami, Bitynamics, Cloudberry",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://asdf.pizza",
+                           "title": "Asdf",
+                           "author": "Therése Komstadius, Anton Gunnarsson",
                            "notes": [
                               "podcast"
                            ]
@@ -47985,6 +47997,11 @@
                            "notes": [
                               "Programming with Mosh"
                            ]
+                        },
+                        {
+                           "url": "https://skills.github.com",
+                           "title": "GitHub Skills",
+                           "author": "GitHub"
                         },
                         {
                            "url": "https://www.coursera.org/learn/introduction-git-github",
@@ -67107,6 +67124,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN",
                            "title": "JavaScript in Telugu || JavaScript in Telugu by Kotha Abhishek",
                            "author": "Chintu Tutorials"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpp0qTynBRqlfMUd_-A65HQ8gAZ-evWLR",
+                           "title": "Javascript Full Course In Telugu For Beginners To Pro",
+                           "author": "Deekshitha Tech Talks"
                         }
                      ],
                      "subsections": [
@@ -67284,6 +67306,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw",
                            "title": "Python Course in Telugu: 30 days challenge",
                            "author": "Vamsi Bhavani"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2Kd-KQLppEF2rENam5gUQnslbfpRyLxR",
+                           "title": "Python Full Course in Telugu with Notes",
+                           "author": "Dodagatta Nihar"
                         }
                      ],
                      "subsections": []
@@ -67321,6 +67348,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1",
                            "title": "Sql tutorials in telugu - sql video tutorials - sql tutorials for beginners telugu",
                            "author": "VLR Training"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLpp0qTynBRqljESSL111GPBRK-_xXLuYL",
+                           "title": "SQL Full Course in Telugu",
+                           "author": "Deekshitha Tech Talks"
                         }
                      ],
                      "subsections": []
@@ -72573,7 +72605,7 @@
                         {
                            "url": "https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet",
                            "title": "Numpy Pandas Cheat Sheet",
-                           "author": "Kaggle",
+                           "author": "Lavanya Shukl",
                            "notes": [
                               "HTML"
                            ]
@@ -72587,7 +72619,7 @@
                            ]
                         },
                         {
-                           "url": "https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf",
+                           "url": "https://scouv.lisn.upsaclay.fr/python-memento/memento-python3-en-latest.pdf",
                            "title": "Python 3 Cheat Sheet",
                            "author": "Laurent Pointal",
                            "notes": [
@@ -72597,14 +72629,17 @@
                         {
                            "url": "https://www.codewithharry.com/blogpost/python-cheatsheet",
                            "title": "Python Cheat Sheet",
-                           "author": "Code With Harry"
+                           "author": "Code With Harry",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://websitesetup.org/python-cheat-sheet/",
                            "title": "Python Cheat Sheet",
                            "author": "WebsiteSetup",
                            "notes": [
-                              "HTML, PDF, PNG"
+                              "PDF"
                            ]
                         },
                         {
@@ -72618,23 +72653,29 @@
                         {
                            "url": "https://overapi.com/python",
                            "title": "Python Cheat Sheet",
-                           "author": "OverAPI"
+                           "author": "OverAPI",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://zerotomastery.io/cheatsheets/python-cheat-sheet/",
                            "title": "Python Cheat Sheet",
                            "author": "ZeroToMastery",
                            "notes": [
-                              "HTML"
+                              "HTML, PDF"
                            ]
                         },
                         {
                            "url": "https://www.geeksforgeeks.org/python-cheat-sheet",
-                           "title": "Python Cheat sheet (2024)",
-                           "author": "GeeksforGeeks"
+                           "title": "Python Cheat sheet (2025)",
+                           "author": "GeeksforGeeks",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
-                           "url": "https://ehmatthes.github.io/pcc/cheatsheets/README.html",
+                           "url": "https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/README.md",
                            "title": "Python Crash Course Cheatsheet",
                            "author": "Eric Matthes",
                            "notes": [
@@ -72644,6 +72685,14 @@
                         {
                            "url": "https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/",
                            "title": "Python Crash Course Cheatsheet (2nd Edition)",
+                           "author": "Eric Matthes",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://ehmatthes.github.io/pcc_3e/cheat_sheets/",
+                           "title": "Python Crash Course Cheatsheet (3rd Edition)",
                            "author": "Eric Matthes",
                            "notes": [
                               "PDF"
@@ -72662,7 +72711,7 @@
                            "title": "Python for Data Science - A Cheat Sheet for Beginners",
                            "author": "DataCamp",
                            "notes": [
-                              "PDF"
+                              "PDF, HTML"
                            ]
                         },
                         {
@@ -72684,9 +72733,9 @@
                         {
                            "url": "https://cheatography.com/davechild/cheat-sheets/python/",
                            "title": "Python WorldWide Cheatsheet",
-                           "author": "Cheatography",
+                           "author": "Dave Child",
                            "notes": [
-                              "Python"
+                              "PDF, HTML, LaTex"
                            ]
                         },
                         {
@@ -72710,7 +72759,7 @@
                            "title": "Shiny for Python Cheat Sheet",
                            "author": "Posit",
                            "notes": [
-                              "HTML/PDF"
+                              "HTML, PDF"
                            ]
                         }
                      ],
@@ -73513,14 +73562,25 @@
                            "author": "W3Schools"
                         },
                         {
-                           "url": "https://www.scaler.com/topics/c/",
-                           "title": "C Tutorial",
-                           "author": "Scaler Topics"
+                           "url": "https://www.tutlane.com/tutorial/csharp",
+                           "title": "C# Tutorial",
+                           "author": "tutlane"
                         },
                         {
-                           "url": "http://www.learn-c.org",
-                           "title": "Learn C",
-                           "author": "Learn-C"
+                           "url": "https://www.w3schools.com/cs",
+                           "title": "C# Tutorial",
+                           "author": "W3Schools"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Artificial Intelligence",
+                     "entries": [
+                        {
+                           "url": "https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/",
+                           "title": "Generative AI tutorial",
+                           "author": "GeeksforGeeks"
                         }
                      ],
                      "subsections": []
@@ -74302,6 +74362,11 @@
                      "section": "LaTeX",
                      "entries": [
                         {
+                           "url": "https://www.tutorialspoint.com/latex/index.htm",
+                           "title": "LaTeX Tutorial",
+                           "author": "TutorialsPoint"
+                        },
+                        {
                            "url": "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes",
                            "title": "Learn LaTeX in 30 minutes"
                         }
@@ -74314,6 +74379,11 @@
                         {
                            "url": "https://github.com/google/lisp-koans",
                            "title": "Lisp Koans"
+                        },
+                        {
+                           "url": "https://www.tutorialspoint.com/lisp/index.htm",
+                           "title": "Lisp Tutorial",
+                           "author": "TutorialsPoint"
                         }
                      ],
                      "subsections": []
@@ -74340,6 +74410,11 @@
                         {
                            "url": "http://www.mathworks.com/tutorials",
                            "title": "Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics"
+                        },
+                        {
+                           "url": "https://www.tutorialspoint.com/matlab/index.htm",
+                           "title": "MATLAB Tutorial",
+                           "author": "TutorialsPoint"
                         }
                      ],
                      "subsections": []
