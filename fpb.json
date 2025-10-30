@@ -11065,6 +11065,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "SQL",
+                     "entries": [
+                        {
+                           "url": "https://wikidocs.net/book/18461",
+                           "title": "처음 시작하는 MySQL — 입문자를 위한 데이터베이스 기초",
+                           "author": "최종명"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "TypeScript",
                      "entries": [
                         {
@@ -45476,6 +45487,11 @@
                                  "author": "Microsoft"
                               },
                               {
+                                 "url": "https://github.com/microsoft/Generative-AI-for-beginners-java",
+                                 "title": "Generative AI for Beginners - Java Edition",
+                                 "author": "Microsoft"
+                              },
+                              {
                                  "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
                                  "title": "Generative AI for Beginners (.NET Edition)",
                                  "author": "Microsoft",
@@ -47318,7 +47334,7 @@
                            "author": "Kunal Kushwaha"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs",
+                           "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF",
                            "title": "DevOps Courses",
                            "author": "FreeCodeCamp"
                         },
@@ -48108,7 +48124,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa",
+                           "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD",
                            "title": "Let's go with golang",
                            "author": "Hitesh Choudhary"
                         }
@@ -48837,7 +48853,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.learnhowtoprogram.com/java-june-2017",
+                           "url": "https://www.learnhowtoprogram.com/java",
                            "title": "Learn how to program: Java",
                            "author": "Epicodus Inc."
                         },
@@ -48987,7 +49003,7 @@
                            "author": "Mattias Petter Johansson «Fun Fun Function»"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A",
+                           "url": "https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq",
                            "title": "Gentle Introduction to JavaScript",
                            "author": "Deborah Kurata"
                         },
@@ -49056,11 +49072,6 @@
                            "notes": [
                               "Udemy"
                            ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLRKOqqzwh75hcG_D4xjUgbg_BAF3MLtoh",
-                           "title": "JavaScript Leetcode",
-                           "author": "Endeavour Monk"
                         },
                         {
                            "url": "https://www.udemy.com/course/javascript-essentials-mini-course/",
@@ -74743,6 +74754,11 @@
                         {
                            "url": "https://tourofrust.com",
                            "title": "Tour of Rust"
+                        },
+                        {
+                           "url": "https://www.w3schools.com/rust",
+                           "title": "W3Schools Rust Tutorial",
+                           "author": "W3Schools"
                         }
                      ],
                      "subsections": []
@@ -75822,6 +75838,11 @@
                         {
                            "url": "https://extendsclass.com/php.html",
                            "title": "ExtendsClass"
+                        },
+                        {
+                           "url": "https://3v4l.org",
+                           "title": "Online PHP editor",
+                           "author": "3v4l"
                         },
                         {
                            "url": "https://phphub.net/sandbox/",
