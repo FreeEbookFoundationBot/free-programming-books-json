@@ -11297,7 +11297,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL",
+                           "url": "https://softwarepreservation.computerhistory.org/apl/book/CollegeMathematicswithAPL.pdf",
                            "title": "Introduction to College Mathematics with A Programming Language (1978)",
                            "author": "E. J. LeCuyer",
                            "notes": [
@@ -12513,6 +12513,14 @@
                            "url": "https://docs.microsoft.com/en-us/dotnet/architecture/porting-existing-aspnet-apps/",
                            "title": "Porting Existing ASP.NET Apps to .NET 6",
                            "author": "Steve \"ardalis\" Smith"
+                        },
+                        {
+                           "url": "https://csharp-book.softuni.org",
+                           "title": "Programming Basics with C#",
+                           "author": "Svetlin Nakov et al.",
+                           "notes": [
+                              "HTML, PDF, EPUB"
+                           ]
                         },
                         {
                            "url": "http://www.albahari.com/threading/",
@@ -18657,6 +18665,14 @@
                            "title": "PHP: The Right Way"
                         },
                         {
+                           "url": "https://www.tutorialspoint.com/php/",
+                           "title": "PHP Tutorial",
+                           "author": "Tutorials Point",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "http://www.hackingwithphp.com",
                            "title": "Practical PHP Programming"
                         },
@@ -19352,14 +19368,6 @@
                            "url": "https://www.programming-books.io/essential/python/",
                            "title": "Essential Python",
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
-                        },
-                        {
-                           "url": "https://lyz-code.github.io/blue-book/fastapi/",
-                           "title": "FastAPI — The Blue Book",
-                           "author": "Luis López",
-                           "notes": [
-                              "HTML"
-                           ]
                         },
                         {
                            "url": "https://www.fullstackpython.com",
@@ -20269,6 +20277,37 @@
                            ]
                         },
                         {
+                           "section": "FastAPI",
+                           "entries": [
+                              {
+                                 "url": "https://lyz-code.github.io/blue-book/fastapi/",
+                                 "title": "FastAPI — The Blue Book",
+                                 "author": "Luis López",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://fastapi.tiangolo.com",
+                                 "title": "FastAPI Documentation",
+                                 "author": "Sebastián Ramírez",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
+                                 "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+                                 "title": "Full Stack FastAPI and PostgreSQL",
+                                 "author": "Sebastián Ramírez"
+                              },
+                              {
+                                 "url": "https://testdriven.io/blog/topics/fastapi",
+                                 "title": "TestDriven.io FastAPI Tutorials",
+                                 "author": "Michael Herman et al."
+                              }
+                           ]
+                        },
+                        {
                            "section": "Flask",
                            "entries": [
                               {
@@ -21137,13 +21176,7 @@
                               {
                                  "url": "https://www.railstutorial.org/book",
                                  "title": "Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails",
-                                 "author": "",
-                                 "otherLinks": [
-                                    {
-                                       "title": "Michael Hartl",
-                                       "url": "http://www.michaelhartl.com"
-                                    }
-                                 ]
+                                 "author": "Michael Hartl"
                               },
                               {
                                  "url": "https://github.com/alindeman/upgradingtorails4",
@@ -21669,14 +21702,11 @@
                         },
                         {
                            "url": "http://www.scheme.com/tspl3/",
-                           "title": "The Scheme Programming Language: Edition 3",
-                           "author": "",
-                           "otherLinks": [
-                              {
-                                 "title": "The Scheme Programming Language: Edition 4",
-                                 "url": "http://www.scheme.com/tspl4/"
-                              }
-                           ]
+                           "title": "The Scheme Programming Language: Edition 3"
+                        },
+                        {
+                           "url": "http://www.scheme.com/tspl4/",
+                           "title": "The Scheme Programming Language: Edition 4"
                         },
                         {
                            "url": "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours",
@@ -21692,11 +21722,6 @@
                         {
                            "url": "http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/",
                            "title": "Introduction to Scilab"
-                        },
-                        {
-                           "url": "https://www.tutorialspoint.com/php/",
-                           "title": "PHP tutorial",
-                           "author": "Tutorialspoint"
                         },
                         {
                            "url": "http://forge.scilab.org/index.php/p/docprogscilab/downloads/",
@@ -25022,6 +25047,15 @@
                   {
                      "section": "Julia",
                      "entries": [
+                        {
+                           "url": "https://juliaintro.github.io/JuliaIntroBR.jl/index.html",
+                           "title": "Introdução à programação em Julia",
+                           "author": "Ben Lauwens, Allen Downey,",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC 3.0"
+                           ]
+                        },
                         {
                            "url": "https://github.com/J-AugustoManzano/LivroLinJulia",
                            "title": "Programação de Computadores com Linguagem Julia",
@@ -45340,12 +45374,22 @@
                            "author": "nptelhrd"
                         },
                         {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1",
+                           "title": "Augment your LLM Using Retrieval Augmented Generation",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=WZeZZ8_W-M4",
                            "title": "AWS Certified AI Practitioner (AIF-C01)",
                            "author": "Andrew Brown",
                            "notes": [
                               "FreeCodeCamp"
                            ]
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1",
+                           "title": "Building RAG Agents with LLMs",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://huggingface.co/learn/computer-vision-course",
@@ -45482,6 +45526,11 @@
                                  ]
                               },
                               {
+                                 "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1",
+                                 "title": "Generative AI Explained",
+                                 "author": "NVIDIA Deep Learning Institute"
+                              },
+                              {
                                  "url": "https://microsoft.github.io/generative-ai-for-beginners/",
                                  "title": "Generative AI for Beginners",
                                  "author": "Microsoft"
@@ -45504,8 +45553,13 @@
                                  "title": "Generative AI for beginners with JavaScript",
                                  "author": "Microsoft",
                                  "notes": [
-                                    "Github"
+                                    "GitHub"
                                  ]
+                              },
+                              {
+                                 "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-HX-03+V1",
+                                 "title": "Getting Started with NVIDIA Tools for Generative AI in Digital Health",
+                                 "author": "NVIDIA Deep Learning Institute"
                               },
                               {
                                  "url": "https://www.codecademy.com/learn/intro-to-generative-ai",
@@ -45804,6 +45858,11 @@
                            "url": "https://cryptozombies.io",
                            "title": "CryptoZombies.io",
                            "author": "CleverFlare, Loom Network"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-29+V1",
+                           "title": "Decentralized AI at Scale with NVIDIA Flare",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://www.alchemy.com/university/courses/ethereum",
@@ -46233,6 +46292,11 @@
                            "author": "Neil Anderson"
                         },
                         {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-53+V1",
+                           "title": "Building AI-Powered Material Generation for Omniverse With DGX Cloud",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLROvODCYkEM8xUk8R2T79KbZ7YfCXMbZS",
                            "title": "Cloud Computing (CC)",
                            "author": "OU Education"
@@ -46516,6 +46580,11 @@
                            "author": "My Lesson"
                         },
                         {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-12+V1",
+                           "title": "How to Build a Native OpenUSD XR Application",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
                            "url": "https://www.coursera.org/learn/ar",
                            "title": "Introduction to Augmented Reality and ARCore",
                            "author": "Daydream"
@@ -46588,6 +46657,11 @@
                   {
                      "section": "Cuda",
                      "entries": [
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-AC-01+V1",
+                           "title": "An Even Easier Introduction to CUDA",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU",
                            "title": "CUDA Crash Course",
@@ -46662,6 +46736,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=c-ydMfJNfyY",
+                           "title": "Dart Programming Tutorial - Full Course - Project Based",
+                           "author": "Mahdi Mirzadeh",
+                           "notes": [
+                              "YouTube"
+                           ]
+                        },
+                        {
                            "url": "https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter",
                            "title": "Dart Programming Tutorial | Learn the Dart for Flutter",
                            "notes": [
@@ -46695,6 +46777,11 @@
                   {
                      "section": "Data Science",
                      "entries": [
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1",
+                           "title": "Accelerate Data Science Workflows with Zero Code Changes",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
                         {
                            "url": "https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/",
                            "title": "Advanced Data Mining with Weka MOOC"
@@ -46858,6 +46945,11 @@
                            "notes": [
                               "edX HarvardX"
                            ]
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-28+V1",
+                           "title": "Introduction to Federated Learning with NVIDIA FLARE",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=ua-CiDNNj30",
@@ -47144,6 +47236,16 @@
                            "url": "https://course.spacy.io",
                            "title": "Advanced NLP using spaCy",
                            "author": "Ines Montani"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-40+V1",
+                           "title": "Build a Deep Research Agent",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1",
+                           "title": "Building A Brain in 10 Minutes",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi",
@@ -47743,6 +47845,11 @@
                            "author": "Any Learn Nepal"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLEUWOGLuqAyW03voorKM06F2_QF8TlcNu",
+                           "title": "FORTRAN Tutorials Series for Beginners",
+                           "author": "Rameshwar Ingalkar"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L",
                            "title": "Fortran Video Tutorials",
                            "author": "Cyprien Rusu"
@@ -48159,6 +48266,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur",
                            "title": "Graph Theory - DM",
                            "author": "SCCI Labs IIT Ropar"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn",
+                           "title": "Graph Theory part-1",
+                           "author": "Sarada Herke"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P",
@@ -50937,8 +51049,33 @@
                            "author": "Adi Purdila"
                         },
                         {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1",
+                           "title": "An Introduction to Developing With NVIDIA Omniverse",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-49+V1",
+                           "title": "Assembling Your First Digital Twin With Omniverse and OpenUSD",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
                            "url": "http://nptel.ac.in/courses/106106090/",
                            "title": "Computer Graphics"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-16+V1",
+                           "title": "Creating an Omniverse Extension With Python",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-02+V1",
+                           "title": "Develop, Customize, and Publish in Omniverse With Extensions",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-13+V1",
+                           "title": "Extend Omniverse Kit Applications for Building Digital Twins",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology",
@@ -50947,6 +51084,21 @@
                            "notes": [
                               " :card_file_box: *archived*"
                            ]
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-15+V1",
+                           "title": "Fundamentals of Working With OpenUSD",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2",
+                           "title": "Getting Started with AI on Jetson Nano",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-23+V1",
+                           "title": "Introduction to NVIDIA NIM™ Microservices",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://qiskit.org/learn/intro-qc-qh",
@@ -50961,6 +51113,11 @@
                         {
                            "url": "http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm",
                            "title": "MIT Numerical Methods (2014)"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-HX-04+V1",
+                           "title": "Streamlining Drug Discovery with NVIDIA BioNeMo NIM Microservices and Blueprints",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=6avJHaC3C2U",
@@ -51265,7 +51422,7 @@
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PLE1CU6EebvTD29gsHo1djsKU7J5Dtp0Bn",
-                           "title": "Learning motion control and IO with Beckhoff TwinCAT PLCs",
+                           "title": "Learning motion control and IO with Beckhoff TwinCdAT PLCs",
                            "author": "Evan Jensen"
                         },
                         {
@@ -51284,6 +51441,11 @@
                   {
                      "section": "Processing",
                      "entries": [
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-ES-01+V1",
+                           "title": "Disaster Risk Monitoring Using Satellite Imagery",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
                         {
                            "url": "https://thecodingtrain.com/tracks/learning-processing",
                            "title": "Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction",
@@ -51379,6 +51541,11 @@
                            "notes": [
                               "MIT's opencourseware"
                            ]
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-27+V1",
+                           "title": "Introduction to Multi-Modal Data Curation",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python",
@@ -51656,13 +51823,6 @@
                            "author": "Sundeep Saradhi Kanthety",
                            "notes": [
                               "Tutorials Point"
-                           ]
-                        },
-                        {
-                           "url": "https://www.geeksforgeeks.org/python-programming-language/",
-                           "title": "Python Programming Language",
-                           "notes": [
-                              "Geeks for Geeks"
                            ]
                         },
                         {
@@ -51977,9 +52137,44 @@
                      "section": "Robotics",
                      "entries": [
                         {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-35+V1",
+                           "title": "A Beginner's Guide to Autonomous Robots",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "http://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-34+V1",
+                           "title": "An Introduction to AI-Based Robot Development With Isaac ROS",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-36+V1",
+                           "title": "An Introduction to Robot Learning and Isaac Lab",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-38+V1",
+                           "title": "Develop, Simulate, and Deploy Robot Intelligence With Scaled Foundations",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-31+V1",
+                           "title": "Developing Robots With Software-in-the-Loop (SIL) In Isaac Sim",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLhLbJ9UoJCvtlCNamtuDay41AG0JhQBKU",
                            "title": "Free Robotics Course For School Students Certified Course By Coding Blocks Junior",
                            "author": "CodingBlocks Junior"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-37+V1",
+                           "title": "Generating High-Quality Motion Data for Robotics With MobilityGen",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-27+V1",
+                           "title": "Getting Started: Simulating Your First Robot in Isaac Sim",
+                           "author": "NVIDIA Deep Learning Institute"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz",
@@ -51987,9 +52182,44 @@
                            "author": "Shawn Hymel, Digi-Key"
                         },
                         {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-32+V1",
+                           "title": "Leveraging ROS 2 and Hardware-in-the-Loop (HIL) in Isaac Sim",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt",
                            "title": "Robotics 1",
                            "author": "A. De Luca"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-39+V1",
+                           "title": "Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-30+V1",
+                           "title": "Synthetic Data Generation for Perception Model Training in Isaac Sim",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-46+V1",
+                           "title": "Train Your First Robot in Isaac Lab",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-47+V1",
+                           "title": "Train Your Second Robot in Isaac Lab",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-52+V1",
+                           "title": "Training Healthcare Robotics From Scratch Using Isaac for Healthcare",
+                           "author": "NVIDIA Deep Learning Institute"
+                        },
+                        {
+                           "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-28+V1",
+                           "title": "Transferring Robot Learning Policies From Simulation to Reality",
+                           "author": "NVIDIA Deep Learning Institute"
                         }
                      ],
                      "subsections": []
@@ -52166,6 +52396,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm",
                            "title": "PySpark - Zero to Hero | PySpark Tutorial 2025 | Spark Tutorial 2025 | Learn from Basics to Advanced Performance Optimization",
                            "author": "Ease With Data"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=_C8kWso4ne4",
+                           "title": "PySpark Tutorial - Full Course",
+                           "author": "freeCodeCamp.org"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=zC9cnh8rJd0",
@@ -52516,6 +52751,11 @@
                            "author": "Coding Simplified"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLpxM6m39X_t-Rk9lZVVD4U6JycAAIIEDW",
+                           "title": "Low Level Design + MultiThreading Course",
+                           "author": "codeWithAryan"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLsdq-3Z1EPT27BuTnJ_trF7BsaTpYLqst",
                            "title": "System Design",
                            "author": "Arpit Bhayani"
@@ -52539,6 +52779,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3",
                            "title": "System Design Interview Preparation Series",
                            "author": "codeKarle"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT",
+                           "title": "System Design Playlist",
+                           "author": "Coder Army"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a",
@@ -55927,6 +56172,11 @@
                         {
                            "section": "AWS",
                            "entries": [
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PL0tP8lerTbX3mKdZYfJwXcKf6SOfmQcgl",
+                                 "title": "AWS For Beginners Playlist [HINDI]",
+                                 "author": "M Prashant"
+                              },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9",
                                  "title": "AWS Tutorial for Beginners In Hindi",
@@ -66883,6 +67133,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLC2mgeYbYNm-n8Iz-_3MuNsJFzr0UlGUu",
                            "title": "C Language Tutorials",
                            "author": "Telugu Computer World"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLD7HLs2NCdoUiJir3Kqdqs6OX07oFdcgT",
+                           "title": "C Language Full Course in Telugu",
+                           "author": "College Coders"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLS8lzSv6JRJ0naiWKSsE15A2sPNufLat1",
+                           "title": "C Programming",
+                           "author": "Swaroop Talks"
                         }
                      ],
                      "subsections": []
@@ -66989,6 +67249,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9",
                            "title": "Java + DSA Course From scratch in Telugu",
                            "author": "engineering animuthyam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjzLBp9HHZWiJrhfJzTAEbwdpQIfUXtwP",
+                           "title": "PYTHON + DSA in Telugu For Free",
+                           "author": "engineering animuthyam"
                         }
                      ],
                      "subsections": []
@@ -67016,6 +67281,11 @@
                            "url": "https://www.youtube.com/watch?v=C5ig8YxRHUM",
                            "title": "Ethical Hacking Tutorial in Telugu | Ethical Hacking Course | Edureka Telugu",
                            "author": "edureka! Telugu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLEeX7rNQmSN1SVzjuNcMWYLmKidFfqC0r",
+                           "title": "Ethical Hacking and Cybersecurity",
+                           "author": "ACEP Tech in Telugu"
                         }
                      ],
                      "subsections": []
@@ -67042,6 +67312,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLv_sM9ZH4RUVjmxTl5PysFSxJ6VQbdnRc",
                            "title": "CSS Tutorials in telugu || CSS in Telugu by Kotha Abhishek",
                            "author": "Chintu Tutorials"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLMVcNCMUfcCHbRJwgH4VdEIAosKVLxJ1p",
+                           "title": "CSS Course",
+                           "author": "PurnaChandra Bandaru"
                         }
                      ],
                      "subsections": []
@@ -67140,6 +67415,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLpp0qTynBRqlfMUd_-A65HQ8gAZ-evWLR",
                            "title": "Javascript Full Course In Telugu For Beginners To Pro",
                            "author": "Deekshitha Tech Talks"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLD7HLs2NCdoU7aqlOpVrkBOU8EEzkMEnE",
+                           "title": "JavaScript Full Course In Telugu",
+                           "author": "College Coders"
                         }
                      ],
                      "subsections": [
@@ -67205,6 +67485,11 @@
                                  "url": "https://www.youtube.com/playlist?list=PLzdWZT-ZJD0-806wl_diOtzcMS8SYTzq3",
                                  "title": "React Js Tutorials in Telugu",
                                  "author": "CS World Telugu"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLW_lUetpZclcrR9JGkAJ3hjhix0UoLFz7",
+                                 "title": "React - Full Course Telugu",
+                                 "author": "TechZoom Media"
                               }
                            ]
                         },
@@ -70987,14 +71272,6 @@
                      "section": "Dart",
                      "entries": [
                         {
-                           "url": "https://quickref.me/dart",
-                           "title": "Dart Cheatsheet",
-                           "author": "Quickref.me",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
                            "url": "https://dart.dev/codelabs/dart-cheatsheet",
                            "title": "Dart Cheatsheet",
                            "author": "Codelabs",
@@ -73111,14 +73388,6 @@
                            ]
                         },
                         {
-                           "url": "https://quickref.me/rust",
-                           "title": "Rust cheatsheet",
-                           "author": "QuickRef.ME",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
                            "url": "https://cheats.rs",
                            "title": "Rust Language Cheat Sheet",
                            "notes": [
@@ -73888,6 +74157,11 @@
                               "Codecademy"
                            ],
                            "accessNotes": "account required"
+                        },
+                        {
+                           "url": "https://www.boot.dev/courses/learn-golang",
+                           "title": "Learn Go Full Course",
+                           "author": "Boot.dev"
                         },
                         {
                            "url": "https://docs.microsoft.com/en-us/learn/paths/go-first-steps/",
@@ -74769,6 +75043,11 @@
                         {
                            "url": "https://scalatutorials.com/tour/",
                            "title": "A Tour of Scala - an interactive scala tutorial"
+                        },
+                        {
+                           "url": "https://www.learnscala.org",
+                           "title": "LearnScala.org",
+                           "author": "Interactive Scala Tutorial"
                         },
                         {
                            "url": "https://www.scala-exercises.org",
