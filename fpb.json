@@ -550,20 +550,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "<a id=\"cpp\">",
-                     "entries": [
-                        {
-                           "url": "https://www.academia.edu/16658418/c_programming_bangla_book",
-                           "title": "সিপিপি পরিগণনা Computer Programming",
-                           "author": "Mahmudul Hasan",
-                           "notes": [
-                              "PDF, HTML"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Data Science",
                      "entries": [
                         {
@@ -11288,6 +11274,14 @@
                   {
                      "section": "APL",
                      "entries": [
+                        {
+                           "url": "https://softwarepreservation.computerhistory.org/apl/book/APROGRAMMINGLANGUAGE.pdf",
+                           "title": "A Programming Language",
+                           "author": "Kenneth E. Iverson",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
                         {
                            "url": "https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf",
                            "title": "APL2 at a glance",
@@ -29449,11 +29443,12 @@
                      "section": "IDE and editors",
                      "entries": [
                         {
-                           "url": "https://www.swaroopch.com/notes/vim/",
+                           "url": "https://vim.swaroopch.com",
                            "title": "A Byte of Vim",
-                           "author": "Swaroop",
+                           "author": "Swaroop Chitlur, Nofrak, Fuzzymonk, Karmadude, Yesyo, Hbvit7, Leochingkwake",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -29461,7 +29456,8 @@
                            "title": "GNU Emacs Manual",
                            "author": "Free Software Foundation Inc.",
                            "notes": [
-                              "HTML, PDF"
+                              "HTML, PDF",
+                              "GFDL"
                            ]
                         },
                         {
@@ -29469,7 +29465,7 @@
                            "title": "Learn Neovim",
                            "author": "Ofir Gal",
                            "notes": [
-                              "online, PDF"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -29477,28 +29473,37 @@
                            "title": "Learn Vim (the Smart Way)",
                            "author": "Igor Irianto",
                            "notes": [
-                              "HTML"
-                           ],
-                           "accessNotes": " :construction: in process"
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://danielmiessler.com/study/vim/",
                            "title": "Learn Vim For the Last Time",
-                           "author": "Daniel Miessler"
+                           "author": "Daniel Miessler",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
                            "title": "Learn Vim Progressively",
-                           "author": "Yann Esposito"
+                           "author": "Yann Esposito",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://learnvimscriptthehardway.stevelosh.com",
                            "title": "Learn Vimscript the Hard Way",
-                           "author": "Steve Losh"
+                           "author": "Steve Losh",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://www.finseth.com/craft/",
-                           "title": "The Craft of Text Editing or A Cookbook for an Emacs",
+                           "title": "The Craft of Text Editing or Emacs for the Modern World",
                            "author": "Craig A. Finseth",
                            "notes": [
                               "HTML, PDF, ePUB, Kindle, PostScript, LaTeX"
@@ -29517,7 +29522,8 @@
                            "title": "VIM-GALORE - All things Vim!",
                            "author": "Marco Hinz",
                            "notes": [
-                              "HTML"
+                              "HTML",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -29532,7 +29538,11 @@
                         {
                            "url": "https://learnbyexample.github.io/vim_reference/",
                            "title": "Vim Reference Guide",
-                           "author": "Sundeep Agarwal"
+                           "author": "Sundeep Agarwal",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://vimregex.com",
@@ -29552,8 +29562,18 @@
                            "title": "Visual Studio 2019 Succinctly",
                            "author": "Alessandro Del Sole",
                            "notes": [
-                              "online, PDF"
+                              "HTML, PDF"
                            ]
+                        },
+                        {
+                           "url": "https://microsoft.github.io/vscode-essentials/en/",
+                           "title": "Visual Studio Code - The Essentials",
+                           "author": "Yohan Lasorsa, Christopher Maneu",
+                           "notes": [
+                              "HTML",
+                              "CC BY-SA"
+                           ],
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -36845,6 +36865,14 @@
                            ]
                         },
                         {
+                           "url": "https://poddtoppen.se/podcast/1076724955/coding-after-work-podcast",
+                           "title": "Coding After Work",
+                           "author": "Jessica Engström, Jimmy Engström",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL",
                            "title": "General .NET videos",
                            "author": "Nick Chapsas",
@@ -40942,8 +40970,15 @@
                            ]
                         },
                         {
-                           "url": "http://kodsnack.se",
+                           "url": "https://kodsnack.se",
                            "title": "Kodsnack",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://kompilator.se",
+                           "title": "Kompilator",
                            "notes": [
                               "podcast"
                            ]
@@ -40952,6 +40987,13 @@
                            "url": "https://letstech.libsyn.com",
                            "title": "Let's tech-podden",
                            "author": "Henrik Enström",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
+                           "url": "https://modermodemet.se",
+                           "title": "Modermodemet",
                            "notes": [
                               "podcast"
                            ]
@@ -47691,6 +47733,11 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE",
                            "title": "IIEC RISE 1.0 Docker"
+                        },
+                        {
+                           "url": "https://www.boot.dev/courses/learn-docker",
+                           "title": "Learn Docker [Full Course]",
+                           "author": "Lane Wagner"
                         }
                      ],
                      "subsections": []
@@ -49071,6 +49118,11 @@
                            "url": "https://youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&si=fofo8k2c5sjQPOKq",
                            "title": "30 Days, 30 JavaScript Projects For Beginners to Practice",
                            "author": "GreatStack"
+                        },
+                        {
+                           "url": "https://leetcode.com/studyplan/30-days-of-javascript/",
+                           "title": "30 Days of JavaScript",
+                           "author": "LeetCode"
                         },
                         {
                            "url": "https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop",
@@ -51260,6 +51312,11 @@
                            "author": "freeCodeCamp"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga",
+                           "title": "Perl Scripting Tutorial Videos",
+                           "author": "Edureka!"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC",
                            "title": "Perl Tutorial",
                            "author": "The Bad Tutorials"
@@ -51698,6 +51755,11 @@
                            "notes": [
                               "Coursera"
                            ]
+                        },
+                        {
+                           "url": "https://www.netacad.com/courses/python-essentials-1?courseLang=en-US",
+                           "title": "Python Essentials 1",
+                           "author": "Cisco Networking Acadamy"
                         },
                         {
                            "url": "https://edube.org/study/pe1",
@@ -67143,6 +67205,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLS8lzSv6JRJ0naiWKSsE15A2sPNufLat1",
                            "title": "C Programming",
                            "author": "Swaroop Talks"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNgoFk5SYUgn5L4ocsA6FTvqKLSzp_8wF",
+                           "title": "C language in Telugu",
+                           "author": "Vamsi Bhavani"
                         }
                      ],
                      "subsections": []
@@ -67154,6 +67221,11 @@
                            "url": "https://www.youtube.com/watch?v=uZBXKmQH5u8",
                            "title": "C++ Complete Tutorial",
                            "author": "Telugu Computer World"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNgoFk5SYUglsFq6H2WkQODuzsQyyRrPl",
+                           "title": "C++ Course in Telugu : 25 Days Challenge",
+                           "author": "Vamsi Bhavani"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLC2mgeYbYNm9keJjsA95jKa4EUVLd7mQP",
@@ -67374,6 +67446,16 @@
                            "url": "https://www.youtube.com/playlist?list=PLh6Yk2rpZu2Lyt9-2hhRj37otchec1OJL",
                            "title": "Full Java Tutorials in Telugu - Telugu Web Guru",
                            "author": "telugu web guru"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLKZ1dSitnT22IpIQJ2kgfyLeQJ7ySPBol",
+                           "title": "JAVA Programming",
+                           "author": "Trending Technology"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLNgoFk5SYUgmv-wv3aOupxr82c53KJDOB",
+                           "title": "Java Course in Telugu : 30 Days Challenge",
+                           "author": "Vamsi Bhavani"
                         },
                         {
                            "url": "https://www.youtube.com/watch?v=AzJEnN2pK_I",
