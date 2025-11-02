@@ -5022,23 +5022,37 @@
                                  "title": "Histoires et cultures du Libre",
                                  "author": "Camille Paloque-Berges, Christophe Masutti,",
                                  "notes": [
-                                    "coll. Framabook"
+                                    "coll. Framabook",
+                                    "HTML, EPUB, PDF",
+                                    "CC BY"
                                  ]
                               },
                               {
-                                 "url": "http://framabook.org/optionlibre-dubonusagedeslicenceslibres/",
+                                 "url": "https://archives.framabook.org/optionlibre-dubonusagedeslicenceslibres/",
                                  "title": "Option libre. Du bon usage des licences libres",
-                                 "author": "Jean Benjamin"
+                                 "author": "Jean Benjamin",
+                                 "notes": [
+                                    "EPUB, PDF",
+                                    "CC BY-SA, GFDL"
+                                 ]
                               },
                               {
-                                 "url": "http://framabook.org/produire-du-logiciel-libre-2/",
+                                 "url": "https://archives.framabook.org/produire-du-logiciel-libre-2/",
                                  "title": "Produire du logiciel libre",
-                                 "author": "Karl Fogel"
+                                 "author": "Karl Fogel",
+                                 "notes": [
+                                    "EPUB, PDF",
+                                    "CC BY-SA"
+                                 ]
                               },
                               {
-                                 "url": "http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/",
+                                 "url": "https://archives.framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/",
                                  "title": "Richard Stallman et la révolution du logiciel libre",
-                                 "author": "R.M. Stallman, S. Williams, C. Masutti"
+                                 "author": "R.M. Stallman, S. Williams, C. Masutti",
+                                 "notes": [
+                                    "EPUB, HTML, PDF",
+                                    "GFDL"
+                                 ]
                               }
                            ]
                         },
@@ -16516,6 +16530,14 @@
                                  "author": "freeCodeCamp.org"
                               },
                               {
+                                 "url": "https://dtc-wsuv.org/dmyers19/dtc477-%20Advanced%20Multimedia%20Authoring/FlavioCopes-Handbooks/The%20Next%20Handbook/book.pdf",
+                                 "title": "The Next.js Handbook",
+                                 "author": "Flavio Copes",
+                                 "notes": [
+                                    "PDF"
+                                 ]
+                              },
+                              {
                                  "url": "https://flaviocopes.com/page/nextjs-handbook/",
                                  "title": "The Next.js Handbook",
                                  "author": "Flavio Copes",
@@ -16848,6 +16870,14 @@
                                     "PDF, EPUB, Kindle"
                                  ],
                                  "accessNotes": "email address requested"
+                              },
+                              {
+                                 "url": "https://www.freecodecamp.org/news/the-svelte-handbook/",
+                                 "title": "The Svelte Handbook",
+                                 "author": "Flavio Copes",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               }
                            ]
                         },
@@ -27811,6 +27841,14 @@
                      "section": "Algorithms & Data Structures",
                      "entries": [
                         {
+                           "url": "https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf",
+                           "title": "A Common-Sense Guide to Data Structures & Algorithms",
+                           "author": "Jay Wengrow",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf",
                            "title": "A Field Guide To Genetic Programming",
                            "author": "Riccardo Poli, William B. Langdon, Nicholas F. McPhee",
@@ -27872,8 +27910,8 @@
                         },
                         {
                            "url": "https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf",
-                           "title": "Algorithms and Data Structures - With Applications to Graphics and Geometry",
-                           "author": "Jurg Nievergelt, Klaus Hinrichs",
+                           "title": "Algorithms and Data Structures",
+                           "author": "Jürg Nievergelt, Klaus Hinrichs",
                            "notes": [
                               "PDF"
                            ]
@@ -27887,6 +27925,14 @@
                            "url": "https://goalkicker.com/AlgorithmsBook",
                            "title": "Algorithms Notes for Professionals",
                            "author": "Compiled from StackOverflow Documentation",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms",
+                           "title": "An Open Guide to Data Structures and Algorithms",
+                           "author": "Paul W. Bible, Lucas Moser",
                            "notes": [
                               "PDF"
                            ]
@@ -27952,7 +27998,7 @@
                         {
                            "url": "https://www.programming-books.io/essential/algorithms/",
                            "title": "Essential Algorithms",
-                           "author": "Krzysztof Kowalczyk and  Stack Overflow Documentation project",
+                           "author": "Krzysztof Kowalczyk and Stack Overflow Documentation project",
                            "notes": [
                               "HTML"
                            ]
@@ -55636,6 +55682,11 @@
                                  "author": "NG Tutorials"
                               },
                               {
+                                 "url": "https://www.youtube.com/playlist?list=PLf0LpPWikpPfA_vez2NndnYuQy6WkpTzc",
+                                 "title": "Data Structures using C",
+                                 "author": "DataFlair"
+                              },
+                              {
                                  "url": "https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p",
                                  "title": "DSA-One Course- The Complete Data Structure and Algorithms Course",
                                  "author": "Anuj Bhaiya"
@@ -55666,9 +55717,14 @@
                                  "author": "Pepcoding"
                               },
                               {
-                                 "url": "https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9",
+                                 "url": "https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9",
                                  "title": "Heap Playlist Interview Questions Coding Tutorials Data Structures",
                                  "author": "Aditya Verma"
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
+                                 "title": "Java + Data Structures + Algorithms",
+                                 "author": "Apni Kaksha"
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
@@ -55791,7 +55847,7 @@
                      "subsections": []
                   },
                   {
-                     "section": "Angular",
+                     "section": "Angular ",
                      "entries": [
                         {
                            "url": "https://www.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C",
@@ -55809,7 +55865,7 @@
                            "author": "UX Trendz"
                         },
                         {
-                           "url": "https://youtube.com/playlist?list=PLqLR2H326bY4GoOaaxVYwdbNl9dvyWKvU",
+                           "url": "https://www.youtube.com/playlist?list=PLqLR2H326bY4GoOaaxVYwdbNl9dvyWKvU",
                            "title": "Angular In Depth",
                            "author": "Computer Baba"
                         },
@@ -55864,6 +55920,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe",
                            "title": "Artificial Intelligence Lectures Hindi",
                            "author": "Easy Engineering Classes"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=D1eL1EnxXXQ",
+                           "title": "Complete Basics of AI in One Shot",
+                           "author": "Apna College"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6",
@@ -56688,7 +56749,7 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL6XT0grm_TfjgDZ_shvnNvxHu0SGeR2ge",
-                           "title": "Git Step-by-Step: Git Tutorials For Beginners  - In Hindi ",
+                           "title": "Git Step-by-Step: Git Tutorials For Beginners - In Hindi ",
                            "author": "Gaurav Sharma"
                         },
                         {
@@ -57057,7 +57118,7 @@
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR",
-                           "title": "Spring Framework Tutorial with SpringBoot  in Hindi Complete Course",
+                           "title": "Spring Framework Tutorial with SpringBoot in Hindi Complete Course",
                            "author": "CoderX Ankit"
                         }
                      ],
@@ -72684,25 +72745,41 @@
                      "section": "Kotlin",
                      "entries": [
                         {
+                           "url": "https://alidehkhodaei.github.io/kotlin-cheat-sheet/",
+                           "title": "Kotlin Cheat sheet",
+                           "author": "Pahul",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://cheatsheetshero.com/user/all/336-kotlin-cheatsheet.pdf",
+                           "title": "Kotlin Cheatsheet",
+                           "author": "CShero",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.devsheets.io/sheets/kotlin",
+                           "title": "Kotlin Cheatsheet",
+                           "author": "DevSheets",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://devhints.io/kotlin",
-                           "title": "Kotlin Cheat Sheet",
-                           "author": "Devhints",
+                           "title": "Kotlin Cheatsheet",
+                           "author": "Nadiaa",
                            "notes": [
                               "HTML"
                            ]
                         },
                         {
                            "url": "https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf",
-                           "title": "Kotlin Cheatsheet and Quick Reference",
+                           "title": "Kotlin Cheatsheet and quick reference",
                            "author": "Ray Wenderlich",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
-                           "url": "https://kotlinlang.org/docs/kotlin-reference.pdf",
-                           "title": "Kotlin Quick Reference",
-                           "author": "JetBrains",
                            "notes": [
                               "PDF"
                            ]
@@ -73999,6 +74076,11 @@
                         {
                            "url": "https://github.com/torbjoernk/CppKoans",
                            "title": "CppKoans"
+                        },
+                        {
+                           "url": "https://www.learn-cpp.org",
+                           "title": "Learn C++ - Free Interactive C++ Tutorial",
+                           "author": "learn-cpp.org"
                         }
                      ],
                      "subsections": []
