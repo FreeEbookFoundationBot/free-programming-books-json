@@ -11145,6 +11145,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm",
+                           "title": "Ada 95: The Craft of Object-Oriented Programming",
+                           "author": "John English",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf",
                            "title": "Ada Distilled",
                            "author": "Richard Riehle",
@@ -13837,16 +13845,34 @@
                            ]
                         },
                         {
+                           "url": "https://web.archive.org/web/20110412231747/http://theforthsource.com/guide.html",
+                           "title": "Forth Guide",
+                           "author": "Glen B. Haydon",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
+                        },
+                        {
                            "url": "http://home.iae.nl/users/mhx/sf.html",
                            "title": "Starting Forth"
                         },
                         {
                            "url": "http://thinking-forth.sourceforge.net",
-                           "title": "Thinking Forth"
+                           "title": "Thinking Forth",
+                           "author": "Leo Brodie",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "http://www.ultratechnology.com/forth.htm",
-                           "title": "Thoughtful Programming and Forth"
+                           "title": "Thoughtful Programming and Forth",
+                           "author": "Jeff Fox",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -19280,10 +19306,10 @@
                            ]
                         },
                         {
-                           "url": "https://biopython.org/DIST/docs/tutorial/Tutorial.pdf",
+                           "url": "https://biopython.org/wiki/Documentation",
                            "title": "Biopython Tutorial and Cookbook",
                            "notes": [
-                              "PDF"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -28211,7 +28237,10 @@
                         {
                            "url": "https://www.cs.mcgill.ca/~wlh/grl_book/",
                            "title": "Graph Representational Learning Book",
-                           "author": "William L. Hamilton"
+                           "author": "William L. Hamilton",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://www.deeplearning.ai/short-courses/how-transformer-llms-work/",
@@ -28272,7 +28301,10 @@
                         {
                            "url": "https://github.com/norvig/paip-lisp",
                            "title": "Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp",
-                           "author": "Peter Norvig"
+                           "author": "Peter Norvig",
+                           "notes": [
+                              "Git repo"
+                           ]
                         },
                         {
                            "url": "https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
@@ -28412,7 +28444,10 @@
                         {
                            "url": "https://www.wolframscience.com/nksonline/toc.html",
                            "title": "A New Kind of Science",
-                           "author": "Stephen Wolfram"
+                           "author": "Stephen Wolfram",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf",
@@ -28838,7 +28873,10 @@
                         {
                            "url": "https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm",
                            "title": "Computer Vision",
-                           "author": "Dana Ballard, Chris Brown"
+                           "author": "Dana Ballard, Chris Brown",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://szeliski.org/Book/",
@@ -29064,6 +29102,15 @@
                            "author": "Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://openstax.org/details/books/principles-data-science",
+                           "title": "Principles of Data Science",
+                           "author": "OpenStax",
+                           "notes": [
+                              "HTML, PDF",
+                              "CC BY-NC-SA 4.0"
                            ]
                         },
                         {
@@ -32080,19 +32127,26 @@
                         {
                            "url": "https://papl.cs.brown.edu/2019/",
                            "title": "Programming and Programming Languages",
-                           "author": "Shriram Krishnamurthi"
+                           "author": "Shriram Krishnamurthi",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://cs.brown.edu/~sk/Publications/Books/ProgLangs/",
                            "title": "Programming Languages: Application and Interpretation (2nd Edition)",
-                           "author": "Shriram Krishnamurthi"
+                           "author": "Shriram Krishnamurthi",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
                         },
                         {
                            "url": "https://www.plai.org/3/5/plai-v325.pdf",
                            "title": "Programming Languages: Application and Interpretation (3rd Edition)",
                            "author": "Shiriram Krishnamurthi",
                            "notes": [
-                              "PDF"
+                              "PDF",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
@@ -62079,6 +62133,11 @@
                            "url": "https://youtube.com/playlist?list=PL4KwFGqvN4ntbMZdiSS0nFXo49KZCCcdw",
                            "title": "CSS malayalam tutorial",
                            "author": "Debug Media"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLPvjxHx5Kob1pE-M4p2x82xclElJFLFIC",
+                           "title": "HTML and CSS Malayalam Tutorial",
+                           "author": "Wezlon"
                         },
                         {
                            "url": "https://youtube.com/playlist?list=PL4KwFGqvN4nupwUNXQs2Dn0za5a8ijVPH",
