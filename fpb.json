@@ -39924,6 +39924,14 @@
                            ]
                         },
                         {
+                           "url": "https://patoarchitekci.io",
+                           "title": "Patoarchitekci",
+                           "author": "Łukasz Kałużny, Szymon Warda",
+                           "notes": [
+                              "podcast"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLLewE5KdsaqWFXAcVN1F4MUCuJxyt5I5E",
                            "title": "Piątki po deployu",
                            "author": "Mateusz Anioła, Miłosz Kusiciel",
@@ -66736,6 +66744,16 @@
                            "url": "https://youtube.com/playlist?list=PLgWpUXNR_WCeWiXmsYf5HUe7E4I29zTJr",
                            "title": "Bash scripting in Tamil",
                            "author": "Payilagam"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=7vvigzYvapA",
+                           "title": "Complete Bash Shell Scripting for beginners in Tamil | Linux | Redhat | Bash | Shell Scripting Tamil",
+                           "author": "Tamil Tut Era"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLe61-EtQTlGsMT6fLm0ONaAycUuNK1TeF",
+                           "title": "Linux Shell Scripting - Tamil",
+                           "author": "Skill Up With Stan"
                         }
                      ],
                      "subsections": []
@@ -66744,14 +66762,85 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/watch?v=fmSnLiAv-zc",
+                           "title": "C Programming for Beginners in Tamil | Complete Course | code io - Tamil",
+                           "author": "code io - Tamil"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLAJng2Pkr-8wB0CcJ73mrCrE96FrB_XHO",
+                           "title": "C Programming in Tamil",
+                           "author": "Kai Naatu"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=JAy56OH58Y4",
+                           "title": "C Programming in Tamil | Complete C Programming course (2023) | C tutorial - தமிழ்",
+                           "author": "Logic First Tamil"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL2j991kByVOVKWsOxB-CQV-nISLn9ZcvV",
+                           "title": "C Programming Tutorial - Tamil",
+                           "author": "CONQUER VICTORY"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLBQXOA5OR76rq-sU8mNsUmj2Z9kQXz7oD",
                            "title": "C Tutorial in Tamil",
                            "author": "Tamil Pro Techniques"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLwheXbz_XBtlRkGvQVJ34RkDl5mg1ndND",
+                           "title": "CS25C01- Computer Programming C in Tamil -Anna university regulation-2025",
+                           "author": "Murugan Tech World"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLmjuBlzAWCzxTdRxTtMSj1NFe_GvFlvFw",
                            "title": "Fundamentals of C programming in Tamil",
                            "author": "Collectiva Knowledge Academy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL1BEqtXLfK1o2xyxLO95R6Fo9PV7mGoXf",
+                           "title": "Types Of Pointers IN C Programming Tutorial For Beginners In TAMIL",
+                           "author": "Programming Tutor Tamil"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"csharp\">",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLN00Qh4gtjNv_MSn3_Nl6GqGYxyd_LIQM",
+                           "title": "C# Course in Tamil",
+                           "author": "Programming Line"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=wEv8QiCyeSE",
+                           "title": "C# tutorial in Tamil - Full Course for Beginners | தமிழ்",
+                           "author": "Anto sujesh"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=74b1tdaf5MM&t=16s",
+                           "title": "Learn C# in 8 Hours - Full Course | C# Tutorial for beginners in Tamil",
+                           "author": "BTree Systems"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLiHeZHTmVuddLE9IW6vqUqwr12U1WzK3g",
+                           "title": "Learn C# in Tamil",
+                           "author": "Kaalaratham Tamil Tholaikaatchi"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLjuPgqaza-gpvva4T9FxIxO7Iyqk4sKTU",
+                           "title": "Selenium Automation Testing (C# cucumber BDD) | specflow BDD courset",
+                           "author": "Learn Technology in Tamil"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=ciFCKxjuirM",
+                           "title": "Tamil - C# / .Net Basics For Beginner to Expert",
+                           "author": "CodeWithKarthik"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLvRASKtKbYeRV8GGS-Xxu0hQJOW4Yxviq",
+                           "title": "Unity C# Scripting Basics in Tamil",
+                           "author": "AJAY AJ - GAME DEV"
                         }
                      ],
                      "subsections": []
@@ -66768,6 +66857,110 @@
                            "url": "https://www.youtube.com/playlist?list=PLYM2_EX_xVvUppW1kS91ZNEI20k1V1liI",
                            "title": "C++ Programming in Tamil",
                            "author": "Logic First Tamil"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Cloud Computing",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/watch?v=eZeNIakuqbc",
+                           "title": "AWS Full Course for beginners in Tamil | Free Crash Course | Ultimate AWS Tutorial in Tamil",
+                           "author": "The Madras Programmer"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=DaSt-5tTmG4",
+                           "title": "AWS Tutorial In Tamil | AWS Cloud Computing For Beginners Tamil | AWS Tamil Cloud",
+                           "author": "BTree Systems"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL3WUjOOQCEw08GWGuKvuZdrb7Bfkn3oxh",
+                           "title": "Cloud Computing In Tamil",
+                           "author": "Ganapathy Tech Tips"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLLa_h7BriLH3gVIwDBamEFCbqPW8SqAqU",
+                           "title": "Data Engineering",
+                           "author": "Google Cloud Tamil"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Computer Organisation & Architecture",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLs5kvWTDBVQx4Wy1Si8N5Kv2XOViASmPd",
+                           "title": "Computer Architecture",
+                           "author": "TAMIL KANINI"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLBMNl-szJPPc2ZAJeA1Va1qGDL8F7l9Dq",
+                           "title": "Computer Architecture in Tamil | TRB | Engineering",
+                           "author": "Terrace Out"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOmHrZkA584-oWxuXJGv1y9C9knOEW_ti",
+                           "title": "Digital Principles and Computer Organization in Tamil CS3351 Anna University Syllabus",
+                           "author": "4G Silver Academy தமிழ்"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Cryptography & Network Security",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu",
+                           "title": "CB3491 - Cryptography and Cyber Security | Anna University Regulation 2021 in Tamil",
+                           "author": "PK Educational Institute"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv",
+                           "title": "CB3491-Cryptography and cyber security",
+                           "author": "Murugan Tech World"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n",
+                           "title": "Cryptography & Network security",
+                           "author": "Trouble- Free"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT",
+                           "title": "Cryptography & Network security",
+                           "author": "Won the ARREARS"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl",
+                           "title": "Cryptography and Cyber Security in Tamil | CB3491 Lectures in Tamil | Anna University Syllabus",
+                           "author": "4G Silver Academy தமிழ்"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav",
+                           "title": "Cryptography and Network Security | Tamil",
+                           "author": "Terrace Out"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX",
+                           "title": "Cryptography and Network Security(CB3491)",
+                           "author": "BECAUSE"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Data Science",
+                     "entries": [
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL-M5l4dLK9TVOoqZXW6cSYKcSjKzuLbOl",
+                           "title": "Data Science Full Course in Tamil",
+                           "author": "KaaShiv InfoTech"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=hNCd_BM4T3M",
+                           "title": "Data Science Full Course in Tamil 2024 | Data Science Tutorial for Beginners in Tamil",
+                           "author": "BTree Systems"
                         }
                      ],
                      "subsections": []
@@ -66922,9 +67115,24 @@
                      "section": "Machine Learning",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLR4Rlu17MDY5jGC5tO_6kJsSDELOzmveh",
+                           "title": "Artificial Intelligence and Machine Learning (CS3491)",
+                           "author": "BECAUSE"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX",
                            "title": "Introduction to Machine Learning(Tamil)",
                            "author": "IIT Madras NPTEL"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLorkqpg7qgkw8xqc-RmuCgfCWRWCRnN-u",
+                           "title": "Machine Learning In Tamil",
+                           "author": "Chill and Grow"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL3uLubnzL2TnWzEtapD1w5ypl8tMR9N08",
+                           "title": "Machine Learning In Tamil",
+                           "author": "Shriram Vasudevan"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD",
@@ -66932,9 +67140,19 @@
                            "author": "Majaa Matrix"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLOmHrZkA584-YEDX_2CMGnY2Xvj6B4Lf-",
+                           "title": "Machine Learning in Tamil",
+                           "author": "4G Silver Academy தமிழ்"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM",
                            "title": "Machine Learning in Tamil",
                            "author": "Nithya Duraisamy"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PL18h92UN0f0bm1Aw9_Tgk1Nrp9rOzV63N",
+                           "title": "Machine Learning Tamil Lecture Series Part #1 Data Preprocessing",
+                           "author": "LWM - தமிழ்"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL-1QQC56x1gEgj8C4L2hw5orryqgdnuoP",
@@ -66948,6 +67166,26 @@
                      "section": "MongoDB",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLhP5RsB7fhE3Tprm1_WyiToWM80SXw-UN",
+                           "title": "Mongo DB",
+                           "author": "code io - Tamil"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLoM4uAkd4g69r07VTpVNIZ7wmC_Lkqd0H",
+                           "title": "Mongo DB Tutorial In Tamil",
+                           "author": "BTree Systems"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=0zwYbudzaJc",
+                           "title": "MongoDB Complete Course in Tamil | 3 Hours",
+                           "author": "CodeWithKarthik"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=KD-2vh9v1co",
+                           "title": "MongoDB Complete Tutorial | MongoDB in Tamil | Tutor Joe's",
+                           "author": "Tutor Joe's Stanley"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PL7BQ4lqtgECRiWoThupyKXRQoDuEV2zy5",
                            "title": "MongoDB Course in Tamil",
                            "author": "JVL Code"
@@ -66956,6 +67194,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLfD4W8QfMd5DhXKriTHyHjNzNSe_1I7g1",
                            "title": "MongoDB Tamil Tutorial for Beginners",
                            "author": "MaanavaN Learn Code"
+                        },
+                        {
+                           "url": "https://www.youtube.com/watch?v=CKaywM2qXpo",
+                           "title": "MongoDB Tutorial for beginners in Tamil 2025 | Full Course for Beginners",
+                           "author": "Balachandra"
                         }
                      ],
                      "subsections": []
