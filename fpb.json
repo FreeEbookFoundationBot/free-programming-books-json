@@ -36371,10 +36371,6 @@
                            "accessNotes": "目前在线最全的中文文档了"
                         },
                         {
-                           "url": "http://www.pythondoc.com",
-                           "title": "Python 中文学习大本营"
-                        },
-                        {
                            "url": "https://pythonguidecn.readthedocs.io/zh/latest/",
                            "title": "Python 最佳实践指南"
                         },
