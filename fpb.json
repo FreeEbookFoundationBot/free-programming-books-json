@@ -27940,6 +27940,15 @@
                            "author": "Jeff Erickson"
                         },
                         {
+                           "url": "https://algorithmsbook.com/decisionmaking/",
+                           "title": "Algorithms for Decision Making",
+                           "author": "Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray",
+                           "notes": [
+                              "HTML, PDF",
+                              "CC BY-NC-ND"
+                           ]
+                        },
+                        {
                            "url": "https://goalkicker.com/AlgorithmsBook",
                            "title": "Algorithms Notes for Professionals",
                            "author": "Compiled from StackOverflow Documentation",
@@ -27984,6 +27993,14 @@
                         {
                            "url": "https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf",
                            "title": "Data Structures and Algorithm Analysis in C++",
+                           "author": "Clifford A. Shaffer",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf",
+                           "title": "Data Structures and Algorithm Analysis in Java",
                            "author": "Clifford A. Shaffer",
                            "notes": [
                               "PDF"
@@ -28091,13 +28108,12 @@
                            ]
                         },
                         {
-                           "url": "https://web.archive.org/web/20210917054102/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf",
-                           "title": "Purely Functional Data Structures (1996)",
+                           "url": "https://www.cs.cmu.edu/~rwh/students/okasaki.pdf",
+                           "title": "Purely Functional Data Structures",
                            "author": "Chris Okasaki",
                            "notes": [
                               "PDF"
-                           ],
-                           "accessNotes": " :card_file_box: archived"
+                           ]
                         },
                         {
                            "url": "https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm",
@@ -28108,7 +28124,7 @@
                            ]
                         },
                         {
-                           "url": "https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf",
+                           "url": "http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf",
                            "title": "Text Algorithms",
                            "author": "Maxime Crochemore, Wojciech Rytter",
                            "notes": [
