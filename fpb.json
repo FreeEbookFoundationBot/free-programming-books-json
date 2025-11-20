@@ -36999,6 +36999,14 @@
                            "notes": [
                               "podcast"
                            ]
+                        },
+                        {
+                           "url": "https://dotnetrocks.com",
+                           "title": "NET Rocks!",
+                           "author": "Carl Franklin, Richard Campbell",
+                           "notes": [
+                              "podcast"
+                           ]
                         }
                      ],
                      "subsections": []
