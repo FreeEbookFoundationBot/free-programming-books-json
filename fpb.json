@@ -31852,14 +31852,6 @@
                            ]
                         },
                         {
-                           "url": "https://gustavus.edu/mcs/max/os-book/",
-                           "title": "Operating Systems and Middleware",
-                           "author": "Max Hailperin",
-                           "notes": [
-                              "PDF, LaTeX"
-                           ]
-                        },
-                        {
                            "url": "https://github.com/tuhdo/os01/releases/tag/0.0.1",
                            "title": "Operating Systems: From 0 to 1",
                            "author": "Tu, Ho Doang",
