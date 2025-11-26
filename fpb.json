@@ -4639,6 +4639,11 @@
                         {
                            "url": "https://github.com/ftg-iran/aip-persian",
                            "title": "ترجمه آزاد کتاب Asyncio in Python‏"
+                        },
+                        {
+                           "url": "https://github.com/ThinkPythonPersian/thinkbook",
+                           "title": "ترجمه آزاد کتاب ThinkPython‏",
+                           "author": "جمعی از مترجمان"
                         }
                      ],
                      "subsections": [
