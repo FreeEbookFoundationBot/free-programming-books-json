@@ -34420,14 +34420,6 @@
                            "url": "https://onur.github.io/chip8",
                            "title": "Rust ile CHIP-8 Emülatörü Geliştirme",
                            "author": "Onur Aslan"
-                        },
-                        {
-                           "url": "https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf",
-                           "title": "Rust'a Giriş",
-                           "author": "Mahmut Bulut",
-                           "notes": [
-                              "PDF"
-                           ]
                         }
                      ],
                      "subsections": []
