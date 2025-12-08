@@ -30010,6 +30010,11 @@
                            ]
                         },
                         {
+                           "url": "https://course.fast.ai",
+                           "title": "Practical Deep Learning for Coders",
+                           "author": "fast.ai"
+                        },
+                        {
                            "url": "https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf",
                            "title": "Practitioners guide to MLOps",
                            "author": "Khalid Samala, Jarek Kazmierczak, Donna Schut",
@@ -31868,7 +31873,7 @@
                         {
                            "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
                            "title": "Operating Systems: Three Easy Pieces",
-                           "author": "Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau",
+                           "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
                            "notes": [
                               "PDF"
                            ]
