@@ -76086,6 +76086,10 @@
                      "section": "ColdFusion",
                      "entries": [
                         {
+                           "url": "https://cffiddle.org",
+                           "title": "ColdFusion Fiddle"
+                        },
+                        {
                            "url": "https://trycf.com",
                            "title": "TryCF"
                         }
