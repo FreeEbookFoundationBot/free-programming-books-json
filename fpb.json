@@ -48920,9 +48920,19 @@
                      "section": "IDE and editors",
                      "entries": [
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6",
+                           "title": "Getting Started with Visual Studio Code",
+                           "author": "Visual Studio Code"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R",
                            "title": "Vim As Your Editor",
                            "author": "ThePrimeagen"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x",
+                           "title": "Vim Beginners Guide",
+                           "author": "Learn Linux TV"
                         }
                      ],
                      "subsections": []
