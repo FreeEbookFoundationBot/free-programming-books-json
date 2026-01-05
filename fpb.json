@@ -21980,14 +21980,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.programming-books.io/essential/sql",
-                           "title": "Essential SQL",
-                           "author": "Krzysztof Kowalczyk and  Stack Overflow Documentation project",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
-                        {
                            "url": "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/",
                            "title": "How to Design Structured Database Systems Using SQL",
                            "author": "Daniel García Solla, freeCodeCamp",
