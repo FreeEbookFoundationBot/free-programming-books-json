@@ -41113,23 +41113,8 @@
                            ]
                         },
                         {
-                           "url": "http://stillinbeta.se",
-                           "title": "Still in beta",
-                           "notes": [
-                              "podcast"
-                           ]
-                        },
-                        {
                            "url": "https://underutveckling.libsyn.com",
                            "title": "Under utveckling",
-                           "notes": [
-                              "podcast"
-                           ]
-                        },
-                        {
-                           "url": "https://consid.se/podd/utveckla",
-                           "title": "Utveckla",
-                           "author": "Simon Zachrisson, Tobias Dahlgren",
                            "notes": [
                               "podcast"
                            ]
