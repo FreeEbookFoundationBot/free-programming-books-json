@@ -13993,11 +13993,6 @@
                      "section": "Go",
                      "entries": [
                         {
-                           "url": "https://www.golang-book.com/books/intro",
-                           "title": "An Introduction to Programming in Go",
-                           "author": "Caleb Doxsey"
-                        },
-                        {
                            "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/",
                            "title": "Build Web Application with Golang",
                            "author": "astaxie",
@@ -21977,6 +21972,15 @@
                            "author": "Richard T. Snodgrass",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.programming-books.io/essential/sql/index.html",
+                           "title": "Essential SQL",
+                           "author": "Krzysztof Kowalczyk, Stack Overflow Documentation project",
+                           "notes": [
+                              "HTML",
+                              "CC BY-SA"
                            ]
                         },
                         {
