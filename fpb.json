@@ -31152,6 +31152,11 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/lala-hakobyan/front-end-debugging-handbook",
+                           "title": "Front-end Debugging Tools Handbook",
+                           "author": "Lala Hakobyan"
+                        },
+                        {
                            "url": "https://frontendmasters.com/guides/front-end-handbook/2016/",
                            "title": "Front-End Developer Handbook 2016",
                            "author": "Cody Lindley",
