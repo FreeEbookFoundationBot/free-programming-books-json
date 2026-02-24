@@ -25296,6 +25296,15 @@
                            "title": "Django 101 - Introdução ao Django"
                         },
                         {
+                           "url": "https://fastapidozero.dunossauro.com",
+                           "title": "FastAPI do Zero",
+                           "author": "Eduardo Mendes",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ]
+                        },
+                        {
                            "url": "http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf",
                            "title": "Introdução a Visão Computacional com Python e OpenCV",
                            "notes": [
