@@ -26252,7 +26252,7 @@
                            "author": "Евгений Попов"
                         },
                         {
-                           "url": "https://github.com/Konstantin8105/Effective_Go_RU",
+                           "url": "https://github.com/0x0FACED/effective-go-ru",
                            "title": "Эффективный Go"
                         },
                         {
@@ -26261,12 +26261,9 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "https://pahanini.gitbooks.io/golang-for-php-developers/content/",
+                           "url": "https://github.com/pahanini/go-for-php-developers-book/blob/master/SUMMARY.md",
                            "title": "Go для PHP-разработчиков",
-                           "author": "Pavel Tetyaev",
-                           "notes": [
-                              "gitbook"
-                           ]
+                           "author": "Pavel Tetyaev"
                         },
                         {
                            "url": "https://sefus.ru/little-go-book",
@@ -65897,14 +65894,6 @@
                         {
                            "url": "https://stepik.org/course/100208",
                            "title": "Go (Golang) - первое знакомство",
-                           "author": "Stepik",
-                           "notes": [
-                              "BEG"
-                           ]
-                        },
-                        {
-                           "url": "https://stepik.org/course/158385",
-                           "title": "PRO Go. Основы программирования",
                            "author": "Stepik",
                            "notes": [
                               "BEG"
