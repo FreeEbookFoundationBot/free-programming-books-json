@@ -11311,7 +11311,7 @@
                         },
                         {
                            "url": "https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf",
-                           "title": "APL2 at a glance",
+                           "title": "APL2 at a Glance",
                            "author": "James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988",
                            "notes": [
                               "PDF"
@@ -34928,9 +34928,39 @@
                      "section": "人工智能",
                      "entries": [
                         {
+                           "url": "https://llmbook-zh.github.io",
+                           "title": "大规模语言模型：从理论到实践",
+                           "author": "张奇、桂韬、郑锐、黄沛 等"
+                        },
+                        {
                            "url": "https://aibydoing.com",
                            "title": "动手实战人工智能",
                            "author": "huhuhang"
+                        },
+                        {
+                           "url": "https://hrl.boyuai.com",
+                           "title": "动手学强化学习",
+                           "author": "张伟楠、沈键、俞勇"
+                        },
+                        {
+                           "url": "https://zh.d2l.ai",
+                           "title": "动手学深度学习",
+                           "author": "阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉"
+                        },
+                        {
+                           "url": "https://datawhalechina.github.io/pumpkin-book",
+                           "title": "南瓜书PumpkinBook",
+                           "author": "Datawhale"
+                        },
+                        {
+                           "url": "https://github.com/scutan90/DeepLearning-500-questions",
+                           "title": "深度学习500问",
+                           "author": "scutan90"
+                        },
+                        {
+                           "url": "https://nndl.github.io",
+                           "title": "神经网络与深度学习",
+                           "author": "邱锡鹏"
                         }
                      ],
                      "subsections": []
@@ -44958,7 +44988,7 @@
                      "section": "Algorithms & Data Structures",
                      "entries": [
                         {
-                           "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/",
+                           "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/",
                            "title": "Advanced Data Structures",
                            "author": "Erik Demaine"
                         },
@@ -44986,7 +45016,7 @@
                            "author": "Steven Skiena"
                         },
                         {
-                           "url": "http://datastructur.es/sp16/",
+                           "url": "https://datastructur.es/sp16/",
                            "title": "Berkeley University CS 61B: Data Structures"
                         },
                         {
@@ -45178,7 +45208,7 @@
                            "author": "Erik Demaine, Srini Devadas, Nancy Lynch"
                         },
                         {
-                           "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
+                           "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
                            "title": "MIT's Introduction to Algorithms (Fall 2011)",
                            "author": "MIT"
                         },
@@ -45624,7 +45654,7 @@
                            ]
                         },
                         {
-                           "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/",
+                           "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/",
                            "title": "MIT's Artificial Intelligence",
                            "author": "Patrick Henry Winston",
                            "notes": [
@@ -46424,7 +46454,7 @@
                            "author": "Derek Banas"
                         },
                         {
-                           "url": "http://mooc.fi/courses/2014/clojure/",
+                           "url": "https://mooc.fi/courses/2014/clojure/",
                            "title": "Functional Programming with Clojure"
                         },
                         {
