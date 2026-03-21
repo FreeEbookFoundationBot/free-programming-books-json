@@ -30045,6 +30045,14 @@
                            ]
                         },
                         {
+                           "url": "https://probml.github.io/pml-book/book2.html",
+                           "title": "Probabilistic Machine Learning: Advanced Topics",
+                           "author": "Kevin P. Murphy",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook",
                            "title": "Python Machine Learning Projects",
                            "author": "Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan",
@@ -32635,6 +32643,15 @@
                            "notes": [
                               "HTML, PDF"
                            ]
+                        },
+                        {
+                           "url": "https://leanpub.com/secops-bit-by-bit",
+                           "title": "SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders",
+                           "author": "Alex Yarotsky",
+                           "notes": [
+                              "PDF"
+                           ],
+                           "accessNotes": "Leanpub account or valid email requested"
                         },
                         {
                            "url": "https://www.cl.cam.ac.uk/~rja14/book.html",
