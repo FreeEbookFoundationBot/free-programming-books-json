@@ -1335,20 +1335,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Delphi",
-                     "entries": [
-                        {
-                           "url": "http://olewitthansen.dk/Datalogi/ProgrammeringMedDelphi.pdf",
-                           "title": "Programmering Med Delphi 7",
-                           "author": "Ole Witt-Hansen",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "Java",
                      "entries": [
                         {
@@ -3888,6 +3874,14 @@
                         {
                            "url": "http://code.google.com/p/swfk-es/",
                            "title": "Doma de Serpientes para Niños: Aprendiendo a Programar con Python",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://docs.python.org/es/3/tutorial/",
+                           "title": "El tutorial de Python",
+                           "author": "Python Software Foundation",
                            "notes": [
                               "HTML"
                            ]
@@ -12687,7 +12681,7 @@
                            "author": "Alex Allain"
                         },
                         {
-                           "url": "http://web.stanford.edu/class/cs106x/",
+                           "url": "https://web.stanford.edu/class/cs106x/",
                            "title": "CS106X Programming Abstractions in C++"
                         },
                         {
@@ -18894,6 +18888,15 @@
                            "url": "https://www.programming-books.io/essential/postgresql/",
                            "title": "Essential PostgreSQL",
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                        },
+                        {
+                           "url": "https://leanpub.com/lift-the-elephant",
+                           "title": "Lift the Elephant: Scaling PostgreSQL Beyond Query Optimization",
+                           "author": "Alex Yarotsky",
+                           "notes": [
+                              "PDF"
+                           ],
+                           "accessNotes": "Leanpub account or valid email requested"
                         },
                         {
                            "url": "http://www.postgresql.org/docs/",
