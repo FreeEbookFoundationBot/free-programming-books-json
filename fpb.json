@@ -71,6 +71,20 @@
                      "subsections": []
                   },
                   {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://github.com/progit2-ar/progit2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub‏",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "HTML and CSS",
                      "entries": [
                         {
@@ -286,7 +300,7 @@
                               {
                                  "url": "https://itwadi.com/PostgreSQL_Cookbook",
                                  "title": "بوستجريسكل كتاب الوصفات",
-                                 "author": "Chitij Chauhan‏",
+                                 "author": "Chitij Chaumann‏",
                                  "notes": [
                                     "PDF"
                                  ]
@@ -17822,7 +17836,7 @@
                         {
                            "url": "https://www.mathworks.com/help/pdf_doc/matlab/matlab_prog.pdf",
                            "title": "Matlab Programming Fundamentals",
-                           "author": "Mathworks",
+                           "author": "MathWorks",
                            "notes": [
                               "PDF"
                            ]
@@ -19285,7 +19299,7 @@
                         },
                         {
                            "url": "https://automatetheboringstuff.com/3e/",
-                           "title": "Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners",
+                           "title": "Automate the Boring Stuff with Python, 3rd Edition: Practical Programming for Total Beginners",
                            "author": "Al Sweigart",
                            "notes": [
                               "HTML",
@@ -21297,6 +21311,15 @@
                            "title": "Guide to Rustc Development",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://highassurance.rs",
+                           "title": "High Assurance Rust",
+                           "author": "Tiemoko Ballo",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-ND"
                            ]
                         },
                         {
@@ -33481,6 +33504,20 @@
                "index": {},
                "sections": [
                   {
+                     "section": "<a id=\"cpp\">",
+                     "entries": [
+                        {
+                           "url": "https://www.nselva.com/book/C-plus-plus-book.pdf",
+                           "title": "சி++ மொழி",
+                           "author": "ந.செல்வகுமார்",
+                           "notes": [
+                              "PDF"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Computer Vision",
                      "entries": [
                         {
@@ -33514,7 +33551,7 @@
                         {
                            "url": "https://ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf",
                            "title": "Write Code in Tamil-Ezhil Programming Language",
-                           "author": "மதைதயா அணணாமைல,என. ொசாககன",
+                           "author": "முத்தையா அண்ணாமலைை, என்.சொக்கன்",
                            "notes": [
                               "PDF"
                            ]
@@ -33600,7 +33637,7 @@
                         {
                            "url": "https://freetamilebooks.com/ebooks/javascript_for_beginner/",
                            "title": "துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்",
-                           "author": "ச. குப்பன்",
+                           "author": "ச.குப்பன்",
                            "notes": [
                               "PDF"
                            ]
@@ -33709,6 +33746,14 @@
                            "url": "https://freetamilebooks.com/ebooks/learn-ruby-in-tamil/",
                            "title": "எளிய இனிய கணினி மொழி Ruby",
                            "author": "பிரியா சுந்தரமூர்த்தி",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://freetamilebooks.com/ebooks/ruby_nanban/",
+                           "title": "ரூபி நண்பன்",
+                           "author": "டக் ரைட், ஆடம் ஸ்டார்",
                            "notes": [
                               "PDF"
                            ]
@@ -72505,6 +72550,14 @@
                            ]
                         },
                         {
+                           "url": "https://bootstrap-cheatsheet.themeselection.com",
+                           "title": "Bootstrap 5 CSS Cheat Sheet",
+                           "author": "Theme Selection",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css",
                            "title": "CSS Cheat Sheet – A Basic Guide to CSS",
                            "author": "GeeksforGeeks",
@@ -75174,11 +75227,6 @@
                   {
                      "section": "LaTeX",
                      "entries": [
-                        {
-                           "url": "https://www.tutorialspoint.com/latex/index.htm",
-                           "title": "LaTeX Tutorial",
-                           "author": "TutorialsPoint"
-                        },
                         {
                            "url": "https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes",
                            "title": "Learn LaTeX in 30 minutes"
