@@ -19282,6 +19282,13 @@
                            "author": "Jake VanderPlas"
                         },
                         {
+                           "url": "https://artint.info/AIPython/aipython/aipython.pdf",
+                           "title": "AIPython: Python Code for understanding AI",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://www.statlearning.com",
                            "title": "An Introduction to Statistical Learning with Applications in Python",
                            "author": "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor",
