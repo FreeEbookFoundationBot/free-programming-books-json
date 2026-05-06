@@ -5691,7 +5691,7 @@
                         {
                            "url": "https://larmarange.github.io/analyse-R/",
                            "title": "Introduction à l'analyse d'enquête avec R et RStudio",
-                           "author": "Jospeh Lamarange, et al.",
+                           "author": "Joseph Larmarange, et al.",
                            "notes": [
                               "PDF version also available"
                            ]
@@ -36463,25 +36463,25 @@
                            "title": "深入 Python 3"
                         },
                         {
-                           "url": "http://www.osgeo.cn/matplotlib/",
+                           "url": "https://www.osgeo.cn/matplotlib/",
                            "title": "Matplotlib 3.0.3 中文文档",
                            "notes": [
                               "Online"
                            ]
                         },
                         {
-                           "url": "http://www.osgeo.cn/numpy/",
+                           "url": "https://www.osgeo.cn/numpy/",
                            "title": "Numpy 1.16 中文文档",
                            "notes": [
                               "Online"
                            ]
                         },
                         {
-                           "url": "http://docspy3zh.readthedocs.org/en/latest/",
+                           "url": "https://docspy3zh.readthedocs.org/en/latest/",
                            "title": "Python 3 文档(简体中文) 3.2.2 documentation"
                         },
                         {
-                           "url": "http://www.osgeo.cn/cpython/",
+                           "url": "https://www.osgeo.cn/cpython/",
                            "title": "Python 3.8.0a3中文文档",
                            "notes": [
                               "Online"
@@ -36493,7 +36493,7 @@
                            "title": "Python 最佳实践指南"
                         },
                         {
-                           "url": "http://python3-cookbook.readthedocs.io/zh_CN/latest/",
+                           "url": "https://python3-cookbook.readthedocs.io/zh_CN/latest/",
                            "title": "Python Cookbook第三版",
                            "author": "David Beazley、Brian K.Jones、熊能",
                            "notes": [
@@ -36516,7 +36516,7 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://www.osgeo.cn/tornado/",
+                           "url": "https://www.osgeo.cn/tornado/",
                            "title": "Tornado 6.1 中文文档",
                            "notes": [
                               "Online"
