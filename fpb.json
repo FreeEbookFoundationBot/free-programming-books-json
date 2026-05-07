@@ -15619,6 +15619,14 @@
                      "section": "JavaScript",
                      "entries": [
                         {
+                           "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+                           "title": "30 Days of JavaScript",
+                           "author": "Asabeneh Yetayeh",
+                           "notes": [
+                              "HTML, PDF"
+                           ]
+                        },
+                        {
                            "url": "https://airbnb.io/javascript/",
                            "title": "Airbnb JavaScript Style Guide",
                            "author": "Airbnb",
@@ -30856,9 +30864,13 @@
                                  "author": "Sergei Treil"
                               },
                               {
-                                 "url": "https://people.math.gatech.edu/~herod/Hspace/Hspace.html",
+                                 "url": "https://web.archive.org/web/20240313042212/https://herod.math.gatech.edu/Hspace/Hspace.html",
                                  "title": "Linear Algebra, Infinite Dimensions, and Maple",
-                                 "author": "James Herod"
+                                 "author": "James Herod",
+                                 "notes": [
+                                    "HTML"
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944",
