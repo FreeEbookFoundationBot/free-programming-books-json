@@ -9572,6 +9572,16 @@
                                  "author": "MDN"
                               }
                            ]
+                        },
+                        {
+                           "section": "Vue.js",
+                           "entries": [
+                              {
+                                 "url": "https://book.chibivue.land/ja.html",
+                                 "title": "The chibivue Book",
+                                 "author": "ubugeeei"
+                              }
+                           ]
                         }
                      ]
                   },
@@ -19422,6 +19432,11 @@
                            "notes": [
                               "3.6"
                            ]
+                        },
+                        {
+                           "url": "https://cs50.harvard.edu/python/",
+                           "title": "CS50's Introduction to Programming with Python",
+                           "author": "David J. Malan"
                         },
                         {
                            "url": "https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html",
@@ -74664,6 +74679,11 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://www.stepbystepml.com",
+                           "title": "Step-by-Step Machine Learning Algorithm Solvers",
+                           "author": "Riyan Jamil"
                         },
                         {
                            "url": "https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html",
