@@ -11235,7 +11235,7 @@
                      "section": "Agda",
                      "entries": [
                         {
-                           "url": "https://people.inf.elte.hu/divip/AgdaTutorial/Index.html",
+                           "url": "https://people.inf.elte.hu/pgj/agda/tutorial/Index.html",
                            "title": "Agda Tutorial"
                         },
                         {
@@ -35969,10 +35969,6 @@
                            "url": "https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html",
                            "title": "Google JavaScript 代码风格指南",
                            "accessNotes": " :card_file_box: archived"
-                        },
-                        {
-                           "url": "http://javascript.ruanyifeng.com",
-                           "title": "JavaScript 标准参考教程（alpha）"
                         },
                         {
                            "url": "https://github.com/justjavac/12-javascript-quirks",
