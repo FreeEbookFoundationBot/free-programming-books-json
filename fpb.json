@@ -51462,6 +51462,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P",
                            "title": "Free CCNA 200-301 // Complete Course // NetworkChuck 2023",
                            "author": "NetworkChuck"
+                        },
+                        {
+                           "url": "https://networkingfromscratch.vercel.app",
+                           "title": "Networking from Scratch",
+                           "author": "Tanay Kumar"
                         }
                      ],
                      "subsections": []
@@ -60458,6 +60463,11 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG",
                            "title": "C++ 11",
+                           "author": "Fabrizio Camuso"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLd6QTB-nRibM85WylqKvcmdMMxdOLnwiP",
+                           "title": "C++ 23/26 - Modern First",
                            "author": "Fabrizio Camuso"
                         },
                         {
