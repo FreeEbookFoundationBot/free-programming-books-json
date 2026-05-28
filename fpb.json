@@ -10796,12 +10796,12 @@
                      "subsections": []
                   },
                   {
-                     "section": "Operation System",
+                     "section": "Operating System",
                      "entries": [
                         {
                            "url": "https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean",
                            "title": "운영체제: 아주 쉬운 세 가지 이야기",
-                           "author": "Remzi Arpacidusseau",
+                           "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau,",
                            "notes": [
                               "PDF"
                            ]
