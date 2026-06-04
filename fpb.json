@@ -11348,7 +11348,7 @@
                            "title": "Learning APL",
                            "author": "Stefan Kruger",
                            "notes": [
-                              "HTML,PDF,IPYNB"
+                              "HTML, PDF, IPYNB"
                            ]
                         },
                         {
@@ -15201,7 +15201,7 @@
                            "title": "Building Back-End Web Apps with Java, JPA and JSF",
                            "author": "Mircea Diaconescu, Gerd Wagner",
                            "notes": [
-                              "HTML,PDF"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -17292,7 +17292,7 @@
                         {
                            "url": "https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf",
                            "title": "Linux Administration II : Linux as a Network Client",
-                           "author": "Anselm Lingnau,Tobias Elsner",
+                           "author": "Anselm Lingnau, Tobias Elsner",
                            "notes": [
                               "PDF",
                               "CC BY-SA"
@@ -19344,7 +19344,7 @@
                            "title": "Beej's Guide to Python Programming - For Beginners",
                            "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
-                              "HTML,PDF"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -22749,7 +22749,7 @@
                            "title": "Beej's Guide to Unix Interprocess Communication",
                            "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
-                              "HTML,PDF"
+                              "HTML, PDF"
                            ]
                         },
                         {
@@ -74825,7 +74825,7 @@
                            "author": "CodeCrafters"
                         },
                         {
-                           "url": "http://tour.golang.org",
+                           "url": "https://go.dev/tour/",
                            "title": "The Go Tutorial"
                         }
                      ],
@@ -75053,7 +75053,7 @@
                            "author": "After Hours Programming"
                         },
                         {
-                           "url": "https://github.com/sethvincent/javascripting",
+                           "url": "https://github.com/workshopper/javascripting",
                            "title": "Javascripting"
                         },
                         {
@@ -75191,7 +75191,7 @@
                            "section": "Svelte",
                            "entries": [
                               {
-                                 "url": "https://learn.svelte.dev/tutorial/welcome-to-svelte",
+                                 "url": "https://svelte.dev/tutorial/svelte/welcome-to-svelte",
                                  "title": "Interactive Svelte Tutorial",
                                  "author": "svelte.dev"
                               }
