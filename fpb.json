@@ -10754,6 +10754,15 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
+                           "url": "https://wikidocs.net/book/11259",
+                           "title": "리눅스 커맨드라인 (제5판 인터넷 에디션)",
+                           "author": "William Shotts,",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-ND"
+                           ]
+                        },
+                        {
                            "url": "https://sites.google.com/site/gnomekr/home/learning_gnome",
                            "title": "GNOME 배우기"
                         }
@@ -71925,6 +71934,14 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://www.cheatgrid.com/data-science/0597-polars-cheat-sheet",
+                           "title": "Polars Cheat Sheet",
+                           "author": "CheatGrid",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -72136,6 +72153,14 @@
                            "url": "https://github.com/wsargent/docker-cheat-sheet",
                            "title": "Docker Cheat Sheet",
                            "author": "Will Sargent, et al.",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.cheatgrid.com/containers-orchestration/0119-docker-cheat-sheet",
+                           "title": "Docker Cheat Sheet",
+                           "author": "CheatGrid",
                            "notes": [
                               "HTML"
                            ]
@@ -73143,6 +73168,14 @@
                            "section": "React.js",
                            "entries": [
                               {
+                                 "url": "https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet",
+                                 "title": "React Cheat Sheet",
+                                 "author": "CheatGrid",
+                                 "notes": [
+                                    "HTML"
+                                 ]
+                              },
+                              {
                                  "url": "https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet",
                                  "title": "React Cheatsheet",
                                  "author": "Codecademy",
@@ -73593,6 +73626,14 @@
                            "author": "ZeroToMastery",
                            "notes": [
                               "HTML, PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://www.cheatgrid.com/programming-languages/0004-python-cheat-sheet",
+                           "title": "Python Cheat Sheet",
+                           "author": "CheatGrid",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -74187,6 +74228,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.cheatgrid.com/databases/0293-sql-cheat-sheet",
+                           "title": "SQL Cheat Sheet",
+                           "author": "CheatGrid",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf",
                            "title": "SQL Cheat Sheet by Tomi Mester",
                            "author": "Tomi Mester",
@@ -74282,6 +74331,14 @@
                            "url": "https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/",
                            "title": "TypeScript Cheat Sheet",
                            "author": "ZeroToMastery",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://www.cheatgrid.com/programming-languages/0076-typescript-cheat-sheet",
+                           "title": "TypeScript Cheat Sheet",
+                           "author": "CheatGrid",
                            "notes": [
                               "HTML"
                            ]
