@@ -18136,7 +18136,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.red-gate.com/library/net-performance-testing-and-optimization-the-complete-guide",
+                           "url": "https://assets.red-gate.com/community/books/dotnet-performance-testing-and-optimization.pdf",
                            "title": ".NET Performance Testing and Optimization - The Complete Guide",
                            "author": "Paul Glavich, Chris Farrell",
                            "notes": [
@@ -45010,6 +45010,10 @@
                      "section": "0 - MOOC",
                      "entries": [
                         {
+                           "url": "https://lillytechsystems.com/ai-school/",
+                           "title": "AI School"
+                        },
+                        {
                            "url": "https://www.classcentral.com",
                            "title": "class central"
                         },
@@ -61339,6 +61343,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLQztdyH5OY4BvjvmU0PV8nTevqXjYcYEE",
                            "title": "JavaScript for Beginners in Kannada(Full Course)",
                            "author": "MicroDegree ಕನ್ನಡ"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLUZkVL-W-8GIYC4-b8Q8PX2M9Z1DWy8Hr",
+                           "title": "React JS Tutorial Series in Kannada",
+                           "author": "Script kiddie"
                         }
                      ],
                      "subsections": []
@@ -71596,6 +71605,16 @@
                            "notes": [
                               "GitHub"
                            ]
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLJV_el3uVTsMMGi5kbnKP5DrDHZpTX0jT",
+                           "title": "生成式人工智慧與機器學習導論 2025",
+                           "author": "Hung-yi Lee"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLJV_el3uVTsNZEFAdQsDeOdzAaHTca2Gi",
+                           "title": "生成式AI時代下的機器學習",
+                           "author": "Hung-yi Lee"
                         }
                      ],
                      "subsections": []
