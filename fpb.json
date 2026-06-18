@@ -10504,7 +10504,7 @@
                      "section": "Amazon Web Service",
                      "entries": [
                         {
-                           "url": "http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book",
+                           "url": "https://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book",
                            "title": "아마존 웹 서비스를 다루는 기술"
                         }
                      ],
@@ -10514,7 +10514,7 @@
                      "section": "Assembly Language",
                      "entries": [
                         {
-                           "url": "http://pacman128.github.io/static/pcasm-book-korean.pdf",
+                           "url": "https://pacman128.github.io/static/pcasm-book-korean.pdf",
                            "title": "PC Assembly Language",
                            "author": "Paul A. Carter,",
                            "notes": [
@@ -10592,7 +10592,7 @@
                      "section": "Docker",
                      "entries": [
                         {
-                           "url": "http://www.pyrasis.com/jHLsAlwaysUpToDateDocker",
+                           "url": "https://www.pyrasis.com/jHLsAlwaysUpToDateDocker",
                            "title": "이재홍의 언제나 최신 Docker"
                         }
                      ],
@@ -10644,7 +10644,7 @@
                      "section": "Go",
                      "entries": [
                         {
-                           "url": "http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book",
+                           "url": "https://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book",
                            "title": "가장 빨리 만나는 Go 언어"
                         },
                         {
@@ -10673,7 +10673,7 @@
                      "section": "HTML and CSS",
                      "entries": [
                         {
-                           "url": "http://fromyou.tistory.com/581",
+                           "url": "https://fromyou.tistory.com/581",
                            "title": "HTML5, CSS and JavaScript"
                         }
                      ],
@@ -10708,7 +10708,7 @@
                            "section": "Node.js",
                            "entries": [
                               {
-                                 "url": "http://nodejs.sideeffect.kr/docs/",
+                                 "url": "https://nodejs.sideeffect.kr/docs/",
                                  "title": "Node.js API 한글 번역",
                                  "author": "outsideris"
                               }
@@ -10827,7 +10827,7 @@
                      "section": "Perl",
                      "entries": [
                         {
-                           "url": "http://qntm.org/files/perl/perl_kr.html",
+                           "url": "https://qntm.org/files/perl/perl_kr.html",
                            "title": "2시간 반만에 펄 익히기"
                         },
                         {
@@ -10921,7 +10921,7 @@
                            "author": "조대표"
                         },
                         {
-                           "url": "http://byteofpython-korean.sourceforge.net/byte_of_python.pdf",
+                           "url": "https://byteofpython-korean.sourceforge.net/byte_of_python.pdf",
                            "title": "A Byte of Python 한글 번역",
                            "author": "Jeongbin Park",
                            "notes": [
@@ -11140,7 +11140,7 @@
                      "section": "Unicode",
                      "entries": [
                         {
-                           "url": "http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/",
+                           "url": "https://pluu.github.io/blog/android/2020/01/11/unicode-emoji/",
                            "title": "번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)"
                         }
                      ],
@@ -45066,7 +45066,7 @@
                            "title": "LearnWeb3 DAO | Become a Web3 Developer for Free"
                         },
                         {
-                           "url": "http://ocw.mit.edu",
+                           "url": "https://ocw.mit.edu",
                            "title": "MIT OCW"
                         },
                         {
@@ -47662,7 +47662,7 @@
                            "author": "OpenCV University"
                         },
                         {
-                           "url": "http://www.fast.ai",
+                           "url": "https://www.fast.ai",
                            "title": "Practical Deep Learning For Coders taught",
                            "author": "Jeremy Howard"
                         },
@@ -53414,7 +53414,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.theodinproject.com",
+                           "url": "https://www.theodinproject.com",
                            "title": "The Odin Project - Learn Web Development for Free"
                         },
                         {
