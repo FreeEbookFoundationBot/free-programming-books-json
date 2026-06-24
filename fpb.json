@@ -14110,6 +14110,11 @@
                            ]
                         },
                         {
+                           "url": "https://tools.yiteai.com/en/books/go",
+                           "title": "Go in Action",
+                           "author": "YiteAI"
+                        },
+                        {
                            "url": "https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly",
                            "title": "Go Succinctly",
                            "author": "Mark Lewin",
@@ -16817,6 +16822,11 @@
                                  "title": "React In-depth: An exploration of UI development"
                               },
                               {
+                                 "url": "https://tools.yiteai.com/en/books/react",
+                                 "title": "React in Depth: From Hooks to Source Code",
+                                 "author": "YiteAI"
+                              },
+                              {
                                  "url": "https://krasimir.gitbooks.io/react-in-patterns/content",
                                  "title": "React in patterns",
                                  "author": "Krasimir Tsonev"
@@ -16953,6 +16963,11 @@
                                  "notes": [
                                     "HTML; *email required for PDF*"
                                  ]
+                              },
+                              {
+                                 "url": "https://tools.yiteai.com/en/books/vue3",
+                                 "title": "Deep Vue 3: From History to Engine Internals",
+                                 "author": "YiteAI"
                               },
                               {
                                  "url": "https://riptutorial.com/Download/vue-js.pdf",
@@ -28131,6 +28146,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://tools.yiteai.com/en/books/dsa",
+                           "title": "Data Structures and Algorithms",
+                           "author": "YiteAI"
                         },
                         {
                            "url": "https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx",
