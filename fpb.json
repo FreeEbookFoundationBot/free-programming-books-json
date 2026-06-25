@@ -1861,7 +1861,7 @@
                         },
                         {
                            "url": "https://www.fernuni-hagen.de/zdi/docs/a027_latex_fort.pdf",
-                           "title": "LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)",
+                           "title": "LaTeX - Fortgeschrittene Anwendungen (oder: Neues von den Hobbits)",
                            "author": "Manuela Jürgens",
                            "notes": [
                               "PDF"
@@ -63398,6 +63398,16 @@
                            "title": "Java GUI: programowanie Graficznego Interfejsu Użytkownika"
                         },
                         {
+                           "url": "https://www.youtube.com/playlist?list=PLj-pbEqbjo6A7edIf1EWfhZ4prfYPJpTq",
+                           "title": "Kurs Java od podstaw (2023)",
+                           "author": "Zaprogramuj Życie"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLp9WLfHXxbccTjbdEqf79zE5eJ9n6aaPW",
+                           "title": "Kurs Java od podstaw (2024)",
+                           "author": "Jak nauczyć się programowania"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU",
                            "title": "Kurs JavaFX od podstaw"
                         },
@@ -63412,10 +63422,6 @@
                            "notes": [
                               "email address *requested*, not required"
                            ]
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY",
-                           "title": "Kurs programowania w języku Java (od podstaw!)"
                         }
                      ],
                      "subsections": []
