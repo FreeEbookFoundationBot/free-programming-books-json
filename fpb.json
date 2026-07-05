@@ -6703,6 +6703,17 @@
                      "subsections": []
                   },
                   {
+                     "section": "Game Development",
+                     "entries": [
+                        {
+                           "url": "https://github.com/eremes81/game-design-ai-practice-id",
+                           "title": "AI dan Claude Code untuk Praktik Game Design",
+                           "author": "Minsoo Lee"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "Git",
                      "entries": [
                         {
@@ -8490,6 +8501,14 @@
                                  "author": "Unity Technologies",
                                  "notes": [
                                     "HTML & PDF"
+                                 ]
+                              },
+                              {
+                                 "url": "https://github.com/eremes81/game-design-ai-practice-ja",
+                                 "title": "ゲームプランナーのための AI 実務ワークフロー",
+                                 "author": "Minsoo Lee",
+                                 "notes": [
+                                    "イ・ミンス"
                                  ]
                               },
                               {
@@ -10605,6 +10624,17 @@
                            "url": "https://esbook.kimjmin.net",
                            "title": "Elastic 가이드북",
                            "author": "김종민"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Game Development",
+                     "entries": [
+                        {
+                           "url": "https://github.com/eremes81/game-design-ai-practice",
+                           "title": "게임 기획 실무에서 바로 쓰는 AI·클로드 코드 활용법",
+                           "author": "이민수"
                         }
                      ],
                      "subsections": []
@@ -34041,6 +34071,17 @@
                            "url": "http://marcuscode.com/lang/csharp",
                            "title": "บทเรียนภาษา C#",
                            "author": "MarcusCode"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Game Development",
+                     "entries": [
+                        {
+                           "url": "https://github.com/eremes81/game-design-ai-practice-th",
+                           "title": "AI และ Claude Code สำหรับงานออกแบบเกมในทางปฏิบัติ",
+                           "author": "Minsoo Lee"
                         }
                      ],
                      "subsections": []
