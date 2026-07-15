@@ -35179,6 +35179,16 @@
                            "url": "https://nndl.github.io",
                            "title": "神经网络与深度学习",
                            "author": "邱锡鹏"
+                        },
+                        {
+                           "url": "https://github.com/eremes81/game-design-ai-practice-zh-hans",
+                           "title": "游戏策划实务即用的 AI · Claude Code 活用法",
+                           "author": "李旼洙"
+                        },
+                        {
+                           "url": "https://github.com/eremes81/game-design-ai-practice-zh-hant",
+                           "title": "遊戲策劃實務即用的 AI · Claude Code 活用法",
+                           "author": "李旼洙"
                         }
                      ],
                      "subsections": []
@@ -72403,12 +72413,13 @@
                            ]
                         },
                         {
-                           "url": "http://dockercheatsheet.painlessdocker.com",
+                           "url": "https://web.archive.org/web/20190205113917/https://dockercheatsheet.painlessdocker.com/",
                            "title": "The Definitive Docker Cheat Sheet",
                            "author": "Aymen EL Amri",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://dockerlabs.collabnix.com/docker/cheatsheet/",
@@ -72555,12 +72566,13 @@
                            ]
                         },
                         {
-                           "url": "https://about.gitlab.com/images/press/git-cheat-sheet.pdf",
+                           "url": "https://web.archive.org/web/20260629021617/https://about.gitlab.com/images/press/git-cheat-sheet.pdf",
                            "title": "Git Cheat Sheet",
                            "author": "GitLab",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://git.jk.gs",
@@ -74096,12 +74108,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf",
+                           "url": "https://web.archive.org/web/20250122193407/http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf",
                            "title": "Colors in R",
                            "author": "Ying Wei",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://posit.co/wp-content/uploads/2022/10/data-transformation-1.pdf",
