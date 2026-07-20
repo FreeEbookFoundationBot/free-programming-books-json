@@ -1763,6 +1763,14 @@
                            ]
                         },
                         {
+                           "url": "https://de.wikibooks.org/wiki/Java_Standard",
+                           "title": "Java Standard",
+                           "author": "Wikibooks",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://web.archive.org/web/20230805211306/https://java-tutorial.org/index.php",
                            "title": "Java Tutorial - Java lernen leicht gemacht",
                            "author": "Björn und Britta Petri",
@@ -53064,6 +53072,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH",
                            "title": "Software Engineering",
                            "author": "Tutorialspoint"
+                        },
+                        {
+                           "url": "https://thetpmguy.github.io/software-engineering-the-easy-way/",
+                           "title": "Software Engineering — The Easy Way",
+                           "author": "thetpmguy"
                         }
                      ],
                      "subsections": []
