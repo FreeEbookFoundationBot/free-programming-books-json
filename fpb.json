@@ -29832,6 +29832,15 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/dariubs/vim-book",
+                           "title": "Vim Book",
+                           "author": "Dariush Abbasi",
+                           "notes": [
+                              "Markdown, HTML",
+                              "CC BY"
+                           ]
+                        },
+                        {
                            "url": "https://github.com/mhinz/vim-galore#readme",
                            "title": "VIM-GALORE - All things Vim!",
                            "author": "Marco Hinz",
