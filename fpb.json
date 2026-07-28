@@ -28539,6 +28539,15 @@
                            ]
                         },
                         {
+                           "url": "https://daily.dev/agentic-ai-hub/",
+                           "title": "The Agentic AI Hub",
+                           "author": "daily.dev",
+                           "notes": [
+                              "HTML",
+                              "CC BY"
+                           ]
+                        },
+                        {
                            "url": "https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf",
                            "title": "The History of Artificial Intelligence",
                            "author": "Chris Smith, Brian McGuire, Ting Huang, Gary Yang",
@@ -33130,6 +33139,15 @@
                         {
                            "url": "https://landing.google.com/sre/book/index.html",
                            "title": "Site Reliability Engineering"
+                        },
+                        {
+                           "url": "https://oleksiyp.github.io/arch-book/",
+                           "title": "Software Architecture in the AI & Cloud Era",
+                           "author": "Oleksiy Pylypenko",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ]
                         },
                         {
                            "url": "https://www.oreilly.com/programming/free/software-architecture-patterns.csp",
@@ -53869,6 +53887,11 @@
                            "notes": [
                               "Programador Web Valencia"
                            ]
+                        },
+                        {
+                           "url": "https://certmundo.com/es-mx/curso/sql-y-bases-de-datos",
+                           "title": "SQL y Bases de Datos: Curso Gratis desde Cero",
+                           "author": "Certmundo"
                         }
                      ],
                      "subsections": []
@@ -53971,6 +53994,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls",
                            "title": "Git & GitHub",
                            "author": "Ignacio Gutiérrez, BlueWeb"
+                        },
+                        {
+                           "url": "https://certmundo.com/es-mx/curso/git-y-control-de-versiones",
+                           "title": "Git y Control de Versiones",
+                           "author": "Certmundo"
                         }
                      ],
                      "subsections": []
@@ -54315,6 +54343,11 @@
                            "author": "Brias Moure \"MoureDev\""
                         },
                         {
+                           "url": "https://certmundo.com/es-mx/curso/python-basico",
+                           "title": "Curso de Python desde Cero para Principiantes",
+                           "author": "Certmundo"
+                        },
+                        {
                            "url": "https://edutin.com/curso-de-python-4276",
                            "title": "Curso de Python gratis y con certificación",
                            "author": "Edutin"
@@ -54618,6 +54651,11 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://certmundo.com/es-mx/curso/javascript-para-principiantes",
+                           "title": "JavaScript para Principiantes",
+                           "author": "Certmundo"
                         },
                         {
                            "url": "https://www.pildorasinformaticas.es/course/php-mysql",
