@@ -28548,6 +28548,15 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/bartek-890/the-claude-code-book",
+                           "title": "The Claude Code Book",
+                           "author": "Bartłomiej Krupa",
+                           "notes": [
+                              "Markdown",
+                              "CC BY-NC-ND"
+                           ]
+                        },
+                        {
                            "url": "https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf",
                            "title": "The History of Artificial Intelligence",
                            "author": "Chris Smith, Brian McGuire, Ting Huang, Gary Yang",
