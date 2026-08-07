@@ -45170,6 +45170,15 @@
                            "title": "AI School"
                         },
                         {
+                           "url": "https://alexar76.github.io/aimarket-courses/",
+                           "title": "AIMarket Courses",
+                           "author": "Aleksandr Artamokhov",
+                           "notes": [
+                              "HTML",
+                              "MIT"
+                           ]
+                        },
+                        {
                            "url": "https://www.cheatgrid.com/roadmaps",
                            "title": "CheatGrid"
                         },
