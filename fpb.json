@@ -6629,22 +6629,7 @@
                   "name": "Armenian"
                },
                "index": {},
-               "sections": [
-                  {
-                     "section": "Python",
-                     "entries": [
-                        {
-                           "url": "https://armath.am/uploads/E-learning/Robotics/RaspberryPi/python.pdf",
-                           "title": "Python Ուղեցույց",
-                           "author": "Վարդուհի Անդրեասյան",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  }
-               ]
+               "sections": []
             },
             {
                "language": {
@@ -47091,6 +47076,14 @@
                         {
                            "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
                            "title": "MIT's Mathematics for Computer Science"
+                        },
+                        {
+                           "url": "https://missing.csail.mit.edu",
+                           "title": "The Missing Semester of Your CS Education",
+                           "author": "Anish Athalye, Jon Gjengset, Jose Javier Gonzalez Ortiz",
+                           "notes": [
+                              "MIT"
+                           ]
                         }
                      ],
                      "subsections": []
