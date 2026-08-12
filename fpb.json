@@ -76241,6 +76241,14 @@
                      "section": "SQL",
                      "entries": [
                         {
+                           "url": "https://koddo.ru/trainers/sql",
+                           "title": "Тренажёр SQL",
+                           "author": "Koddo",
+                           "notes": [
+                              "19 задач с автопроверкой в браузере, без регистрации"
+                           ]
+                        },
+                        {
                            "url": "https://www.sql-ex.ru/?Lang=0",
                            "title": "SQL упражнения"
                         }
