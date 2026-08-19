@@ -4306,40 +4306,12 @@
                "index": {},
                "sections": [
                   {
-                     "section": "Algoritmid ja andmestruktuurid",
-                     "entries": [
-                        {
-                           "url": "https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf",
-                           "title": "Algoritmid ja andmestruktuurid (2003, Kolmas, parandatud ja täiendatud trükk)",
-                           "author": "Jüri Kiho",
-                           "notes": [
-                              "PDF"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "C",
                      "entries": [
                         {
                            "url": "https://et.wikibooks.org/wiki/Programmeerimiskeel_C",
                            "title": "Programmeerimiskeel C",
                            "author": "Wikiõpikud"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "<a id=\"csharp\">",
-                     "entries": [
-                        {
-                           "url": "https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf",
-                           "title": "Microsoft Visual Studio Code ja C#",
-                           "author": "Kalle Remm",
-                           "notes": [
-                              "PDF"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -4467,14 +4439,6 @@
                   {
                      "section": "SQL",
                      "entries": [
-                        {
-                           "url": "https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid",
-                           "title": "Andmebaaside alused",
-                           "author": "Priit Raspel",
-                           "notes": [
-                              "HTML"
-                           ]
-                        },
                         {
                            "url": "https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB",
                            "title": "SQL päringute koostamine, analüüsimine  ja optimeerimine",
@@ -4739,11 +4703,6 @@
                            "notes": [
                               "PDF"
                            ]
-                        },
-                        {
-                           "url": "https://grader.cs.hut.fi/static/y1/",
-                           "title": "Ohjelmoinnin peruskurssi Y1 - Opetusmoniste syksy 2017",
-                           "author": "Kerttu Pollari-Malmi"
                         },
                         {
                            "url": "https://jyx.jyu.fi/bitstream/handle/123456789/47415/978-951-39-4624-1.pdf",
@@ -77652,6 +77611,11 @@
                         {
                            "url": "https://exercism.org",
                            "title": "Exercism"
+                        },
+                        {
+                           "url": "https://frontendatlas.com/coding",
+                           "title": "Frontend Coding Challenges",
+                           "author": "FrontendAtlas"
                         },
                         {
                            "url": "https://www.hackerearth.com",
