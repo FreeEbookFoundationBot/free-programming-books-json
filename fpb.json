@@ -6792,14 +6792,6 @@
                                  "author": "Diki Alfarabi Hadi"
                               },
                               {
-                                 "url": "https://www.niagahoster.co.id/blog/tutorial-bootstrap-5/",
-                                 "title": "Bootstrap 5 : Pengertian, Fitur, Keunggulan dan Cara Menggunakannya",
-                                 "author": "Niagahoster",
-                                 "notes": [
-                                    "HTML"
-                                 ]
-                              },
-                              {
                                  "url": "https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html",
                                  "title": "Daftar Tutorial Bootstrap 4 Bahasa Indonesia",
                                  "author": "Gerald Cahya Prambudi"
@@ -19789,6 +19781,14 @@
                            ]
                         },
                         {
+                           "url": "https://dabeaz-course.github.io/practical-python/",
+                           "title": "Practical Python Programming",
+                           "author": "David Beazley",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://learnbyexample.github.io/practice_python_projects/",
                            "title": "Practice Python Projects",
                            "author": "Sundeep Agarwal"
@@ -28322,6 +28322,16 @@
                   {
                      "section": "Artificial Intelligence",
                      "entries": [
+                        {
+                           "url": "https://hallieren.github.io/ai-agent-evaluation/",
+                           "title": "AI Agent Evaluation",
+                           "author": "Hallie Ren",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ],
+                           "accessNotes": " :construction: in process"
+                        },
                         {
                            "url": "https://aisafety.dance",
                            "title": "AI Safety for Fleshy Humans",
@@ -53094,6 +53104,11 @@
                            "url": "https://thetpmguy.github.io/software-engineering-the-easy-way/",
                            "title": "Software Engineering — The Easy Way",
                            "author": "thetpmguy"
+                        },
+                        {
+                           "url": "https://sourcemap.co",
+                           "title": "Sourcemap: Ninety Days to Read Any System",
+                           "author": "Mihirsinh Chavda"
                         }
                      ],
                      "subsections": []
@@ -75863,6 +75878,11 @@
                            ]
                         },
                         {
+                           "url": "https://pythonlings.abhik.ai",
+                           "title": "Pythonlings",
+                           "author": "Abhik Sarkar"
+                        },
+                        {
                            "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
                            "title": "Scientific Computing with Python Certification",
                            "author": "freeCodeCamp"
@@ -78046,6 +78066,10 @@
                         {
                            "url": "https://www.research.ibm.com/haifa/ponderthis/index.shtml",
                            "title": "Ponder This!"
+                        },
+                        {
+                           "url": "https://prachub.com/questions",
+                           "title": "PracHub"
                         },
                         {
                            "url": "https://www.practicepython.org",
