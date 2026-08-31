@@ -75582,6 +75582,11 @@
                            "section": "Operating systems",
                            "entries": [
                               {
+                                 "url": "https://devops-daily.com/games/linux-terminal",
+                                 "title": "Learn Linux - Interactive Tutorial",
+                                 "author": "DevOps Daily"
+                              },
+                              {
                                  "url": "https://github.com/s-matyukevich/raspberry-pi-os",
                                  "title": "Learning operating system development using Linux kernel and Raspberry Pi",
                                  "author": "Sergey Matyukevich",
@@ -76089,6 +76094,11 @@
                         {
                            "url": "https://www.sqlteaching.com",
                            "title": "SQL Teaching"
+                        },
+                        {
+                           "url": "https://devops-daily.com/games/sql-terminal-simulator",
+                           "title": "SQL Terminal Simulator",
+                           "author": "DevOps Daily"
                         },
                         {
                            "url": "https://www.w3schools.com/sql",
