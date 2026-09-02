@@ -30412,14 +30412,11 @@
                            "author": "Cameron Davidson-Pilon"
                         },
                         {
-                           "url": "https://www.people.vcu.edu/~rhammack/BookOfProof/",
+                           "url": "https://richardhammack.github.io/BookOfProof/Main.pdf",
                            "title": "Book of Proof",
                            "author": "Richard Hammack",
-                           "otherLinks": [
-                              {
-                                 "title": "PDF",
-                                 "url": "https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf"
-                              }
+                           "notes": [
+                              "PDF"
                            ]
                         },
                         {
