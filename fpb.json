@@ -28327,10 +28327,9 @@
                            "title": "AI Agent Evaluation",
                            "author": "Hallie Ren",
                            "notes": [
-                              "HTML",
+                              "HTML, EPUB",
                               "CC BY-NC-SA"
-                           ],
-                           "accessNotes": " :construction: in process"
+                           ]
                         },
                         {
                            "url": "https://aisafety.dance",
@@ -28496,6 +28495,15 @@
                            ]
                         },
                         {
+                           "url": "https://hallieren.github.io/research-rewritten/",
+                           "title": "Research, Rewritten",
+                           "author": "Hallie Ren",
+                           "notes": [
+                              "HTML, EPUB",
+                              "CC BY-NC-SA"
+                           ]
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
                            "title": "Stanford CS224N: Natural Language Processing with Deep Learning",
                            "author": "Christopher Manning",
@@ -28527,6 +28535,15 @@
                            "author": "Chris Smith, Brian McGuire, Ting Huang, Gary Yang",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://hallieren.github.io/the-last-mile/",
+                           "title": "The Last Mile",
+                           "author": "Hallie Ren",
+                           "notes": [
+                              "HTML, EPUB",
+                              "CC BY-NC-SA"
                            ]
                         },
                         {
