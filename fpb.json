@@ -22623,6 +22623,15 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/gibbok/typescript-book",
+                           "title": "The Concise TypeScript Book",
+                           "author": "Simone Poggiali",
+                           "notes": [
+                              "HTML, PDF, EPUB",
+                              "CC BY"
+                           ]
+                        },
+                        {
                            "url": "https://www.totaltypescript.com/books/total-typescript-essentials",
                            "title": "Total TypeScript: Essentials",
                            "notes": [
@@ -28332,6 +28341,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.thequery.in/books/ai-from-first-principles",
+                           "title": "AI: From First Principles",
+                           "author": "Addy",
+                           "notes": [
+                              "HTML, EPUB"
+                           ]
+                        },
+                        {
                            "url": "https://aisafety.dance",
                            "title": "AI Safety for Fleshy Humans",
                            "author": "Nicky Case and Hack Club",
@@ -28492,6 +28509,14 @@
                            "author": "Cam Davidson-Pilon",
                            "notes": [
                               "HTML, Jupyter Notebook"
+                           ]
+                        },
+                        {
+                           "url": "https://www.thequery.in/books/rag-kg-master-course",
+                           "title": "RAG + Knowledge Graph Master Course",
+                           "author": "Addy",
+                           "notes": [
+                              "HTML, EPUB"
                            ]
                         },
                         {
@@ -77159,6 +77184,11 @@
                         {
                            "url": "https://www.online-python.com",
                            "title": "Online Python"
+                        },
+                        {
+                           "url": "https://coddy.tech/playground/python",
+                           "title": "Online Python Compiler",
+                           "author": "Coddy"
                         },
                         {
                            "url": "https://www.programiz.com/python-programming/online-compiler/",
