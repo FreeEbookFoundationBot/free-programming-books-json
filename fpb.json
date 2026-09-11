@@ -53006,6 +53006,11 @@
                            ]
                         },
                         {
+                           "url": "https://ransomleak.com/learning/",
+                           "title": "Free Security Awareness Training For Everyone",
+                           "author": "RansomLeak"
+                        },
+                        {
                            "url": "https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47",
                            "title": "Full Length Hacking Courses",
                            "author": "The Cyber Mentor"
@@ -69190,6 +69195,20 @@
                            "url": "https://ela.kpi.ua/handle/123456789/25111",
                            "title": "Основи програмування. Python. Частина 1 - КПІ",
                            "author": "А.В. Яковенко"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "<a id=\"security\">",
+                     "entries": [
+                        {
+                           "url": "https://ransomleak.com/uk/learning/",
+                           "title": "Безкоштовне навчання з кібербезпеки Для кожного",
+                           "author": "RansomLeak",
+                           "notes": [
+                              "BEG"
+                           ]
                         }
                      ],
                      "subsections": []
