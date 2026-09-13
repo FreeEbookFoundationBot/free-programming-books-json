@@ -10158,7 +10158,7 @@
                            "author": "Michael Hartl,"
                         },
                         {
-                           "url": "https://i.loveruby.net/ja/rhg/book",
+                           "url": "https://i.loveruby.net/ja/rhg/book/",
                            "title": "Ruby ソースコード完全解説",
                            "author": "青木峰郎"
                         },
@@ -30797,7 +30797,7 @@
                            "title": "Probability and Statistics Cookbook"
                         },
                         {
-                           "url": "http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook",
+                           "url": "https://wiki.socr.umich.edu/index.php/Probability_and_statistics_EBook",
                            "title": "Probability and Statistics EBook"
                         },
                         {
@@ -32374,6 +32374,16 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://composingprograms.com/3ed/",
+                           "title": "Composing Programs",
+                           "author": "John DeNero",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA"
+                           ],
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://www.smashwords.com/books/view/639609",
@@ -75619,6 +75629,11 @@
                            "notes": [
                               "freeCodeCamp"
                            ]
+                        },
+                        {
+                           "url": "https://learnblazinglyfast.tech",
+                           "title": "Learn Blazingly Fast",
+                           "author": "Interactive CS, Algorithm & Machine Learning Visualizations"
                         },
                         {
                            "url": "https://libre.academy",
