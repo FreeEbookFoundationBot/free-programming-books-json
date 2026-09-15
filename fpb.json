@@ -25850,6 +25850,27 @@
                      "subsections": []
                   },
                   {
+                     "section": "Javascript",
+                     "entries": [
+                        {
+                           "url": "https://marplo.net/javascript",
+                           "title": "Curs si Tutoriale JavaScript"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "LINUX",
+                     "entries": [
+                        {
+                           "url": "https://github.com/systems-cs-pub-ro/carte-uso/releases/tag/uso-ed1-2021",
+                           "title": "Utilizarea Sistemelor de Operare - USO",
+                           "author": "Răzvan Deaconescu, Răzvan Rughiniș, Mihai Carabaș, Alexandru Radovici"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "MySQL",
                      "entries": [
                         {
@@ -25878,16 +25899,6 @@
                         {
                            "url": "http://scratched.gse.harvard.edu/resources/informatica-creativa-0",
                            "title": "Informatica Creativa"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Javascript",
-                     "entries": [
-                        {
-                           "url": "https://marplo.net/javascript",
-                           "title": "Curs si Tutoriale JavaScript"
                         }
                      ],
                      "subsections": []
@@ -29612,10 +29623,12 @@
                            "title": "Blender Manual"
                         },
                         {
-                           "url": "http://gabrielgambetta.com/computer-graphics-from-scratch",
-                           "title": "Computer Graphics from scratch",
+                           "url": "https://gabrielgambetta.com/computer-graphics-from-scratch/",
+                           "title": "Computer Graphics from Scratch",
                            "author": "Gabriel Gambetta",
-                           "accessNotes": " :construction: in process"
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://user.xmission.com/~legalize/book/download/index.html",
