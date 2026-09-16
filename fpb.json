@@ -74874,6 +74874,11 @@
                      "section": "C",
                      "entries": [
                         {
+                           "url": "https://a1lab.tech/c/introduction",
+                           "title": "C Introduction",
+                           "author": "A1Lab"
+                        },
+                        {
                            "url": "https://www.w3schools.com/c/",
                            "title": "C Tutorial",
                            "author": "W3Schools"
@@ -74936,6 +74941,11 @@
                   {
                      "section": "<a id=\"cpp\">",
                      "entries": [
+                        {
+                           "url": "https://a1lab.tech/cpp/introduction",
+                           "title": "C++ Introduction",
+                           "author": "A1Lab"
+                        },
                         {
                            "url": "https://www.geeksforgeeks.org/c-plus-plus/",
                            "title": "C++ Programming Language",
@@ -75432,6 +75442,11 @@
                         {
                            "url": "http://www.codermania.com/javascript/lesson/1a/hello-world",
                            "title": "JavaScript interactive tutorial on CoderMania"
+                        },
+                        {
+                           "url": "https://a1lab.tech/javascript/introduction",
+                           "title": "JavaScript Introduction",
+                           "author": "A1Lab"
                         },
                         {
                            "url": "https://www.w3schools.com/js",
@@ -75932,6 +75947,11 @@
                            "author": "Barbara Ericson"
                         },
                         {
+                           "url": "https://a1lab.tech/python/introduction",
+                           "title": "Python Introduction",
+                           "author": "A1Lab"
+                        },
+                        {
                            "url": "https://github.com/gregmalcolm/python_koans",
                            "title": "Python Koans"
                         },
@@ -76171,6 +76191,11 @@
                         {
                            "url": "https://www.codecademy.com/courses/learn-sql",
                            "title": "SQL at Codecademy"
+                        },
+                        {
+                           "url": "https://a1lab.tech/sql/introduction",
+                           "title": "SQL Introduction",
+                           "author": "A1Lab"
                         },
                         {
                            "url": "https://www.tutlane.com/tutorial/sql-server",
