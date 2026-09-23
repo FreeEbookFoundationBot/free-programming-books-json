@@ -28597,6 +28597,14 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://llmknowledge.pages.dev",
+                           "title": "Understanding Modern LLM Systems: A Field Guide to RAG, Agents, and Beyond",
+                           "author": "koe",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -32563,6 +32571,14 @@
                            ]
                         },
                         {
+                           "url": "https://acuity.press",
+                           "title": "Delta: Closing the Specification Gap",
+                           "author": "Sandeep Dhuri",
+                           "notes": [
+                              "PDF, EPUB"
+                           ]
+                        },
+                        {
                            "url": "https://web.archive.org/web/20241107021929/https://codeahoy.com/learn/promptengineering/toc/",
                            "title": "Guide to Prompt Engineering",
                            "author": "CodeAhoy",
@@ -35235,6 +35251,11 @@
                            "url": "https://zh.d2l.ai",
                            "title": "动手学深度学习",
                            "author": "阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉"
+                        },
+                        {
+                           "url": "https://llmknowledge.pages.dev/zh/",
+                           "title": "理解现代大语言模型系统-从RAG到全景",
+                           "author": "koe"
                         },
                         {
                            "url": "https://datawhalechina.github.io/pumpkin-book",
