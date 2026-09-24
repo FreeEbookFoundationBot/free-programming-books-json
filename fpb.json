@@ -25432,8 +25432,9 @@
                            "title": "Curso de Python e Django"
                         },
                         {
-                           "url": "http://turing.com.br/material/acpython/mod3/django/index.html",
-                           "title": "Django 101 - Introdução ao Django"
+                           "url": "https://web.archive.org/web/20240412184408/http://turing.com.br/material/acpython/mod3/django/index.html",
+                           "title": "Django 101 - Introdução ao Django",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://fastapidozero.dunossauro.com",
@@ -25464,8 +25465,9 @@
                            "title": "O Guia do Mochileiro para Python!"
                         },
                         {
-                           "url": "http://turing.com.br/pydoc/2.7/tutorial/",
-                           "title": "O tutorial de Python"
+                           "url": "https://web.archive.org/web/20240412174012/http://turing.com.br/pydoc/2.7/tutorial/",
+                           "title": "O tutorial de Python",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf",
@@ -29733,6 +29735,22 @@
                            "url": "https://raytracing.github.io",
                            "title": "Ray Tracing in One Weekend",
                            "author": "Peter Shirley",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://raytracing.github.io/books/RayTracingTheNextWeek.html",
+                           "title": "Ray Tracing: The Next Week",
+                           "author": "Peter Shirley, Trevor David Black, Steve Hollasch",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html",
+                           "title": "Ray Tracing: The Rest of Your Life",
+                           "author": "Peter Shirley, Trevor David Black, Steve Hollasch",
                            "notes": [
                               "HTML"
                            ]
