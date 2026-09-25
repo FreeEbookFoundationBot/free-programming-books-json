@@ -34337,21 +34337,17 @@
                      "section": "Android",
                      "entries": [
                         {
-                           "url": "https://umiitkose.com/android",
-                           "title": "Android Dersleri",
-                           "author": "Ümit Köse"
-                        },
-                        {
                            "url": "https://gelecegiyazanlar.turkcell.com.tr/konu/android",
                            "title": "Android Geleceği Yazanlar"
                         },
                         {
-                           "url": "http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf",
+                           "url": "https://web.archive.org/web/20191101104413/http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf",
                            "title": "Android Türkçe PDF",
                            "author": "Ümit Köse",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -34360,16 +34356,18 @@
                      "section": "C",
                      "entries": [
                         {
-                           "url": "http://www.belgeler.org/bgnet/bgnet.html",
+                           "url": "https://web.archive.org/web/20230505175314/http://www.belgeler.org/bgnet/bgnet.html",
                            "title": "Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak",
                            "author": "Brian \"Beej Jorgensen\" Hall, Çeviren Emre \"FZ\" Sevinç",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://www.belgeler.org/glibc/glibc.html",
-                           "title": "GNU C Kütüphanesi Basvuru Klavuzu"
+                           "url": "https://web.archive.org/web/20210122114428/http://belgeler.org/glibc/glibc.html",
+                           "title": "GNU C Kütüphanesi Basvuru Klavuzu",
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -34403,7 +34401,7 @@
                      "section": "Dart",
                      "entries": [
                         {
-                           "url": "https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar",
+                           "url": "https://dartogreniyorum.blogspot.com/2013/03/yeniden-dart.html",
                            "title": "Dart - Merhaba Dünya"
                         }
                      ],
@@ -34537,12 +34535,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html",
+                           "url": "https://web.archive.org/web/20240524094637/http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html",
                            "title": "Başkent Üniversitesi Java Dersleri",
                            "author": "ttm",
                            "notes": [
                               "Technology Promotion Center"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf",
@@ -34598,8 +34597,9 @@
                      "section": "Linux",
                      "entries": [
                         {
-                           "url": "http://www.belgeler.org/bashref/bashref.html",
-                           "title": "GNU Bash Başvuru Kılavuzu"
+                           "url": "https://web.archive.org/web/20230404020935/http://www.belgeler.org/bashref/bashref.html",
+                           "title": "GNU Bash Başvuru Kılavuzu",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf",
@@ -34609,12 +34609,14 @@
                            ]
                         },
                         {
-                           "url": "http://www.belgeler.org/howto/howtos.html",
-                           "title": "Linux Belgeleri"
+                           "url": "https://web.archive.org/web/20200307055729/http://www.belgeler.org/howto/howtos.html",
+                           "title": "Linux Belgeleri",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://www.belgeler.org/sag/sag.html",
-                           "title": "Linux Sistem Yöneticisinin Kılavuzu"
+                           "url": "https://web.archive.org/web/20230404020935/http://www.belgeler.org/sag/sag.html",
+                           "title": "Linux Sistem Yöneticisinin Kılavuzu",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf",
@@ -34649,9 +34651,10 @@
                            ]
                         },
                         {
-                           "url": "https://python-istihza.yazbel.com",
+                           "url": "https://web.archive.org/web/20191220075828/https://python-istihza.yazbel.com/",
                            "title": "Python Programlama Dili",
-                           "author": "YazBel Yazılım Belgelendirme Projesi - Python 3"
+                           "author": "YazBel Yazılım Belgelendirme Projesi - Python 3",
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": [
@@ -34741,9 +34744,10 @@
                            "title": "Ruby 101"
                         },
                         {
-                           "url": "http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html",
+                           "url": "https://web.archive.org/web/20230306002434/http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html",
                            "title": "Ruby Kullanıcı Kılavuzu",
-                           "author": "Mark Slagell"
+                           "author": "Mark Slagell",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.ruby-lang.org/tr/documentation/quickstart",
