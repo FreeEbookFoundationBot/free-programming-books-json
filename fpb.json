@@ -1944,13 +1944,13 @@
                      "section": "Neo4j",
                      "entries": [
                         {
-                           "url": "https://neo4j.com/neo4j-graphdatenbank-book",
+                           "url": "https://web.archive.org/web/20230225180741/https://neo4j.com/neo4j-graphdatenbank-book/",
                            "title": "Neo4j 2.0 – Eine Graphdatenbank für alle",
                            "author": "Michael Hunger",
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": "email requested"
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -2775,12 +2775,13 @@
                            "section": "Ciencia Computacional",
                            "entries": [
                               {
-                                 "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf",
+                                 "url": "https://web.archive.org/web/20230705150350/http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf",
                                  "title": "Breves Notas sobre Autómatas y Lenguajes",
                                  "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf",
@@ -5245,11 +5246,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.idris.fr/formations/fortran/",
+                           "url": "https://web.archive.org/web/20260312175623/http://www.idris.fr/formations/fortran/",
                            "title": "IDRIS Formations Fortran: documentation",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -7515,11 +7517,12 @@
                                  ]
                               },
                               {
-                                 "url": "http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale",
+                                 "url": "https://web.archive.org/web/20240616023829/http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale",
                                  "title": "La storia dell'informatica in Mondo Digitale",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://www.progettohmr.it/Corso/",
@@ -7992,12 +7995,13 @@
                      "section": "Kotlin",
                      "entries": [
                         {
-                           "url": "http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf",
+                           "url": "https://web.archive.org/web/20260420223922/http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf",
                            "title": "Kotlin",
                            "author": "V. Albertoni",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -9770,12 +9774,13 @@
                            "author": "@_marycore"
                         },
                         {
-                           "url": "https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf",
+                           "url": "https://web.archive.org/web/20150918225253/https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf",
                            "title": "Objective-C プログラミング言語",
                            "author": "Apple Developer",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://fn7.hatenadiary.org/entry/20100203/1265207098",
@@ -10178,9 +10183,10 @@
                            "author": "高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏"
                         },
                         {
-                           "url": "http://www.nct9.ne.jp/m_hiroi/light/ruby.html",
+                           "url": "https://web.archive.org/web/20260207120226/https://www.nct9.ne.jp/m_hiroi/light/ruby.html",
                            "title": "お気楽 Ruby プログラミング入門",
-                           "author": "広井誠"
+                           "author": "広井誠",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://tatsu-zine.com/books/scheme-in-ruby",
@@ -11948,12 +11954,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.freeos.com/guides/lsst/",
+                           "url": "https://web.archive.org/web/20260617144214/http://www.freeos.com/guides/lsst/",
                            "title": "Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)",
                            "author": "Vivek G. Gite",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://bash.cyberciti.biz/guide/Main_Page",
@@ -15160,12 +15167,13 @@
                      "section": "Java",
                      "entries": [
                         {
-                           "url": "http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf",
+                           "url": "https://web.archive.org/web/20251124074959/https://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf",
                            "title": "3D Programming in Java",
                            "author": "Daniel Selman",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf",
@@ -16456,8 +16464,9 @@
                                  "title": "Ember.js - Getting started"
                               },
                               {
-                                 "url": "http://ember.vicramon.com",
-                                 "title": "Vic Ramon's Ember Tutorial"
+                                 "url": "https://web.archive.org/web/20211024052718/http://ember.vicramon.com/",
+                                 "title": "Vic Ramon's Ember Tutorial",
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://yoember.com",
@@ -16763,9 +16772,10 @@
                                  "author": "Airbnb"
                               },
                               {
-                                 "url": "https://www.programming-books.io/essential/react/",
+                                 "url": "https://web.archive.org/web/20260114050415/https://www.programming-books.io/essential/react/",
                                  "title": "Essential React",
-                                 "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
+                                 "author": "Krzysztof Kowalczyk, StackOverflow Contributors",
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://www.hackingwithreact.com",
@@ -16855,8 +16865,9 @@
                                  ]
                               },
                               {
-                                 "url": "http://browniefed.com/react-native-animation-book/",
-                                 "title": "React Native Animation Book"
+                                 "url": "https://web.archive.org/web/20180303022501/http://browniefed.com/react-native-animation-book/",
+                                 "title": "React Native Animation Book",
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://www.reactnativeexpress.com",
@@ -17040,12 +17051,13 @@
                            ]
                         },
                         {
-                           "url": "https://juliadatascience.io",
+                           "url": "https://web.archive.org/web/20251215191015/https://juliadatascience.io/",
                            "title": "Julia Data Science",
                            "author": "Jose Storopoli, Rik Huijzer, Lazaro Alonso",
                            "notes": [
                               "CC BY-NC-SA"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://syl1.gitbook.io/julia-language-a-concise-tutorial",
@@ -18252,9 +18264,10 @@
                            ]
                         },
                         {
-                           "url": "https://redis.com/ebook/redis-in-action/",
+                           "url": "https://web.archive.org/web/20231219080823/https://redis.com/ebook/redis-in-action/",
                            "title": "Redis in Action",
-                           "author": "Josiah L. Carlson"
+                           "author": "Josiah L. Carlson",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://openmymind.net/2012/1/23/The-Little-Redis-Book/",
@@ -18584,11 +18597,12 @@
                            "author": "D. Rolsky, K. Williams"
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/108/EssentialPerl.pdf",
+                           "url": "https://web.archive.org/web/20260510194733/http://cslibrary.stanford.edu/108/EssentialPerl.pdf",
                            "title": "Essential Perl",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.billhails.net/Book/",
@@ -19221,9 +19235,10 @@
                            "author": "Werner Hett"
                         },
                         {
-                           "url": "https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html",
+                           "url": "https://web.archive.org/web/20220926100142/https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html",
                            "title": "Prolog Tutorial",
-                           "author": "J. R. Fisher"
+                           "author": "J. R. Fisher",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://book.simply-logical.space",
@@ -19471,13 +19486,14 @@
                            "author": "Allen B. Downey"
                         },
                         {
-                           "url": "https://diveintopython3.problemsolving.io",
+                           "url": "https://web.archive.org/web/20251226102127/https://diveintopython3.problemsolving.io/",
                            "title": "Dive into Python 3",
                            "author": "Mark Pilgrim",
                            "notes": [
                               "3.0",
                               "CC BY-SA"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.programming-books.io/essential/python/",
@@ -21174,9 +21190,10 @@
                            "title": "The Bastards Book of Ruby"
                         },
                         {
-                           "url": "http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html",
+                           "url": "https://web.archive.org/web/20230314185709/http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html",
                            "title": "The Book Of Ruby",
-                           "author": "Huw Collingbourne"
+                           "author": "Huw Collingbourne",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.rubyguides.com/ruby-tutorial/",
@@ -21184,9 +21201,10 @@
                            "author": "Jesus Castello"
                         },
                         {
-                           "url": "http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html",
+                           "url": "https://web.archive.org/web/20230314185709/http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html",
                            "title": "The Little Book Of Ruby",
-                           "author": "Huw Collingbourne"
+                           "author": "Huw Collingbourne",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://rubyreferences.github.io/rubyref/",
@@ -22430,9 +22448,10 @@
                            "author": "Lawrence C. Paulson"
                         },
                         {
-                           "url": "http://homepages.inf.ed.ac.uk/stg/NOTES/",
+                           "url": "https://web.archive.org/web/20251227140803/https://homepages.inf.ed.ac.uk/stg/NOTES/",
                            "title": "Programming in Standard ML '97",
-                           "author": "Stephen Gilmore, University of Edinburgh"
+                           "author": "Stephen Gilmore, University of Edinburgh",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.cs.cmu.edu/~rwh/isml/book.pdf",
@@ -22822,12 +22841,13 @@
                            ]
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf",
+                           "url": "https://web.archive.org/web/20260510194803/http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf",
                            "title": "Unix Programming Tools",
                            "author": "Parlante, Zelenski",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20210912091852/https://cb.vu/unixtoolbox.xhtml",
@@ -28134,12 +28154,14 @@
                            "author": "Massimo Di Pierro"
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/110/BinaryTrees.pdf",
+                           "url": "https://web.archive.org/web/20260429190107/http://cslibrary.stanford.edu/110/BinaryTrees.pdf",
                            "title": "Binary Trees",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF"
-                           ]
+                              "PDF",
+                              "s"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf",
@@ -28235,20 +28257,24 @@
                            "author": "K. Mehlhorn, St. Näher"
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/103/LinkedListBasics.pdf",
+                           "url": "https://web.archive.org/web/20260602012858/http://cslibrary.stanford.edu/103/LinkedListBasics.pdf",
                            "title": "Linked List Basics",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF"
-                           ]
+                              "PDF",
+                              "s"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/105/LinkedListProblems.pdf",
+                           "url": "https://web.archive.org/web/20260429190109/http://cslibrary.stanford.edu/105/LinkedListProblems.pdf",
                            "title": "Linked List Problems",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF"
-                           ]
+                              "PDF",
+                              "s"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.jjj.de/fxt/fxtbook.pdf",
@@ -28321,12 +28347,14 @@
                            ]
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/109/TreeListRecursion.pdf",
+                           "url": "https://web.archive.org/web/20260429190115/http://cslibrary.stanford.edu/109/TreeListRecursion.pdf",
                            "title": "The Great Tree List Recursion Problem",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF"
-                           ]
+                              "PDF",
+                              "s"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly",
@@ -29358,13 +29386,14 @@
                            ]
                         },
                         {
-                           "url": "https://juliadatascience.io",
+                           "url": "https://web.archive.org/web/20251215191015/https://juliadatascience.io/",
                            "title": "Julia Data Science",
                            "author": "Jose Storopoli, Rik Huijzer, Lazaro Alonso",
                            "notes": [
                               "HTML",
                               "CC BY-NC-SA 4.0"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://infolab.stanford.edu/~ullman/mmds/book.pdf",
@@ -29401,8 +29430,9 @@
                            ]
                         },
                         {
-                           "url": "https://schoolofdata.org/handbook/",
-                           "title": "School of Data Handbook"
+                           "url": "https://web.archive.org/web/20250112192758/https://schoolofdata.org/handbook/",
+                           "title": "School of Data Handbook",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://leanpub.com/LittleInferenceBook/read",
@@ -30177,7 +30207,7 @@
                            "author": "Amnon Shashua"
                         },
                         {
-                           "url": "https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf",
+                           "url": "https://mlsysbook.ai/vol1/assets/downloads/Machine-Learning-Systems-Vol1.pdf",
                            "title": "Introduction to Machine Learning Systems",
                            "author": "Vijay Janapa Reddi",
                            "notes": [
@@ -31638,12 +31668,14 @@
                            "author": "Greg Roelofs"
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/102/PointersAndMemory.pdf",
+                           "url": "https://web.archive.org/web/20260518211016/http://cslibrary.stanford.edu/102/PointersAndMemory.pdf",
                            "title": "Pointers And Memory",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF"
-                           ]
+                              "PDF",
+                              "s"
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://press.rebus.community/programmingfundamentals/",
@@ -32212,6 +32244,14 @@
                            "notes": [
                               "PDF",
                               "CC BY-NC-SA"
+                           ]
+                        },
+                        {
+                           "url": "https://red-mutt.github.io/lytlnyblOS/",
+                           "title": "The lytlnyblOS Book",
+                           "author": "red-mutt",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -33106,6 +33146,14 @@
                         {
                            "url": "https://www.infoq.com/minibooks/kanban-scrum-minibook",
                            "title": "Kanban and Scrum - making the most of both"
+                        },
+                        {
+                           "url": "https://github.com/mike-akdeniz/load-bearing",
+                           "title": "Load-Bearing: Which Software Principles Hold, and Where They Stop",
+                           "author": "Mike Akdeniz",
+                           "notes": [
+                              "CC BY-NC"
+                           ]
                         },
                         {
                            "url": "http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf",
@@ -35928,11 +35976,12 @@
                            "title": "Go 语言实战笔记"
                         },
                         {
-                           "url": "https://tour.go-zh.org/list",
+                           "url": "https://web.archive.org/web/20251210000637/https://tour.go-zh.org/list",
                            "title": "Go 指南",
                            "notes": [
                               "《A Tour of Go》中文版"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/",
@@ -42154,6 +42203,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz",
                            "title": "Dart ‏بالعربى",
                            "author": "Asem Saafan‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLV1fXIAyjeuZjLghr9X4NcpnOvhAmtTZq",
+                           "title": "Object Oriented Programming - OOP Using Dart |‏ بالعربي",
+                           "author": "Usama Elgendy‏"
                         }
                      ],
                      "subsections": []
@@ -42376,6 +42430,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB",
                            "title": "Flutter BLoC - ‏بالعربي",
                            "author": "Omar Ahmed‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLV1fXIAyjeuZIxYTPiS90_SNGRLbzPtr0",
+                           "title": "Flutter Bloc & Cubit State management | Zero to Hero Course |‏ بالعربي",
+                           "author": "Usama Elgendy‏"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH",
@@ -49078,9 +49137,10 @@
                            ]
                         },
                         {
-                           "url": "https://www.learnhowtoprogram.com/css",
+                           "url": "https://web.archive.org/web/20191209165033/https://www.learnhowtoprogram.com/css",
                            "title": "Learn how to program: CSS",
-                           "author": "Epicodus Inc."
+                           "author": "Epicodus Inc.",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.codecademy.com/learn/learn-html",
@@ -50587,9 +50647,12 @@
                                  "author": "edX"
                               },
                               {
-                                 "url": "https://fullstackopen.com/en/part10/introduction_to_react_native",
+                                 "url": "https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-react-native",
                                  "title": "Introduction to React Native",
-                                 "author": "Full Stack Open"
+                                 "author": "Full Stack Open",
+                                 "notes": [
+                                    "MOOC.fi"
+                                 ]
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
@@ -53335,8 +53398,9 @@
                            "section": "Vapor",
                            "entries": [
                               {
-                                 "url": "https://vapor.university",
-                                 "title": "Vapor University"
+                                 "url": "https://web.archive.org/web/20231102091423/http://vapor.university/",
+                                 "title": "Vapor University",
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -65433,9 +65497,10 @@
                            ]
                         },
                         {
-                           "url": "https://cassiobotaro.dev/do_zero_a_implantacao/",
+                           "url": "https://web.archive.org/web/20250503183309/https://cassiobotaro.dev/do_zero_a_implantacao/",
                            "title": "Do zero à implantação",
-                           "author": "Cássio Botaro"
+                           "author": "Cássio Botaro",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH",
@@ -75020,7 +75085,7 @@
                      "section": "Clojure",
                      "entries": [
                         {
-                           "url": "http://www.4clojure.com",
+                           "url": "https://4clojure.oxal.org",
                            "title": "4Clojure - Koans"
                         },
                         {
@@ -75388,7 +75453,7 @@
                      "section": "IDE and editors",
                      "entries": [
                         {
-                           "url": "http://www.openvim.com/tutorial.html",
+                           "url": "https://openvim.com",
                            "title": "Interactive Vim Tutorial",
                            "author": "Henrik Huttunen"
                         }
@@ -75408,8 +75473,8 @@
                                  "author": "tutlane"
                               },
                               {
-                                 "url": "https://www.freecodecamp.org/learn/front-end-libraries/bootstrap",
-                                 "title": "Front End Development Libraries Certification: Bootstrap",
+                                 "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap",
+                                 "title": "Front End Development Libraries: Bootstrap",
                                  "author": "freeCodeCamp"
                               },
                               {
@@ -75483,8 +75548,9 @@
                            "title": "JavaScript interactive tutorial on CodeCademy"
                         },
                         {
-                           "url": "http://www.codermania.com/javascript/lesson/1a/hello-world",
-                           "title": "JavaScript interactive tutorial on CoderMania"
+                           "url": "https://web.archive.org/web/20201127000000/http://www.codermania.com/javascript/lesson/1a/hello-world",
+                           "title": "JavaScript interactive tutorial on CoderMania",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://a1lab.tech/javascript/introduction",
@@ -75532,10 +75598,6 @@
                            "title": "Learn knockout.js"
                         },
                         {
-                           "url": "https://grasshopper.app",
-                           "title": "Learn to Code for Free – Grasshopper"
-                        },
-                        {
                            "url": "http://ejohn.org/apps/learn/",
                            "title": "Learning Advanced JavaScript"
                         },
@@ -75549,9 +75611,10 @@
                            "section": "AngularJS",
                            "entries": [
                               {
-                                 "url": "http://www.angularjsbook.com",
+                                 "url": "https://web.archive.org/web/20210516084920/http://www.angularjsbook.com/",
                                  "title": "AngularJS Basics",
-                                 "author": "Chris Smith"
+                                 "author": "Chris Smith",
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://www.tutlane.com/tutorial/angularjs",
@@ -75582,8 +75645,8 @@
                            "section": "jQuery",
                            "entries": [
                               {
-                                 "url": "https://www.freecodecamp.org/learn/front-end-libraries/jquery",
-                                 "title": "Front End Development Libraries Certification: jQuery",
+                                 "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery",
+                                 "title": "Front End Development Libraries: jQuery",
                                  "author": "freeCodeCamp"
                               },
                               {
@@ -75602,8 +75665,8 @@
                            "section": "React",
                            "entries": [
                               {
-                                 "url": "https://www.freecodecamp.org/learn/front-end-libraries/react",
-                                 "title": "Front End Development Libraries Certification: React",
+                                 "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/#react",
+                                 "title": "Front End Development Libraries: React",
                                  "author": "freeCodeCamp"
                               },
                               {
@@ -75631,7 +75694,7 @@
                            "section": "Redux",
                            "entries": [
                               {
-                                 "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux",
+                                 "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/#redux",
                                  "title": "Front End Development Libraries: Redux",
                                  "author": "freeCodeCamp"
                               },
@@ -75695,11 +75758,9 @@
                            "title": "Codility"
                         },
                         {
-                           "url": "https://www.freecodecamp.org/learn/coding-interview-prep/algorithms",
+                           "url": "https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms",
                            "title": "Introduction to the Coding Interview Prep Algorithms",
-                           "notes": [
-                              "freeCodeCamp"
-                           ]
+                           "author": "freeCodeCamp"
                         },
                         {
                            "url": "https://learnblazinglyfast.tech",
@@ -75712,7 +75773,7 @@
                            "author": "Rust, Python, JavaScript, TypeScript, Go, Zig, and 20+ more"
                         },
                         {
-                           "url": "http://pythontutor.com",
+                           "url": "https://pythontutor.com",
                            "title": "Python Tutor",
                            "author": "Python, Java, JavaScript, TypeScript, Ruby, C, C++"
                         },
@@ -75857,8 +75918,9 @@
                            "author": "W3Schools"
                         },
                         {
-                           "url": "http://try.redis.io",
-                           "title": "Try Redis"
+                           "url": "https://web.archive.org/web/20220601000000/http://try.redis.io/",
+                           "title": "Try Redis",
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -75968,15 +76030,16 @@
                            "author": "Alex Hall"
                         },
                         {
-                           "url": "http://interactivepython.org/courselib/static/thinkcspy/index.html",
-                           "title": "How to Think Like a Computer Scientist: Learning with Python, Interactive Edition"
+                           "url": "https://runestone.academy/ns/books/published/thinkcspy/index.html",
+                           "title": "How to Think Like a Computer Scientist: Learning with Python, Interactive Edition",
+                           "author": "Brad Miller, David Ranum"
                         },
                         {
                            "url": "http://www.learnpython.org",
                            "title": "Learn Python"
                         },
                         {
-                           "url": "http://www.techbeamers.com/python-tutorial-step-by-step",
+                           "url": "https://techbeamers.com/python-tutorial-step-by-step/",
                            "title": "Learn Python Step by Step"
                         },
                         {
@@ -76118,7 +76181,7 @@
                            "title": "The Odin Project"
                         },
                         {
-                           "url": "http://tryruby.org",
+                           "url": "https://ruby.github.io/TryRuby/",
                            "title": "Try Ruby"
                         }
                      ],
@@ -76185,8 +76248,9 @@
                      "section": "Selenium",
                      "entries": [
                         {
-                           "url": "http://www.techbeamers.com/selenium-webdriver-tutorial",
-                           "title": "Selenium Tutorial - Web Automation"
+                           "url": "https://web.archive.org/web/20230331000000/http://www.techbeamers.com/selenium-webdriver-tutorial/",
+                           "title": "Selenium Tutorial - Web Automation",
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -76443,6 +76507,14 @@
                            "author": "Koddo",
                            "notes": [
                               "19 задач с автопроверкой в браузере, без регистрации"
+                           ]
+                        },
+                        {
+                           "url": "https://koddo.ru/games/sql-detective",
+                           "title": "SQL-детектив",
+                           "author": "Koddo",
+                           "notes": [
+                              "браузерная игра-расследование: 7 запросов к 8 таблицам PostgreSQL, без регистрации"
                            ]
                         },
                         {
@@ -77339,6 +77411,11 @@
                         {
                            "url": "https://www.python.org/shell",
                            "title": "Python.org Shell"
+                        },
+                        {
+                           "url": "https://kitao.github.io/pyxel/web/code-maker/",
+                           "title": "Pyxel Code Maker",
+                           "author": "Takashi Kitao"
                         },
                         {
                            "url": "https://repl.it/repls/NiceDualPoint#main.py",
