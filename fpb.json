@@ -11385,9 +11385,10 @@
                            "author": "Hossein Amerkashi"
                         },
                         {
-                           "url": "http://www.appinventor.org/book2",
+                           "url": "https://web.archive.org/web/20260402204812/http://www.appinventor.org/book2",
                            "title": "App Inventor 2",
-                           "author": "David Wolber, Hal Abelson, Ellen Spertus, Liz Looney"
+                           "author": "David Wolber, Hal Abelson, Ellen Spertus, Liz Looney",
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -14345,8 +14346,9 @@
                                  "url": "https://docs.gradle.org/current/userguide/userguide.html",
                                  "title": "Gradle User Guide",
                                  "author": "Hans Dockter, Adam Murdoch",
-                                 "notes": [],
-                                 "manualReviewRequired": true
+                                 "notes": [
+                                    "CC BY-NC-SA"
+                                 ]
                               }
                            ]
                         },
@@ -15903,12 +15905,13 @@
                            ]
                         },
                         {
-                           "url": "http://shichuan.github.io/javascript-patterns/",
+                           "url": "https://web.archive.org/web/20230521000355/http://shichuan.github.io/javascript-patterns/",
                            "title": "JavaScript Patterns Collection",
                            "author": "Shi Chuan",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read",
@@ -16794,6 +16797,14 @@
                               {
                                  "url": "http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660",
                                  "title": "Intro to the React Framework"
+                              },
+                              {
+                                 "url": "https://www.patterns.dev",
+                                 "title": "Learning Patterns",
+                                 "author": "Lydia Hallie, Addy Osmani",
+                                 "notes": [
+                                    "HTML, EPUB, PDF"
+                                 ]
                               },
                               {
                                  "url": "https://scotch.io/tutorials/learning-react-getting-started-and-concepts",
@@ -18567,12 +18578,13 @@
                            ]
                         },
                         {
-                           "url": "https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf",
+                           "url": "https://web.archive.org/web/20230207090951/https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf",
                            "title": "VSI Pascal for OpenVMS Reference Manual",
                            "author": "VMS Software",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -27208,7 +27220,7 @@
                            "author": "Абдрахманов М.И"
                         },
                         {
-                           "url": "https://younglinux.info/tkinter.php",
+                           "url": "https://younglinux.info/tkinter/",
                            "title": "Tkinter. Программирование графического интерфейса",
                            "author": "C. Шапошникова"
                         }
@@ -32938,7 +32950,7 @@
                            "title": "OpenSSL Cookbook"
                         },
                         {
-                           "url": "https://mobile-security.gitbook.io/mobile-security-testing-guide/",
+                           "url": "https://mas.owasp.org/MASTG/",
                            "title": "OWASP Mobile Security Testing Guide",
                            "author": "Bernhard Mueller et al."
                         },
@@ -33393,6 +33405,15 @@
                            "author": "Anil Maheshwari, Michiel Smid",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://zenodo.org/records/23073217",
+                           "title": "Learning Lean Through Architecture | Volume 2: The Curry-Howard Correspondence",
+                           "author": "Madhav Dhiman",
+                           "notes": [
+                              "PDF",
+                              "CC BY"
                            ]
                         },
                         {
@@ -35815,7 +35836,7 @@
                            "title": "GNU make 指南"
                         },
                         {
-                           "url": "http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/",
+                           "url": "https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/",
                            "title": "Google C++ 风格指南"
                         },
                         {
@@ -49590,9 +49611,10 @@
                            ]
                         },
                         {
-                           "url": "https://www.learnhowtoprogram.com/java",
+                           "url": "https://web.archive.org/web/20191209171755/http://www.learnhowtoprogram.com/java",
                            "title": "Learn how to program: Java",
-                           "author": "Epicodus Inc."
+                           "author": "Epicodus Inc.",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.codecademy.com/learn/learn-java",
