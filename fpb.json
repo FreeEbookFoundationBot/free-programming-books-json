@@ -14678,6 +14678,14 @@
                            "author": "Oluwatobi Sofela"
                         },
                         {
+                           "url": "https://html5andcss3.org/css-tutorial-pdf/",
+                           "title": "CSS Tutorial; The Complete Modern Guide",
+                           "author": "Swapnil Raja",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "http://diveinto.html5doctor.com",
                            "title": "Dive Into HTML5",
                            "author": "Mark Pilgrim",
@@ -14749,6 +14757,14 @@
                         {
                            "url": "http://www.htmldog.com",
                            "title": "HTML Dog Tutorials"
+                        },
+                        {
+                           "url": "https://html5andcss3.org/html-tutorial-pdf/",
+                           "title": "HTML Tutorial; The Complete Practical Guide",
+                           "author": "Swapnil Raja",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://www.oreilly.com/library/view/html5-canvas/9781449308032/ch01.html",
@@ -23006,7 +23022,7 @@
                                  ]
                               },
                               {
-                                 "url": "https://vulkano.rs/guide/introduction",
+                                 "url": "https://vulkano.rs/01-introduction/01-introduction.html",
                                  "title": "Vulkano",
                                  "author": "Tomaka, et al.",
                                  "notes": [
@@ -27292,11 +27308,12 @@
                            ]
                         },
                         {
-                           "url": "http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf",
+                           "url": "https://web.archive.org/web/20240714101645/http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf",
                            "title": "Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -28170,8 +28187,7 @@
                            "title": "Binary Trees",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF",
-                              "s"
+                              "PDF"
                            ],
                            "accessNotes": " :card_file_box: archived"
                         },
@@ -28273,8 +28289,7 @@
                            "title": "Linked List Basics",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF",
-                              "s"
+                              "PDF"
                            ],
                            "accessNotes": " :card_file_box: archived"
                         },
@@ -28283,8 +28298,7 @@
                            "title": "Linked List Problems",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF",
-                              "s"
+                              "PDF"
                            ],
                            "accessNotes": " :card_file_box: archived"
                         },
@@ -28363,8 +28377,7 @@
                            "title": "The Great Tree List Recursion Problem",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF",
-                              "s"
+                              "PDF"
                            ],
                            "accessNotes": " :card_file_box: archived"
                         },
@@ -31592,7 +31605,7 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "https://web.corral.tacc.utexas.edu/CompEdu/pdf/isp/EijkhoutIntroSciProgramming-book.pdf",
+                           "url": "https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf",
                            "title": "Introduction to Scientific Programming in C++ and Fortran",
                            "author": "Victor Eijkhout",
                            "notes": [
@@ -31684,8 +31697,7 @@
                            "title": "Pointers And Memory",
                            "author": "Nick Parlante",
                            "notes": [
-                              "PDF",
-                              "s"
+                              "PDF"
                            ],
                            "accessNotes": " :card_file_box: archived"
                         },
@@ -36204,7 +36216,7 @@
                            "title": "JSSE 参考指南"
                         },
                         {
-                           "url": "http://mybatis.github.io/mybatis-3/zh/index.html",
+                           "url": "https://mybatis.org/mybatis-3/zh_CN/",
                            "title": "MyBatis中文文档"
                         },
                         {
