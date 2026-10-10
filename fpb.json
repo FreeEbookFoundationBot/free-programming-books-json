@@ -4455,12 +4455,13 @@
                      "section": "WebGL",
                      "entries": [
                         {
-                           "url": "http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351",
+                           "url": "https://web.archive.org/web/20260807161735/http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351",
                            "title": "WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas",
                            "author": "Raner Piibur",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -8010,12 +8011,13 @@
                      "section": "LaTeX",
                      "entries": [
                         {
-                           "url": "http://profs.sci.univr.it/~gregorio/introtex.pdf",
+                           "url": "https://web.archive.org/web/20210820033738/http://profs.sci.univr.it/~gregorio/introtex.pdf",
                            "title": "Appunti di programmazione in LaTeX e TeX",
                            "author": "Enrico Gregorio",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.discretephysics.org/MANUALI/Latex.pdf",
@@ -9560,7 +9562,7 @@
                            "section": "Vue.js",
                            "entries": [
                               {
-                                 "url": "https://book.chibivue.land/ja.html",
+                                 "url": "https://book.chibivue.land/ja/",
                                  "title": "The chibivue Book",
                                  "author": "ubugeeei"
                               }
@@ -12230,7 +12232,7 @@
                            "title": "Deep C"
                         },
                         {
-                           "url": "http://cslibrary.stanford.edu/101/EssentialC.pdf",
+                           "url": "https://cs.stanford.edu/people/nick/compdocs/Essential_C.pdf",
                            "title": "Essential C",
                            "author": "Nick Parlante",
                            "notes": [
@@ -13615,11 +13617,12 @@
                      "section": "Erlang",
                      "entries": [
                         {
-                           "url": "http://beam-wisdoms.clau.se/en/latest/",
+                           "url": "https://web.archive.org/web/20230613211430/http://beam-wisdoms.clau.se/en/latest/",
                            "title": "BEAM Wisdoms",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.erlang.org/download/erlang-book-part1.pdf",
@@ -13985,12 +13988,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf",
+                           "url": "https://web.archive.org/web/20201111215145/http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf",
                            "title": "Self Study Guide 2: Programming in Fortran 95",
                            "author": "Dr Rachael Padman",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.ibiblio.org/pub/languages/fortran/",
@@ -14366,11 +14370,9 @@
                                  "accessNotes": " :card_file_box: archived"
                               },
                               {
-                                 "url": "http://grails.github.io/grails-doc/latest/",
+                                 "url": "https://grails.apache.org/docs/latest/",
                                  "title": "The Grails Framework - Reference Documentation",
-                                 "author": "Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari",
-                                 "notes": [],
-                                 "manualReviewRequired": true
+                                 "author": "Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari"
                               }
                            ]
                         },
@@ -23727,11 +23729,12 @@
                            "author": "Andrzej Klusiewicz"
                         },
                         {
-                           "url": "http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf",
+                           "url": "https://web.archive.org/web/20251212194832/https://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf",
                            "title": "O Androidzie ludzkim głosem",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf",
@@ -24680,6 +24683,15 @@
                                  "url": "http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches",
                                  "title": "Scrum e XP direto das Trincheiras",
                                  "accessNotes": "account required"
+                              },
+                              {
+                                 "url": "https://github.com/felipefontoura/spec-driven-development-book/blob/main/BOOK.pt-BR.md",
+                                 "title": "Spec-Driven Development: O Guia Definitivo para Construir Software com Agentes de IA",
+                                 "author": "Felipe Fontoura",
+                                 "notes": [
+                                    "Markdown",
+                                    "CC BY-NC-SA"
+                                 ]
                               }
                            ]
                         },
@@ -25347,11 +25359,12 @@
                      "section": "Lisp",
                      "entries": [
                         {
-                           "url": "http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html",
+                           "url": "https://web.archive.org/web/20250321161507/https://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html",
                            "title": "Introdução a linguagem LISP",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://novo.manzano.pro.br/wp/download/linguagem-lisp-primeiros-passos-com-common-lisp-cl/",
@@ -28424,6 +28437,14 @@
                            ]
                         },
                         {
+                           "url": "https://cdn.shoemoney.com/aibook/AiBook.pdf",
+                           "title": "AiBook: A Human Survival Guide for When the AI Steals Your Girlfriend, Becomes Your Dog's Best Friend, and Has Your Wi-Fi Password (password1)",
+                           "author": "Jeremy Schoemaker",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://courses.csail.mit.edu/6.034f/ai3/rest.pdf",
                            "title": "Artificial Intelligence, 3rd Edition (1993)",
                            "author": "Patrick Henry Winston",
@@ -28591,6 +28612,15 @@
                            "author": "Hallie Ren",
                            "notes": [
                               "HTML, EPUB",
+                              "CC BY-NC-SA"
+                           ]
+                        },
+                        {
+                           "url": "https://github.com/felipefontoura/spec-driven-development-book",
+                           "title": "Spec-Driven Development: The Definitive Guide to Building Software with AI Agents",
+                           "author": "Felipe Fontoura",
+                           "notes": [
+                              "Markdown",
                               "CC BY-NC-SA"
                            ]
                         },
@@ -30739,8 +30769,8 @@
                            ]
                         },
                         {
-                           "url": "https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/",
-                           "title": "Introduction to Probability and Statistics Spring 2014"
+                           "url": "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/",
+                           "title": "Introduction to Probability and Statistics Spring 2022"
                         },
                         {
                            "url": "http://joshua.smcvt.edu/proofs/",
@@ -54089,12 +54119,9 @@
                            ]
                         },
                         {
-                           "url": "https://programadorwebvalencia.com/cursos/sql/introducci%C3%B3n/",
+                           "url": "https://andros.dev/cursos/5b40d342/sql/1/introduccion/",
                            "title": "Principios de SQL",
-                           "author": "Andros Fenollosa",
-                           "notes": [
-                              "Programador Web Valencia"
-                           ]
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://certmundo.com/es-mx/curso/sql-y-bases-de-datos",
@@ -54280,12 +54307,9 @@
                            ]
                         },
                         {
-                           "url": "https://programadorwebvalencia.com/cursos/django-rest-framework/introducci%C3%B3n/",
+                           "url": "https://andros.dev/cursos/34b809b2/django-rest-framework/1/introduccion/",
                            "title": "Django REST Framework",
-                           "author": "Andros Fenollosa",
-                           "notes": [
-                              "Programador Web Valencia"
-                           ]
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://www.pildorasinformaticas.es/course/laravel",
@@ -54509,14 +54533,6 @@
                            "author": "Estefania Cassingena Navone"
                         },
                         {
-                           "url": "https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/",
-                           "title": "Clojure",
-                           "author": "Andros Fenollosa",
-                           "notes": [
-                              "Programador Web Valencia"
-                           ]
-                        },
-                        {
                            "url": "https://www.pildorasinformaticas.es/course/curso-c",
                            "title": "Curso C#",
                            "author": "Juan Díaz",
@@ -54684,12 +54700,9 @@
                            "author": "Microsoft Learn"
                         },
                         {
-                           "url": "https://programadorwebvalencia.com/cursos/php/base/",
+                           "url": "https://andros.dev/cursos/daf42619/php/1/base/",
                            "title": "Principios de PHP",
-                           "author": "Andros Fenollosa",
-                           "notes": [
-                              "Programador Web Valencia"
-                           ]
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://es.khanacademy.org/computing/computer-programming#programming",
@@ -54820,20 +54833,14 @@
                            "title": "Detección de objetos"
                         },
                         {
-                           "url": "https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/",
+                           "url": "https://andros.dev/cursos/766a97bf/css/1/introduccion/",
                            "title": "Diseño Web - Principios de CSS",
-                           "author": "Andros Fenollosa",
-                           "notes": [
-                              "Programador Web Valencia"
-                           ]
+                           "author": "Andros Fenollosa"
                         },
                         {
-                           "url": "https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/",
+                           "url": "https://andros.dev/cursos/bd45ce00/html/1/introduccion/",
                            "title": "Diseño Web - Principios de HTML",
-                           "author": "Andros Fenollosa",
-                           "notes": [
-                              "Programador Web Valencia"
-                           ]
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://fullstackopen.com/es/",
