@@ -3625,6 +3625,14 @@
                      "section": "Lisp",
                      "entries": [
                         {
+                           "url": "https://don-clojure-de-la-mancha.andros.dev",
+                           "title": "Don Clojure de la Mancha",
+                           "author": "Andros Fenollosa",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "http://savannah.nongnu.org/git/?group=elisp-es",
                            "title": "Una Introducción a Emacs Lisp en Español",
                            "notes": [
@@ -6171,28 +6179,31 @@
                            ]
                         },
                         {
-                           "url": "http://mek.oszk.hu/11100/11144/index.phtml",
+                           "url": "https://web.archive.org/web/20241007075936/http://mek.oszk.hu/11100/11144/index.phtml",
                            "title": "Adatmodellezés",
                            "author": "Halassy Béla",
                            "notes": [
                               "Word, PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://mek.oszk.hu/11100/11123/index.phtml",
+                           "url": "https://web.archive.org/web/20240911090903/http://mek.oszk.hu/11100/11123/index.phtml",
                            "title": "Az adatbázistervezés alapjai és titkai",
                            "author": "Halassy Béla",
                            "notes": [
                               "Word, PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "http://mek.oszk.hu/11100/11122/index.phtml",
+                           "url": "https://web.archive.org/web/20240523085428/http://mek.oszk.hu/11100/11122/index.phtml",
                            "title": "Ember, információ, rendszer",
                            "author": "Halassy Béla",
                            "notes": [
                               "Word, PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://mek.oszk.hu/05000/05099/index.phtml",
@@ -14410,12 +14421,13 @@
                            ]
                         },
                         {
-                           "url": "https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf",
+                           "url": "https://web.archive.org/web/20220120101021/https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf",
                            "title": "Cloudera Impala",
                            "author": "John Russel",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf",
@@ -37016,8 +37028,9 @@
                            "title": "Ruby on Rails 指南"
                         },
                         {
-                           "url": "http://www.sinatrarb.com/intro-zh.html",
-                           "title": "Sinatra"
+                           "url": "https://web.archive.org/web/20220118142227/http://sinatrarb.com/intro-zh.html",
+                           "title": "Sinatra",
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -48981,14 +48994,14 @@
                            "author": "Bryan O'Sullivan"
                         },
                         {
-                           "url": "https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0",
-                           "title": "edX: Introduction to Functional Programming",
-                           "author": "Erik Meijer"
-                        },
-                        {
                            "url": "http://www.cs.nott.ac.uk/~pszgmh/pgp.html",
                            "title": "Functional Programming in Haskell",
                            "author": "Graham Hutton"
+                        },
+                        {
+                           "url": "https://ocw.tudelft.nl/courses/introduction-to-functional-programming/",
+                           "title": "Introduction to Functional Programming (TU Delft OCW)",
+                           "author": "Erik Meijer"
                         },
                         {
                            "url": "https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog",
@@ -54047,9 +54060,10 @@
                            "title": "Aprende a programar tu primera app"
                         },
                         {
-                           "url": "https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1",
+                           "url": "https://web.archive.org/web/20200516175902/https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1",
                            "title": "Introducción a la programación Android",
-                           "author": "Jesús Tomás Gironés"
+                           "author": "Jesús Tomás Gironés",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://campusvirtual.ull.es/ocw/course/view.php?id=130",
@@ -54117,6 +54131,11 @@
                            "notes": [
                               "PDF"
                            ]
+                        },
+                        {
+                           "url": "https://andros.dev/cursos/5b810d7d/mongodb/1/introduccion/",
+                           "title": "MongoDB",
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://andros.dev/cursos/5b40d342/sql/1/introduccion/",
@@ -54213,6 +54232,11 @@
                      "section": "Control de Versiones",
                      "entries": [
                         {
+                           "url": "https://andros.dev/cursos/c6c1bd8a/contribuciones-con-git/1/introduccion/",
+                           "title": "Contribuciones con Git",
+                           "author": "Andros Fenollosa"
+                        },
+                        {
                            "url": "https://www.youtube.com/watch?v=3GymExBkKjE",
                            "title": "Curso de Git y Github desde cero para principiantes",
                            "author": "Brias Moure \"MoureDev\""
@@ -54281,6 +54305,11 @@
                            "title": "Procesadores de Lenguaje (2012)"
                         },
                         {
+                           "url": "https://andros.dev/cursos/bfd7ca6b/scrum/1/introduccion/",
+                           "title": "Scrum",
+                           "author": "Andros Fenollosa"
+                        },
+                        {
                            "url": "https://campusvirtual.ull.es/ocw/course/view.php?id=119",
                            "title": "Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)"
                         }
@@ -54305,6 +54334,11 @@
                            "notes": [
                               "Píldoras Informáticas"
                            ]
+                        },
+                        {
+                           "url": "https://andros.dev/cursos/b74c1a3c/django/1/introduccion/",
+                           "title": "Django",
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://andros.dev/cursos/34b809b2/django-rest-framework/1/introduccion/",
@@ -54345,6 +54379,11 @@
                            "notes": [
                               "GitHub"
                            ]
+                        },
+                        {
+                           "url": "https://andros.dev/cursos/0b34f378/prompt-engineering/1/introduccion/",
+                           "title": "Prompt Engineering",
+                           "author": "Andros Fenollosa"
                         }
                      ],
                      "subsections": []
@@ -54533,6 +54572,11 @@
                            "author": "Estefania Cassingena Navone"
                         },
                         {
+                           "url": "https://andros.dev/cursos/873ef6dd/common-lisp/1/prologo/",
+                           "title": "Common Lisp",
+                           "author": "Andros Fenollosa"
+                        },
+                        {
                            "url": "https://www.pildorasinformaticas.es/course/curso-c",
                            "title": "Curso C#",
                            "author": "Juan Díaz",
@@ -54585,6 +54629,11 @@
                            "url": "https://codigofacilito.com/cursos/ruby-2",
                            "title": "Curso Gratis de Ruby",
                            "author": "Código Facilito"
+                        },
+                        {
+                           "url": "https://andros.dev/cursos/5495168e/emacs-lisp-ui/1/introduccion/",
+                           "title": "Emacs Lisp UI",
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://ocw.uca.es/course/view.php?id=31",
@@ -54754,6 +54803,11 @@
                            ]
                         },
                         {
+                           "url": "https://andros.dev/cursos/ab396439/python/1/puesta-a-punto-del-entorno/",
+                           "title": "Python",
+                           "author": "Andros Fenollosa"
+                        },
+                        {
                            "url": "https://www.pildorasinformaticas.es/course/curso-python",
                            "title": "Python Módulo 1",
                            "author": "Juan Díaz",
@@ -54768,6 +54822,11 @@
                            "notes": [
                               "Píldoras Informáticas"
                            ]
+                        },
+                        {
+                           "url": "https://andros.dev/cursos/749264a4/testing/1/introduccion/",
+                           "title": "Testing",
+                           "author": "Andros Fenollosa"
                         }
                      ],
                      "subsections": []
@@ -54868,9 +54927,19 @@
                            ]
                         },
                         {
+                           "url": "https://andros.dev/cursos/477384d5/javascript/1/introduccion/",
+                           "title": "JavaScript",
+                           "author": "Andros Fenollosa"
+                        },
+                        {
                            "url": "https://certmundo.com/es-mx/curso/javascript-para-principiantes",
                            "title": "JavaScript para Principiantes",
                            "author": "Certmundo"
+                        },
+                        {
+                           "url": "https://andros.dev/cursos/91a6eb81/maquetacion-web/1/introduccion/",
+                           "title": "Maquetación Web",
+                           "author": "Andros Fenollosa"
                         },
                         {
                            "url": "https://www.pildorasinformaticas.es/course/php-mysql",
