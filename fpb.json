@@ -6139,15 +6139,6 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/",
-                           "title": "Python Notes | Hindi",
-                           "author": "Yugal Joshi",
-                           "notes": [
-                              "HTML"
-                           ],
-                           "accessNotes": " :construction: in process"
-                        },
-                        {
                            "url": "https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf",
                            "title": "Python Tutorial in Hindi (Full Python Course) | Hindi",
                            "author": "TutorialInHindi.com",
@@ -46271,6 +46262,11 @@
                                  "notes": [
                                     "UC Berkeley EECS"
                                  ]
+                              },
+                              {
+                                 "url": "https://www.youtube.com/playlist?list=PLLRVNOCjAuec",
+                                 "title": "Vibe Coding for Beginners",
+                                 "author": "Amplified Architect"
                               }
                            ]
                         }
@@ -75566,6 +75562,11 @@
                            "url": "https://openvim.com",
                            "title": "Interactive Vim Tutorial",
                            "author": "Henrik Huttunen"
+                        },
+                        {
+                           "url": "https://s3onghyun.github.io/nvim-edu/",
+                           "title": "nvim-edu",
+                           "author": "s3onghyun"
                         }
                      ],
                      "subsections": [
@@ -76107,6 +76108,11 @@
                   {
                      "section": "Python",
                      "entries": [
+                        {
+                           "url": "https://www.bugbotlab.com/lessons/",
+                           "title": "BugBot Lessons",
+                           "author": "BugBotLab"
+                        },
                         {
                            "url": "https://www.codecademy.com/learn/python",
                            "title": "Codecademy Python course"
@@ -77471,6 +77477,11 @@
                      "section": "Python",
                      "entries": [
                         {
+                           "url": "https://app.bugbotlab.com",
+                           "title": "BugBot Lab",
+                           "author": "BugBotLab"
+                        },
+                        {
                            "url": "http://codepad.org/?lang=Python",
                            "title": "Codepad"
                         },
@@ -78481,6 +78492,13 @@
                         {
                            "url": "https://www.vulnhub.com",
                            "title": "Vulnhub.com"
+                        },
+                        {
+                           "url": "https://codolymp.ru/catalog",
+                           "title": "Кодолимп",
+                           "notes": [
+                              "Russian, Python"
+                           ]
                         },
                         {
                            "url": "https://acmp.ru",
