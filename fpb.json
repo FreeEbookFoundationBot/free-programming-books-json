@@ -1723,12 +1723,13 @@
                            "title": "iOS-Rezepte"
                         },
                         {
-                           "url": "http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf",
+                           "url": "https://web.archive.org/web/20250507071057/http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf",
                            "title": "iPad-Programmierung",
                            "author": "Daniel H. Steinberg, Eric T. Freeman",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -1975,12 +1976,13 @@
                            ]
                         },
                         {
-                           "url": "http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf",
+                           "url": "https://web.archive.org/web/20250705000713/http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf",
                            "title": "Praktischer Einstieg in MySQL mit PHP",
                            "author": "Sascha Kersken",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": [
@@ -9340,12 +9342,13 @@
                            "author": "木下誠"
                         },
                         {
-                           "url": "https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html",
+                           "url": "https://web.archive.org/web/20170616051042/https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html",
                            "title": "iOSアプリケーション プログラミングガイド",
                            "author": "Apple Developer",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://tutorial.rubymotion.jp",
@@ -11935,7 +11938,7 @@
                            ]
                         },
                         {
-                           "url": "https://google.github.io/styleguide/shell.xml",
+                           "url": "https://google.github.io/styleguide/shellguide.html",
                            "title": "Google Shell Style Guide",
                            "author": "Paul Armstrong",
                            "notes": [
@@ -13132,7 +13135,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.microfocus.com/documentation/object-cobol/oc41books/oppubb.htm",
+                           "url": "https://www.microfocus.com/documentation/reuze/60d/oppubb.htm",
                            "title": "Micro Focus: OO Programming with Object COBOL for UNIX (1999)",
                            "author": "MERANT International Ltd.",
                            "notes": [
@@ -16966,7 +16969,7 @@
                                  ]
                               },
                               {
-                                 "url": "https://svelte.dev/tutorial/basics",
+                                 "url": "https://svelte.dev/tutorial/svelte/welcome-to-svelte",
                                  "title": "Svelte Tutorial",
                                  "author": "Svelte.dev"
                               },
@@ -17596,7 +17599,7 @@
                            "title": "Common Lisp the Language, 2nd Edition"
                         },
                         {
-                           "url": "https://google.github.io/styleguide/lispguide.xml",
+                           "url": "https://github.com/emacsmirror/google-c-style/blob/master/lispguide.md",
                            "title": "Google's Common Lisp Style Guide"
                         },
                         {
@@ -18835,10 +18838,10 @@
                            "section": "CakePHP",
                            "entries": [
                               {
-                                 "url": "http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf",
+                                 "url": "https://book.cakephp.org/2.0/en/",
                                  "title": "CakePHP Cookbook 2.x",
                                  "notes": [
-                                    "PDF"
+                                    "HTML"
                                  ]
                               }
                            ]
@@ -19111,11 +19114,12 @@
                            "author": "Mike F. Robbins"
                         },
                         {
-                           "url": "http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf",
+                           "url": "https://web.archive.org/web/20210712072756/http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf",
                            "title": "PowerShell 2.0 – One CMDLET At A Time",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://goalkicker.com/PowerShellBook/",
@@ -19216,7 +19220,7 @@
                            "author": "Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price"
                         },
                         {
-                           "url": "https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html",
+                           "url": "https://matuszek.org/prolog/prolog.html",
                            "title": "Concise Intro to Prolog",
                            "author": "David Matuszek"
                         },
@@ -19287,9 +19291,12 @@
                            ]
                         },
                         {
-                           "url": "https://dtai.cs.kuleuven.be/ppcbook",
+                           "url": "https://lirias.kuleuven.be/server/api/core/bitstreams/739707c3-e205-49cd-a72b-85096f7b280b/content",
                            "title": "The First 10 Prolog Programming Contests",
-                           "author": "Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon"
+                           "author": "Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "https://www.metalevel.at/prolog",
@@ -22243,12 +22250,13 @@
                            ]
                         },
                         {
-                           "url": "https://www.red-gate.com/library/defensive-database-programming",
+                           "url": "https://web.archive.org/web/20241005112102/https://www.red-gate.com/library/defensive-database-programming",
                            "title": "Defensive Database Programming",
                            "author": "Alex Kuznetsov",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.red-gate.com/library/fundamentals-of-sql-server-2012-replication",
@@ -22415,12 +22423,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.red-gate.com/community/books/sql-server-transaction-log-management",
+                           "url": "https://web.archive.org/web/20200429204030/https://www.red-gate.com/library/sql-server-transaction-log-management",
                            "title": "SQL Server Transaction Log Management",
                            "author": "Tony Davis, Gail Shaw",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.red-gate.com/community/books/art-of-filestream",
@@ -29623,11 +29632,12 @@
                            ]
                         },
                         {
-                           "url": "https://freertos.org/Documentation/RTOS_book.html",
+                           "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf",
                            "title": "Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide",
                            "author": "freertos.org",
-                           "notes": [],
-                           "manualReviewRequired": true
+                           "notes": [
+                              "PDF"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -33179,11 +33189,9 @@
                            ]
                         },
                         {
-                           "url": "https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)",
+                           "url": "https://learn.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)",
                            "title": "Exploring CQRS and Event Sourcing",
-                           "author": "Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi",
-                           "notes": [],
-                           "manualReviewRequired": true
+                           "author": "Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi"
                         },
                         {
                            "url": "https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3",
@@ -51211,14 +51219,6 @@
                   {
                      "section": "Kubernetes",
                      "entries": [
-                        {
-                           "url": "https://www.edx.org/course/fundamentals-of-containers-kubernetes-and-red-hat",
-                           "title": "Fundamentals of Containers, Kubernetes, and Red Hat OpenShift",
-                           "author": "Zach Gutterman, Richard Allred",
-                           "notes": [
-                              "edX"
-                           ]
-                        },
                         {
                            "url": "https://www.youtube.com/live/PN3VqbZqmD8?feature=shared",
                            "title": "Kubernetes 101 workshop - complete hands-on",
