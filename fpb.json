@@ -11196,12 +11196,12 @@
                            ]
                         },
                         {
-                           "url": "https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf",
+                           "url": "https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/",
                            "title": "Ada for the C++ or Java Developer",
                            "author": "Quentin Ochem",
                            "notes": [
-                              "PDF",
-                              "CC BY-NC-SA"
+                              "HTML, PDF, EPUB",
+                              "CC BY-SA"
                            ]
                         },
                         {
@@ -13458,7 +13458,7 @@
                      "section": "DTrace",
                      "entries": [
                         {
-                           "url": "http://dtrace.org/guide/preface.html",
+                           "url": "https://illumos.org/books/dtrace/preface.html",
                            "title": "IllumOS Dynamic Tracing Guide"
                         },
                         {
@@ -25999,6 +25999,14 @@
                            ]
                         },
                         {
+                           "url": "https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf",
+                           "title": "Документация по Markdown: Спецификация стандарта языка текстовой разметки",
+                           "author": "Изергиль Ван Дер Вельде",
+                           "notes": [
+                              "PDF"
+                           ]
+                        },
+                        {
                            "url": "https://vseloved.github.io/pdf/os-ru.pdf",
                            "title": "Операционные системы",
                            "author": "Всеволод Дёмкин",
@@ -26168,6 +26176,15 @@
                               {
                                  "url": "http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html",
                                  "title": "Архитектура приложений с открытым исходным кодом"
+                              },
+                              {
+                                 "url": "https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf",
+                                 "title": "Документация по языку текстовой разметки — Markdown",
+                                 "author": "Изергиль Ван Дер Вельде",
+                                 "notes": [
+                                    "PDF",
+                                    "MIT"
+                                 ]
                               }
                            ]
                         },
@@ -34497,6 +34514,15 @@
                   {
                      "section": "<a id=\"cpp\">",
                      "entries": [
+                        {
+                           "url": "https://github.com/Ahmopasha/cppofplepa/releases/latest",
+                           "title": "C++ Başvuru Kitabı",
+                           "author": "Ahmet Kandemir Pehlivanlı",
+                           "notes": [
+                              "PDF",
+                              "CC BY-NC-ND"
+                           ]
+                        },
                         {
                            "url": "https://www.yusufsezer.com.tr/cpp-dersleri/",
                            "title": "C++ Dersleri",
@@ -76684,6 +76710,29 @@
             },
             {
                "language": {
+                  "code": "ru",
+                  "name": "Russian"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://koddo.ru/playground/python",
+                           "title": "Python онлайн: запусти код в браузере",
+                           "author": "Koddo",
+                           "notes": [
+                              "без регистрации"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "zh",
                   "name": "Chinese"
                },
@@ -77062,6 +77111,11 @@
                            "title": "Go-Vim"
                         },
                         {
+                           "url": "https://coddy.tech/playground/golang",
+                           "title": "Online Go Compiler",
+                           "author": "Coddy"
+                        },
+                        {
                            "url": "https://code.sololearn.com/go",
                            "title": "SoloLearn"
                         }
@@ -77259,11 +77313,6 @@
                            "accessNotes": "Google account required"
                         },
                         {
-                           "url": "https://glitch.new/website",
-                           "title": "Hello Website - (Glitch)",
-                           "accessNotes": "Account requested, not required"
-                        },
-                        {
                            "url": "https://www.interviewbit.com/online-javascript-compiler/",
                            "title": "InterviewBit - Online JavaScript Compiler IDE"
                         },
@@ -77399,11 +77448,6 @@
                      "section": "NodeJS",
                      "entries": [
                         {
-                           "url": "https://glitch.new/node",
-                           "title": "Hello Node - (Glitch)",
-                           "accessNotes": "Account requested, not required"
-                        },
-                        {
                            "url": "https://ideone.com",
                            "title": "Ideone"
                         },
@@ -77522,10 +77566,6 @@
                            "author": "Programiz PRO"
                         },
                         {
-                           "url": "https://trinket.io/python",
-                           "title": "Python Trinket"
-                        },
-                        {
                            "url": "https://pythontutor.com",
                            "title": "Python Tutor"
                         },
@@ -77537,10 +77577,6 @@
                            "url": "https://kitao.github.io/pyxel/web/code-maker/",
                            "title": "Pyxel Code Maker",
                            "author": "Takashi Kitao"
-                        },
-                        {
-                           "url": "https://repl.it/repls/NiceDualPoint#main.py",
-                           "title": "Repl.it - NiceDualPoint"
                         },
                         {
                            "url": "https://code.sololearn.com/python",
@@ -77582,11 +77618,6 @@
                         {
                            "url": "https://codesandbox.io",
                            "title": "CodeSandbox.io"
-                        },
-                        {
-                           "url": "https://glitch.new/react",
-                           "title": "Hello React - (Glitch)",
-                           "accessNotes": "Account requested, not required"
                         },
                         {
                            "url": "https://jscomplete.com/playground",
@@ -77687,6 +77718,11 @@
                         {
                            "url": "https://codapi.org/rust",
                            "title": "Codapi"
+                        },
+                        {
+                           "url": "https://coddy.tech/playground/rust",
+                           "title": "Online Rust Compiler",
+                           "author": "Coddy"
                         },
                         {
                            "url": "https://www.rustexplorer.com",
@@ -77825,6 +77861,11 @@
                   {
                      "section": "TypeScript",
                      "entries": [
+                        {
+                           "url": "https://coddy.tech/playground/typescript",
+                           "title": "Online TypeScript Compiler",
+                           "author": "Coddy"
+                        },
                         {
                            "url": "https://www.typescriptlang.org/play/index.html",
                            "title": "Playground"
