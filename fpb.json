@@ -4361,12 +4361,13 @@
                            "section": "AngularJS",
                            "entries": [
                               {
-                                 "url": "https://www.cs.tlu.ee/teemad/get_file.php?id=400",
+                                 "url": "https://web.archive.org/web/20240217030757/http://www.cs.tlu.ee/teemad/get_file.php?id=400",
                                  "title": "AngularJS raamistiku õppematerjal",
                                  "author": "Sander Leetus",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         },
@@ -14397,7 +14398,7 @@
                      "section": "Hack",
                      "entries": [
                         {
-                           "url": "https://docs.hhvm.com/hack/",
+                           "url": "https://docs.hhvm.com/hack-overview/",
                            "title": "Hack Documentation"
                         }
                      ],
@@ -19895,6 +19896,15 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
+                           "url": "https://thomasweise.github.io/programmingWithPython/programmingWithPython.pdf",
+                           "title": "Programming with Python",
+                           "author": "Thomas Weise",
+                           "notes": [
+                              "PDF",
+                              "CC BY‑NC‑SA"
+                           ]
+                        },
+                        {
                            "url": "https://pysdr.org",
                            "title": "PySDR: A Guide to SDR and DSP using Python",
                            "author": "Marc Lichtman",
@@ -22329,7 +22339,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.red-gate.com/community/books/protecting-data",
+                           "url": "https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/protecting-data/",
                            "title": "Protecting SQL Server Data",
                            "author": "John Magnabosco",
                            "notes": [
@@ -22415,7 +22425,7 @@
                            ]
                         },
                         {
-                           "url": "http://www.red-gate.com/community/books/sql-server-tacklebox",
+                           "url": "https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/sql-server-tacklebox/",
                            "title": "SQL Server Tacklebox",
                            "author": "Rodney Landrum",
                            "notes": [
@@ -35143,12 +35153,13 @@
                      "section": "<a id=\"python\">",
                      "entries": [
                         {
-                           "url": "https://bitbucket.org/tanhuynhng/thinking-python/src/master/",
+                           "url": "https://web.archive.org/web/20231207213828/https://bitbucket.org/tanhuynhng/thinking-python/src/master/",
                            "title": "Tư duy Python: Cách tư duy như một Nhà khoa học máy tính",
                            "author": "Allen B.Downey,",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -35395,6 +35406,14 @@
                         {
                            "url": "http://sketchcn.com/sketch-chinese-user-manual.html#introduce",
                            "title": "Sketch 中文手册"
+                        },
+                        {
+                           "url": "https://lv.qizhen.xyz",
+                           "title": "The LabVIEW Journey",
+                           "author": "阮奇桢",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -35468,6 +35487,12 @@
                         {
                            "url": "http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches",
                            "title": "硝烟中的 Scrum 和 XP"
+                        },
+                        {
+                           "url": "https://cocode.qizhen.xyz",
+                           "title": "重构程序员",
+                           "author": "阮奇桢",
+                           "accessNotes": " :construction: in process"
                         }
                      ],
                      "subsections": []
@@ -36907,6 +36932,11 @@
                               "Online"
                            ],
                            "accessNotes": "目前在线最全的中文文档了"
+                        },
+                        {
+                           "url": "https://py.qizhen.xyz",
+                           "title": "Python 教程",
+                           "author": "阮奇桢"
                         },
                         {
                            "url": "https://pythonguidecn.readthedocs.io/zh/latest/",
@@ -48698,14 +48728,6 @@
                            "author": "Rabidgremlin"
                         },
                         {
-                           "url": "https://learn.unity.com/course/unity-beginner-fundamentals",
-                           "title": "Unity Beginner Fundamentals",
-                           "author": "Pluralsight Company",
-                           "notes": [
-                              "Unity Learn"
-                           ]
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6",
                            "title": "Unity Beginner Tutorials",
                            "notes": [
@@ -49511,10 +49533,6 @@
                            "notes": [
                               "javatodev"
                            ]
-                        },
-                        {
-                           "url": "http://chortle.ccsu.edu/CS151/cs151java.html",
-                           "title": "Central Connecticut State University, Introduction to CS Using Java"
                         },
                         {
                            "url": "https://see.stanford.edu/Course/CS106A",
@@ -51770,11 +51788,6 @@
                   {
                      "section": "Misc",
                      "entries": [
-                        {
-                           "url": "https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone",
-                           "title": "Advanced Adobe XD (Web Design)",
-                           "author": "Adi Purdila"
-                        },
                         {
                            "url": "https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1",
                            "title": "An Introduction to Developing With NVIDIA Omniverse",
@@ -55119,7 +55132,7 @@
                      "section": "Técnico de Software & Hardware",
                      "entries": [
                         {
-                           "url": "https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0",
+                           "url": "https://www.edx.org/es/learn/music-business/universitat-politecnica-de-valencia-codificacion-de-audio-mas-alla-del-mp3",
                            "title": "Codificación de audio: más allá del MP3"
                         },
                         {
@@ -59790,11 +59803,6 @@
                         {
                            "url": "https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse",
                            "title": "CSS Tailwind",
-                           "author": "BuildWithAngga"
-                        },
-                        {
-                           "url": "https://www.buildwithangga.com/kelas/css-website-design",
-                           "title": "CSS Website Design",
                            "author": "BuildWithAngga"
                         },
                         {
