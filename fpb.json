@@ -35117,6 +35117,43 @@
             },
             {
                "language": {
+                  "code": "uz",
+                  "name": "Uzbek"
+               },
+               "index": {},
+               "sections": [
+                  {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://git-scm.com/book/uz/v2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://python.sariq.dev",
+                           "title": "Dasturlash Asoslari",
+                           "author": "Anvar Narzullaev",
+                           "notes": [
+                              "HTML"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  }
+               ]
+            },
+            {
+               "language": {
                   "code": "vi",
                   "name": "Vietnamese"
                },
@@ -45561,6 +45598,11 @@
                            "author": "Steven Skiena"
                         },
                         {
+                           "url": "https://www.codeintuition.io/courses/array",
+                           "title": "Array",
+                           "author": "CodeIntuition"
+                        },
+                        {
                            "url": "https://datastructur.es/sp16/",
                            "title": "Berkeley University CS 61B: Data Structures"
                         },
@@ -45784,6 +45826,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLPzfPcir5uPT8KFST1Ba3vN6k9yKE9ZK4",
                            "title": "Red Black Tree in Data Structures",
                            "author": "NG Tutorials"
+                        },
+                        {
+                           "url": "https://www.codeintuition.io/courses/singly-linked-list",
+                           "title": "Singly Linked List",
+                           "author": "CodeIntuition"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U",
