@@ -14324,13 +14324,13 @@
                                  "accessNotes": "email requested"
                               },
                               {
-                                 "url": "https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/",
+                                 "url": "https://web.archive.org/web/20221208003740/https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/",
                                  "title": "Knowledge Graphs: Data in Context for Responsive Businesses",
                                  "author": "Jesús Barrasa, Amy E. Hodler, Jim Webber",
                                  "notes": [
                                     "PDF"
                                  ],
-                                 "accessNotes": "email requested"
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         }
@@ -17260,6 +17260,21 @@
                         {
                            "url": "free-programming-books-subjects.md",
                            "title": "BY SUBJECT"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Lean",
+                     "entries": [
+                        {
+                           "url": "https://lean-lang.org/functional_programming_in_lean/",
+                           "title": "Functional Programming in Lean",
+                           "author": "David Thrane Christiansen",
+                           "notes": [
+                              "HTML",
+                              "CC BY"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -22465,7 +22480,7 @@
                            ]
                         },
                         {
-                           "url": "https://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development",
+                           "url": "https://www.red-gate.com/simple-talk/free-stuff/the-red-gate-guide-to-sql-server-team-based-development/",
                            "title": "The Redgate Guide to SQL Server Team-based Development",
                            "author": "Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić",
                            "notes": [
@@ -26001,7 +26016,7 @@
                      "section": "0 - Language Agnostic",
                      "entries": [
                         {
-                           "url": "https://mkurnosov.net/docs/dsa-book-2020.pdf",
+                           "url": "https://mkurnosov.net/files/dsa-book-2020.pdf",
                            "title": "Введение в методы машинной обработки данных",
                            "author": "Курносов М.Г.",
                            "notes": [
@@ -26009,7 +26024,7 @@
                            ]
                         },
                         {
-                           "url": "https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf",
+                           "url": "https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest",
                            "title": "Документация по Markdown: Спецификация стандарта языка текстовой разметки",
                            "author": "Изергиль Ван Дер Вельде",
                            "notes": [
@@ -26026,7 +26041,11 @@
                         },
                         {
                            "url": "http://www.inp.nsk.su/~baldin/Parallel/index.html",
-                           "title": "Параллельные технологии"
+                           "title": "Параллельные технологии",
+                           "author": "Евгений Балдин",
+                           "notes": [
+                              "PDF"
+                           ]
                         },
                         {
                            "url": "http://stolyarov.info/books/programming_intro",
@@ -26109,7 +26128,11 @@
                               },
                               {
                                  "url": "http://www.microsoft.com/ru-ru/download/details.aspx?id=29263",
-                                 "title": "Разработка мультитенантных приложений для облака, издание 3-е"
+                                 "title": "Разработка мультитенантных приложений для облака, издание 3-е",
+                                 "author": "Доминик Беттс, Алекс Хомер, Алехандро Езерски, Масаши Нарумото, Ганц Чжан",
+                                 "notes": [
+                                    "PDF"
+                                 ]
                               }
                            ]
                         },
@@ -27655,11 +27678,6 @@
                   {
                      "section": "TypeScript",
                      "entries": [
-                        {
-                           "url": "https://typescript-handbook.ru",
-                           "title": "Карманная книга по TypeScript",
-                           "author": "Igor Agapov"
-                        },
                         {
                            "url": "https://metanit.com/web/typescript",
                            "title": "Руководство по TypeScript",
@@ -61713,7 +61731,7 @@
                      "entries": [
                         {
                            "url": "https://openu.kz/kz/courses/python-tilinde-badarlamalau-negizderi",
-                           "title": "Python тiлiнде бағдарламалау негiздерi.",
+                           "title": "Python тілінде бағдарламалау негіздері.",
                            "author": "Жасдәурен Дүйсебеков",
                            "notes": [
                               "Қазақстанның ашық университеті"
@@ -69120,14 +69138,6 @@
                            "author": "Berat Ersarı"
                         },
                         {
-                           "url": "https://acikders.tuba.gov.tr/course/view.php?id=133",
-                           "title": "Algoritmalara giriş",
-                           "author": "Charles Leiserson / Erik Demaine",
-                           "notes": [
-                              "Çev. Ali Yazıcı - Haluk Ar"
-                           ]
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ",
                            "title": "Algoritmaları Anlamak",
                            "author": "Fatih Özkaynak"
@@ -73070,6 +73080,15 @@
                            "author": "Geeksforgeeks"
                         },
                         {
+                           "url": "https://learn.webterm.app/en/cheatsheet/git",
+                           "title": "Git Cheat Sheet",
+                           "author": "WebTerm Learn",
+                           "notes": [
+                              "HTML, PDF",
+                              "CC BY"
+                           ]
+                        },
+                        {
                            "url": "https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e",
                            "title": "Git Cheat Sheet (id)",
                            "author": "Reyhan Alhafizal",
@@ -73459,6 +73478,15 @@
                            "author": "Richard Torruellas",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://learn.webterm.app/en/cheatsheet/vim",
+                           "title": "Vim Cheat Sheet",
+                           "author": "WebTerm Learn",
+                           "notes": [
+                              "HTML, PDF",
+                              "CC BY"
                            ]
                         },
                         {
@@ -74759,6 +74787,15 @@
                            "author": "DevHints, Rico Santa Cruz",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://learn.webterm.app/en/cheatsheet/linux",
+                           "title": "Linux Commands Cheat Sheet",
+                           "author": "WebTerm Learn",
+                           "notes": [
+                              "HTML, PDF",
+                              "CC BY"
                            ]
                         }
                      ],
