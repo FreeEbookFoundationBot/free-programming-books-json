@@ -14938,9 +14938,13 @@
                            "author": "Joseph D. Booth"
                         },
                         {
-                           "url": "http://chimera.labs.oreilly.com/books/1234000001552",
+                           "url": "https://webaudioapi.com",
                            "title": "Web Audio API",
-                           "author": "Boris Smus"
+                           "author": "Boris Smus",
+                           "notes": [
+                              "HTML, PDF, EPUB, MOBI",
+                              "CC BY-NC-ND"
+                           ]
                         },
                         {
                            "url": "https://learning.lpi.org/en/learning-materials/030-100/",
@@ -28656,6 +28660,14 @@
                            ]
                         },
                         {
+                           "url": "https://robcox2910.github.io/pyllm/",
+                           "title": "PyLLM: Build your own GPT from scratch in Python",
+                           "author": "Rob Cox",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.thequery.in/books/rag-kg-master-course",
                            "title": "RAG + Knowledge Graph Master Course",
                            "author": "Addy",
@@ -29139,6 +29151,14 @@
                            ]
                         },
                         {
+                           "url": "https://robcox2910.github.io/pebble-lang/",
+                           "title": "Pebble: Build your own programming language and compiler in Python",
+                           "author": "Rob Cox",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/",
                            "title": "Practical and Theoretical Aspects of Compiler Construction",
                            "notes": [
@@ -29617,6 +29637,14 @@
                         {
                            "url": "http://webdam.inria.fr/Alice/",
                            "title": "Foundations of Databases"
+                        },
+                        {
+                           "url": "https://robcox2910.github.io/pydb/",
+                           "title": "PyDB: Build your own SQL database in Python",
+                           "author": "Rob Cox",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://www.redbook.io",
@@ -32054,6 +32082,14 @@
                            ]
                         },
                         {
+                           "url": "https://robcox2910.github.io/pynet/",
+                           "title": "PyNet: Build your own networking library in Python",
+                           "author": "Rob Cox",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://mohamedation.com/securing-wifi/en/",
                            "title": "Securing Wireless Networks for the Home User Guide",
                            "author": "Mohamed Adel",
@@ -32331,6 +32367,14 @@
                            "author": "Niklaus Wirth, Jürg Gutknecht",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://robcox2910.github.io/py-os/",
+                           "title": "PyOS: Build your own operating system in Python",
+                           "author": "Rob Cox",
+                           "notes": [
+                              "HTML"
                            ]
                         },
                         {
@@ -47503,7 +47547,7 @@
                         },
                         {
                            "url": "https://learn.cypress.io",
-                           "title": "Cypress Official Course - Best Documnetation",
+                           "title": "Cypress Official Course - Best Documentation",
                            "author": "Cypress.io"
                         },
                         {
@@ -48449,6 +48493,11 @@
                            "url": "https://www.youtube.com/playlist?list=PL0hSJrxggIQoKLETBSmgbbvE4FO_eEgoB",
                            "title": "Docker and Kubernetes Complete Tutorial",
                            "author": "Analytics Excellence"
+                        },
+                        {
+                           "url": "https://prepare.sh/course/docker-course",
+                           "title": "Docker Course",
+                           "author": "prepare.sh"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7",
@@ -69784,21 +69833,6 @@
                            "author": "XuanThuLab"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb",
-                           "title": "Lập trình Android - Android Widgets - Các điều khiển",
-                           "author": "ZendVN"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU",
-                           "title": "Lập trình Android - Menu - Context Menu - Dialog",
-                           "author": "ZendVN"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V",
-                           "title": "Lập trình Android - Xây dựng bố cục giao diện với Android Layout",
-                           "author": "ZendVN"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL5uqQAwS_KDjAgLGiaCakwJV1f4vRnTLS",
                            "title": "Lập trình Android A-Z",
                            "author": "Khoa Phạm"
@@ -69817,16 +69851,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLFPekWzEN9zMPU_se3HtbdmPDvXnX7V80",
                            "title": "Lập Trình Android Rest API",
                            "author": "Nam Nguyen Poly Lab"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU",
-                           "title": "Lập trình Android với Kotlin",
-                           "author": "Khoa Phạm"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr",
-                           "title": "Lập trình Android với new Firebase",
-                           "author": "Khoa Phạm"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL6aoXCbsHwIayYCo9aDuzZ3dMC9oShs1u",
@@ -69957,11 +69981,6 @@
                      "section": "AutoIt",
                      "entries": [
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLlhlxkw8o0Ga8Vg3Sw5iXHubFxoOvV6aq",
-                           "title": "Auto Game Tutorial",
-                           "author": "Tool By Autoit"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLNeDQQ_ukvRpn7NfdLvtQ9PgVJfkNEsAr",
                            "title": "AutoIT - Cách làm Auto Chuột và Bàn Phím",
                            "author": "LeeSai"
@@ -70010,11 +70029,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLcW6QFb7l0G7ukw6LBcPJbvxbFhgfX9-S",
                            "title": "Lập trình Bash Shell Script cơ bản",
                            "author": "Curry"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PL1HxRSJMOMPKOJhefnyfYLICczYTiUGaK",
-                           "title": "SHELL/BASH",
-                           "author": "Toan Nguyen"
                         }
                      ],
                      "subsections": []
@@ -70113,11 +70127,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND",
                            "title": "Ngôn Ngữ Lập Trình C",
                            "author": "28tech"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLOWHQCkFdTueoPoil-FTma3-q-_uxsvhR",
-                           "title": "Ngôn Ngữ Lập Trình C |IUH",
-                           "author": "Jerry Thắng"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLdgLBTCcFWkfWhf3qSPX-pNGyLOj8IA3w",
@@ -70383,11 +70392,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLwRuTV6YR6x1_CzgvKEDEPH1Czl6Mmu6h",
                            "title": "React Native EventHub Fullstack với NodeJS ExpressJS MongoDB",
                            "author": "Đào Quang"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3",
-                           "title": "UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)",
-                           "author": "Hỏi Dân IT"
                         }
                      ],
                      "subsections": []
@@ -70912,11 +70916,6 @@
                            "author": "Xin chào, mình là Sữa"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU",
-                           "title": "Lập trình Android với Kotlin full tại Khoa Phạm",
-                           "author": "Khoa Phạm"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLn9lhDYvf_3E_5JZ-1jlk67o9101Lu9N6",
                            "title": "Lập trình Kotlin từ cơ bản đến nâng cao",
                            "author": "Anh Nguyen Ngoc"
@@ -71113,11 +71112,6 @@
                            "author": "TK Vlogs"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-",
-                           "title": "Lập Trình Nodejs Cơ Bản Tại Khoa Phạm",
-                           "author": "Trung Tâm Đào Tạo Tin Học Khoa Phạm"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3",
                            "title": "NodeJS & ExpressJS",
                            "author": "F8 Official"
@@ -71150,11 +71144,6 @@
                         {
                            "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT4smWdJceM0bDg4YUF3yqLu",
                            "title": "Tự Học Node.JS Cơ Bản Từ A Đến Z Cho Người Mới Bắt Đầu",
-                           "author": "Hỏi Dân IT"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3",
-                           "title": "UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)",
                            "author": "Hỏi Dân IT"
                         },
                         {
@@ -71228,21 +71217,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1",
                            "title": "Tự Học Lập trình PHP",
                            "author": "ZendVN - Học Lập Trình Online"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy",
-                           "title": "Tự học PHP - Các đối tượng khác trong PHP",
-                           "author": "ZendVN"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l",
-                           "title": "Tự học PHP - Căn Bản",
-                           "author": "ZendVN"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28",
-                           "title": "Tự học PHP - Làm việc với ASNT",
-                           "author": "ZendVN"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLsVJaIeVT78qJEPWJ9rIwgPCcmuVI-r4k",
@@ -71424,15 +71398,6 @@
                            "author": "TEDU"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riQFEN586LOz3eMv2Rgy6WXS",
-                           "title": "Lập trình ReactJS với Redux",
-                           "author": "Khoa Phạm"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd",
-                           "title": "React.js Cơ Bản"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO",
                            "title": "ReactJS - Demo các project trong khóa học",
                            "author": "ZendVN - Học Lập Trình Online"
@@ -71516,11 +71481,6 @@
                            "author": "ZenDvn"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q",
-                           "title": "Sass Cơ Bản",
-                           "author": "Khoa Phạm"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb",
                            "title": "Tự Học Sass",
                            "author": "ZendVN"
@@ -71565,11 +71525,6 @@
                            "url": "https://www.youtube.com/playlist?list=PLRSnr8eajoQyUdyywoUOvDRd9FLoovfg3",
                            "title": "Khoá học an ninh mạng của Cisco về CyberSecurity",
                            "author": "VQT Network"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLSzZlHir9jJSSygXLtqkhPQNIYkYqGTAU",
-                           "title": "Khóa Học Hacker Mũ Trắng-AEH",
-                           "author": "Trung Tam Athena"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLggwtzPh_8VkV50VGVpvybnnqCdgIBCVb",
@@ -71715,19 +71670,9 @@
                            "author": "laptrinh0kho"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riSlAocQR3BvHCtEhcKa204E",
-                           "title": "Lập trình iOS cơ bản với Swift 3 và Xcode 8",
-                           "author": "Khoa Phạm"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLBgIyLVk3GlSGQ68t3Qvfqg_x_RacLXje",
                            "title": "Lập trình iOS với SwiftUI",
                            "author": "laptrinh0kho"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLR1-CgtL7hK6bbuXUSgAKZveZsKa2tehl",
-                           "title": "Swift - Tổng quan",
-                           "author": "Dev Step by Step"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL4VEtQ6PTTQFCBxdxUIS3h6h7wSTEHrPu",
@@ -71831,11 +71776,6 @@
                                  "author": "TEDU"
                               },
                               {
-                                 "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC",
-                                 "title": "Angular 4 Cơ Bản",
-                                 "author": "Khoa Phạm"
-                              },
-                              {
                                  "url": "https://www.youtube.com/playlist?list=PLRhlTlpDUWswOJnLxzotd7MgqaRrBlZOG",
                                  "title": "Angular căn bản 2023",
                                  "author": "TEDU"
@@ -71859,11 +71799,6 @@
                                  "url": "https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ",
                                  "title": "Tự học Angular 2020",
                                  "author": "CodersX"
-                              },
-                              {
-                                 "url": "https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V",
-                                 "title": "Tự học Angular 5",
-                                 "author": "Nguyen Duc Hoang"
                               }
                            ]
                         }
@@ -71918,11 +71853,6 @@
                            "author": "Tech Lap"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riS2khouy_siPTcR0ajoS8a6",
-                           "title": "Học Lập Trình Game Unity3D - Cơ Bản",
-                           "author": "Khoa Phạm"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PLqLksqdSk4b2VcB_yvIkqRPCymXE-q48e",
                            "title": "Học Lập Trình Game Unity3D - Cờ Vua 3D",
                            "author": "The Brown Box"
@@ -71933,19 +71863,9 @@
                            "author": "K team"
                         },
                         {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riRwq876NCjZuulv5BjuDCBk",
-                           "title": "Học Lập Trình Game Unity3D - Flappy Bird",
-                           "author": "Khoa Phạm"
-                        },
-                        {
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1x9P0eiUcr8f-3g2mG-PNTz",
                            "title": "Học Lập Trình Game Unity3D - Flappy Bird",
                            "author": "K team"
-                        },
-                        {
-                           "url": "https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ",
-                           "title": "Học Lập Trình Game Unity3D - Game Sprider Cave",
-                           "author": "Khoa Phạm"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0",
