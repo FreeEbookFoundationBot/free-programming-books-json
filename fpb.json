@@ -4532,6 +4532,21 @@
                      "subsections": []
                   },
                   {
+                     "section": "Git",
+                     "entries": [
+                        {
+                           "url": "https://git-scm.com/book/fa/v2",
+                           "title": "Pro Git",
+                           "author": "Scott Chacon, Ben Straub‏",
+                           "notes": [
+                              "HTML",
+                              "CC BY-NC-SA‏"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
                      "section": "HTML and CSS",
                      "entries": [
                         {
@@ -4599,6 +4614,15 @@
                            "title": "تائوی برنامه نویسان",
                            "notes": [
                               "PDF"
+                           ]
+                        },
+                        {
+                           "url": "https://linuxcli.ir",
+                           "title": "خط فرمان لینوکس",
+                           "author": "William Shotts‏,",
+                           "notes": [
+                              "PDF, HTML",
+                              "CC BY-NC-ND‏"
                            ]
                         },
                         {
@@ -11423,12 +11447,13 @@
                            ]
                         },
                         {
-                           "url": "https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf",
+                           "url": "https://web.archive.org/web/20260529073308/https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf",
                            "title": "Arduino Projects Book",
                            "author": "Scott Fitzgerald and Michael Shiloh",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf",
@@ -11611,13 +11636,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.rigwit.co.uk/ARMBook/ARMBook.pdf",
+                           "url": "https://web.archive.org/web/20260510194930/https://www.rigwit.co.uk/ARMBook/ARMBook.pdf",
                            "title": "ARM Assembly Language Programming",
                            "author": "Peter Knaggs",
                            "notes": [
                               "PDF"
                            ],
-                           "accessNotes": " :construction: in process"
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.davidsalomon.name/assem.advertis/asl.pdf",
@@ -11925,7 +11950,7 @@
                            "author": "Krzysztof Kowalczyk, StackOverflow Contributors"
                         },
                         {
-                           "url": "https://www.hypexr.org/bash_tutorial.php",
+                           "url": "https://hypexr.org/bash_tutorial.html",
                            "title": "Getting Started with BASH",
                            "notes": [
                               "HTML"
@@ -12492,7 +12517,7 @@
                            "accessNotes": " :card_file_box: archived"
                         },
                         {
-                           "url": "https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop",
+                           "url": "https://damieng.com/blog/2007/dissecting-a-c-application-inside-sharpdevelop/",
                            "title": "Dissecting a C# Application",
                            "author": "Christian Holm, Bernhard Spuida, Mike Kruger"
                         },
@@ -13986,12 +14011,13 @@
                            ]
                         },
                         {
-                           "url": "https://www.star.le.ac.uk/~cgp/prof77.pdf",
+                           "url": "https://web.archive.org/web/20230425151747/https://www.star.le.ac.uk/~cgp/prof77.pdf",
                            "title": "Professional Programmer’s Guide to Fortran77 (2005)",
                            "author": "Clive G. Page",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20201111215145/http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf",
@@ -14344,7 +14370,7 @@
                            "section": "Gradle",
                            "entries": [
                               {
-                                 "url": "http://spring.io/guides/gs/gradle/",
+                                 "url": "https://github.com/spring-attic/gs-gradle",
                                  "title": "Building Java Projects with Gradle"
                               },
                               {
@@ -15798,7 +15824,7 @@
                            ]
                         },
                         {
-                           "url": "https://google.github.io/styleguide/javascriptguide.xml",
+                           "url": "https://google.github.io/styleguide/jsguide.html",
                            "title": "Google JavaScript Style Guide",
                            "author": "Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker",
                            "notes": [
@@ -15983,12 +16009,13 @@
                            ]
                         },
                         {
-                           "url": "https://diogoeichert.github.io/JSwC.epub",
+                           "url": "https://web.archive.org/web/20201031181255/https://diogoeichert.github.io/JSwC.epub",
                            "title": "JavaScript with Classes",
                            "author": "Diogo Eichert",
                            "notes": [
                               "EPUB"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf",
@@ -16220,12 +16247,13 @@
                            ]
                         },
                         {
-                           "url": "http://robotlolita.me/2011/10/09/understanding-javascript-oop.html",
+                           "url": "https://web.archive.org/web/20241214134605/https://robotlolita.me/2011/10/09/understanding-javascript-oop.html",
                            "title": "Understanding JavaScript OOP",
                            "author": "Quil",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook",
@@ -16333,12 +16361,13 @@
                                  "manualReviewRequired": true
                               },
                               {
-                                 "url": "http://andyshora.com/unit-testing-best-practices-angularjs.html",
+                                 "url": "https://web.archive.org/web/20260524062111/https://www.andyshora.com/unit-testing-best-practices-angularjs.html",
                                  "title": "Unit Testing Best Practices in AngularJS",
                                  "author": "Andy Shora",
                                  "notes": [
                                     "HTML"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         },
@@ -16350,13 +16379,14 @@
                                  "title": "A pragmatic guide to Backbone.js apps"
                               },
                               {
-                                 "url": "https://cdnjs.com/libraries/backbone.js/tutorials/",
-                                 "title": "Backbonejs Tutorials"
+                                 "url": "https://web.archive.org/web/20260513072624/https://cdnjs.com/libraries/backbone.js/tutorials/",
+                                 "title": "Backbonejs Tutorials",
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
-                                 "url": "https://singlepagebook.supportbee.com",
+                                 "url": "https://web.archive.org/web/20160331234857/https://singlepagebook.supportbee.com/",
                                  "title": "Building Single Page Web Apps with Backbone.js",
-                                 "accessNotes": " :construction: in process"
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://addyosmani.github.io/backbone-fundamentals/",
@@ -16376,8 +16406,9 @@
                            "section": "Booty5.js",
                            "entries": [
                               {
-                                 "url": "http://booty5.com/booty5-free-html-game-maker-e-book-manual/",
-                                 "title": "The Booty5 HTML5 Game Maker Manual"
+                                 "url": "https://web.archive.org/web/20230204181012/http://booty5.com/booty5-free-html-game-maker-e-book-manual/",
+                                 "title": "The Booty5 HTML5 Game Maker Manual",
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         },
@@ -16631,12 +16662,13 @@
                                  "author": "freeCodeCamp.org"
                               },
                               {
-                                 "url": "https://dtc-wsuv.org/dmyers19/dtc477-%20Advanced%20Multimedia%20Authoring/FlavioCopes-Handbooks/The%20Next%20Handbook/book.pdf",
+                                 "url": "https://web.archive.org/web/20260330142044/https://dtc-wsuv.org/dmyers19/dtc477-%20Advanced%20Multimedia%20Authoring/FlavioCopes-Handbooks/The%20Next%20Handbook/book.pdf",
                                  "title": "The Next.js Handbook",
                                  "author": "Flavio Copes",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://flaviocopes.com/page/nextjs-handbook/",
@@ -16927,7 +16959,7 @@
                                  "title": "React Native Training"
                               },
                               {
-                                 "url": "https://www.callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook",
+                                 "url": "https://www.callstack.com/ebooks/the-ultimate-guide-to-react-native-optimization",
                                  "title": "The Ultimate Guide to React Native Optimization",
                                  "notes": [
                                     "PDF"
@@ -17054,10 +17086,10 @@
                            ]
                         },
                         {
-                           "url": "https://www.jenkins.io/user-handbook.pdf",
+                           "url": "https://www.jenkins.io/doc/book/",
                            "title": "Jenkins User Handbook",
                            "notes": [
-                              "PDF"
+                              "HTML"
                            ]
                         },
                         {
@@ -17498,9 +17530,10 @@
                            ]
                         },
                         {
-                           "url": "http://dullroar.com/book/TenStepsToLinuxSurvival.html",
+                           "url": "https://web.archive.org/web/20200122153307/http://dullroar.com/book/TenStepsToLinuxSurvival.html",
                            "title": "Ten Steps to Linux Survival: Bash for Windows People",
-                           "author": "Jim Lehmer"
+                           "author": "Jim Lehmer",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://debian-handbook.info",
@@ -18447,7 +18480,7 @@
                            "author": "John Whitington"
                         },
                         {
-                           "url": "https://ocaml.xyz/book/",
+                           "url": "https://ocaml.xyz",
                            "title": "OCaml Scientific Computing",
                            "author": "Liang Wang, Jianxin Zhao",
                            "notes": [
@@ -19580,7 +19613,7 @@
                            "accessNotes": " :construction: in process"
                         },
                         {
-                           "url": "https://geographicdata.science/book/intro.html",
+                           "url": "https://geographicdata.science/book/",
                            "title": "Geographic Data Science with Python",
                            "author": "Sergio Rey, Dani Arribas-Bel, Levi John Wolf",
                            "notes": [
@@ -20324,14 +20357,14 @@
                            "section": "Django",
                            "entries": [
                               {
-                                 "url": "https://django-allauth.readthedocs.io/en/latest/overview.html",
+                                 "url": "https://docs.allauth.org/en/latest/",
                                  "title": "All-Auth",
                                  "notes": [
                                     "HTML"
                                  ]
                               },
                               {
-                                 "url": "https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html",
+                                 "url": "https://django-autocomplete-light.readthedocs.io/en/master/",
                                  "title": "AutoComplete-Light",
                                  "notes": [
                                     "HTML"
@@ -20816,7 +20849,7 @@
                            ]
                         },
                         {
-                           "url": "https://learningstatisticswithr.com/book/",
+                           "url": "https://learningstatisticswithr.com",
                            "title": "Learning Statistics with R",
                            "author": "Danielle Navarro"
                         },
@@ -21899,9 +21932,10 @@
                            "title": "An Introduction to Scheme and its Implementation"
                         },
                         {
-                           "url": "https://gustavus.edu/+max/concrete-abstractions.html",
+                           "url": "https://web.archive.org/web/20160519080422/https://gustavus.edu/+max/concrete-abstractions.html",
                            "title": "Concrete Abstractions: An Introduction to Computer Science Using Scheme",
-                           "author": "M. Hailperin, B. Kaiser, K. Knight"
+                           "author": "M. Hailperin, B. Kaiser, K. Knight",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://unglue.it/work/506723/",
@@ -26028,14 +26062,6 @@
                            ]
                         },
                         {
-                           "url": "https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest",
-                           "title": "Документация по Markdown: Спецификация стандарта языка текстовой разметки",
-                           "author": "Изергиль Ван Дер Вельде",
-                           "notes": [
-                              "PDF"
-                           ]
-                        },
-                        {
                            "url": "https://vseloved.github.io/pdf/os-ru.pdf",
                            "title": "Операционные системы",
                            "author": "Всеволод Дёмкин",
@@ -26212,15 +26238,18 @@
                            "entries": [
                               {
                                  "url": "http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html",
-                                 "title": "Архитектура приложений с открытым исходным кодом"
+                                 "title": "Архитектура приложений с открытым исходным кодом",
+                                 "author": "Эми Браун и Грег Уилсон, перевод Ромоданова Н., Панина А. и Vlad",
+                                 "notes": [
+                                    "HTML"
+                                 ]
                               },
                               {
-                                 "url": "https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf",
-                                 "title": "Документация по языку текстовой разметки — Markdown",
+                                 "url": "https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest",
+                                 "title": "Документация по Markdown: Спецификация стандарта языка текстовой разметки",
                                  "author": "Изергиль Ван Дер Вельде",
                                  "notes": [
-                                    "PDF",
-                                    "MIT"
+                                    "PDF"
                                  ]
                               }
                            ]
@@ -28641,6 +28670,15 @@
                            "author": "Thomas D. Grant, Damon J. Wischik",
                            "notes": [
                               "PDF, EPUB"
+                           ]
+                        },
+                        {
+                           "url": "https://open-llm.saatvik333.workers.dev",
+                           "title": "Open LLM: From Nothing to the Frontier of Language Models",
+                           "author": "Open LLM Project",
+                           "notes": [
+                              "HTML, PDF, EPUB",
+                              "CC BY"
                            ]
                         },
                         {
@@ -35360,7 +35398,7 @@
                            "title": "Linux Documentation (中文版)"
                         },
                         {
-                           "url": "http://happypeter.github.io/LGCB/book/",
+                           "url": "https://happypeter.github.io/LGCB/book/",
                            "title": "Linux Guide for Complete Beginners"
                         },
                         {
@@ -35376,7 +35414,7 @@
                            "title": "Operating Systems: Three Easy Pieces"
                         },
                         {
-                           "url": "http://billie66.github.io/TLCL/index.html",
+                           "url": "https://billie66.github.io/TLCL/index.html",
                            "title": "The Linux Command Line"
                         },
                         {
@@ -35427,7 +35465,7 @@
                      "section": "分布式系统",
                      "entries": [
                         {
-                           "url": "http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf",
+                           "url": "https://dcaoyuan.github.io/papers/pdfs/Scalability.pdf",
                            "title": "走向分布式",
                            "notes": [
                               "PDF"
@@ -46339,6 +46377,14 @@
                                  "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC",
                                  "title": "AI Agents for Beginners",
                                  "author": "Microsoft Developer"
+                              },
+                              {
+                                 "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+                                 "title": "ChatGPT Prompt Engineering for Developers",
+                                 "author": "Andrew Ng, Isa Fulcher",
+                                 "notes": [
+                                    "DeepLearning.AI"
+                                 ]
                               },
                               {
                                  "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8",
@@ -67237,6 +67283,30 @@
                         }
                      ],
                      "subsections": []
+                  },
+                  {
+                     "section": "SQL",
+                     "entries": [
+                        {
+                           "url": "https://stepik.org/course/302901",
+                           "title": "JOIN в SQL простым языком",
+                           "author": "Илья Калакуцкий",
+                           "notes": [
+                              "Stepik",
+                              "BEG"
+                           ]
+                        },
+                        {
+                           "url": "https://stepik.org/course/302924",
+                           "title": "SQL с нуля для начинающих",
+                           "author": "Илья Калакуцкий",
+                           "notes": [
+                              "Stepik",
+                              "BEG"
+                           ]
+                        }
+                     ],
+                     "subsections": []
                   }
                ]
             },
@@ -69606,6 +69676,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz",
                            "title": "Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu | Data structures by Fahad Hussain | data structures and algorithms tutorial",
                            "author": "Fahad Hussain‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnd7R4Mcw3rK0bGYlR32Y084AKimVepDk",
+                           "title": "Data Structures with Python (Urdu)",
+                           "author": "Recluze‏"
                         }
                      ],
                      "subsections": []
@@ -69643,6 +69718,11 @@
                            "url": "https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1",
                            "title": "Assembly Language Programming Tutorials in Urdu / Hindi",
                            "author": "Programology‏"
+                        },
+                        {
+                           "url": "https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O",
+                           "title": "Computer Organization & Assembly Language",
+                           "author": "Recluze‏"
                         }
                      ],
                      "subsections": []
@@ -75152,6 +75232,11 @@
                      "section": "Artificial Intelligence",
                      "entries": [
                         {
+                           "url": "https://beginnercoder.net/learn/ai-agents",
+                           "title": "AI Agents Foundations",
+                           "author": "BeginnerCoder"
+                        },
+                        {
                            "url": "https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/",
                            "title": "Generative AI tutorial",
                            "author": "GeeksforGeeks"
@@ -76205,6 +76290,11 @@
                            "url": "https://runestone.academy/runestone/books/published/py4e-int/index.html",
                            "title": "Python for Everybody - Interactive",
                            "author": "Barbara Ericson"
+                        },
+                        {
+                           "url": "https://beginnercoder.net/learn/python-foundations",
+                           "title": "Python Foundations",
+                           "author": "BeginnerCoder"
                         },
                         {
                            "url": "https://a1lab.tech/python/introduction",
