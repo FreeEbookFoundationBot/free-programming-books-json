@@ -1172,7 +1172,7 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "https://knihy.nic.cz/files/nic/edice/mark_pilgrim_dip3_ver3.pdf",
+                           "url": "https://knihy.nic.cz/media/filer_public/65/de/65de554f-506f-4e9f-80d4-a609e3c37213/ponorme_se_do_pythonu_3.pdf",
                            "title": "Ponořme se do Pythonu 3",
                            "author": "Mark Pilgrim",
                            "notes": [
@@ -5204,12 +5204,13 @@
                            "author": "Christian Casteyde"
                         },
                         {
-                           "url": "http://vidalc.chez.com/lf/socket.html",
+                           "url": "https://web.archive.org/web/20260101234750/http://vidalc.chez.com/lf/socket.html",
                            "title": "Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet",
                            "author": "Brian \"Beej Jorgensen\" Hall",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://framabook.org/le-c-en-20-heures-2/",
@@ -5274,12 +5275,13 @@
                      "section": "Fortran",
                      "entries": [
                         {
-                           "url": "http://www.idris.fr/formations/fortran/fortran-77.html",
+                           "url": "https://web.archive.org/web/20260212194741/http://www.idris.fr/formations/fortran/fortran-77.html",
                            "title": "IDRIS adaptation of the Fortran 77 manual",
                            "author": "IDRIS, Hervé Delouis, Patrick Corde",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://web.archive.org/web/20260312175623/http://www.idris.fr/formations/fortran/",
@@ -6319,7 +6321,7 @@
                            ]
                         },
                         {
-                           "url": "http://nagygusztav.hu/webes-szabvanyok",
+                           "url": "https://nagygusztav.hu/pdf/webes-szabvanyok.pdf",
                            "title": "Webes szabványok",
                            "author": "Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman \"Norm\" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan, Mike West,",
                            "notes": [
@@ -6373,7 +6375,7 @@
                            ]
                         },
                         {
-                           "url": "http://nagygusztav.hu/java-programozas",
+                           "url": "https://nagygusztav.hu/pdf/java-programozas.pdf",
                            "title": "Java programozás",
                            "author": "Nagy Gusztáv",
                            "notes": [
@@ -6508,7 +6510,7 @@
                      "section": "PHP",
                      "entries": [
                         {
-                           "url": "http://nagygusztav.hu/drupal-6-alapismeretek",
+                           "url": "https://nagygusztav.hu/pdf/drupal-6-alapismeretek.pdf",
                            "title": "Drupal 6 alapismeretek",
                            "author": "Nagy Gusztáv",
                            "notes": [
@@ -6516,7 +6518,7 @@
                            ]
                         },
                         {
-                           "url": "http://nagygusztav.hu/drupal-7-alapismeretek",
+                           "url": "https://nagygusztav.hu/pdf/drupal-7-alapismeretek.pdf",
                            "title": "Drupal 7 alapismeretek",
                            "author": "Nagy Gusztáv",
                            "notes": [
@@ -6524,7 +6526,7 @@
                            ]
                         },
                         {
-                           "url": "http://nagygusztav.hu/web-programozas",
+                           "url": "https://nagygusztav.hu/pdf/web-programozas.pdf",
                            "title": "Web programozás alapismeretek",
                            "author": "Nagy Gusztáv",
                            "notes": [
@@ -9577,7 +9579,7 @@
                            "section": "Svelte",
                            "entries": [
                               {
-                                 "url": "https://svelte.jp/tutorial/basics",
+                                 "url": "https://svelte.jp/tutorial",
                                  "title": "Svelte Tutorial",
                                  "author": "Svelte.dev"
                               },
@@ -9604,7 +9606,7 @@
                      "section": "Julia",
                      "entries": [
                         {
-                           "url": "http://www.nct9.ne.jp/m_hiroi/light/julia.html",
+                           "url": "http://www.nct9.ne.jp/m_hiroi/julia/index.html",
                            "title": "Julia Language Programming",
                            "author": "広井誠"
                         },
@@ -25871,7 +25873,7 @@
                      "section": "Haskell",
                      "entries": [
                         {
-                           "url": "http://www4.di.uminho.pt/~mjf/pub/PF-Haskell.pdf",
+                           "url": "https://www.di.uminho.pt/~mjf/pub/PF-Haskell.pdf",
                            "title": "Programação Funcional CC",
                            "author": "Maria João Frade",
                            "notes": [
@@ -25913,7 +25915,7 @@
                      "section": "Prolog",
                      "entries": [
                         {
-                           "url": "http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf",
+                           "url": "https://www.di.uminho.pt/~mjf/pub/LC-Prolog.pdf",
                            "title": "Lógica Computacional (com Prolog)",
                            "author": "Maria João Frade",
                            "notes": [
@@ -28575,7 +28577,7 @@
                            ]
                         },
                         {
-                           "url": "https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf",
+                           "url": "https://raw.githubusercontent.com/Jason2Brownlee/CleverAlgorithms/master/release/clever_algorithms.pdf",
                            "title": "Clever Algorithms Nature-Inspired Programming Recipes",
                            "author": "Jason Brownlee",
                            "notes": [
@@ -30014,7 +30016,7 @@
                            "author": "Marti A. Hearst"
                         },
                         {
-                           "url": "https://pressbooks.library.ryerson.ca/webdesign/",
+                           "url": "https://pressbooks.library.torontomu.ca/webdesign/",
                            "title": "Web Design Primer",
                            "author": "Richard Adams, Ahmed Sagarwala"
                         },
@@ -30627,7 +30629,7 @@
                            ]
                         },
                         {
-                           "url": "https://matthbeck.github.io/papers/complexorth.pdf",
+                           "url": "https://matthbeck.github.io/papers/complex.pdf",
                            "title": "A First Course in Complex Analysis",
                            "author": "Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka",
                            "notes": [
@@ -33246,11 +33248,11 @@
                            "title": "Best Kept Secrets of Peer Code Review"
                         },
                         {
-                           "url": "https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf",
+                           "url": "https://google.github.io/building-secure-and-reliable-systems/raw/toc.html",
                            "title": "Building Secure & Reliable Systems",
                            "author": "Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield",
                            "notes": [
-                              "PDF"
+                              "HTML"
                            ]
                         },
                         {
@@ -35208,6 +35210,20 @@
                            "author": "Abid Bashir",
                            "notes": [
                               "Translated"
+                           ]
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Python",
+                     "entries": [
+                        {
+                           "url": "https://needideveloper.com/wp-content/uploads/2025/10/Python-Knights-Book-by-Needi-Developer-.pdf",
+                           "title": "Python Knights (Roman Urdu)",
+                           "author": "Needi Developer",
+                           "notes": [
+                              "PDF"
                            ]
                         }
                      ],
@@ -37332,7 +37348,7 @@
                      "section": "Swift",
                      "entries": [
                         {
-                           "url": "https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details",
+                           "url": "https://doc.swiftgg.team",
                            "title": "《The Swift Programming Language》中文版"
                         }
                      ],
@@ -54837,6 +54853,11 @@
                         {
                            "url": "https://ocw.uca.es/course/view.php?id=74",
                            "title": "Fundamentos de informática en lenguaje C y Arduino - II"
+                        },
+                        {
+                           "url": "https://riocodelab-ia-practica.basicfield6.chatgpt.site/#minicurso",
+                           "title": "IA práctica para el trabajo real",
+                           "author": "RioCodeLab"
                         },
                         {
                            "url": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=11663",
