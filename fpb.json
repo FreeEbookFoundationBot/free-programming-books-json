@@ -110,12 +110,13 @@
                      "section": "Introduction to Programming in Arabic",
                      "entries": [
                         {
-                           "url": "https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf",
+                           "url": "https://web.archive.org/web/20251116084400/https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf",
                            "title": "مختصر دليل لغات البرمجة",
                            "author": "Ali Al-Yassen‏",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -545,12 +546,13 @@
                            "author": "Jakir Hossain, et al."
                         },
                         {
-                           "url": "http://cpbook.subeen.com",
+                           "url": "https://web.archive.org/web/20260516181231/http://cpbook.subeen.com",
                            "title": "Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»",
                            "author": "Tamim Shahriar Subeen",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin",
@@ -708,12 +710,13 @@
                      "section": "Problem Sets",
                      "entries": [
                         {
-                           "url": "http://cpbook.subeen.com/p/blog-page_11.html",
+                           "url": "https://web.archive.org/web/20260807161734/http://cpbook.subeen.com/p/blog-page_11.html",
                            "title": "৫২ টি প্রোগ্রামিং সমস্যা",
                            "author": "Tamim Shahriar Subeen",
                            "notes": [
                               "HTML"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         }
                      ],
                      "subsections": []
@@ -722,9 +725,10 @@
                      "section": "Python",
                      "entries": [
                         {
-                           "url": "http://pybook.subeen.com",
+                           "url": "https://web.archive.org/web/20230607225917/https://pybook.subeen.com",
                            "title": "পাইথন প্রোগ্রামিং বই",
-                           "author": "Tamim Shahriar Subeen"
+                           "author": "Tamim Shahriar Subeen",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://python.howtocode.dev",
@@ -751,9 +755,10 @@
                      "section": "Sql",
                      "entries": [
                         {
-                           "url": "https://www.sattacademy.org/sql/index.php",
+                           "url": "https://web.archive.org/web/20250125063219/https://www.sattacademy.org/sql/index.php",
                            "title": "এসকিউএল পরিচিতি(SQL Introduction in Bangla)",
-                           "author": "Satt Academy"
+                           "author": "Satt Academy",
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://sql.howtocode.dev",
@@ -2693,12 +2698,13 @@
                                  ]
                               },
                               {
-                                 "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf",
+                                 "url": "https://web.archive.org/web/20230705151221/https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf",
                                  "title": "Breves Notas sobre Análisis de Algoritmos",
                                  "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm",
@@ -2719,12 +2725,13 @@
                                  "author": "WikiLibros"
                               },
                               {
-                                 "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf",
+                                 "url": "https://web.archive.org/web/20230705150642/https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf",
                                  "title": "Temas selectos de estructuras de datos",
                                  "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               }
                            ]
                         },
@@ -2786,20 +2793,22 @@
                                  "accessNotes": " :card_file_box: archived"
                               },
                               {
-                                 "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf",
+                                 "url": "https://web.archive.org/web/20230225181058/https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf",
                                  "title": "Breves Notas sobre Complejidad",
                                  "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
-                                 "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf",
+                                 "url": "https://web.archive.org/web/20230705193355/https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf",
                                  "title": "Breves Notas sobre Teoría de la Computación",
                                  "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                                  "notes": [
                                     "PDF"
-                                 ]
+                                 ],
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf",
@@ -3272,12 +3281,13 @@
                            ]
                         },
                         {
-                           "url": "https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf",
+                           "url": "https://web.archive.org/web/20240411125154/https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf",
                            "title": "Notas de Introducción al Lenguaje de Programación Java (2004)",
                            "author": "Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf",
@@ -3961,6 +3971,11 @@
                            "notes": [
                               "HTML"
                            ]
+                        },
+                        {
+                           "url": "https://github.com/joedejesus/JJ_PYTHON_BOOK",
+                           "title": "JJ_PYTHON_BOOK",
+                           "author": "Joe De Jesus"
                         },
                         {
                            "url": "https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías",
@@ -14206,6 +14221,15 @@
                            ]
                         },
                         {
+                           "url": "https://sazardev.github.io/networking-with-go/",
+                           "title": "Networking with Go, Made Easy",
+                           "author": "Omar Flores Salazar",
+                           "notes": [
+                              "HTML, PDF, EPUB",
+                              "CC BY-NC 4.0"
+                           ]
+                        },
+                        {
                            "url": "https://leanpub.com/gocrypto/read",
                            "title": "Practical Cryptography With Go",
                            "author": "Kyle Isom",
@@ -20008,6 +20032,15 @@
                         {
                            "url": "https://github.com/Akuli/python-tutorial",
                            "title": "Python 3 Tutorial"
+                        },
+                        {
+                           "url": "https://holdenweb.com/pybooks/",
+                           "title": "Python Courses",
+                           "author": "Steve Holden",
+                           "notes": [
+                              "HTML",
+                              "CC BY-SA"
+                           ]
                         },
                         {
                            "url": "https://jakevdp.github.io/PythonDataScienceHandbook",
@@ -28265,6 +28298,15 @@
                               "HTML, PDF",
                               "CC BY-NC-ND"
                            ]
+                        },
+                        {
+                           "url": "https://en.algorithmica.org/hpc/",
+                           "title": "Algorithms for Modern Hardware",
+                           "author": "Sergey Slotin",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://goalkicker.com/AlgorithmsBook",
@@ -46233,6 +46275,11 @@
                            "author": "Intel Corporation"
                         },
                         {
+                           "url": "https://amey-thakur.github.io/AI-ENGINEERING/",
+                           "title": "AI Engineering",
+                           "author": "Amey Thakur"
+                        },
+                        {
                            "url": "https://www.udacity.com/course/ai-fundamentals--ud099",
                            "title": "AI Fundamentals",
                            "author": "Microsoft Azure",
@@ -56051,20 +56098,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Intelligence Artificielle",
-                     "entries": [
-                        {
-                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/fr",
-                           "title": "Générative AI pour Débutants .NET - Un Cours",
-                           "author": "Microsoft",
-                           "notes": [
-                              "GitHub"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "HTML / CSS",
                      "entries": [
                         {
@@ -56147,6 +56180,28 @@
                            "url": "https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-",
                            "title": "TUTOS HTML et CSS",
                            "author": "Boris 'PrimFX'"
+                        }
+                     ],
+                     "subsections": []
+                  },
+                  {
+                     "section": "Intelligence Artificielle",
+                     "entries": [
+                        {
+                           "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/fr",
+                           "title": "Générative AI pour Débutants .NET - Un Cours",
+                           "author": "Microsoft",
+                           "notes": [
+                              "GitHub"
+                           ]
+                        },
+                        {
+                           "url": "https://minilab-llm.com",
+                           "title": "MiniLab LLM",
+                           "author": "Stéphane Malho",
+                           "notes": [
+                              "HTML"
+                           ]
                         }
                      ],
                      "subsections": []
@@ -68181,6 +68236,11 @@
                            "author": "Payilagam"
                         },
                         {
+                           "url": "https://www.youtube.com/watch?v=dHzYLjfr-uY",
+                           "title": "Python Full Course for Beginners | Master Python in 10 Hours",
+                           "author": "code io"
+                        },
+                        {
                            "url": "https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm",
                            "title": "Python Full Course Tamil",
                            "author": "Error Makes Clever Academy"
@@ -76598,6 +76658,10 @@
                            "title": "SQLBolt"
                         },
                         {
+                           "url": "https://sqlmaxx.com/learn-sql/",
+                           "title": "SQLMaxx Learn"
+                        },
+                        {
                            "url": "https://sqlzoo.net/wiki/SQL_Tutorial",
                            "title": "SQLZoo"
                         }
@@ -77938,6 +78002,11 @@
                            "title": "Practice SQL"
                         },
                         {
+                           "url": "https://pyspark.in/sql-practice/",
+                           "title": "SQL Practice",
+                           "author": "PySpark.in"
+                        },
+                        {
                            "url": "https://onecompiler.com/sqlserver",
                            "title": "SQL Server Online Editor & Compiler",
                            "author": "OneCompiler"
@@ -78480,6 +78549,13 @@
                         {
                            "url": "https://www.beecrowd.com.br",
                            "title": "beecrowd"
+                        },
+                        {
+                           "url": "https://bugger.in/practice",
+                           "title": "Bugger",
+                           "notes": [
+                              "account *required* to run code"
+                           ]
                         },
                         {
                            "url": "http://www.careercup.com",
