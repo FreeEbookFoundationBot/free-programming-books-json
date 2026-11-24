@@ -17467,6 +17467,11 @@
                            "author": "Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman"
                         },
                         {
+                           "url": "https://github.com/ervinmckeats/linux-and-devops",
+                           "title": "Linux, DevOps and SRE",
+                           "author": "Ervin McKeats"
+                        },
+                        {
                            "url": "https://learning.lpi.org/en/learning-materials/010-160/",
                            "title": "Linux Essentials",
                            "author": "Linux Professional Institute",
@@ -18835,6 +18840,14 @@
                            "title": "PHP Apprentice",
                            "author": "Andrew Davis",
                            "accessNotes": " :construction: in process"
+                        },
+                        {
+                           "url": "https://codewithphp.com/series/php-basics/",
+                           "title": "PHP Basics: Free Beginner Course With a Blog Project",
+                           "author": "Code with PHP",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "https://phpbestpractices.org",
@@ -21126,12 +21139,13 @@
                      "section": "Raspberry Pi",
                      "entries": [
                         {
-                           "url": "https://magpi.raspberrypi.com/books/beginners-guide-4th-ed",
+                           "url": "https://web.archive.org/web/20230319151500/https://magpi.raspberrypi.com/books/beginners-guide-4th-ed",
                            "title": "Raspberry Pi Beginner's Guide 4th Edition",
                            "author": "The MagPi magazine",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://leanpub.com/RPiMRE/read",
@@ -31537,12 +31551,13 @@
                      "section": "Misc",
                      "entries": [
                         {
-                           "url": "https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf",
+                           "url": "https://web.archive.org/web/20230204173516/https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf",
                            "title": "10 Keys to Great Landing Pages",
                            "author": "iThemes Media",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "https://www.oreilly.com/radar/2016-european-software-development-salary-survey/",
