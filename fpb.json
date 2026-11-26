@@ -6663,10 +6663,6 @@
                         {
                            "url": "https://yukcoding.id/download-ebook-android-gratis/",
                            "title": "Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)"
-                        },
-                        {
-                           "url": "https://www.smashwords.com/books/view/533096",
-                           "title": "Tutorial Membuat Aplikasi Galeri Foto Android"
                         }
                      ],
                      "subsections": []
@@ -6684,16 +6680,6 @@
                            "url": "https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/",
                            "title": "Tutorial Belajar Bahasa Pemrograman C Untuk Pemula",
                            "author": "Duniailkom"
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "<a id=\"csharp\">",
-                     "entries": [
-                        {
-                           "url": "https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/",
-                           "title": "Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#"
                         }
                      ],
                      "subsections": []
@@ -6770,14 +6756,6 @@
                            "url": "https://dasarpemrogramangolang.novalagung.com",
                            "title": "Dasar Pemrograman Golang",
                            "author": "Noval Agung Prayogo"
-                        },
-                        {
-                           "url": "https://www.smashwords.com/books/view/938003",
-                           "title": "Mari Belajar Golang",
-                           "author": "Risal",
-                           "notes": [
-                              "PDF"
-                           ]
                         }
                      ],
                      "subsections": []
@@ -7041,9 +7019,10 @@
                            "section": "Vue.js",
                            "entries": [
                               {
-                                 "url": "https://variancode.com/belajar-vue-js/",
+                                 "url": "https://web.archive.org/web/20220528200713/https://variancode.com/belajar-vue-js/",
                                  "title": "Belajar Vue.js",
-                                 "author": "Varian Hermianto"
+                                 "author": "Varian Hermianto",
+                                 "accessNotes": " :card_file_box: archived"
                               },
                               {
                                  "url": "https://github.com/vuejs-id/docs",
@@ -54329,10 +54308,6 @@
                            ]
                         },
                         {
-                           "url": "https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4",
-                           "title": "Aprende a programar tu primera app"
-                        },
-                        {
                            "url": "https://web.archive.org/web/20200516175902/https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1",
                            "title": "Introducción a la programación Android",
                            "author": "Jesús Tomás Gironés",
@@ -54538,13 +54513,6 @@
                   {
                      "section": "Flujos de Trabajo",
                      "entries": [
-                        {
-                           "url": "https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-16-a-edicion",
-                           "title": "Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI",
-                           "notes": [
-                              "Miriadax"
-                           ]
-                        },
                         {
                            "url": "https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0",
                            "title": "Cómo implantar grupos de mejora de procesos"
@@ -54766,10 +54734,6 @@
                         {
                            "url": "https://ocw.unican.es/course/view.php?id=188",
                            "title": "Presentaciones eficaces (2012)"
-                        },
-                        {
-                           "url": "https://www.edx.org/es/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0",
-                           "title": "Presentaciones eficaces con PowerPoint"
                         },
                         {
                            "url": "https://www.pildorasinformaticas.es/course/vba-access",
@@ -55166,10 +55130,6 @@
                            "author": "Miguel Ángel Durán «midudev»"
                         },
                         {
-                           "url": "https://www.coursera.org/learn/deteccion-objetos",
-                           "title": "Detección de objetos"
-                        },
-                        {
                            "url": "https://andros.dev/cursos/766a97bf/css/1/introduccion/",
                            "title": "Diseño Web - Principios de CSS",
                            "author": "Andros Fenollosa"
@@ -55463,13 +55423,6 @@
                   {
                      "section": "Web & Webmaster",
                      "entries": [
-                        {
-                           "url": "https://mooc.tecnm.mx/courses/course-v1:TecNM+CCACM-003+2022-3/about",
-                           "title": "Como crear y administrar un curso en MOODLE - TecNMx",
-                           "notes": [
-                              "TecNMx"
-                           ]
-                        },
                         {
                            "url": "https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/",
                            "title": "Visual Studio Code: Mejora tu velocidad para codificar",
@@ -59630,7 +59583,7 @@
                            "author": "H.I Edukasi"
                         },
                         {
-                           "url": "https://kodedasar.com/belajar-cpp/",
+                           "url": "https://kodedasar.com/blog/belajar-cpp/",
                            "title": "Belajar Bahasa Pemrograman C++ Lengkap dari Awal untuk Pemula",
                            "author": "DAMASDEV"
                         },
@@ -60075,11 +60028,6 @@
                            "url": "https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE",
                            "title": "HTML5 Canvas",
                            "author": "Idr Corner"
-                        },
-                        {
-                           "url": "https://www.buildwithangga.com/kelas/html5-dasar",
-                           "title": "HTML5 Dasar",
-                           "author": "BuildWithAngga"
                         },
                         {
                            "url": "https://www.petanikode.com/html-dasar/",
@@ -60858,11 +60806,6 @@
                            "url": "https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H",
                            "title": "Belajar Pemrograman Python untuk Pemula",
                            "author": "Eko Kurniawan Khannedy, Programmer Zaman Now"
-                        },
-                        {
-                           "url": "https://sekolahkoding.com/track/belajar-python-bahasa-indonesia",
-                           "title": "Belajar python bahasa Indonesia",
-                           "author": "Sekolah Koding"
                         },
                         {
                            "url": "https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1",
