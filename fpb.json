@@ -6282,20 +6282,6 @@
                      "subsections": []
                   },
                   {
-                     "section": "Arduino",
-                     "entries": [
-                        {
-                           "url": "http://avr.tavir.hu",
-                           "title": "Arduino programozási kézikönyv",
-                           "author": "Brian W. Evans,",
-                           "notes": [
-                              "PDF - regisztráció szükséges"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
                      "section": "C",
                      "entries": [
                         {
@@ -6406,12 +6392,13 @@
                            ]
                         },
                         {
-                           "url": "http://www.sze.hu/~varjasin/oktat.html",
+                           "url": "https://web.archive.org/web/20200113211428/http://www.sze.hu/~varjasin/publikaciok/Programozas_III.pdf",
                            "title": "Programozás III.",
                            "author": "Varjasi Norbert",
                            "notes": [
                               "PDF"
-                           ]
+                           ],
+                           "accessNotes": " :card_file_box: archived"
                         },
                         {
                            "url": "http://mek.oszk.hu/01200/01263/index.phtml",
@@ -10805,6 +10792,15 @@
                            "url": "https://wikidocs.net/book/2155",
                            "title": "딥 러닝을 이용한 자연어 처리 입문",
                            "author": "유원준, 상준"
+                        },
+                        {
+                           "url": "https://sungeuns.github.io/foundation-model-engineering/ko/",
+                           "title": "파운데이션 모델 엔지니어링",
+                           "author": "Seongeun So",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :construction: in process"
                         },
                         {
                            "url": "https://wikidocs.net/book/2788",
@@ -20116,6 +20112,14 @@
                            ]
                         },
                         {
+                           "url": "https://www.pythonlikeyoumeanit.com",
+                           "title": "Python Like You Mean It",
+                           "author": "Ryan Soklaski",
+                           "notes": [
+                              "HTML"
+                           ]
+                        },
+                        {
                            "url": "https://www.packtpub.com/free-ebooks/python-machine-learning-example",
                            "title": "Python Machine Learning By Example",
                            "author": "Yuxi",
@@ -21674,6 +21678,14 @@
                            "title": "Why Rust?",
                            "notes": [
                               "HTML"
+                           ]
+                        },
+                        {
+                           "url": "https://dogukancengiz.com/assets/Zero-to-Beginner-Rust.pdf",
+                           "title": "Zero to Beginner Rust",
+                           "author": "Muhammed Doğukan Cengiz",
+                           "notes": [
+                              "PDF"
                            ]
                         }
                      ],
@@ -28621,6 +28633,15 @@
                            ]
                         },
                         {
+                           "url": "https://sungeuns.github.io/foundation-model-engineering/",
+                           "title": "Foundation Model Engineering",
+                           "author": "Seongeun So",
+                           "notes": [
+                              "HTML"
+                           ],
+                           "accessNotes": " :construction: in process"
+                        },
+                        {
                            "url": "https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton",
                            "title": "Generative AI in Higher Education: The ChatGPT Effect",
                            "author": "Cecilia Ka Yuk Chan, Tom Colloton",
@@ -29400,6 +29421,14 @@
                            "url": "http://www.computervisionmodels.com",
                            "title": "Computer Vision: Models, Learning, and Inference",
                            "author": "Simon J.D. Prince"
+                        },
+                        {
+                           "url": "https://visionbook.mit.edu",
+                           "title": "Foundations of Computer Vision",
+                           "author": "Antonio Torralba, Phillip Isola, William T. Freeman",
+                           "notes": [
+                              "HTML"
+                           ]
                         },
                         {
                            "url": "http://programmingcomputervision.com",
@@ -41714,19 +41743,6 @@
                         {
                            "url": "http://rwpod.com",
                            "title": "RWPod Podcast",
-                           "notes": [
-                              "Podcast"
-                           ]
-                        }
-                     ],
-                     "subsections": []
-                  },
-                  {
-                     "section": "Scala",
-                     "entries": [
-                        {
-                           "url": "https://scalalaz.ru",
-                           "title": "Русскоязычный подкаст о Scala",
                            "notes": [
                               "Podcast"
                            ]
@@ -67331,6 +67347,15 @@
                            ]
                         },
                         {
+                           "url": "https://stepik.org/course/307511",
+                           "title": "SQL с нуля: 40 задач на базе маркетплейса",
+                           "author": "Алексей Смоленков",
+                           "notes": [
+                              "Stepik",
+                              "BEG"
+                           ]
+                        },
+                        {
                            "url": "https://stepik.org/course/302924",
                            "title": "SQL с нуля для начинающих",
                            "author": "Илья Калакуцкий",
@@ -75547,6 +75572,10 @@
                         {
                            "url": "https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud",
                            "title": "Learn Git with Bitbucket Cloud"
+                        },
+                        {
+                           "url": "https://ohmygit.org",
+                           "title": "Oh My Git!"
                         },
                         {
                            "url": "http://try.github.io",
